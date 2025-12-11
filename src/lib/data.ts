@@ -6,7 +6,6 @@ const DATA_DIR = path.join(process.cwd(), 'src/data');
 
 // --- Helper Functions ---
 
-// Fisher-Yates Shuffle Algorithm (untuk mengacak soal)
 function shuffleArray<T>(array: T[]): T[] {
   const newArr = [...array];
   for (let i = newArr.length - 1; i > 0; i--) {
@@ -16,7 +15,32 @@ function shuffleArray<T>(array: T[]): T[] {
   return newArr;
 }
 
-// --- Main Data Functions ---
+// Helper Baru: Cuma baca file, tidak mengacak
+async function getRawQuestions(mkCode: string): Promise<Question[]> {
+  const mkPath = path.join(DATA_DIR, mkCode);
+  if (!fs.existsSync(mkPath)) return [];
+
+  const files = fs.readdirSync(mkPath);
+  let allQuestions: Question[] = [];
+
+  // Urutkan file agar soal "modul1" muncul sebelum "modul2"
+  files.sort(); 
+
+  for (const file of files) {
+    if (file === 'meta.json' || !file.endsWith('.json')) continue;
+    
+    const content = fs.readFileSync(path.join(mkPath, file), 'utf-8');
+    try {
+      const moduleData: ModuleData = JSON.parse(content);
+      allQuestions = [...allQuestions, ...moduleData.questions];
+    } catch (err) {
+      console.error(`Error parsing ${file}`, err);
+    }
+  }
+  return allQuestions;
+}
+
+// --- Main Exported Functions ---
 
 export async function getMKList(): Promise<MK[]> {
   const entries = fs.readdirSync(DATA_DIR, { withFileTypes: true });
@@ -40,32 +64,14 @@ export async function getMKByCode(code: string): Promise<MK | null> {
   return JSON.parse(fileContent);
 }
 
-// FUNGSI BARU: Ambil semua soal dari satu MK + Acak + Limit
+// Logic Lama: Acak + Limit
 export async function getRandomQuestions(mkCode: string, count: number): Promise<Question[]> {
-  const mkPath = path.join(DATA_DIR, mkCode);
-  
-  if (!fs.existsSync(mkPath)) return [];
-
-  const files = fs.readdirSync(mkPath);
-  let allQuestions: Question[] = [];
-
-  // 1. Baca semua file JSON modul (kecuali meta.json)
-  for (const file of files) {
-    if (file === 'meta.json' || !file.endsWith('.json')) continue;
-    
-    const content = fs.readFileSync(path.join(mkPath, file), 'utf-8');
-    try {
-      const moduleData: ModuleData = JSON.parse(content);
-      // Gabungkan soal ke array utama
-      allQuestions = [...allQuestions, ...moduleData.questions];
-    } catch (err) {
-      console.error(`Error parsing ${file}`, err);
-    }
-  }
-
-  // 2. Acak urutan soal
+  const allQuestions = await getRawQuestions(mkCode);
   const shuffled = shuffleArray(allQuestions);
-
-  // 3. Potong sesuai jumlah yang diminta (misal: ambil 20 pertama)
   return shuffled.slice(0, count);
+}
+
+// Logic Baru: Ambil SEMUA + TANPA ACAK
+export async function getAllQuestionsSequential(mkCode: string): Promise<Question[]> {
+  return await getRawQuestions(mkCode);
 }

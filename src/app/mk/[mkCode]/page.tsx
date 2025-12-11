@@ -2,7 +2,7 @@ import { getMKByCode } from '@/lib/data';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Button } from '@/components/UI/Button';
-import { PlayCircle } from 'lucide-react';
+import { PlayCircle, Layers } from 'lucide-react'; // Tambah icon Layers
 
 interface PageProps {
   params: Promise<{ mkCode: string }>;
@@ -35,12 +35,10 @@ export default async function CoursePage({ params }: PageProps) {
         <h2 className='text-xl font-semibold text-gray-900 mb-6'>
           Start Practice Exam
         </h2>
-        <p className='text-gray-500 mb-8'>
-          Select the number of questions you want to practice. Questions will be
-          randomized from all modules.
-        </p>
+        <p className='text-gray-500 mb-8'>Select exam mode.</p>
 
         <div className='grid gap-4'>
+          {/* Opsi Random */}
           {questionVariants.map((count) => (
             <Link
               key={count}
@@ -49,11 +47,36 @@ export default async function CoursePage({ params }: PageProps) {
               <Button
                 variant='outline'
                 className='w-full py-6 text-lg group hover:border-primary hover:bg-blue-50 transition-all flex items-center justify-between px-8'>
-                <span className='font-semibold'>{count} Questions</span>
+                <span className='font-semibold'>
+                  {count} Questions (Random)
+                </span>
                 <PlayCircle className='w-6 h-6 text-gray-400 group-hover:text-primary' />
               </Button>
             </Link>
           ))}
+
+          {/* Opsi Baru: ALL (Sequential) */}
+          <div className='relative py-2'>
+            <div
+              className='absolute inset-0 flex items-center'
+              aria-hidden='true'>
+              <div className='w-full border-t border-gray-200'></div>
+            </div>
+            <div className='relative flex justify-center'>
+              <span className='bg-white px-2 text-sm text-gray-500'>OR</span>
+            </div>
+          </div>
+
+          <Link
+            href={`/mk/${mkCode}/exam/all`}
+            className='w-full'>
+            <Button className='w-full py-6 text-lg bg-gray-900 text-white hover:bg-gray-800 transition-all flex items-center justify-between px-8 shadow-md'>
+              <span className='font-semibold'>
+                Work All Questions (Sequential)
+              </span>
+              <Layers className='w-6 h-6 text-gray-300' />
+            </Button>
+          </Link>
         </div>
       </div>
     </main>

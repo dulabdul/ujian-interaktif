@@ -1,4 +1,8 @@
-import { getRandomQuestions, getMKByCode } from '@/lib/data';
+import {
+  getRandomQuestions,
+  getAllQuestionsSequential,
+  getMKByCode,
+} from '@/lib/data';
 import { notFound } from 'next/navigation';
 import ExamClient from './ExamClient';
 
@@ -8,13 +12,24 @@ interface PageProps {
 
 export default async function ExamPage({ params }: PageProps) {
   const { mkCode, count } = await params;
-  const questionCount = parseInt(count, 10);
 
-  // Ambil soal acak sesuai jumlah
-  const questions = await getRandomQuestions(mkCode, questionCount);
+  let questions = [];
+
+  // LOGIKA BARU DI SINI
+  if (count === 'all') {
+    // Mode Sequential (Semua Soal)
+    questions = await getAllQuestionsSequential(mkCode);
+  } else {
+    // Mode Random (Sesuai Jumlah)
+    const questionCount = parseInt(count, 10);
+    questions = await getRandomQuestions(mkCode, questionCount);
+  }
+
   const mk = await getMKByCode(mkCode);
 
-  if (!questions.length || !mk) return notFound();
+  if (!questions.length || !mk) {
+    return notFound();
+  }
 
   return (
     <main className='min-h-screen bg-gray-50 py-8'>
@@ -22,7 +37,8 @@ export default async function ExamPage({ params }: PageProps) {
         <ExamClient
           questions={questions}
           mkCode={mkCode}
-          mkTitle={mk.title}
+          // Ubah judul sedikit agar user tahu sedang mode apa
+          mkTitle={count === 'all' ? `${mk.title} (All Questions)` : mk.title}
         />
       </div>
     </main>
