@@ -9,7 +9,7 @@ export default async function HomePage() {
     <main className='container mx-auto px-4 py-8 max-w-4xl'>
       <header className='mb-12 text-center'>
         <h1 className='text-4xl font-bold text-gray-900 mb-4'>
-          University Practice Exams
+          Universitas Terbuka - UAS KOCAK
         </h1>
         <p className='text-lg text-gray-600'>
           Select a course (Mata Kuliah) to begin practicing.
