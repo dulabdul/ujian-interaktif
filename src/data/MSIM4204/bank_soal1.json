@@ -291,7 +291,7 @@
     {
       "id": "q28",
       "question": "Perhatikan gambar berikut! Gambar tersebut merupakan konektor...",
-      "image": "/images/soal/28.png",
+      "image": "/images/soal/28.PNG",
       "options": ["LC Duplex", "SC Duplex", "FDDI", "ST"],
       "correctIndex": 0,
       "explanation": "Konektor LC (Lucent Connector) Duplex dicirikan dengan bentuk kotak kecil dan mekanisme pengunci (latch) seperti RJ45.",
@@ -460,7 +460,7 @@
     {
       "id": "q44",
       "question": "Perhatikan gambar berikut! Gambar tersebut merupakan konektor...",
-      "image": "/images/soal/44.png",
+      "image": "/images/soal/44.PNG",
       "options": ["SC Duplex", "FC", "ST", "LC Duplex"],
       "correctIndex": 2,
       "explanation": "Konektor ST (Straight Tip) memiliki ciri fisik berbentuk bulat dengan mekanisme kunci bayonet.",
@@ -482,7 +482,7 @@
     {
       "id": "q46",
       "question": "Perhatikan gambar berikut! Jenis pemasangan kabel UTP yang diperlukan pada jalur D adalah...",
-      "image": "/images/soal/46.png",
+      "image": "/images/soal/46.PNG",
       "options": [
         "Straigth Through",
         "Cross over",
@@ -817,7 +817,7 @@
     {
       "id": "q79",
       "question": "Perhatikan gambar berikut! Gambar tersebut merupakan konektor..",
-      "image": "/images/soal/79.png",
+      "image": "/images/soal/79.PNG",
       "options": ["LC Duplex", "SC Duplex", "FC", "ST"],
       "correctIndex": 1,
       "explanation": "Konektor SC (Subscriber Connector) Duplex berbentuk persegi dan menggunakan mekanisme push-pull.",
@@ -839,7 +839,7 @@
     {
       "id": "q81",
       "question": "Perhatikan gambar berikut! Jenis pemasangan kabel UTP yang diperlukan pada jalur C (Router ke Switch) adalah...",
-      "image": "/images/soal/81.png",
+      "image": "/images/soal/81.PNG",
       "options": [
         "Straigth Through",
         "Cross over",
@@ -1321,7 +1321,7 @@
     {
       "id": "q128",
       "question": "Perhatikan gambar berikut! Jenis pemasangan kabel UTP yang diperlukan pada jalur C (Router ke Switch) adalah..",
-      "image": "/images/soal/128.png",
+      "image": "/images/soal/128.PNG",
       "options": [
         "straigth through",
         "cross over",
@@ -1422,7 +1422,7 @@
     {
       "id": "q138",
       "question": "Perhatikan gambar berikut! Gambar tersebut merupakan konektor",
-      "image": "/images/soal/138.png",
+      "image": "/images/soal/138.PNG",
       "options": ["LC Duplex", "SC Duplex", "FC", "ST"],
       "correctIndex": 1,
       "explanation": "Gambar menunjukkan konektor SC (Subscriber Connector) Duplex yang berbentuk kotak persegi.",
@@ -1678,7 +1678,7 @@
     {
       "id": "q163",
       "question": "Perhatikan gambar berikut! Jenis pemasangan kabel UTP yang diperlukan pada jalur D (Switch ke Switch) adalah",
-      "image": "/images/soal/163.png",
+      "image": "/images/soal/163.PNG",
       "options": [
         "Straigth Through",
         "Cross over",
@@ -1784,7 +1784,7 @@
     {
       "id": "q173",
       "question": "Perhatikan gambar berikut! Gambar tersebut merupakan konektor",
-      "image": "/images/soal/173.png",
+      "image": "/images/soal/173.PNG",
       "options": ["SC Duplex", "FC", "ST", "LC Duplex"],
       "correctIndex": 3,
       "explanation": "Gambar menunjukkan konektor LC (Lucent Connector) Duplex yang berbentuk kotak kecil dengan klip pengunci.",
