@@ -1,0 +1,2886 @@
+{
+  "id": "bank_soal_full",
+  "title": "Bank Soal Lengkap MSIM4401",
+  "questions": [
+    {
+      "id": 151,
+      "question": "Menurut Richard Cantillon pada tahun 1755, karakteristik utama seorang wirausahawan yang membedakannya dari orang lain dalam konteks ekonomi adalah...",
+      "options": [
+        "Kemampuan untuk memiliki modal besar",
+        "Keberanian membeli pada harga tetap dan menjual pada harga tidak pasti",
+        "Keahlian dalam memproduksi barang mewah untuk kaum bangsawan",
+        "Kemampuan untuk menghindari segala bentuk risiko finansial"
+      ],
+      "correctIndex": 1,
+      "explanation": "Richard Cantillon (Abad 17/18) mendefinisikan wirausaha sebagai pengambil risiko (risk taker) yang membeli pada harga pasti namun menjual dengan harga yang belum pasti[cite: 1291, 1296].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 152,
+      "question": "Pada abad pertengahan, istilah wirausaha sering dilekatkan pada aktor yang mengatur proyek besar namun tidak menanggung risiko karena...",
+      "options": [
+        "Mereka menggunakan modal sendiri sepenuhnya",
+        "Mereka menggunakan sumber daya yang diberikan oleh pemerintah/kerajaan",
+        "Mereka hanya berdagang dengan pedagang lokal",
+        "Konsep risiko belum dikenal pada masa itu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pada abad pertengahan, wirausaha (seperti arsitek proyek besar) menggunakan sumber daya yang diberikan pemerintah, sehingga tidak berhadapan langsung dengan risiko[cite: 1287, 1288].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 153,
+      "question": "Berdasarkan Indonesia Banking Survey 2017, faktor dominan yang mendorong transformasi industri perbankan di Indonesia dalam 3-5 tahun ke depan adalah...",
+      "options": [
+        "Regulasi pemerintah (Regulation)",
+        "Persaingan antar bank (Competition)",
+        "Teknologi (Technology)",
+        "Manajemen Risiko (Risk Management)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Transformasi bank didominasi oleh teknologi sebesar 52%, jauh lebih tinggi dibandingkan faktor regulasi atau persaingan[cite: 1318, 1320].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 154,
+      "question": "Salah satu tren yang mendorong pertumbuhan e-commerce di Indonesia menurut McKinsey (2018) adalah...",
+      "options": [
+        "Penurunan jumlah pengguna smartphone",
+        "Meningkatnya partisipasi UKM pada bisnis online",
+        "Kebijakan pemerintah yang membatasi investasi asing",
+        "Menurunnya minat konsumen muda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ada 5 tren pendorong, salah satunya adalah meningkatnya partisipasi UKM pada bisnis online dan kebijakan pemerintah yang berpihak pada pelaku usaha digital[cite: 1344].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 155,
+      "question": "Dalam konteks peran teknologi informasi menurut G.R. Terry, fungsi yang memungkinkan struktur organisasi menjadi lebih ramping karena diambil alih oleh sistem adalah...",
+      "options": [
+        "Fungsi Monitoring",
+        "Fungsi Perencanaan",
+        "Fungsi Operasional",
+        "Fungsi Komunikasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fungsi operasional membuat struktur organisasi lebih ramping karena aktivitas operasional telah diambil alih fungsinya oleh teknologi informasi[cite: 1412].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 156,
+      "question": "Teknologi informasi berperan sebagai 'Knowledge Generator' bagi pimpinan perusahaan. Hal ini berkaitan erat dengan fungsi...",
+      "options": [
+        "Fungsi Interorganisasional",
+        "Fungsi Perencanaan dan Pengambilan Keputusan",
+        "Fungsi Operasional",
+        "Fungsi Komunikasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fungsi perencanaan dan pengambilan keputusan mengangkat TI ke tataran strategis sebagai knowledge generator bagi pimpinan[cite: 1416].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 157,
+      "question": "Sebuah perusahaan taksi konvensional memutuskan untuk bekerja sama dengan penyedia aplikasi ride-hailing daripada melawannya. Strategi transformasi bisnis ini disebut...",
+      "options": ["Adaptasi", "Kompetisi", "Kolaborasi", "Disrupsi"],
+      "correctIndex": 2,
+      "explanation": "Kolaborasi adalah kunci sukses transformasi di mana pelaku usaha memilih bekerja sama daripada melawan, seperti contoh Blue Bird dan Go-Jek[cite: 1773, 1775].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 158,
+      "question": "Berikut ini adalah karakteristik wirausaha pada abad ke-20, KECUALI...",
+      "options": [
+        "Inovator",
+        "Pemilik modal pasif",
+        "Pemanfaat teknologi digital",
+        "Pelaku disruptive innovation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pada abad 20, wirausaha lekat dengan inovasi dan teknologi. Pemilik modal pasif lebih mencirikan periode awal sejarah (era Marcopolo)[cite: 1283, 1306].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 159,
+      "question": "Manfaat 'Social Equality' dari pertumbuhan e-commerce di Indonesia menurut riset McKinsey (2018) merujuk pada...",
+      "options": [
+        "Kesempatan kerja bagi 26 juta orang",
+        "Penghematan belanja bagi konsumen luar Jawa",
+        "Pemberian kesempatan kepada wanita untuk berbisnis (35% penghasilan)",
+        "Pemerataan infrastruktur internet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Social equality dalam konteks ini adalah memberikan kesempatan kepada wanita untuk berbisnis dan mendapatkan penghasilan[cite: 1348].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 160,
+      "question": "Dalam menghadapi era disrupsi, Rhenald Kasali menyarankan wirausaha untuk melakukan lebih dari sekadar 'sustaining innovation'. Apa yang dimaksud dengan 'disruptive innovation'?",
+      "options": [
+        "Inovasi yang hanya bertujuan mempertahankan pasar yang ada",
+        "Inovasi yang menciptakan pasar baru dan mengganggu pasar yang sudah ada",
+        "Inovasi yang berfokus pada efisiensi biaya produksi semata",
+        "Inovasi yang dilakukan secara bertahap dan linear"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disruptive innovation adalah inovasi yang mendisrupsi cara berbisnis konvensional, berbeda dengan sustaining innovation yang hanya bertahan[cite: 1464, 1465].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 161,
+      "question": "Fungsi teknologi informasi yang memicu perusahaan untuk melakukan outsourcing atau menjalin kemitraan strategis (seperti Supply Chain Management) disebut fungsi...",
+      "options": [
+        "Interorganisasional",
+        "Monitoring",
+        "Perencanaan",
+        "Komunikasi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fungsi interorganisasional dipicu oleh globalisasi yang memaksa perusahaan berkolaborasi atau bermitra dengan perusahaan lain[cite: 1421].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 162,
+      "question": "Strategi 'Customer Engagement' di era digital dapat dilakukan secara efektif dengan cara...",
+      "options": [
+        "Memasang iklan baliho di jalan protokol",
+        "Menggunakan chatbot pada situs e-commerce untuk respons cepat",
+        "Menurunkan harga produk serendah mungkin",
+        "Membuka cabang fisik di setiap kota"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pelaku usaha bisa memasang aplikasi chat seperti chatbot untuk memudahkan jangkauan dan memberikan layanan cepat guna meningkatkan engagement[cite: 1730, 1731].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 163,
+      "question": "Menurut Charles Darwin yang dikutip dalam modul, kunci untuk bertahan menghadapi perubahan bukanlah menjadi yang terkuat, melainkan...",
+      "options": [
+        "Yang paling cerdas",
+        "Yang paling besar modalnya",
+        "Yang paling adaptif",
+        "Yang paling agresif"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bukan yang terkuat atau terpandai, melainkan yang paling adaptif menghadapi perubahan yang akan bertahan[cite: 1769].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 164,
+      "question": "Salah satu bentuk tantangan pengembangan teknologi di Indonesia menurut BPPT adalah...",
+      "options": [
+        "Kurangnya minat masyarakat pada teknologi",
+        "Penugasan pemerintah yang belum tegas dan visi teknologi yang belum jelas",
+        "Terlalu banyaknya jumlah peneliti",
+        "Harga teknologi yang terlalu murah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tantangan BPPT adalah penugasan pemerintah yang belum tegas dan perlunya visi yang jelas agar teknologi tidak hanya jadi pelengkap[cite: 1644, 1646].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 165,
+      "question": "Platform e-commerce seperti Tokopedia dan Bukalapak menggunakan model bisnis...",
+      "options": [
+        "Retailer murni",
+        "Marketplace",
+        "Dropshipper",
+        "Subscription"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tokopedia dan Bukalapak mengusung model bisnis marketplace yang menghubungkan penjual dan pembeli[cite: 1389, 1405].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 166,
+      "question": "Seorang wirausaha menggunakan media sosial untuk melihat tren belanja dan barang populer. Hal ini merupakan penerapan strategi...",
+      "options": [
+        "Mematangkan strategi digital",
+        "Membekali SDM dengan pengetahuan digital",
+        "Memahami perilaku konsumen lewat forum/media sosial",
+        "Mengambil risiko finansial"
+      ],
+      "correctIndex": 2,
+      "explanation": "Melalui media sosial, wirausaha bisa memantau kebutuhan pasar dan kecenderungan belanja konsumen[cite: 1734, 1735].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 167,
+      "question": "E-commerce pertama kali diperkenalkan pada tahun 1994, ditandai dengan...",
+      "options": [
+        "Peluncuran Facebook",
+        "Penggunaan banner elektronik untuk promosi di website",
+        "Pendirian Alibaba",
+        "Munculnya smartphone pertama"
+      ],
+      "correctIndex": 1,
+      "explanation": "E-bisnis diperkenalkan tahun 1994 saat banner elektronik pertama kali dipakai untuk promosi di halaman web[cite: 1385].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 168,
+      "question": "Perbedaan utama peran wirausaha pada Abad 18 dibandingkan periode sebelumnya adalah...",
+      "options": [
+        "Wirausaha dilekatkan pada pemilik modal",
+        "Pemisahan antara pemilik modal dan wirausaha (penemu)",
+        "Wirausaha tidak menanggung risiko",
+        "Wirausaha hanya bekerja untuk raja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pada Abad 18, wirausaha dibedakan dengan pemilik modal; wirausaha adalah penemu yang membutuhkan modal[cite: 1300, 1301].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 169,
+      "question": "Fungsi teknologi informasi yang menempatkan unit TI sebagai 'supporting agency' dan infrastruktur perusahaan adalah...",
+      "options": [
+        "Fungsi Operasional",
+        "Fungsi Monitoring",
+        "Fungsi Perencanaan",
+        "Fungsi Komunikasi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pada fungsi operasional, unit TI bertindak sebagai supporting agency dan infrastruktur[cite: 1413].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 170,
+      "question": "Salah satu dampak positif e-commerce bagi pembeli di luar Pulau Jawa menurut data McKinsey adalah...",
+      "options": [
+        "Mendapatkan barang eksklusif",
+        "Menghemat biaya 11-25% saat berbelanja",
+        "Waktu pengiriman lebih cepat",
+        "Bebas pajak pertambahan nilai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konsumen di luar Jawa dapat menghemat 11-25% dengan belanja online (Buyer Benefit)[cite: 1347].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 171,
+      "question": "Langkah pemerintah Indonesia dalam menghadapi Revolusi Industri 4.0 melalui kebijakan fiskal antara lain adalah...",
+      "options": [
+        "Meniadakan pajak untuk semua UKM",
+        "Memberikan 'super deduction tax' bagi perusahaan yang melakukan pelatihan SDM",
+        "Mewajibkan ekspor bahan mentah",
+        "Menutup investasi asing di sektor digital"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pemerintah memberikan insentif seperti double deduction (pengurangan pajak ganda) bagi perusahaan yang melatih SDM[cite: 1876].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 172,
+      "question": "Siapa tokoh yang mendirikan Book Stacks Unlimited pada tahun 1992, salah satu toko buku daring pertama?",
+      "options": ["Jeff Bezos", "Charles Stack", "Jack Ma", "Pierre Omidyar"],
+      "correctIndex": 1,
+      "explanation": "Charles Stack membuat toko buku daring pertamanya bernama Book Stacks Unlimited pada tahun 1992[cite: 1311].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 173,
+      "question": "Netscape memperkenalkan SSL encryption pada tahun 1994. Apa tujuan utamanya dalam konteks bisnis online?",
+      "options": [
+        "Mempercepat koneksi internet",
+        "Membuat tampilan web lebih menarik",
+        "Menjamin keamanan transaksi data daring",
+        "Menurunkan biaya hosting"
+      ],
+      "correctIndex": 2,
+      "explanation": "SSL encryption diperkenalkan untuk keamanan transaksi daring agar bebas dari pembobolan[cite: 1311].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 174,
+      "question": "Contoh wirausaha sosial (Social Entrepreneur) yang disebutkan dalam modul sebagai bentuk pemecahan masalah di masyarakat adalah...",
+      "options": [
+        "Nadiem Makarim",
+        "Achmad Zaky",
+        "Muhammad Yusuf (Grameen Bank)",
+        "William Tanuwijaya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Muhammad Yusuf dengan Grameen Bank adalah contoh wirausaha sosial yang sukses secara global[cite: 2184]. *Note: Validated from M3 content referenced in M1 context for conceptual understanding, or strictly M2 content.*",
+      "difficulty": "medium"
+    },
+    {
+      "id": 175,
+      "question": "Apa yang dimaksud dengan 'Risk Management' dalam transformasi perbankan yang hanya memiliki persentase 6% menurut survei?",
+      "options": [
+        "Risiko operasional harian",
+        "Fokus transformasi bank dari sisi pengelolaan risiko",
+        "Risiko kredit macet",
+        "Risiko keamanan siber"
+      ],
+      "correctIndex": 1,
+      "explanation": "Angka 6% merujuk pada porsi transformasi yang didorong oleh aspek manajemen risiko, yang relatif rendah dibanding teknologi[cite: 1318, 1319].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 176,
+      "question": "Menurut Hisrich, Peters, dan Shepherd (2008), wirausaha adalah seseorang yang menciptakan sesuatu yang baru dengan mengorbankan...",
+      "options": [
+        "Hanya modal finansial",
+        "Waktu dan tenaga",
+        "Hubungan keluarga",
+        "Kesehatan fisik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Definisi Hisrich menekankan pengorbanan waktu dan tenaga, serta pengambilan risiko finansial, fisik, dan sosial[cite: 37, 74].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 177,
+      "question": "Wirausaha yang melakukan proses 'creative destruction' untuk menghasilkan nilai tambah adalah konsep inti dari...",
+      "options": [
+        "Manajemen risiko",
+        "Kreativitas wirausaha",
+        "Stabilitas ekonomi",
+        "Efisiensi birokrasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wirausaha melakukan creative destruction (perusakan yang kreatif) untuk menghasilkan nilai tambah, yang merupakan inti keterampilan wirausaha[cite: 76].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 178,
+      "question": "Pak Budi memiliki usaha tambak ikan lele di lahan miliknya. Berdasarkan jenis lapangan usahanya, Pak Budi termasuk wirausaha...",
+      "options": ["Ekstraktif", "Agraris", "Industri", "Perdagangan"],
+      "correctIndex": 1,
+      "explanation": "Badan usaha agraris memanfaatkan bantuan alam/tanah, termasuk perikanan darat (tambak/kolam), berbeda dengan ekstraktif yang mengambil langsung dari alam[cite: 197, 199].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 179,
+      "question": "Perbedaan utama antara badan usaha ekstraktif dan agraris adalah...",
+      "options": [
+        "Ekstraktif mengolah tanah, agraris mengambil langsung dari alam",
+        "Ekstraktif mengambil langsung dari alam, agraris mengelola/membudidayakan",
+        "Ekstraktif tidak butuh modal, agraris butuh modal",
+        "Ekstraktif bergerak di jasa, agraris di barang"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ekstraktif mengambil langsung (misal: pertambangan, ikan laut), sedangkan agraris mengelola/membudidayakan (pertanian, tambak)[cite: 202, 209].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 180,
+      "question": "Dalam badan usaha berbentuk Firma, tanggung jawab para sekutu adalah...",
+      "options": [
+        "Terbatas pada modal yang disetor",
+        "Tidak terbatas (tanggung renteng)",
+        "Hanya sekutu aktif yang bertanggung jawab",
+        "Hanya sekutu pasif yang bertanggung jawab"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dalam Firma, tiap anggota (sekutu) bertanggung jawab penuh dan tidak terbatas atas risiko perusahaan[cite: 291, 317].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 181,
+      "question": "Kelebihan utama dari Persekutuan Komanditer (CV) dibandingkan Firma adalah adanya...",
+      "options": [
+        "Pemisahan antara sekutu aktif dan sekutu pasif",
+        "Tanggung jawab tidak terbatas bagi semua anggota",
+        "Proses pendirian yang tidak butuh akta notaris",
+        "Bebas pajak sepenuhnya"
+      ],
+      "correctIndex": 0,
+      "explanation": "CV memiliki sekutu komanditer (pasif) yang hanya bertanggung jawab sebesar modal, dan sekutu aktif yang menjalankan usaha[cite: 326, 333].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 182,
+      "question": "Salah satu kekurangan dari badan usaha berbentuk Perseroan Terbatas (PT) adalah...",
+      "options": [
+        "Tanggung jawab pemegang saham tidak terbatas",
+        "Sulit mencari karyawan",
+        "Adanya pajak berganda (Pajak Penghasilan dan Pajak Dividen)",
+        "Sulit dalam peralihan kepemimpinan"
+      ],
+      "correctIndex": 2,
+      "explanation": "PT memiliki kelemahan berupa pajak berganda, yaitu Pajak Penghasilan perusahaan dan Pajak Dividen yang diterima pemegang saham[cite: 389].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 183,
+      "question": "Wirausaha sosial (Social Entrepreneur) berbeda dengan wirausaha bisnis biasa karena...",
+      "options": [
+        "Tidak mencari keuntungan sama sekali",
+        "Fokus utamanya adalah pemecahan masalah sosial, bukan sekadar profit",
+        "Hanya dikelola oleh pemerintah",
+        "Tidak boleh menggunakan teknologi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wirausaha sosial menggunakan keahlian usahanya untuk solusi masalah sosial dan memberdayakan masyarakat, bukan semata keuntungan materi[cite: 531, 543].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 184,
+      "question": "Contoh wirausaha 'Mompreneur' atau wirausaha rumah tangga yang sukses memulai bisnis dari dapur adalah...",
+      "options": [
+        "Nadiem Makarim (Gojek)",
+        "Nanik Soelistiowati (Pisang Goreng Bu Nanik)",
+        "William Tanuwijaya (Tokopedia)",
+        "Achmad Zaky (Bukalapak)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nanik Soelistiowati memulai usaha Pisang Goreng Madu Bu Nanik dari usaha katering rumah tangga dan sisa pisang yang tidak bagus[cite: 444, 445].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 185,
+      "question": "Menurut Ralph Jabbour, salah satu karakteristik kunci wirausaha adalah 'Visioner', yang berarti...",
+      "options": [
+        "Mampu melihat ke masa depan dan menciptakan kerangka kerja untuk mencapainya",
+        "Selalu berkhayal tentang kekayaan",
+        "Hanya fokus pada keuntungan jangka pendek",
+        "Meniru kesuksesan orang lain tanpa inovasi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Visioner artinya memiliki visi jauh ke depan, mampu menciptakan misi, dan menginspirasi orang lain[cite: 775, 776].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 186,
+      "question": "Dalam konteks karakteristik wirausaha, kemampuan 'menghilangkan ego' penting karena...",
+      "options": [
+        "Ego membuat wirausaha terlalu hemat",
+        "Ego yang tinggi membuat wirausaha sulit menerima pandangan orang lain dan menilai karyawan secara objektif",
+        "Ego dibutuhkan untuk menekan pesaing",
+        "Ego mempercepat pengambilan keputusan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wirausaha egois tidak bisa menghargai pandangan orang lain dan menilai karyawan berdasarkan suka/tidak suka, bukan kontribusi[cite: 836, 840].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 187,
+      "question": "Kisah sukses Kiki Gumelar dengan 'Chocodot' menunjukkan karakteristik 'Kreatif' melalui...",
+      "options": [
+        "Menjual cokelat impor dengan harga mahal",
+        "Menggabungkan dodol Garut dengan cokelat untuk menciptakan produk unik",
+        "Membuka pabrik dodol biasa",
+        "Menghindari persaingan dengan pengusaha dodol lain"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kreativitas Kiki terlihat dari inovasi produk 'out of the box', yaitu mengawinkan cita rasa dodol dengan cokelat (Chocodot)[cite: 974, 1025].",
+      "difficulty": "application"
+    },
+    {
+      "id": 188,
+      "question": "Badan usaha yang kegiatannya membeli barang untuk dijual kembali tanpa mengubah sifat barang disebut...",
+      "options": [
+        "Badan usaha industri",
+        "Badan usaha agraris",
+        "Badan usaha perniagaan",
+        "Badan usaha jasa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Badan usaha perniagaan bergerak dalam membeli dan menjual kembali barang tanpa mengubah sifatnya (contoh: toko, supermarket)[cite: 188].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 189,
+      "question": "Seorang karyawan yang terkena PHK kemudian menggunakan pesangonnya untuk membuka usaha jual beli gitar online. Ini termasuk kategori wirausaha...",
+      "options": [
+        "Wirausaha wanita",
+        "Wirausaha sosial",
+        "Wirausaha korban PHK/mengundurkan diri",
+        "Wirausaha agraris"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kategori khusus wirausaha korban PHK adalah mereka yang membangun usaha karena desakan ekonomi pasca pemutusan hubungan kerja[cite: 504, 506].",
+      "difficulty": "application"
+    },
+    {
+      "id": 190,
+      "question": "Salah satu kelebihan badan usaha perseorangan adalah...",
+      "options": [
+        "Tanggung jawab terbatas",
+        "Kemudahan mendapatkan modal besar",
+        "Rahasia perusahaan terjamin",
+        "Kelangsungan usaha pasti terjamin selamanya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jaminan rahasia perusahaan terjamin karena aktivitas dilakukan internal dan pemilik memegang kendali penuh[cite: 255].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 191,
+      "question": "Pada badan usaha CV, sekutu yang hanya menanamkan modal dan tidak ikut campur dalam operasional disebut...",
+      "options": [
+        "Sekutu aktif",
+        "Sekutu komplementer",
+        "Sekutu komanditer (pasif)",
+        "Direktur utama"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sekutu pasif/komanditer adalah anggota yang hanya menanamkan modal dan tidak ikut campur operasional[cite: 333].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 192,
+      "question": "Wirausaha yang memiliki 'Pandangan Strategik' mampu...",
+      "options": [
+        "Bekerja keras tanpa istirahat",
+        "Merasakan ke mana arah tren bisnis dan mengambil langkah antisipatif",
+        "Menghindari semua jenis risiko",
+        "Membuat laporan keuangan yang rapi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pandangan strategik adalah kemampuan memprediksi perubahan masa depan (arah angin) dan mengemudikan bisnis ke arah tersebut[cite: 824, 828].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 193,
+      "question": "Waste4Change adalah contoh wirausaha sosial yang bergerak di sektor...",
+      "options": [
+        "Pendidikan",
+        "Energi dan Lingkungan",
+        "Pertanian",
+        "Kesehatan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Waste4Change menyediakan layanan pengelolaan limbah, masuk dalam sektor Energi dan Lingkungan[cite: 565, 567].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 194,
+      "question": "Kelemahan utama dari usaha keluarga (Family Business) yang sering menyebabkan kegagalan adalah...",
+      "options": [
+        "Modal yang terlalu besar",
+        "Masalah suksesi kepemimpinan",
+        "Terlalu banyak inovasi",
+        "Kurangnya kepercayaan antar anggota"
+      ],
+      "correctIndex": 1,
+      "explanation": "Salah satu permasalahan fatal usaha keluarga adalah ketidaksiapan menghadapi suksesi kepemimpinan[cite: 500].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 195,
+      "question": "Apa yang dimaksud dengan 'Etika' sebagai karakteristik wirausaha?",
+      "options": [
+        "Kepatuhan pada jam kerja",
+        "Kejujuran dan integritas dalam berhubungan dengan rekan, konsumen, dan karyawan",
+        "Kemampuan berbicara sopan",
+        "Mengikuti aturan berpakaian"
+      ],
+      "correctIndex": 1,
+      "explanation": "Etika mencakup kejujuran yang menjadi benih kepercayaan bagi rekan, konsumen, dan karyawan[cite: 853, 856].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 196,
+      "question": "Jika seorang wirausaha memiliki 'Inteligensi Kinestetik-Badani', bidang usaha yang cocok adalah...",
+      "options": [
+        "Jasa akuntansi",
+        "Kursus menari atau pelatihan atlet",
+        "Penulisan novel",
+        "Konsultan keuangan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inteligensi kinestetik-badani berkaitan dengan gerak tubuh, cocok untuk penari atau atlet[cite: 2204, 2205].",
+      "difficulty": "application"
+    },
+    {
+      "id": 197,
+      "question": "Salah satu cara menemukan potensi diri adalah dengan melihat 'Kepuasan' (Satisfaction). Indikatornya adalah...",
+      "options": [
+        "Seberapa cepat pekerjaan selesai",
+        "Seberapa besar gaji yang diterima",
+        "Kondisi terhanyut (flow) dan tidak ingin berhenti saat mengerjakan sesuatu",
+        "Pujian dari atasan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kepuasan ditandai dengan perasaan hanyut dan enggan berhenti saat mengerjakan sesuatu[cite: 2281, 2285].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 198,
+      "question": "Wirausaha yang memiliki inteligensi interpersonal tinggi sangat cocok menjadi...",
+      "options": [
+        "Programmer",
+        "Penulis buku harian",
+        "Motivator atau pemimpin tim",
+        "Ahli botani"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inteligensi interpersonal adalah kepekaan terhadap perasaan orang lain, cocok untuk motivator dan fasilitator[cite: 2208].",
+      "difficulty": "application"
+    },
+    {
+      "id": 199,
+      "question": "Pengusaha yang memiliki 'Inteligensi Ruang' (Spatial) biasanya unggul dalam bidang...",
+      "options": [
+        "Musik dan lagu",
+        "Logika matematika",
+        "Arsitektur dan desain",
+        "Pidato dan negosiasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inteligensi ruang berkenaan dengan kepekaan bentuk dan visual, dimiliki oleh arsitek dan dekorator[cite: 2202, 2203].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 200,
+      "question": "Menurut Suryana (2011), 'Disiplin Diri' bagi wirausaha didefinisikan sebagai...",
+      "options": [
+        "Kepatuhan pada perintah atasan",
+        "Ketepatan komitmen terhadap tugas, waktu, dan kualitas pekerjaan",
+        "Kemampuan bangun pagi setiap hari",
+        "Sikap keras terhadap karyawan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disiplin diri adalah ketepatan komitmen menyeluruh terhadap tugas, waktu, dan kualitas[cite: 2227, 2228].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 201,
+      "question": "Dalam teori Flow yang dikemukakan Csikszentmihalyi, kondisi 'flow' terjadi ketika...",
+      "options": [
+        "Tantangan rendah dan kemampuan tinggi (bosan)",
+        "Tantangan tinggi dan kemampuan rendah (cemas)",
+        "Ada keseimbangan antara tantangan yang optimal dan keterampilan yang memadai",
+        "Seseorang sedang bersantai tanpa aktivitas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Flow dipengaruhi oleh keseimbangan antara kapasitas (keterampilan) dan peluang (tantangan)[cite: 2320, 2334].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 202,
+      "question": "Salah satu faktor karakteristik pengalaman 'Flow' adalah 'Distorsi Pengalaman Temporal', yang artinya...",
+      "options": [
+        "Merasa waktu berjalan sangat lambat",
+        "Merasa waktu berlalu lebih cepat dari biasanya",
+        "Lupa hari apa sekarang",
+        "Bisa meramal masa depan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Distorsi pengalaman temporal adalah rasa bahwa waktu berlalu lebih cepat dibandingkan normalnya saat beraktivitas[cite: 2318].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 203,
+      "question": "Prinsip Efektuasi (Effectuation) 'Bird in Hand' menekankan wirausaha untuk memulai bisnis berdasarkan...",
+      "options": [
+        "Prediksi pasar masa depan",
+        "Modal pinjaman bank sebesar-besarnya",
+        "Siapa diri Anda, apa yang Anda bisa, dan siapa yang Anda kenal",
+        "Analisis kompetitor yang mendalam"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bird in Hand berarti memulai dari apa yang dimiliki: siapa diri Anda, kemampuan Anda, dan jaringan Anda[cite: 2579].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 204,
+      "question": "Seorang wirausaha menetapkan bahwa ia hanya bersedia kehilangan modal maksimal Rp 5 juta untuk percobaan bisnis barunya. Ini adalah penerapan prinsip...",
+      "options": [
+        "Lemonade",
+        "Affordable Loss",
+        "Crazy Quilt",
+        "Pilot in the Plane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Affordable loss adalah menentukan seberapa besar kerugian yang siap ditanggung (toleransi kerugian)[cite: 2644, 2654].",
+      "difficulty": "application"
+    },
+    {
+      "id": 205,
+      "question": "Prinsip 'Lemonade' dalam efektuasi mengajarkan wirausaha untuk...",
+      "options": [
+        "Menjual minuman lemon saat panas",
+        "Mengubah situasi buruk/masalah menjadi peluang yang bermanfaat",
+        "Menghindari masalah sebisa mungkin",
+        "Mencari kesalahan orang lain"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prinsip Lemonade (if life gives you lemons, make lemonade) adalah mengubah hal tidak menyenangkan menjadi peluang[cite: 2671, 2673].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 206,
+      "question": "Membangun jejaring dan kemitraan strategis dengan berbagai pihak (stakeholder) untuk menciptakan usaha baru mencerminkan prinsip efektuasi...",
+      "options": [
+        "Bird in Hand",
+        "Affordable Loss",
+        "Crazy Quilt",
+        "Pilot in the Plane"
+      ],
+      "correctIndex": 2,
+      "explanation": "Crazy Quilt adalah kemampuan menjahit potongan perca (jejaring/pihak lain) menjadi satu kesatuan usaha bermanfaat[cite: 2733].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 207,
+      "question": "Prinsip 'Pilot in the Plane' menekankan bahwa masa depan...",
+      "options": [
+        "Sudah ditakdirkan dan tidak bisa diubah",
+        "Bisa diprediksi dengan data statistik semata",
+        "Tidak perlu diprediksi, tetapi bisa dikontrol/dibentuk melalui tindakan sendiri",
+        "Tergantung pada keberuntungan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pilot in the Plane menganggap wirausaha sebagai pilot yang mengontrol situasi dan jalur, bukan sekadar memprediksi masa depan[cite: 2763, 2765].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 208,
+      "question": "Ilustrasi 'Empat Sahabat Membesarkan Bisnis Kaus Kaki Soka' merupakan contoh penerapan prinsip...",
+      "options": [
+        "Affordable Loss (karena modal minim)",
+        "Bird in Hand (memanfaatkan keahlian masing-masing sahabat)",
+        "Lemonade (karena gagal sebelumnya)",
+        "Pilot in the Plane (karena punya pabrik)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kolaborasi empat sahabat dengan peran direksi masing-masing (pemasaran, SDM, TI) menunjukkan pemanfaatan 'siapa yang Anda kenal' dan 'apa yang Anda bisa'[cite: 2611, 2612].",
+      "difficulty": "application"
+    },
+    {
+      "id": 209,
+      "question": "Jemi Ngadiono mendirikan komunitas '1000 Guru' berawal dari keprihatinannya melihat kondisi sekolah pedalaman saat bekerja. Ia mengubah masalah ini menjadi gerakan sosial travel & teaching. Ini mencerminkan prinsip...",
+      "options": [
+        "Affordable Loss",
+        "Lemonade",
+        "Bird in Hand",
+        "Pilot in the Plane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jemi mengubah keprihatinan (masalah) kondisi sekolah menjadi peluang gerakan sosial yang unik (Lemonade)[cite: 2690, 2691].",
+      "difficulty": "application"
+    },
+    {
+      "id": 210,
+      "question": "Robin Boe menggabungkan bisnis kopi (Otten Coffee) dengan teknologi aplikasi (Fore Coffee). Tindakan proaktif menciptakan masa depan bisnis kopi berbasis teknologi ini sesuai prinsip...",
+      "options": [
+        "Pilot in the Plane",
+        "Affordable Loss",
+        "Bird in Hand",
+        "Crazy Quilt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Robin secara aktif mengontrol dan membentuk masa depan cara minum kopi orang Jakarta melalui teknologi (mengemudikan pesawat bisnisnya)[cite: 2776, 2792].",
+      "difficulty": "application"
+    },
+    {
+      "id": 211,
+      "question": "Langkah pertama dalam menemukan 'Flow' menurut Jones (2016) adalah...",
+      "options": [
+        "Menetapkan tujuan yang jelas",
+        "Memilih kegiatan yang cukup menantang",
+        "Menghilangkan gangguan",
+        "Mengembangkan keterampilan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Langkah pertama adalah memilih kegiatan yang cukup menantang untuk menciptakan gairah[cite: 2333].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 212,
+      "question": "Salah satu hambatan utama dalam mengembangkan potensi diri adalah...",
+      "options": [
+        "Terlalu banyak hobi",
+        "Tidak menyadari atau mengenali potensi yang dimiliki",
+        "Memiliki terlalu banyak teman",
+        "Sering berolahraga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Banyak orang tidak mengetahui potensi diri sehingga tidak dapat memanfaatkannya secara optimal[cite: 2848].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 213,
+      "question": "Jika seseorang memiliki bakat 'Inteligensi Naturalis', cara terbaik mengembangkan potensi dirinya adalah...",
+      "options": [
+        "Bekerja di laboratorium tertutup",
+        "Menjadi analis data",
+        "Berinteraksi dengan alam, flora, dan fauna",
+        "Menjadi orator politik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inteligensi naturalis adalah kemampuan mengenal alam, flora, dan fauna[cite: 2210].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 214,
+      "question": "Potensi diri yang berkaitan dengan 'Keberanian Menghadapi Risiko' muncul ketika...",
+      "options": [
+        "Masa depan sudah pasti diketahui",
+        "Ada ketidakpastian (uncertainty) di masa depan",
+        "Modal usaha sudah kembali",
+        "Tidak ada pesaing sama sekali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Risiko ada bilamana masa depan tidak diketahui (unknown) atau ada ketidakpastian[cite: 2232, 2233].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 215,
+      "question": "Apa yang dimaksud dengan 'Emergent Motivation' dalam teori Flow?",
+      "options": [
+        "Motivasi yang muncul dari imbalan uang",
+        "Motivasi yang muncul dari interaksi antara individu dan lingkungan/sistem terbuka",
+        "Motivasi karena paksaan atasan",
+        "Motivasi untuk menghindari hukuman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nakamura dan Csikszentmihalyi menyebut emergent motivation muncul dari interaksi individu dan lingkungan dalam sistem terbuka[cite: 2325].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 216,
+      "question": "Dalam studi kasus 'Dewi Bordir', salah satu bukti 'Etos Kerja' tinggi dari Atik Jumeli adalah...",
+      "options": [
+        "Hanya mengandalkan pinjaman bank",
+        "Memulai usaha dari nol dengan modal pas-pasan dan satu mesin jahit sejak 1991",
+        "Menjiplak karya orang lain",
+        "Menunggu bantuan pemerintah tanpa berusaha"
+      ],
+      "correctIndex": 1,
+      "explanation": "Atik merintis usaha dari nol, jatuh bangun dengan satu mesin jahit, menunjukkan etos kerja dan ketekunan tinggi[cite: 2399].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 217,
+      "question": "Seseorang yang memiliki 'Inteligensi Eksistensial' peka terhadap...",
+      "options": [
+        "Perhitungan angka",
+        "Gerak tubuh",
+        "Persoalan terdalam keberadaan manusia (makna hidup)",
+        "Nada dan irama musik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inteligensi eksistensial menyangkut kepekaan menjawab persoalan makna hidup dan keberadaan manusia[cite: 2211].",
+      "difficulty": "easy"
+    },
+    {
+      "id": 218,
+      "question": "Salah satu langkah sederhana mengenali potensi diri adalah 'Telusuri yang sering dibicarakan orang'. Maksudnya adalah...",
+      "options": [
+        "Mendengarkan gosip",
+        "Memperhatikan umpan balik atau penilaian orang lain terhadap bakat kita yang mungkin tidak kita sadari",
+        "Mengikuti tren pembicaraan di media sosial",
+        "Berbicara terus menerus tentang diri sendiri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Orang lain seringkali lebih memahami potensi diri kita (bakat tersembunyi) dibandingkan diri sendiri[cite: 2251, 2252].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 219,
+      "question": "Dalam teori Efektuasi, konsep 'modal awal' dalam prinsip Bird in Hand meliputi...",
+      "options": [
+        "Uang tunai, aset tanah, dan saham",
+        "Siapa saya, apa yang saya bisa, dan siapa yang saya kenal",
+        "Proposal bisnis, investor, dan bank",
+        "Lokasi strategis dan karyawan murah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bird in Hand mendefinisikan modal sebagai identitas diri, kemampuan/skill, dan jaringan pertemanan[cite: 2579].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 220,
+      "question": "Nadiem Makarim pernah gagal tiga kali sebelum sukses dengan Gojek. Sikap bangkit dari kegagalan ini relevan dengan pengembangan potensi diri aspek...",
+      "options": [
+        "Inteligensi Linguistik",
+        "Daya tahan terhadap tekanan (Adversity)",
+        "Inteligensi Musikal",
+        "Kemampuan administrasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kegagalan dan bangkit kembali menunjukkan daya tahan, ketekunan, dan mental wirausaha yang kuat[cite: 2834, 2835].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 221,
+      "question": "Kunci keberhasilan 'Dewi Bordir' menembus pasar ekspor adalah kombinasi antara kualitas produk dan...",
+      "options": [
+        "Harga yang sangat murah",
+        "Jejaring pemasaran melalui distributor/agen",
+        "Tidak adanya pesaing",
+        "Bantuan modal tanpa bunga"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pemasaran ke luar negeri dilakukan melalui distributor yang bertindak sebagai agen pengekspor[cite: 2416].",
+      "difficulty": "medium"
+    },
+    {
+      "id": 222,
+      "question": "Teori Flow memiliki kesamaan karakteristik dengan teori...",
+      "options": [
+        "Behaviorisme",
+        "Interaksionisme",
+        "Psikoanalisis",
+        "Strukturalisme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flow memiliki kesamaan dengan interaksionisme, di mana fokus pada interaksi diri pribadi dengan lingkungannya[cite: 2324].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 223,
+      "question": "Apa yang dimaksud dengan 'Autotelic' dalam konteks Flow?",
+      "options": [
+        "Melakukan sesuatu demi uang",
+        "Pengalaman yang secara intrinsik bermanfaat/menyenangkan dilakukan demi kegiatan itu sendiri",
+        "Melakukan sesuatu secara otomatis tanpa sadar",
+        "Melakukan sesuatu karena paksaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Autotelic berarti pengalaman yang secara intrinsik bermanfaat, dilakukan karena kenikmatan kegiatan itu sendiri[cite: 2300, 2319].",
+      "difficulty": "hard"
+    },
+    {
+      "id": 224,
+      "question": "Mantan Menteri Perdagangan M. Lutfi mencontohkan penjual martabak yang berkolaborasi dengan Go-Jek sebagai bentuk penggerak ekonomi baru. Ini adalah contoh nyata prinsip...",
+      "options": [
+        "Affordable Loss",
+        "Crazy Quilt (Kolaborasi/Jejaring)",
+        "Lemonade",
+        "Bird in Hand"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kolaborasi antara penjual martabak dan Go-Jek menciptakan nilai tambah melalui jejaring, inti dari Crazy Quilt[cite: 2749, 2733].",
+      "difficulty": "application"
+    },
+    {
+      "id": 225,
+      "question": "Bagi wirausaha, manfaat mengetahui 'Affordable Loss' adalah...",
+      "options": [
+        "Bisa meminjam uang sebanyak-banyaknya",
+        "Bisa segera bangkit dari kegagalan karena risiko sudah terukur/dibatasi",
+        "Tidak perlu membuat laporan keuangan",
+        "Menjamin usaha pasti untung"
+      ],
+      "correctIndex": 1,
+      "explanation": "Affordable loss membantu wirausaha segera bangkit dari situasi buruk karena kerugiannya masih dalam batas toleransi[cite: 2668].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q226",
+      "question": "Apa tahapan pertama yang kritis dalam memulai aktivitas kewirausahaan menurut materi modul?",
+      "options": [
+        "Mencari pendanaan usaha",
+        "Menemukan ide bisnis yang tepat",
+        "Membuka toko online",
+        "Merekrut karyawan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tahapan pertama dalam proses kewirausahaan adalah mengidentifikasi dan mengevaluasi peluang atau ide bisnis yang tepat sebelum melangkah ke tahap perencanaan atau pendanaan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q227",
+      "question": "Mengapa penting bagi seorang wirausaha untuk memilih ide bisnis yang sesuai dengan bakat dan minat pribadi?",
+      "options": [
+        "Agar lebih mudah mendapatkan pinjaman bank",
+        "Karena investor hanya mendanai hobi",
+        "Untuk menghindari kebosanan dan meningkatkan ketahanan saat menghadapi rintangan",
+        "Agar tidak perlu melakukan riset pasar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kesesuaian antara ide bisnis dengan passion dan kapasitas diri sangat penting untuk menjaga semangat dan mencegah kegagalan saat menghadapi tantangan usaha.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q228",
+      "question": "Salah satu cara untuk memvalidasi ide bisnis di tahap awal tanpa memiliki produk jadi adalah...",
+      "options": [
+        "Menyewa konsultan mahal",
+        "Membangun pabrik produksi",
+        "Menawarkan ide konsep kepada pelanggan potensial untuk melihat kesediaan membayar",
+        "Meminjam uang dari keluarga"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jika pelanggan menyatakan bersedia membayar untuk ide yang belum berbentuk fisik, itu menandakan adanya kebutuhan mendesak yang valid di pasar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q229",
+      "question": "Dalam konteks Design Thinking, tahapan di mana wirausaha berusaha memahami secara mendalam kebutuhan pengguna disebut...",
+      "options": ["Prototype", "Test", "Empathise", "Ideate"],
+      "correctIndex": 2,
+      "explanation": "Empathise (Berempati) adalah fondasi utama Design Thinking untuk memahami realitas dan kebutuhan pengguna secara mendalam.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q230",
+      "question": "Apa yang dimaksud dengan 'Point of View' (POV) dalam tahapan Define pada Design Thinking?",
+      "options": [
+        "Sudut pandang investor terhadap produk",
+        "Pernyataan pemandu yang fokus pada pengguna spesifik dan kebutuhan mereka",
+        "Lokasi fisik tempat usaha didirikan",
+        "Pendapat pribadi wirausaha tentang pasar"
+      ],
+      "correctIndex": 1,
+      "explanation": "POV adalah pernyataan masalah yang dapat ditindaklanjuti yang merangkum siapa penggunanya, apa kebutuhannya, dan pencerahan (insight) apa yang didapat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q231",
+      "question": "Manakah urutan tahapan Design Thinking yang benar menurut Hasso-Plattner Institute?",
+      "options": [
+        "Ideate - Prototype - Test - Define - Empathise",
+        "Empathise - Define - Ideate - Prototype - Test",
+        "Define - Empathise - Test - Prototype - Ideate",
+        "Test - Prototype - Ideate - Define - Empathise"
+      ],
+      "correctIndex": 1,
+      "explanation": "Urutan logis Design Thinking dimulai dari Empathise, Define, Ideate, Prototype, hingga Test.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q232",
+      "question": "Perilaku konsumen di era digital yang 'menetapkan tolok ukur sendiri' memiliki implikasi bahwa...",
+      "options": [
+        "Konsumen tidak peduli dengan merek lain",
+        "Konsumen akan membandingkan merek Anda dengan pesaing secara mandiri sebelum membeli",
+        "Konsumen hanya membeli barang termurah",
+        "Konsumen tidak menggunakan internet untuk riset"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konsumen digital memiliki akses informasi luas sehingga mereka menetapkan standar sendiri dan membandingkan berbagai opsi sebelum memutuskan pembelian.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q233",
+      "question": "Salah satu karakteristik konsumen digital adalah 'Toleransi berkurang'. Apa artinya bagi pelaku usaha?",
+      "options": [
+        "Pelaku usaha bisa bersantai dalam merespons keluhan",
+        "Konsumen mengharapkan respons yang cepat dan jelas atas pertanyaan atau keluhan mereka",
+        "Konsumen tidak suka berinteraksi di media sosial",
+        "Pelaku usaha harus menutup kolom komentar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Di era digital, konsumen menuntut kecepatan (immediacy). Keterlambatan respons dapat memicu ulasan negatif yang cepat menyebar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q234",
+      "question": "Apa yang dimaksud dengan 'Segmentasi Psikografis'?",
+      "options": [
+        "Membagi pasar berdasarkan lokasi wilayah",
+        "Membagi pasar berdasarkan umur dan pendapatan",
+        "Membagi pasar berdasarkan gaya hidup, aktivitas, minat, dan pendapat",
+        "Membagi pasar berdasarkan frekuensi penggunaan produk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Segmentasi psikografis fokus pada aspek psikologis internal konsumen seperti gaya hidup (lifestyle), nilai, dan kepribadian.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q235",
+      "question": "Dalam Value Proposition Canvas, elemen 'Pain Relievers' berfungsi untuk...",
+      "options": [
+        "Menambah fitur yang tidak perlu",
+        "Menciptakan keuntungan baru bagi pelanggan",
+        "Menjelaskan bagaimana produk/jasa mengurangi atau menghapus masalah/risiko yang dialami pelanggan",
+        "Menentukan harga produk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pain Relievers (Penghilang Rasa Sakit) harus secara spesifik mengatasi 'Pains' (masalah/rasa sakit) yang diidentifikasi dalam profil pelanggan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q236",
+      "question": "Apa perbedaan utama antara 'Customer Profile' dan 'Value Map' dalam Value Proposition Canvas?",
+      "options": [
+        "Customer Profile berisi produk, Value Map berisi kebutuhan pelanggan",
+        "Customer Profile mengamati sisi pelanggan (gains, pains, jobs), Value Map merancang sisi penawaran perusahaan",
+        "Keduanya adalah hal yang sama",
+        "Value Map dibuat oleh pelanggan, Customer Profile dibuat oleh perusahaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Customer Profile adalah tentang observasi pelanggan (apa yang mereka butuhkan/rasakan), sedangkan Value Map adalah tentang desain solusi (apa yang kita tawarkan).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q237",
+      "question": "Model bisnis 'Freemium' yang populer di era digital bekerja dengan cara...",
+      "options": [
+        "Menjual produk dengan harga sangat mahal sejak awal",
+        "Memberikan fungsi dasar secara gratis, tetapi mengenakan biaya untuk fitur premium/lanjutan",
+        "Mengandalkan donasi sukarela dari pengguna",
+        "Menjual data pengguna tanpa izin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Freemium (Free + Premium) menarik pengguna dengan layanan gratis (free) untuk membangun basis pengguna, lalu mengonversi sebagian menjadi pelanggan berbayar (premium).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q238",
+      "question": "Apa elemen utama yang membedakan 'Lean Canvas' dengan 'Business Model Canvas' (BMC) tradisional?",
+      "options": [
+        "Lean Canvas lebih rumit dan panjang",
+        "Lean Canvas berfokus pada masalah, solusi, metrik utama, dan keunggulan kompetitif (unfair advantage)",
+        "BMC tidak memiliki blok pelanggan",
+        "Lean Canvas hanya untuk perusahaan besar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lean Canvas diadaptasi oleh Ash Maurya khusus untuk startup, mengganti beberapa blok BMC (seperti Key Partners) dengan blok yang lebih actionable seperti Problem dan Solution.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q239",
+      "question": "Dalam Lean Canvas, blok 'Unfair Advantage' merujuk pada...",
+      "options": [
+        "Kecurangan dalam bisnis",
+        "Sesuatu yang tidak dapat dengan mudah disalin atau dibeli oleh pesaing",
+        "Keuntungan finansial sesaat",
+        "Monopoli pasar yang ilegal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unfair Advantage adalah aset unik (seperti tim ahli, komunitas eksklusif, reputasi) yang menjadi benteng pertahanan dari kompetitor.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q240",
+      "question": "Apa fungsi dari blok 'Key Metrics' dalam Lean Canvas?",
+      "options": [
+        "Menghitung gaji karyawan",
+        "Mengukur aktivitas kunci yang menunjukkan seberapa baik kinerja perusahaan/produk",
+        "Menentukan desain logo perusahaan",
+        "Mencatat alamat kantor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Key Metrics adalah angka-angka kunci (seperti jumlah pengunjung, retensi, penjualan) yang digunakan untuk memantau kesehatan dan kemajuan bisnis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q241",
+      "question": "Model bisnis 'Marketplace' seperti Tokopedia atau eBay memfasilitasi...",
+      "options": [
+        "Produksi barang sendiri",
+        "Interaksi transaksi antara pembeli dan penjual pihak ketiga",
+        "Pemberian kredit tanpa bunga",
+        "Layanan streaming musik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marketplace menyediakan platform yang mempertemukan penjual dan pembeli, dan biasanya mengambil komisi dari transaksi tersebut.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q242",
+      "question": "Salah satu manfaat utama memiliki model bisnis yang kuat adalah...",
+      "options": [
+        "Menghindari pembayaran pajak",
+        "Menciptakan keunggulan kompetitif dan menjaga keberlanjutan keuangan",
+        "Membuat produk menjadi viral tanpa usaha",
+        "Menghilangkan kebutuhan akan karyawan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Model bisnis yang solid memberikan peta jalan untuk menghasilkan laba, menghadapi persaingan, dan memastikan keberlanjutan jangka panjang.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q243",
+      "question": "Menurut Osterwalder, model bisnis adalah gambaran dasar tentang bagaimana organisasi...",
+      "options": [
+        "Membuat laporan keuangan tahunan",
+        "Menciptakan, menyampaikan, dan menangkap nilai (value)",
+        "Merekrut karyawan terbaik",
+        "Menghindari utang bank"
+      ],
+      "correctIndex": 1,
+      "explanation": "Definisi inti model bisnis menurut Osterwalder berfokus pada value creation, value delivery, dan value capture.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q244",
+      "question": "Pada Value Proposition Canvas, 'Customer Jobs' mendeskripsikan...",
+      "options": [
+        "Pekerjaan atau profesi pelanggan secara harfiah",
+        "Tugas fungsional, sosial, dan emosional yang ingin diselesaikan pelanggan",
+        "Gaji yang diterima pelanggan",
+        "Hobi pelanggan di waktu luang"
+      ],
+      "correctIndex": 1,
+      "explanation": "Customer Jobs mencakup apa yang ingin dicapai pelanggan, baik itu menyelesaikan masalah teknis (fungsional), terlihat baik (sosial), atau merasa aman (emosional).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q245",
+      "question": "Strategi 'Cost Structure' yang berfokus pada 'Value-driven' (didorong oleh nilai) biasanya ditemukan pada...",
+      "options": [
+        "Maskapai penerbangan berbiaya rendah (LCC)",
+        "Hotel mewah dengan layanan personalisasi tinggi",
+        "Pabrik produksi massal",
+        "Toko diskon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Model value-driven kurang peduli pada biaya minimal, melainkan fokus pada penciptaan nilai premium dan pengalaman eksklusif bagi pelanggan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q246",
+      "question": "Apa risiko utama jika wirausaha salah dalam menentukan target pasar?",
+      "options": [
+        "Produk akan terlalu laku",
+        "Produk tidak laku karena tidak sesuai dengan kebutuhan konsumen yang disasar",
+        "Biaya produksi menjadi terlalu murah",
+        "Pesaing akan meniru produk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kesalahan target pasar berarti menawarkan solusi kepada orang yang tidak memiliki masalah tersebut, sehingga penjualan akan gagal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q247",
+      "question": "Konsep 'Minimum Viable Product' (MVP) berkaitan erat dengan prinsip...",
+      "options": [
+        "Membuat produk sesempurna mungkin sebelum rilis",
+        "Lean Startup",
+        "Waterfall development",
+        "Traditional manufacturing"
+      ],
+      "correctIndex": 1,
+      "explanation": "MVP adalah konsep inti Lean Startup untuk menguji hipotesis pasar dengan sumber daya minimal sebelum membangun produk lengkap.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q248",
+      "question": "Dalam Lean Canvas, blok 'Channels' menjelaskan tentang...",
+      "options": [
+        "Saluran TV favorit pelanggan",
+        "Cara/jalur untuk menjangkau dan berkomunikasi dengan segmen pelanggan",
+        "Saluran pembuangan limbah pabrik",
+        "Jalur promosi jabatan karyawan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Channels adalah media atau jalur (seperti website, sosmed, toko fisik) yang digunakan untuk menyampaikan value proposition kepada pelanggan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q249",
+      "question": "Apa yang dimaksud dengan 'Revenue Streams' dalam kanvas model bisnis?",
+      "options": [
+        "Arus kas keluar untuk biaya operasional",
+        "Sumber-sumber pendapatan yang dihasilkan perusahaan dari pelanggan",
+        "Aliran sungai di dekat lokasi bisnis",
+        "Jumlah modal awal yang disetor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Revenue Streams merepresentasikan uang tunai yang dihasilkan perusahaan dari setiap segmen pelanggan (penjualan aset, biaya langganan, dll).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q250",
+      "question": "Jika sebuah startup menggunakan model bisnis 'Subscription', bagaimana mereka menghasilkan pendapatan?",
+      "options": [
+        "Menjual produk sekali beli",
+        "Mengambil komisi dari transaksi orang lain",
+        "Membebankan biaya berulang (bulanan/tahunan) untuk akses layanan",
+        "Menjual ruang iklan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Subscription (berlangganan) adalah model pendapatan berulang di mana pelanggan membayar secara periodik untuk akses layanan (contoh: Netflix, Spotify).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q251",
+      "question": "Empati dalam kewirausahaan diartikan sebagai kemampuan untuk...",
+      "options": [
+        "Mengasihani nasib pelanggan",
+        "Memahami dan merasakan realitas/masalah dari sudut pandang orang lain (pelanggan)",
+        "Memberikan diskon besar-besaran",
+        "Menangisi kegagalan bisnis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Empati adalah kemampuan kognitif dan emosional untuk memahami kebutuhan pelanggan secara mendalam, yang menjadi dasar inovasi produk.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q252",
+      "question": "Salah satu ciri wirausaha di era digital yang sukses menurut Hermawan Kartajaya adalah...",
+      "options": [
+        "Hanya fokus pada keuntungan jangka pendek",
+        "Mampu beradaptasi secara kreatif dengan teknologi",
+        "Menolak perubahan teknologi",
+        "Mengandalkan cara pemasaran kuno"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wirausaha di era digital harus kreatif dan adaptif dalam memanfaatkan teknologi internet dan e-commerce untuk menangkap peluang.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q253",
+      "question": "Faktor 'F' dalam tren perilaku konsumen menurut MarkPlus merujuk pada...",
+      "options": [
+        "Food, Fashion, Fun",
+        "Friends, Families, Fans (Followers)",
+        "Facebook, Facetime, Forum",
+        "Fast, Free, Future"
+      ],
+      "correctIndex": 1,
+      "explanation": "Faktor 'F' menunjukkan pengaruh sosial yang kuat di mana keputusan konsumen dipengaruhi oleh teman, keluarga, dan pengikut/fans di media sosial.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q254",
+      "question": "Dalam analisis pasar, apa yang dimaksud dengan 'Pasar Persaingan Sempurna'?",
+      "options": [
+        "Pasar dengan satu penjual yang menguasai harga",
+        "Pasar di mana penjual dan pembeli tidak bisa mempengaruhi harga (price taker) karena produk homogen dan informasi sempurna",
+        "Pasar yang menjual barang-barang mewah saja",
+        "Pasar yang diatur ketat oleh pemerintah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ciri utama pasar persaingan sempurna adalah banyaknya penjual/pembeli, produk homogen, dan tidak ada pihak yang bisa mendikte harga pasar.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q255",
+      "question": "Pasar Monopolistik memiliki karakteristik...",
+      "options": [
+        "Hanya satu penjual",
+        "Banyak penjual dengan produk yang terdiferensiasi (berbeda corak/kualitas)",
+        "Hanya sedikit penjual yang saling ketergantungan",
+        "Barang yang dijual sama persis (homogen)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pasar monopolistik memiliki banyak produsen, tetapi produknya tidak identik (terdiferensiasi), sehingga produsen memiliki sedikit kekuatan untuk mengatur harga.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q256",
+      "question": "Pasar Oligopoli dicirikan oleh...",
+      "options": [
+        "Satu penjual dominan",
+        "Banyak penjual kecil",
+        "Beberapa penjual yang menguasai pasar dan saling ketergantungan",
+        "Banyak pembeli tunggal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oligopoli dikuasai oleh segelintir perusahaan besar (beberapa penjual), di mana keputusan satu perusahaan sangat mempengaruhi pesaingnya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q257",
+      "question": "Tahapan 'Ideate' dalam Design Thinking bertujuan untuk...",
+      "options": [
+        "Membuat produk jadi",
+        "Menghasilkan sebanyak mungkin ide solusi tanpa batasan/kritik awal",
+        "Menguji produk ke pasar",
+        "Menganalisis biaya produksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ideate adalah fase brainstorming untuk mengeksplorasi berbagai kemungkinan solusi secara kreatif sebelum menyaringnya.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q258",
+      "question": "Apa manfaat utama melakukan 'Prototyping' dalam Design Thinking?",
+      "options": [
+        "Langsung menjual produk massal",
+        "Mengubah ide abstrak menjadi bentuk fisik/nyata untuk dipelajari dan diuji dengan cepat",
+        "Menghabiskan anggaran riset",
+        "Membuat dokumentasi legal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prototyping memungkinkan wirausaha memvisualisasikan ide dan mendapatkan umpan balik awal sebelum menginvestasikan sumber daya besar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q259",
+      "question": "Dalam konteks digital, perilaku 'Spontaneous Discovery' berarti...",
+      "options": [
+        "Konsumen menemukan produk secara tidak sengaja dan langsung mencari info via ponsel",
+        "Konsumen merencanakan pembelian sebulan sebelumnya",
+        "Konsumen tidak suka kejutan",
+        "Konsumen hanya membeli barang diskon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Konsumen era digital seringkali melihat sesuatu (misal di TV/jalan) dan spontan mencarinya di internet saat itu juga.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q260",
+      "question": "Apa itu 'Customer Jobs' bertipe 'Social' dalam Value Proposition Canvas?",
+      "options": [
+        "Tugas menyelesaikan masalah teknis",
+        "Upaya pelanggan untuk terlihat baik, mendapatkan status, atau kekuasaan di mata orang lain",
+        "Kebutuhan akan rasa aman pribadi",
+        "Pekerjaan sosial sukarela"
+      ],
+      "correctIndex": 1,
+      "explanation": "Social jobs berkaitan dengan bagaimana pelanggan ingin dipersepsikan oleh lingkungan sosialnya (citra diri).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q261",
+      "question": "Mengapa model bisnis 'Dropshipping' populer di kalangan wirausaha pemula digital?",
+      "options": [
+        "Karena membutuhkan modal inventaris besar",
+        "Karena penjual tidak perlu menyetok barang; supplier mengirim langsung ke pembeli",
+        "Karena margin keuntungannya paling besar",
+        "Karena tidak butuh koneksi internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dropshipping meminimalkan risiko stok barang karena peran penjual hanya sebagai perantara pemasaran.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q262",
+      "question": "Manfaat segmentasi pasar bagi perusahaan adalah, KECUALI...",
+      "options": [
+        "Dapat mendesain produk yang lebih sesuai",
+        "Dapat menentukan kampanye iklan yang efektif",
+        "Meningkatkan biaya produksi secara signifikan tanpa alasan",
+        "Dapat mendeteksi tren pasar lebih dini"
+      ],
+      "correctIndex": 2,
+      "explanation": "Meningkatkan biaya produksi adalah risiko/kelemahan segmentasi, bukan manfaat yang dicari.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q263",
+      "question": "Pemasaran yang menargetkan audiens berdasarkan lokasi geografis disebut...",
+      "options": [
+        "Segmentasi Demografis",
+        "Segmentasi Psikografis",
+        "Segmentasi Geografis",
+        "Segmentasi Perilaku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Segmentasi geografis membagi pasar berdasarkan wilayah, negara, kota, atau lingkungan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q264",
+      "question": "Apa yang dimaksud dengan 'Product-Market Fit'?",
+      "options": [
+        "Produk yang dijual di pasar tradisional",
+        "Kondisi di mana produk berhasil memenuhi kebutuhan pasar yang kuat dan pelanggan puas",
+        "Produk yang harganya paling murah di pasar",
+        "Pasar yang hanya menjual satu jenis produk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Product-Market Fit tercapai ketika produk secara tepat menjawab masalah pasar dan ada permintaan yang cukup untuk menopang pertumbuhan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q265",
+      "question": "Dalam 9 Blok Model Bisnis (BMC), 'Key Partners' merujuk pada...",
+      "options": [
+        "Karyawan perusahaan",
+        "Jaringan pemasok dan mitra kerja sama yang membuat model bisnis bekerja",
+        "Pelanggan utama",
+        "Pesaing bisnis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Key Partners adalah pihak eksternal (supplier, aliansi strategis) yang membantu operasional bisnis berjalan efisien.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q266",
+      "question": "Salah satu kelemahan pasar persaingan sempurna adalah...",
+      "options": [
+        "Harga cenderung tidak wajar",
+        "Inovasi produsen rendah karena produk homogen",
+        "Konsumen sulit memilih barang",
+        "Terjadi eksploitasi konsumen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Karena produk sama persis (homogen) dan harga ditentukan pasar, produsen kurang termotivasi untuk berinovasi.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q267",
+      "question": "Model bisnis 'On-Demand' (seperti Gojek/Grab) berfokus pada...",
+      "options": [
+        "Menyediakan layanan instan saat dibutuhkan konsumen melalui aplikasi",
+        "Menjual barang bekas",
+        "Investasi jangka panjang",
+        "Produksi manufaktur berat"
+      ],
+      "correctIndex": 0,
+      "explanation": "On-demand business memenuhi permintaan konsumen secara real-time (segera) menggunakan teknologi.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q268",
+      "question": "Apa tujuan utama dari tahap 'Test' dalam Design Thinking?",
+      "options": [
+        "Menjual produk",
+        "Mendapatkan umpan balik pengguna untuk memperbaiki solusi/prototype",
+        "Menetapkan harga akhir",
+        "Merekrut pegawai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Testing dilakukan untuk memvalidasi apakah solusi bekerja dan mempelajari apa yang perlu diperbaiki berdasarkan pengalaman pengguna.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q269",
+      "question": "Salah satu karakteristik wirausaha sukses adalah 'Lead by Example', yang berarti...",
+      "options": [
+        "Hanya memberi perintah",
+        "Memimpin dengan memberi contoh perilaku positif",
+        "Menyerahkan semua keputusan pada bawahan",
+        "Bekerja sendirian tanpa tim"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pemimpin yang baik melakukan apa yang mereka katakan (walk the talk) dan menjadi teladan bagi timnya.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q270",
+      "question": "Dalam analisis perilaku konsumen, faktor apa yang termasuk 'Multiple Aspiration & Poverty Lines'?",
+      "options": [
+        "Konsumen tidak punya uang",
+        "Konsumen bisa merasa kaya (naik taksi online) dan miskin dalam situasi berbeda secara cepat",
+        "Konsumen selalu menabung",
+        "Konsumen tidak memiliki aspirasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fenomena ini menggambarkan konsumen kelas menengah yang memiliki akses gaya hidup 'mewah' sesaat (seperti supir pribadi via Grab) namun sensitif harga di area lain.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q271",
+      "question": "Apa yang dimaksud dengan 'Cost Structure' dalam Business Model Canvas?",
+      "options": [
+        "Daftar harga jual produk",
+        "Semua biaya yang dikeluarkan untuk mengoperasikan model bisnis",
+        "Keuntungan bersih perusahaan",
+        "Struktur organisasi perusahaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cost Structure merinci biaya tetap dan variabel yang diperlukan untuk menjalankan bisnis (key activities, resources, channels).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q272",
+      "question": "Model bisnis yang memberikan produk gratis tapi menjual data pengguna ke pengiklan disebut...",
+      "options": [
+        "Freemium",
+        "Subscription",
+        "Model 'Facebook' / Iklan",
+        "Marketplace"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dalam model ini (seperti Facebook/Google), pengguna tidak membayar dengan uang, tetapi dengan data/atensi yang dimonetisasi melalui iklan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q273",
+      "question": "Apa itu 'Gains' dalam Profil Pelanggan (Customer Profile)?",
+      "options": [
+        "Masalah yang dihadapi pelanggan",
+        "Manfaat atau keuntungan yang diharapkan/diinginkan pelanggan",
+        "Pekerjaan yang harus dilakukan pelanggan",
+        "Biaya yang harus dibayar pelanggan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gains adalah hasil positif atau manfaat konkret yang dicari pelanggan dari sebuah solusi.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q274",
+      "question": "Tahapan kewirausahaan 'Meraih kesuksesan atau mengalami kegagalan' mengajarkan bahwa...",
+      "options": [
+        "Kegagalan adalah akhir segalanya",
+        "Wirausaha harus menyembunyikan kegagalan",
+        "Kegagalan harus dianalisis sebagai pelajaran untuk perbaikan di masa depan",
+        "Sukses hanya keberuntungan semata"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wirausaha harus memiliki mindset bahwa kegagalan adalah umpan balik (feedback) untuk belajar dan bangkit kembali.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q275",
+      "question": "Segmentasi pasar berdasarkan 'Generasi' (misal: Milenial, Gen Z) termasuk dalam kategori...",
+      "options": ["Geografis", "Demografis", "Perilaku", "Psikografis"],
+      "correctIndex": 1,
+      "explanation": "Generasi dikelompokkan berdasarkan tahun lahir/usia, yang merupakan variabel demografis.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q276",
+      "question": "Dalam Lean Canvas, mengapa 'Problem' dan 'Customer Segments' saling berhubungan?",
+      "options": [
+        "Karena masalah hanya ada di satu segmen",
+        "Karena tanpa mengetahui siapa pelanggannya, kita tidak bisa memahami masalah spesifik mereka",
+        "Karena keduanya ada di sisi kiri kanvas",
+        "Karena investor hanya melihat dua blok ini"
+      ],
+      "correctIndex": 1,
+      "explanation": "Masalah harus selalu dilihat dari konteks siapa yang mengalaminya. Beda segmen, beda masalah.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q277",
+      "question": "Salah satu kunci transformasi bisnis di era digital menurut materi adalah 'Kolaborasi', yang berarti...",
+      "options": [
+        "Bekerja sendirian",
+        "Melawan semua pesaing",
+        "Bekerja sama dengan pihak lain (bahkan pesaing) untuk menciptakan nilai lebih",
+        "Menutup akses pihak luar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Di era digital yang kompleks, kolaborasi (seperti Blue Bird dengan Gojek) lebih efektif daripada kompetisi murni.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q278",
+      "question": "Apa yang dimaksud dengan 'Economies of Scale' dalam struktur biaya?",
+      "options": [
+        "Biaya per unit naik saat produksi naik",
+        "Biaya per unit turun saat volume produksi meningkat",
+        "Biaya tetap berubah-ubah",
+        "Biaya tidak berhubungan dengan produksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Economies of scale adalah efisiensi biaya yang didapat perusahaan besar karena memproduksi dalam jumlah banyak (biaya rata-rata turun).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q279",
+      "question": "Pasar Abstrak memiliki ciri-ciri...",
+      "options": [
+        "Barang tersedia secara fisik di tempat",
+        "Penjual dan pembeli bertemu langsung",
+        "Transaksi dilandasi rasa percaya, barang seringkali hanya berupa contoh/gambar",
+        "Transaksi selalu tunai fisik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pasar abstrak (seperti e-commerce) tidak mempertemukan penjual-pembeli secara fisik dan barangnya tidak langsung dibawa pulang saat itu juga.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q280",
+      "question": "Siapa yang biasanya menjadi 'First Customers' (Pelanggan Pertama) yang ideal bagi startup?",
+      "options": [
+        "Masyarakat umum yang skeptis",
+        "Early Adopters yang bersedia mencoba solusi baru meski belum sempurna",
+        "Kompetitor",
+        "Pemerintah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Early Adopters adalah kelompok yang memiliki masalah mendesak dan toleransi risiko, sehingga mau mencoba produk inovasi baru.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q281",
+      "question": "Apa tujuan dari 'Evaluasi Target Pasar'?",
+      "options": [
+        "Untuk menghentikan usaha",
+        "Untuk memastikan apakah segmen yang dipilih cukup menguntungkan dan sesuai dengan produk",
+        "Untuk menaikkan harga setinggi mungkin",
+        "Untuk memecat karyawan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Evaluasi diperlukan untuk memvalidasi apakah usaha layak dilanjutkan pada segmen tersebut atau perlu pivot (ganti arah).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q282",
+      "question": "Dalam Design Thinking, tahap membuat sketsa kasar atau model sederhana disebut...",
+      "options": ["Ideate", "Prototype", "Empathise", "Define"],
+      "correctIndex": 1,
+      "explanation": "Prototyping adalah realisasi ide ke dalam bentuk fisik/visual yang sederhana.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q283",
+      "question": "Apa yang dimaksud dengan 'Gain Creators' dalam Value Proposition?",
+      "options": [
+        "Cara produk menciptakan manfaat/keuntungan bagi pelanggan",
+        "Cara produk mengurangi biaya produksi",
+        "Cara pelanggan membayar",
+        "Bonus gaji karyawan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gain Creators menjelaskan secara spesifik bagaimana fitur produk memberikan hasil positif (gains) yang diinginkan pelanggan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q284",
+      "question": "Mengapa 'Validasi Ide' penting sebelum meluncurkan produk besar-besaran?",
+      "options": [
+        "Untuk menghabiskan waktu",
+        "Untuk memastikan ada pasar yang mau membayar, sehingga mengurangi risiko kegagalan",
+        "Agar ide dicuri orang lain",
+        "Karena disuruh dosen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Validasi mencegah wirausaha membangun produk yang tidak diinginkan siapa pun (mengurangi risiko pasar).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q285",
+      "question": "Model bisnis 'Crowdsourcing' memanfaatkan...",
+      "options": [
+        "Dana dari satu investor besar",
+        "Kontribusi ide, konten, atau layanan dari sekelompok besar orang (komunitas online)",
+        "Mesin otomatis sepenuhnya",
+        "Tenaga kerja asing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Crowdsourcing mengandalkan partisipasi massa/komunitas untuk menciptakan nilai (contoh: Wikipedia, desain logo kontes).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q286",
+      "question": "Perilaku konsumen 'Sombong' di era digital menurut Hermawan Kartajaya ditandai dengan...",
+      "options": [
+        "Membeli barang termurah",
+        "Memilih produk berdasarkan kualitas untuk meningkatkan status sosial",
+        "Tidak mau membeli online",
+        "Membuat produk sendiri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tipe ini mementingkan gengsi/status dan berani membayar mahal demi kualitas atau merek branded.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q287",
+      "question": "Apa itu 'Customer Acquisition Cost' (CAC)?",
+      "options": [
+        "Biaya untuk memproduksi satu barang",
+        "Biaya total yang dikeluarkan untuk mendapatkan satu pelanggan baru",
+        "Keuntungan dari satu pelanggan",
+        "Gaji CEO"
+      ],
+      "correctIndex": 1,
+      "explanation": "CAC adalah metrik penting yang menghitung biaya pemasaran/penjualan dibagi jumlah pelanggan baru yang didapat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q288",
+      "question": "Dalam Lean Canvas, 'Existing Alternatives' merujuk pada...",
+      "options": [
+        "Produk masa depan kita",
+        "Cara-cara atau produk lain yang saat ini digunakan pelanggan untuk memecahkan masalah mereka",
+        "Alternatif lokasi kantor",
+        "Rencana cadangan jika bangkrut"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wirausaha harus tahu apa kompetitor atau solusi pengganti yang dipakai pelanggan saat ini untuk memahami persaingan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q289",
+      "question": "Kelebihan utama pemasaran digital (online) dibanding tradisional adalah...",
+      "options": [
+        "Biaya lebih mahal",
+        "Jangkauan luas, terukur, dan interaktif",
+        "Hanya bisa diakses jam kerja",
+        "Tidak butuh internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Digital marketing memungkinkan targeting presisi, pengukuran data real-time, dan jangkauan global 24/7.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q290",
+      "question": "Apa peran 'Key Resources' dalam Business Model Canvas?",
+      "options": [
+        "Sumber daya utama (fisik, intelektual, SDM, finansial) agar bisnis bisa berjalan",
+        "Daftar kekayaan pemilik",
+        "Sumber daya alam di sekitar pabrik",
+        "Kunci gudang perusahaan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Key Resources adalah aset-aset strategis yang dibutuhkan untuk menciptakan value proposition dan menjangkau pasar.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q291",
+      "question": "Konsumen tipe 'Bebal' menurut klasifikasi perilaku konsumen adalah mereka yang...",
+      "options": [
+        "Sangat teliti soal kualitas",
+        "Hanya peduli harga termurah, mengabaikan kualitas atau daya tahan",
+        "Suka berinovasi",
+        "Loyal pada satu merek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tipe bebal sangat sensitif harga (price oriented) dan kurang peduli pada value jangka panjang.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q292",
+      "question": "Dalam tahap 'Storming' pada pembentukan tim, biasanya terjadi...",
+      "options": [
+        "Kerja sama yang harmonis",
+        "Konflik, perdebatan, dan perebutan peran antar anggota tim",
+        "Pembubaran tim",
+        "Pencapaian target maksimal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Storming adalah fase gejolak di mana anggota tim mulai menunjukkan ego dan perbedaan gaya kerja sebelum norma tim terbentuk.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q293",
+      "question": "Pasar Regional (seperti AFTA) adalah pasar yang...",
+      "options": [
+        "Hanya meliputi satu desa",
+        "Meliputi beberapa negara dalam satu kawasan tertentu",
+        "Meliputi seluruh dunia",
+        "Tidak memiliki batas wilayah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pasar regional mencakup area geografis yang lebih luas dari negara (kawasan), biasanya didukung perjanjian kerjasama ekonomi.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q294",
+      "question": "Strategi 'Product Differentiation' bertujuan untuk...",
+      "options": [
+        "Membuat produk sama persis dengan pesaing",
+        "Membuat produk yang unik dan berbeda agar menonjol di mata konsumen",
+        "Menurunkan kualitas produk",
+        "Menghentikan produksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diferensiasi adalah kunci untuk keluar dari perang harga dan memberikan alasan spesifik bagi konsumen untuk memilih produk kita.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q295",
+      "question": "Salah satu sumber pendanaan awal (seed funding) yang paling umum untuk startup adalah 'Bootstrapping', yang artinya...",
+      "options": [
+        "Meminjam dari bank besar",
+        "Menggunakan modal sendiri atau tabungan pribadi pendiri",
+        "Mendapat dana hibah pemerintah",
+        "Menjual saham di bursa efek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bootstrapping adalah mendanai usaha dengan sumber daya internal tanpa bergantung pada investor eksternal di tahap awal.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q296",
+      "question": "Apa itu 'Customer Relationship' dalam BMC?",
+      "options": [
+        "Hubungan asmara pelanggan",
+        "Jenis hubungan yang dibangun perusahaan dengan segmen pelanggan (misal: personal assistance, self-service)",
+        "Daftar kontak pelanggan",
+        "Hubungan antar karyawan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Blok ini mendefinisikan bagaimana perusahaan berinteraksi, mengakuisisi, dan mempertahankan pelanggan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q297",
+      "question": "Era Marketing 4.0 menurut Hermawan Kartajaya berfokus pada...",
+      "options": [
+        "Product Centric",
+        "Customer Centric",
+        "Human Centric di era digital (kombinasi online & offline)",
+        "Profit Centric"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marketing 4.0 menggabungkan sentuhan manusia (human centric) dengan teknologi digital untuk menciptakan engagement.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q298",
+      "question": "Fungsi 'Key Activities' dalam model bisnis adalah...",
+      "options": [
+        "Aktivitas liburan karyawan",
+        "Hal-hal terpenting yang harus dilakukan perusahaan agar model bisnisnya bekerja",
+        "Aktivitas pesaing",
+        "Daftar hobi CEO"
+      ],
+      "correctIndex": 1,
+      "explanation": "Key Activities adalah tindakan operasional utama (seperti produksi, pemecahan masalah, pengelolaan platform) yang vital bagi bisnis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q299",
+      "question": "Apa yang dimaksud dengan 'Unique Value Proposition' (UVP)?",
+      "options": [
+        "Pesan tunggal yang jelas menyatakan mengapa Anda berbeda dan layak dibeli",
+        "Daftar semua fitur produk",
+        "Harga termahal di pasar",
+        "Slogan perusahaan yang panjang"
+      ],
+      "correctIndex": 0,
+      "explanation": "UVP adalah janji nilai utama yang membedakan penawaran kita dari kompetitor di benak pelanggan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q300",
+      "question": "Pemasaran 'Word of Mouth' di era digital sering terjadi melalui...",
+      "options": [
+        "Surat pos",
+        "Ulasan (review) online, testimoni, dan media sosial",
+        "Iklan TV",
+        "Telemarketing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rekomendasi digital (e-WOM) sangat powerful karena dapat dibaca oleh ribuan orang sekaligus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q301",
+      "question": "Apa inti utama dari 'Blue Ocean Strategy' (BOS)?",
+      "options": [
+        "Memenangkan persaingan di pasar yang sudah ada",
+        "Menciptakan ruang pasar baru yang belum ada pesaingnya sehingga kompetisi menjadi tidak relevan",
+        "Menurunkan harga serendah mungkin untuk mematikan lawan",
+        "Fokus hanya pada teknologi canggih"
+      ],
+      "correctIndex": 1,
+      "explanation": "BOS berfokus pada penciptaan pasar baru (laut biru) dan inovasi nilai, bukan bertarung di pasar jenuh (laut merah).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q302",
+      "question": "Dalam BOS, apa yang dimaksud dengan 'Red Ocean' (Laut Merah)?",
+      "options": [
+        "Pasar baru yang penuh peluang",
+        "Industri yang sudah ada saat ini dengan persaingan ketat berdarah-darah",
+        "Pasar internasional",
+        "Pasar produk perikanan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Red Ocean menggambarkan pasar konvensional di mana batas industri sudah didefinisikan dan perusahaan saling sikut memperebutkan pangsa pasar.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q303",
+      "question": "Salah satu prinsip BOS adalah mengejar 'Diferensiasi' dan 'Biaya Rendah' secara...",
+      "options": ["Bergantian", "Terpisah", "Bersamaan (Simultan)", "Bertahap"],
+      "correctIndex": 2,
+      "explanation": "Inovasi Nilai (Value Innovation) dalam BOS terjadi ketika perusahaan mengejar diferensiasi DAN biaya rendah sekaligus.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q304",
+      "question": "Kerangka kerja 4 Aksi (Four Action Framework) dalam BOS terdiri dari...",
+      "options": [
+        "Eliminate, Reduce, Raise, Create",
+        "Plan, Do, Check, Act",
+        "Strengths, Weaknesses, Opportunities, Threats",
+        "Product, Price, Place, Promotion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Untuk membuat kurva nilai baru, perusahaan harus Menghapuskan, Mengurangi, Meningkatkan, dan Menciptakan faktor-faktor tertentu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q305",
+      "question": "Kanvas Strategi (Strategy Canvas) adalah alat diagnostik untuk...",
+      "options": [
+        "Menggambar logo perusahaan",
+        "Memetakan lanskap persaingan saat ini dan kurva nilai perusahaan",
+        "Menghitung laporan keuangan",
+        "Membuat jadwal kerja karyawan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kanvas Strategi memvisualisasikan faktor-faktor kompetisi industri dan posisi penawaran perusahaan dibanding pesaing.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q306",
+      "question": "Cirque du Soleil adalah contoh sukses penerapan BOS karena...",
+      "options": [
+        "Menurunkan harga tiket sirkus",
+        "Menghilangkan unsur hewan dan menggabungkan sirkus dengan teater seni",
+        "Menggunakan lebih banyak badut",
+        "Membeli perusahaan pesaing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mereka menciptakan pasar baru dengan menghilangkan elemen mahal (hewan) dan menambahkan elemen artistik (tema/musik), menarik segmen dewasa.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q307",
+      "question": "Apa tujuan dari 'Problem-Solution Fit'?",
+      "options": [
+        "Memastikan solusi yang ditawarkan benar-benar memecahkan masalah pelanggan yang valid",
+        "Mencari investor",
+        "Membuat desain produk yang indah",
+        "Menetapkan harga jual"
+      ],
+      "correctIndex": 0,
+      "explanation": "Problem-Solution Fit adalah tahap validasi bahwa masalah yang diidentifikasi nyata dan solusi yang dirancang sesuai untuk mengatasinya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q308",
+      "question": "Dalam Kanvas Problem-Solution, blok 'Customer Limitations' menjelaskan...",
+      "options": [
+        "Keterbatasan dana perusahaan",
+        "Apa yang membatasi pelanggan untuk bertindak/menyelesaikan masalah saat ini",
+        "Jumlah maksimal pelanggan",
+        "Batas wilayah pengiriman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Memahami batasan pelanggan (misal: gaptek, tidak punya waktu) membantu merancang solusi yang bisa diadopsi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q309",
+      "question": "Apa itu 'Minimum Viable Product' (MVP)?",
+      "options": [
+        "Produk gagal",
+        "Produk dengan fitur paling dasar yang cukup untuk dilespas ke pasar guna mendapat umpan balik",
+        "Produk paling sempurna",
+        "Produk sampel gratis"
+      ],
+      "correctIndex": 1,
+      "explanation": "MVP digunakan untuk mempercepat proses belajar (learning loop) dengan sumber daya minimal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q310",
+      "question": "Strategi peluncuran produk 'Rapid Skimming' melibatkan...",
+      "options": [
+        "Harga rendah, promosi rendah",
+        "Harga tinggi, promosi tinggi",
+        "Harga rendah, promosi tinggi",
+        "Harga tinggi, promosi rendah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rapid Skimming bertujuan mengambil profit tinggi cepat dengan harga mahal dan promosi gencar untuk membangun awareness.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q311",
+      "question": "Kesalahan umum saat peluncuran produk baru adalah, KECUALI...",
+      "options": [
+        "Gagal memahami kebutuhan pelanggan",
+        "Menetapkan harga yang salah",
+        "Melakukan uji coba pasar (market testing)",
+        "Persiapan yang buruk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Uji coba pasar adalah langkah yang BENAR dan dianjurkan, bukan kesalahan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q312",
+      "question": "Apa definisi Kepemimpinan (Leadership) menurut Bass (1990)?",
+      "options": [
+        "Interaksi antar anggota kelompok di mana pemimpin adalah agen perubahan yang mempengaruhi orang lain",
+        "Kemampuan berbicara di depan umum",
+        "Posisi jabatan tertinggi di perusahaan",
+        "Kekuasaan mutlak atas bawahan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kepemimpinan adalah proses pengaruh sosial untuk memodifikasi motivasi atau kompetensi orang lain.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q313",
+      "question": "Gaya kepemimpinan 'Transformasional' dicirikan oleh...",
+      "options": [
+        "Fokus pada imbalan dan hukuman (transaksi)",
+        "Pemimpin yang menginspirasi anggota untuk mencapai tujuan lebih tinggi dan melampaui kepentingan pribadi",
+        "Pemimpin yang pasif",
+        "Fokus hanya pada tugas teknis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pemimpin transformasional memotivasi lewat visi, inspirasi, dan pengembangan individu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q314",
+      "question": "Apa yang dimaksud dengan 'Shared Leadership'?",
+      "options": [
+        "Satu pemimpin memegang semua kekuasaan",
+        "Proses pengaruh dinamis di mana kepemimpinan dibagi di antara anggota tim sesuai keahlian",
+        "Pergantian pemimpin setiap bulan",
+        "Tidak ada pemimpin sama sekali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shared leadership melibatkan distribusi peran pemimpin kepada anggota tim (lateral influence) untuk efektivitas di era kompleks.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q315",
+      "question": "Salah satu kesalahan umum dalam pembentukan tim usaha baru adalah...",
+      "options": [
+        "Merekrut berdasarkan kompetensi",
+        "Menempatkan teman/keluarga yang tidak kompeten di posisi manajemen",
+        "Mencari dewan penasihat",
+        "Membuat rencana SDM yang jelas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nepotisme tanpa kualifikasi sering menjadi penyebab kegagalan startup karena kurangnya profesionalisme.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q316",
+      "question": "Tahapan pembentukan tim 'Storming' ditandai dengan...",
+      "options": [
+        "Kerja sama yang mulus",
+        "Konflik dan perdebatan antar anggota tim",
+        "Pembubaran tim",
+        "Kinerja puncak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Storming adalah fase gejolak emosi dan konflik peran sebelum norma tim terbentuk.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q317",
+      "question": "Tahap di mana tim mulai bekerja efektif, memiliki struktur jelas, dan fokus pada pencapaian tujuan disebut...",
+      "options": ["Forming", "Storming", "Norming", "Performing"],
+      "correctIndex": 3,
+      "explanation": "Performing adalah tahap kematangan tim di mana produktivitas tinggi tercapai.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q318",
+      "question": "Job Description (Uraian Jabatan) berfungsi untuk...",
+      "options": [
+        "Menghukum karyawan",
+        "Menjelaskan tanggung jawab, tugas, dan wewenang suatu posisi secara tertulis",
+        "Mencatat jam masuk kantor",
+        "Menentukan menu makan siang"
+      ],
+      "correctIndex": 1,
+      "explanation": "Job description memberikan kejelasan peran bagi karyawan agar organisasi berjalan terstruktur.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q319",
+      "question": "Produk 'Convenience Goods' memiliki karakteristik...",
+      "options": [
+        "Harga mahal, jarang dibeli",
+        "Frekuensi pembelian tinggi, harga relatif murah, usaha pembelian minimal",
+        "Membutuhkan perbandingan harga yang ketat",
+        "Barang mewah dan unik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contoh convenience goods adalah sabun, pasta gigi, atau beras (barang kebutuhan sehari-hari).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q320",
+      "question": "Apa itu 'Brand Equity' (Ekuitas Merek)?",
+      "options": [
+        "Harga saham perusahaan",
+        "Nilai tambah yang diberikan merek pada produk (kekuatan merek)",
+        "Biaya pembuatan logo",
+        "Jumlah cabang toko"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ekuitas merek adalah aset intangible yang membuat produk bermerek bernilai lebih tinggi dibanding produk tanpa merek.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q321",
+      "question": "Tingkatan kesadaran merek tertinggi (Top of Mind) artinya...",
+      "options": [
+        "Konsumen tidak tahu merek tersebut",
+        "Merek tersebut adalah yang pertama kali diingat konsumen saat kategori produk disebutkan",
+        "Konsumen butuh bantuan untuk mengingat merek",
+        "Merek tersebut paling mahal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Top of Mind menunjukkan dominasi merek dalam ingatan konsumen (misal: sebut air mineral, ingat Aqua).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q322",
+      "question": "Model AIDA dalam pemasaran digital terdiri dari...",
+      "options": [
+        "Attention, Information, Decision, Action",
+        "Awareness, Interest, Desire, Action",
+        "Action, Interest, Desire, Awareness",
+        "Association, Innovation, Design, Action"
+      ],
+      "correctIndex": 1,
+      "explanation": "AIDA adalah alur komunikasi pemasaran: membangun kesadaran, ketertarikan, keinginan, hingga tindakan pembelian.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q323",
+      "question": "Strategi pemasaran 'Pull' (Tarik) di era digital dilakukan dengan...",
+      "options": [
+        "Mengirim spam email massal",
+        "Menyediakan konten bermanfaat di website/medsos agar konsumen mencari dan datang sendiri",
+        "Memaksa konsumen melihat iklan",
+        "Telemarketing agresif"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pull marketing menarik konsumen secara sukarela melalui konten relevan (inbound marketing).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q324",
+      "question": "Diferensiasi 'Citra' (Image Differentiation) berarti...",
+      "options": [
+        "Membedakan fisik produk",
+        "Membangun persepsi/image unik di benak konsumen yang membedakan dari pesaing",
+        "Mempekerjakan karyawan lebih pintar",
+        "Memberikan layanan purna jual"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diferensiasi citra berkaitan dengan branding, simbol, dan asosiasi emosional.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q325",
+      "question": "Apa keuntungan utama 'Email Marketing' yang mematuhi etika?",
+      "options": [
+        "Bisa mengirim virus",
+        "Biaya murah dan bisa dipersonalisasi ke target spesifik",
+        "Pasti dibaca semua orang",
+        "Tidak butuh internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Email marketing efektif untuk retensi pelanggan dan promosi dengan biaya rendah jika dilakukan dengan izin (permission based).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q326",
+      "question": "Pemasaran 'Omni-Channel' bertujuan untuk...",
+      "options": [
+        "Hanya berjualan di toko fisik",
+        "Mengintegrasikan pengalaman belanja online dan offline secara mulus (seamless)",
+        "Menutup website perusahaan",
+        "Hanya fokus pada satu saluran medsos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Omni-channel memastikan konsumen mendapat pengalaman yang konsisten baik saat di toko, di web, atau di aplikasi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q327",
+      "question": "Dalam Blue Ocean Strategy, fokus utamanya adalah pada...",
+      "options": ["Kompetisi", "Inovasi Nilai", "Imitasi", "Status Quo"],
+      "correctIndex": 1,
+      "explanation": "Inovasi nilai adalah batu penjuru BOS, fokus pada menaikkan nilai bagi pembeli sekaligus menurunkan biaya.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q328",
+      "question": "Pasar 'Red Ocean' ditandai dengan...",
+      "options": [
+        "Pertumbuhan profit tinggi",
+        "Persaingan harga yang ketat dan komoditisasi produk",
+        "Tidak ada pesaing",
+        "Permintaan baru yang diciptakan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Di laut merah, produk menjadi komoditas dan persaingan harga menghancurkan margin laba.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q329",
+      "question": "Apa itu 'Product-Market Fit'?",
+      "options": [
+        "Kondisi di mana produk memenuhi kebutuhan pasar yang kuat",
+        "Kondisi produk gagal di pasar",
+        "Produk yang hanya disukai pendiri",
+        "Pasar yang tidak memiliki produk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Product-Market Fit adalah bukti bahwa startup telah menemukan pelanggan yang tepat untuk solusi yang tepat.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q330",
+      "question": "Tipe kepemimpinan 'Transaksional' berfokus pada...",
+      "options": [
+        "Visi jangka panjang",
+        "Pertukaran imbalan (reward) dan hukuman (punishment) untuk kepatuhan",
+        "Pemberdayaan tim",
+        "Karisma pemimpin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kepemimpinan transaksional berbasis pada sistem manajemen baku: kerjakan tugas, dapat gaji/bonus; gagal, dapat sanksi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q331",
+      "question": "Elemen 'Key Employees' dalam tim pendirian usaha merujuk pada...",
+      "options": [
+        "Semua karyawan",
+        "Karyawan kunci yang memiliki keahlian vital dan dampak besar bagi kesuksesan awal usaha",
+        "Karyawan magang",
+        "Petugas kebersihan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Key employees (seperti CTO, Head of Sales) adalah pilar operasional startup selain founder.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q332",
+      "question": "Tujuan dari 'Brand Association' adalah...",
+      "options": [
+        "Membuat logo yang rumit",
+        "Menciptakan ingatan/kesan positif yang melekat pada merek di benak konsumen",
+        "Menurunkan harga",
+        "Menghapus merek pesaing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Asosiasi merek (misal: Volvo = Aman, Nike = Atletis) membantu konsumen memproses informasi dan membedakan merek.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q333",
+      "question": "Apa fungsi 'Dewan Penasihat' (Board of Advisors) bagi startup?",
+      "options": [
+        "Mengambil alih perusahaan",
+        "Memberikan saran, bimbingan, dan akses jaringan tanpa wewenang hukum mengikat",
+        "Mengelola operasional harian",
+        "Meminjamkan uang"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dewan penasihat bersifat informal dan membantu mengisi kesenjangan pengetahuan pendiri.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q334",
+      "question": "Strategi penetapan harga 'Penetrasi' (Penetration Pricing) bertujuan untuk...",
+      "options": [
+        "Mengambil untung besar di awal",
+        "Masuk pasar dengan harga rendah untuk merebut pangsa pasar dengan cepat",
+        "Menjual barang eksklusif",
+        "Mempertahankan harga tinggi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Penetrasi harga mengorbankan margin awal demi volume penjualan dan pangsa pasar yang besar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q335",
+      "question": "Dalam siklus hidup tim, tahap 'Adjourning' berarti...",
+      "options": [
+        "Tim sedang berkonflik",
+        "Tim dibubarkan karena tugas selesai (perpisahan)",
+        "Tim baru dibentuk",
+        "Tim sedang bekerja keras"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adjourning adalah tahap akhir, biasanya terjadi pada tim proyek yang memiliki batas waktu.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q336",
+      "question": "Barang 'Specialty Goods' (Barang Spesial) adalah...",
+      "options": [
+        "Barang sehari-hari",
+        "Barang unik/mewah di mana konsumen rela melakukan usaha khusus untuk membelinya",
+        "Barang murah",
+        "Barang yang dibeli impulsif"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contoh: Mobil sport, kamera profesional, jam tangan mewah. Konsumen tidak peduli jarak/harga.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q337",
+      "question": "Salah satu manfaat utama pemasaran digital adalah 'Measurability', yang artinya...",
+      "options": [
+        "Biaya mahal",
+        "Hasil pemasaran dapat diukur secara akurat dengan data (klik, konversi, views)",
+        "Tidak bisa diukur",
+        "Hanya berdasarkan perkiraan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Digital marketing menyediakan analitik data yang presisi untuk mengukur ROI.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q338",
+      "question": "Apa itu 'Private Brand' (Merek Pribadi/Toko)?",
+      "options": [
+        "Merek milik produsen nasional",
+        "Merek yang dimiliki oleh distributor/peritel (contoh: Indomaret brand)",
+        "Merek tanpa nama",
+        "Merek bajakan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Private brand adalah produk yang diberi merek oleh toko/distributor, bukan oleh pabrik pembuatnya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q339",
+      "question": "Dalam BOS, aksi 'Create' (Ciptakan) bertujuan untuk...",
+      "options": [
+        "Menciptakan faktor baru yang belum pernah ditawarkan industri sebelumnya",
+        "Menciptakan logo baru",
+        "Menciptakan konflik",
+        "Menciptakan utang"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ini adalah kunci inovasi nilai: menawarkan sesuatu yang benar-benar baru untuk menarik non-konsumen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q340",
+      "question": "Gaya kepemimpinan 'Berorientasi pada Tugas' lebih cocok digunakan saat...",
+      "options": [
+        "Tim membutuhkan dukungan emosional",
+        "Situasi krisis atau membutuhkan penyelesaian tugas teknis yang cepat dan terstandar",
+        "Membangun kreativitas",
+        "Meningkatkan moral karyawan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gaya ini efektif untuk efisiensi dan ketepatan waktu, meski bisa mengabaikan aspek manusia.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q341",
+      "question": "Pemasaran 'Push Strategy' di era digital contohnya adalah...",
+      "options": [
+        "Membuat blog edukasi",
+        "Mengirim notifikasi SMS atau Email promo langsung ke perangkat konsumen",
+        "Menunggu konsumen datang",
+        "SEO (Search Engine Optimization)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Push strategy 'mendorong' informasi ke konsumen secara aktif, bukan menunggu mereka mencari.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q342",
+      "question": "Salah satu dimensi 'Shared Leadership' adalah...",
+      "options": [
+        "Tujuan bersama dan dukungan sosial",
+        "Kompetisi internal",
+        "Rahasia antar anggota",
+        "Otoritas tunggal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shared leadership membutuhkan visi yang sama dan saling dukung antar anggota tim.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q343",
+      "question": "Mengapa 'Brand Loyalty' penting bagi perusahaan?",
+      "options": [
+        "Agar terlihat keren",
+        "Mengurangi biaya pemasaran (retensi lebih murah dari akuisisi) dan menjamin pendapatan masa depan",
+        "Agar bisa memecat tim marketing",
+        "Tidak ada manfaatnya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loyalitas menciptakan arus kas stabil dan efisiensi biaya yang tinggi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q344",
+      "question": "Apa yang dimaksud dengan 'Positioning' produk?",
+      "options": [
+        "Menaruh produk di rak paling atas",
+        "Menanamkan persepsi khusus tentang produk di benak konsumen dibanding pesaing",
+        "Lokasi pabrik",
+        "Posisi jabatan manajer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Positioning adalah tentang 'mindshare': bagaimana konsumen mendefinisikan produk Anda (misal: mobil paling aman, sabun paling wangi).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q345",
+      "question": "Dalam rekrutmen tim, 'Analisis Jabatan' dilakukan untuk...",
+      "options": [
+        "Mengetahui hobi pelamar",
+        "Mengumpulkan informasi tentang tugas, kewajiban, dan syarat kompetensi suatu posisi",
+        "Menentukan menu kantin",
+        "Menghitung pajak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Analisis jabatan adalah dasar pembuatan Job Description yang akurat.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q346",
+      "question": "Produk 'Unsought Goods' adalah...",
+      "options": [
+        "Barang yang dicari-cari",
+        "Barang yang tidak diketahui atau tidak terpikir untuk dibeli oleh konsumen (misal: asuransi, batu nisan)",
+        "Barang harian",
+        "Barang diskon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unsought goods membutuhkan upaya pemasaran ekstra karena konsumen tidak memiliki kesadaran atau keinginan intrinsik untuk membelinya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q347",
+      "question": "Strategi 'Diferensiasi Personil' berarti...",
+      "options": [
+        "Membedakan seragam karyawan",
+        "Membangun keunggulan melalui karyawan yang lebih terlatih, ramah, dan kompeten dibanding pesaing",
+        "Mengurangi jumlah karyawan",
+        "Mengganti karyawan dengan robot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kualitas layanan SDM (seperti di Singapore Airlines) bisa menjadi pembeda utama merek.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q348",
+      "question": "Apa itu 'Content Marketing'?",
+      "options": [
+        "Iklan baris di koran",
+        "Strategi membuat dan mendistribusikan konten yang relevan/bernilai untuk menarik audiens",
+        "Menjual konten",
+        "Membayar influencer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Content marketing berfokus pada memberi nilai edukasi/hiburan (soft selling) daripada jualan langsung (hard selling).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q349",
+      "question": "Dalam BOS, 'Eliminate' (Hapuskan) bertujuan untuk...",
+      "options": [
+        "Menghapus pesaing",
+        "Menghilangkan faktor-faktor industri yang tidak lagi memberikan nilai bagi pelanggan (pemborosan)",
+        "Menghapus diskon",
+        "Menghapus departemen HRD"
+      ],
+      "correctIndex": 1,
+      "explanation": "Banyak faktor kompetisi industri yang sebenarnya tidak dipedulikan pelanggan; menghapusnya akan menurunkan biaya drastis.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q350",
+      "question": "Apa fungsi utama 'Brand Awareness' dalam keputusan pembelian?",
+      "options": [
+        "Tidak ada fungsi",
+        "Sebagai syarat agar produk masuk dalam pertimbangan pembelian konsumen",
+        "Hanya untuk gaya",
+        "Menaikkan biaya produksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konsumen tidak akan membeli produk yang tidak mereka kenal atau sadari keberadaannya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q351",
+      "question": "Tahap 'Forming' dalam pembentukan tim ditandai oleh...",
+      "options": [
+        "Konflik tinggi",
+        "Perkenalan anggota, sopan santun, dan ketidakjelasan peran",
+        "Kinerja tinggi",
+        "Perpisahan tim"
+      ],
+      "correctIndex": 1,
+      "explanation": "Forming adalah tahap awal orientasi di mana anggota masih meraba-raba situasi dan bersikap formal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q352",
+      "question": "Salah satu indikator keberhasilan 'Engagement Marketing' adalah...",
+      "options": [
+        "Jumlah spam yang dikirim",
+        "Tingkat interaksi pelanggan (like, share, comment) dan loyalitas jangka panjang",
+        "Jumlah stok barang",
+        "Jumlah karyawan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Engagement mengukur seberapa dalam hubungan emosional pelanggan dengan merek.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q353",
+      "question": "Apa yang dimaksud dengan 'Target Pasar' (Targeting)?",
+      "options": [
+        "Semua orang di dunia",
+        "Proses mengevaluasi dan memilih satu atau lebih segmen pasar untuk dimasuki",
+        "Menembak sasaran",
+        "Menjual barang sisa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Targeting adalah langkah lanjutan setelah segmentasi untuk fokus pada kelompok yang paling menguntungkan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q354",
+      "question": "Karakteristik 'Servant Leadership' (Kepemimpinan yang Melayani) adalah...",
+      "options": [
+        "Pemimpin minta dilayani bawahan",
+        "Pemimpin fokus pada pertumbuhan dan kesejahteraan anggota timnya di atas kepentingan diri sendiri",
+        "Pemimpin otoriter",
+        "Pemimpin tidak punya visi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konsep ini menekankan bahwa tugas pemimpin adalah melayani tim agar tim bisa bekerja maksimal.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q355",
+      "question": "Dalam strategi merek, 'Perceived Quality' berdampak pada...",
+      "options": [
+        "Penurunan harga saham",
+        "Alasan pembelian konsumen dan kemampuan menetapkan harga premium",
+        "Kualitas mesin pabrik",
+        "Jumlah komplain"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jika persepsi kualitas tinggi, konsumen bersedia membayar lebih mahal dan lebih percaya diri membeli.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q356",
+      "question": "Apa itu 'SaaS' (Software as a Service) yang sering digunakan startup?",
+      "options": [
+        "Jual beli hardware",
+        "Layanan perangkat lunak berbasis langganan yang diakses via cloud/internet",
+        "Servis komputer rusak",
+        "Pembuatan website sekali bayar"
+      ],
+      "correctIndex": 1,
+      "explanation": "SaaS adalah model bisnis digital populer (contoh: Google Drive, Zoom, Urbanhire) dengan pendapatan berulang.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q357",
+      "question": "Dalam menyusun Job Description, bagian 'Spesifikasi Pekerjaan' berisi...",
+      "options": [
+        "Sejarah perusahaan",
+        "Persyaratan kualifikasi (pendidikan, keahlian, pengalaman) yang harus dimiliki pelamar",
+        "Jam makan siang",
+        "Lokasi parkir"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spesifikasi pekerjaan (Job Spec) fokus pada syarat manusianya (human requirements).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q358",
+      "question": "Salah satu keunggulan media sosial untuk UKM adalah...",
+      "options": [
+        "Biaya mahal",
+        "Targeting audiens yang spesifik dan interaksi langsung",
+        "Sulit digunakan",
+        "Hanya untuk anak muda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Medsos memungkinkan UKM menjangkau pasar niche dengan biaya rendah dan feedback instan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q359",
+      "question": "Apa yang dimaksud dengan 'Digital Leadership'?",
+      "options": [
+        "Pemimpin yang bisa coding",
+        "Kepemimpinan yang mampu mengarahkan transformasi digital dan memanfaatkan aset digital untuk tujuan bisnis",
+        "Pemimpin robot",
+        "Kepemimpinan lewat email saja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Digital leadership adalah tentang mindset dan kemampuan strategis mengelola perubahan di era teknologi.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q360",
+      "question": "Dalam konteks merek, 'Brand Recognition' adalah...",
+      "options": [
+        "Konsumen tidak tahu merek",
+        "Kemampuan konsumen mengenali merek saat melihatnya (misal: di rak toko)",
+        "Konsumen membenci merek",
+        "Konsumen lupa merek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Recognition (pengenalan) adalah tingkat dasar kesadaran merek di mana bantuan visual memicu ingatan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q361",
+      "question": "Pasar Monopsoni adalah pasar di mana...",
+      "options": [
+        "Hanya ada satu penjual",
+        "Hanya ada satu pembeli dominan yang menguasai banyak penjual",
+        "Banyak pembeli dan penjual",
+        "Tidak ada transaksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Monopsoni (kebalikan monopoli) terjadi ketika pembeli tunggal punya kekuatan mendikte harga kepada para suplier.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q362",
+      "question": "Manfaat utama 'Networking' bagi pendiri startup adalah...",
+      "options": [
+        "Mendapat makan gratis",
+        "Akses ke sumber daya, mentor, investor, dan peluang kemitraan",
+        "Membuang waktu",
+        "Pamer kartu nama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jejaring (network) adalah modal sosial vital untuk pertumbuhan usaha baru.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q363",
+      "question": "Strategi 'Pemasaran Terpusat' (Niche Marketing) cocok untuk...",
+      "options": [
+        "Perusahaan raksasa dengan dana tak terbatas",
+        "Perusahaan kecil dengan sumber daya terbatas yang ingin menguasai segmen spesifik",
+        "Menjual produk massal",
+        "Mengabaikan segmentasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fokus pada satu ceruk pasar (niche) memungkinkan efisiensi sumber daya dan dominasi pasar di segmen tersebut.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q364",
+      "question": "Dalam BOS, kurva nilai (Value Curve) menggambarkan...",
+      "options": [
+        "Grafik keuntungan perusahaan",
+        "Kinerja relatif perusahaan pada faktor-faktor kunci kompetisi dibanding industri",
+        "Jumlah karyawan",
+        "Kurva permintaan ekonomi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kurva nilai adalah representasi grafis dari strategi perusahaan di kanvas strategi.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q365",
+      "question": "Fungsi 'Dewan Direksi' (Board of Directors) dalam perseroan terbatas adalah...",
+      "options": [
+        "Hanya formalitas",
+        "Mewakili pemegang saham untuk mengawasi manajemen perusahaan dan keputusan strategis",
+        "Bekerja sebagai staf admin",
+        "Menjadi supplier"
+      ],
+      "correctIndex": 1,
+      "explanation": "Direksi memiliki tanggung jawab hukum (fiduciary duty) untuk mengelola perusahaan demi kepentingan pemegang saham.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q366",
+      "question": "Apa itu 'Private Label' dalam strategi produk?",
+      "options": [
+        "Merek rahasia",
+        "Produk yang diproduksi pihak lain tapi dijual dengan merek pengecer/toko sendiri",
+        "Barang selundupan",
+        "Produk tanpa kemasan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Private label (merek toko) memberikan margin lebih tinggi bagi peritel dan harga lebih murah bagi konsumen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q367",
+      "question": "Dalam 9 Blok BMC, 'Key Resources' meliputi aset...",
+      "options": [
+        "Fisik, Intelektual, Manusia, Finansial",
+        "Hanya Uang",
+        "Hanya Gedung",
+        "Hanya Paten"
+      ],
+      "correctIndex": 0,
+      "explanation": "Key Resources mencakup semua jenis aset yang dibutuhkan untuk membuat model bisnis berfungsi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q368",
+      "question": "Pemasaran Internet (E-Marketing) mencakup penggunaan...",
+      "options": [
+        "Hanya website",
+        "Email, web, media sosial, dan data digital untuk mencapai tujuan pemasaran",
+        "Hanya iklan banner",
+        "Hanya jualan di WhatsApp"
+      ],
+      "correctIndex": 1,
+      "explanation": "E-Marketing adalah integrasi luas teknologi digital untuk strategi pemasaran.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q369",
+      "question": "Ciri khas pemimpin yang 'Menginisiasi Struktur' (Initiating Structure) adalah...",
+      "options": [
+        "Sangat santai",
+        "Menetapkan peran, jadwal, dan standar kerja yang jelas untuk mencapai tujuan tugas",
+        "Hanya peduli perasaan karyawan",
+        "Tidak suka rapat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gaya ini fokus pada pengorganisasian tugas agar efisien dan terstruktur.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q370",
+      "question": "Apa keuntungan menggunakan 'Can-Spam Act' (aturan email) sebagai panduan?",
+      "options": [
+        "Bisa spamming",
+        "Membangun kredibilitas dan menghindari sanksi hukum serta blokir email",
+        "Memaksa orang membaca email",
+        "Menyembunyikan identitas pengirim"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mematuhi etika email marketing (tidak menipu, ada opsi unsubscribe) menjaga reputasi domain pengirim.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q371",
+      "question": "Strategi 'Pemasaran Serba Aneka' (Differentiated Marketing) berarti...",
+      "options": [
+        "Menjual satu produk untuk semua orang",
+        "Menargetkan beberapa segmen pasar dengan penawaran/produk berbeda untuk tiap segmen",
+        "Hanya menargetkan satu segmen kecil",
+        "Tidak melakukan segmentasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contoh: Toyota punya mobil untuk segmen murah (Agya) hingga mewah (Alphard).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q372",
+      "question": "Dalam tim yang efektif, 'Norming' adalah fase di mana...",
+      "options": [
+        "Konflik memuncak",
+        "Aturan dan budaya kerja sama mulai terbentuk dan disepakati",
+        "Tim dibubarkan",
+        "Tidak ada komunikasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Norming menciptakan kohesi (kepaduan) tim setelah melewati konflik.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q373",
+      "question": "Apa itu 'Barang Tahan Lama' (Durable Goods)?",
+      "options": [
+        "Makanan segar",
+        "Barang yang bisa digunakan berulang kali dalam jangka waktu lama (misal: kulkas, mobil)",
+        "Jasa potong rambut",
+        "Barang sekali pakai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Durable goods memiliki masa pakai panjang dan pembeliannya membutuhkan pertimbangan lebih.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q374",
+      "question": "Konsep 'Human Centric Marketing' dalam Marketing 4.0 menekankan...",
+      "options": [
+        "Mengganti manusia dengan robot",
+        "Merek yang berkarakter manusia (punya moralitas, emosi, sosialitas)",
+        "Jual beli manusia",
+        "Marketing manual"
+      ],
+      "correctIndex": 1,
+      "explanation": "Merek di era digital harus 'manusiawi' agar bisa membangun koneksi otentik dengan pelanggan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q375",
+      "question": "Salah satu indikator keberhasilan 'Shared Leadership' adalah...",
+      "options": [
+        "Ketergantungan pada satu figur",
+        "Peningkatan kreativitas, komitmen, dan kepuasan tim karena adanya suara bersama",
+        "Kekacauan organisasi",
+        "Lambatnya pengambilan keputusan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kepemimpinan bersama memberdayakan potensi seluruh anggota tim, memicu inovasi.",
+      "difficulty": "medium"
+    }
+  ]
+}

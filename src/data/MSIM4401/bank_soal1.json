@@ -1,0 +1,2886 @@
+{
+  "id": "bank_soal_full",
+  "title": "Bank Soal Lengkap MSIM4401",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Berdasarkan arsitektur Android OS, manakah komponen yang berfungsi sebagai jembatan antara aplikasi Android di level atas dengan kernel Linux di level bawah?",
+      "options": [
+        "Android Runtime (ART) dan HAL",
+        "Webview dan CSS",
+        "Native API Plugins",
+        "Browser Engine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Runtime Android (ART) dan Hardware Abstraction Layer (HAL) bertindak sebagai jembatan untuk mengakses fitur hardware tingkat rendah yang dikelola oleh kernel Linux",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q2",
+      "question": "Apa perbedaan mendasar antara aplikasi Native dan Hybrid dari sisi eksekusi?",
+      "options": [
+        "Aplikasi Native dijalankan di browser, Hybrid di JVM",
+        "Aplikasi Native dijalankan langsung oleh runtime Android (ART), Hybrid dijalankan di atas WebView",
+        "Aplikasi Native menggunakan HTML, Hybrid menggunakan Java",
+        "Aplikasi Native lebih lambat daripada Hybrid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aplikasi native dijalankan langsung oleh ART (atau Dalvik), sedangkan aplikasi hybrid dijalankan menggunakan engine browser di dalam komponen WebView.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q3",
+      "question": "Manakah di bawah ini yang BUKAN merupakan framework pengembangan aplikasi mobile berbasis Hybrid?",
+      "options": [
+        "Ionic Framework",
+        "Flutter",
+        "Quasar Framework",
+        "Framework7"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flutter dikategorikan sebagai Native karena menggunakan engine C++ sendiri (NDK) untuk menggambar UI, bukan menggunakan WebView seperti framework hybrid lainnya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q4",
+      "question": "Dalam ekosistem Ionic, peran 'Capacitor' adalah...",
+      "options": [
+        "Sebagai framework antarmuka pengganti Angular",
+        "Sebagai kompilator CSS",
+        "Sebagai penyedia jembatan (bridge) untuk mengakses fitur native device",
+        "Sebagai database lokal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Capacitor (seperti Apache Cordova) berfungsi menyediakan akses ke fitur native/level rendah perangkat (kamera, GPS, dll) bagi aplikasi hybrid.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q5",
+      "question": "Mengapa TypeScript disebut sebagai 'superset' dari JavaScript?",
+      "options": [
+        "Karena TypeScript menghapus semua fitur JavaScript",
+        "Karena semua sintaks JavaScript yang valid juga valid di TypeScript",
+        "Karena TypeScript hanya berjalan di server Windows",
+        "Karena TypeScript tidak memerlukan kompilasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "TypeScript adalah superset dari JavaScript, artinya semua sintaks JavaScript adalah valid di TypeScript, namun TypeScript menambahkan fitur seperti static typing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "Apa keuntungan utama menggunakan 'Static Typing' pada TypeScript dibandingkan JavaScript standar?",
+      "options": [
+        "Membuat aplikasi berjalan lebih cepat di browser",
+        "Mencegah error saat runtime dengan pengecekan tipe data saat kompilasi",
+        "Menghilangkan kebutuhan akan file HTML",
+        "Memungkinkan penggunaan database SQL secara langsung"
+      ],
+      "correctIndex": 1,
+      "explanation": "Static typing mencegah error saat runtime karena kompilator akan memeriksa kesalahan tipe data sebelum program dijalankan",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q7",
+      "question": "Perhatikan kode berikut: `let x: number = 10; x = 'sepuluh';`. Apa yang akan terjadi saat dikompilasi?",
+      "options": [
+        "Variabel x berubah menjadi string",
+        "Kompilator akan mengeluarkan error ketidaksesuaian tipe data",
+        "Nilai x menjadi null",
+        "Program berjalan normal tanpa peringatan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Karena TypeScript menggunakan static typing, variabel yang dideklarasikan sebagai number tidak bisa diisi dengan string, sehingga akan muncul error saat kompilasi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q8",
+      "question": "Tipe data TypeScript manakah yang digunakan jika kita tidak mengetahui jenis tipe datanya saat coding dan ingin melewati pengecekan tipe?",
+      "options": ["void", "never", "any", "string"],
+      "correctIndex": 2,
+      "explanation": "Tipe data 'any' menyimpan tipe data apa saja dan tidak dilakukan pemeriksaan tipe oleh TypeScript",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "Apa fungsi dari perintah `tsc` pada command line?",
+      "options": [
+        "Menjalankan server Node.js",
+        "Mengunduh paket dari npm",
+        "Mengkompilasi kode TypeScript menjadi JavaScript",
+        "Membuat proyek Ionic baru"
+      ],
+      "correctIndex": 2,
+      "explanation": "`tsc` adalah perintah untuk memanggil kompilator TypeScript yang mengubah file .ts menjadi .js.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "Manakah cara penulisan Arrow Function yang benar di TypeScript?",
+      "options": [
+        "function add(a, b) { return a + b }",
+        "let add = (a: number, b: number): number => a + b",
+        "def add(a, b) => return a + b",
+        "func add = (a, b) -> a + b"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arrow function menggunakan tanda `=>`. Contoh yang benar: `let add = (a: number, b: number): number => a + b`",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q11",
+      "question": "Apa perbedaan utama antara `interface` dan `class` dalam TypeScript?",
+      "options": [
+        "Interface bisa diinstansiasi dengan `new`, class tidak",
+        "Interface hanya berupa kontrak definisi tanpa implementasi kode, class memiliki implementasi",
+        "Class hanya untuk data string, Interface untuk number",
+        "Tidak ada perbedaan, keduanya sama persis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Interface adalah struktur kontrak untuk definisi data/fungsi tanpa implementasi, sedangkan class adalah cetak biru yang bisa diinstansiasi dan memiliki method yang terimplementasi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q12",
+      "question": "Dalam konsep OOP TypeScript, access modifier `protected` pada sebuah properti berarti...",
+      "options": [
+        "Properti bisa diakses dari mana saja (public)",
+        "Properti hanya bisa diakses di dalam class itu sendiri",
+        "Properti bisa diakses di class itu sendiri dan class turunannya (subclass)",
+        "Properti bersifat read-only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Modifier `protected` berarti anggota tersebut dapat diakses dari class yang mendefinisikannya dan juga class turunannya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q13",
+      "question": "Fungsi Generics `<T>` pada TypeScript berguna untuk...",
+      "options": [
+        "Membuat fungsi khusus hanya untuk tipe data Text",
+        "Membuat komponen reusable yang dapat bekerja dengan berbagai tipe data tanpa kehilangan informasi tipe",
+        "Menghapus tipe data dari memori",
+        "Mengubah semua variabel menjadi string"
+      ],
+      "correctIndex": 1,
+      "explanation": "Generics digunakan untuk membuat kode reusable dengan tidak menetapkan secara kaku jenis tipe data di depan, melainkan saat fungsi digunakan (se-generik mungkin).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q14",
+      "question": "Teknik pemrograman yang memungkinkan proses berjalan di latar belakang tanpa menghentikan alur utama program disebut...",
+      "options": [
+        "Synchronous Programming",
+        "Blocking I/O",
+        "Asynchronous Programming",
+        "Linear Programming"
+      ],
+      "correctIndex": 2,
+      "explanation": "Asynchronous programming (Non-blocking I/O) memungkinkan proses tetap berjalan di alur utama meskipun ada proses lain yang memakan waktu lama.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "Objek `Promise` dalam JavaScript/TypeScript memiliki dua argumen fungsi callback, yaitu...",
+      "options": [
+        "start dan finish",
+        "resolve dan reject",
+        "true dan false",
+        "try dan catch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Promise menggunakan `resolve` jika proses berhasil (fulfilled) dan `reject` jika terjadi kegagalan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q16",
+      "question": "Untuk menggunakan `await` dalam sebuah fungsi, fungsi tersebut harus dideklarasikan dengan kata kunci...",
+      "options": ["sync", "waitable", "async", "promise"],
+      "correctIndex": 2,
+      "explanation": "Konstruksi async/await mengharuskan kata kunci `async` diletakkan di depan deklarasi function.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "Apa tujuan utama dari `Promise Chaining`?",
+      "options": [
+        "Menjalankan semua promise secara bersamaan",
+        "Membatalkan semua promise",
+        "Merangkai proses berurutan dimana hasil satu proses menjadi input proses berikutnya",
+        "Mengubah promise menjadi synchronous"
+      ],
+      "correctIndex": 2,
+      "explanation": "Promise chaining digunakan untuk merangkai proses, dimana hasil satu proses merupakan input bagi proses berikutnya secara berurutan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q18",
+      "question": "Dalam pengembangan Backend menggunakan TypeScript, framework `Express` menggunakan pola arsitektur...",
+      "options": [
+        "MVVM (Model-View-ViewModel)",
+        "MVC (Model-View-Controller)",
+        "MVP (Model-View-Presenter)",
+        "Microkernel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Express menggunakan pola MVC (Model-View-Controller).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "File konfigurasi `tsconfig.json` pada proyek TypeScript berfungsi untuk...",
+      "options": [
+        "Mengatur dependensi paket npm",
+        "Mengatur konfigurasi kompilator TypeScript (seperti target version, output directory)",
+        "Menyimpan data user",
+        "Mengatur tampilan CSS"
+      ],
+      "correctIndex": 1,
+      "explanation": "File `tsconfig.json` berisi konfigurasi untuk kompilator TypeScript, seperti target JavaScript (ES5), direktori output (outDir), dan direktori root.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q20",
+      "question": "Pada framework Express, bagian yang bertugas menentukan aksi berdasarkan URL yang diakses oleh client adalah...",
+      "options": ["Model", "View", "Router/Route", "Database"],
+      "correctIndex": 2,
+      "explanation": "Express akan mencocokkan request dengan `route`. Jika cocok, request diteruskan ke controller yang sesuai.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q21",
+      "question": "Vue.js dikenal sebagai framework untuk membangun SPA. Apa yang dimaksud dengan SPA?",
+      "options": [
+        "Simple Programming Application",
+        "Single Page Application",
+        "Secure Protocol Access",
+        "System Personal Assistant"
+      ],
+      "correctIndex": 1,
+      "explanation": "SPA adalah singkatan dari Single Page Application, yaitu aplikasi web yang menggunakan satu tampilan halaman dan tidak berpindah halaman secara fisik saat berinteraksi.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q22",
+      "question": "Metode instalasi Vue yang paling tepat untuk proyek besar dan kompleks (Single Page Application) adalah...",
+      "options": [
+        "Menggunakan CDN (Script Tag)",
+        "Menggunakan Vue CLI",
+        "Copy-paste kode dari internet",
+        "Mengunduh file .zip manual"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vue CLI digunakan untuk mengelola proyek Vue yang kompleks, khususnya SPA, karena menyediakan scaffolding dan manajemen dependensi yang baik.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q23",
+      "question": "Pada struktur proyek Vue yang dibuat dengan CLI, file `main.js` berfungsi sebagai...",
+      "options": [
+        "File untuk menyimpan CSS global",
+        "File entry point utama yang me-mount instan aplikasi ke elemen DOM",
+        "File dokumentasi proyek",
+        "File konfigurasi database"
+      ],
+      "correctIndex": 1,
+      "explanation": "File `main.js` adalah file utama yang membuat instan aplikasi Vue dan menghubungkannya (mount) ke elemen DOM di index.html.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q24",
+      "question": "Fitur 'Rendering Deklaratif' pada Vue memungkinkan pemrogram untuk...",
+      "options": [
+        "Menulis kode Assembly secara langsung",
+        "Mendefinisikan tampilan berbasis template {{ }} dengan memikirkan 'apa yang akan diisi', bukan langkah imperatifnya",
+        "Menggambar grafik pixel demi pixel",
+        "Menghapus elemen DOM secara manual"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rendering deklaratif menggunakan template {{ }} dimana pemrogram mendefinisikan hasil yang diinginkan (what), bukan langkah-langkahnya (how/imperatif).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q25",
+      "question": "Direktif Vue yang digunakan untuk menangani interaksi/event dari pengguna (seperti klik tombol) adalah...",
+      "options": ["v-bind", "v-model", "v-on (atau @)", "v-if"],
+      "correctIndex": 2,
+      "explanation": "Direktif `v-on` (atau shortcut `@`) digunakan untuk meletakkan event listener guna menangani interaksi pemakai.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q26",
+      "question": "Jika kita ingin menampilkan elemen HTML hanya jika suatu kondisi bernilai `true`, direktif apa yang digunakan?",
+      "options": ["v-for", "v-bind", "v-if", "v-html"],
+      "correctIndex": 2,
+      "explanation": "Direktif `v-if` digunakan untuk rendering kondisional, elemen hanya akan dirender jika ekspresi di dalamnya bernilai true.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q27",
+      "question": "Direktif `v-for` digunakan untuk...",
+      "options": [
+        "Membuat link ke halaman lain",
+        "Melakukan perulangan (looping) untuk menampilkan daftar data array",
+        "Mengikat style CSS",
+        "Menangani error"
+      ],
+      "correctIndex": 1,
+      "explanation": "`v-for` digunakan untuk melakukan perulangan (looping) guna mengakses dan menampilkan data dari array.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q28",
+      "question": "Apa fungsi dari `props` pada sebuah komponen Vue?",
+      "options": [
+        "Menyimpan state lokal komponen",
+        "Mendefinisikan atribut kustom/argumen yang dapat diterima oleh komponen dari komponen induknya",
+        "Menghapus komponen dari memori",
+        "Melakukan routing halaman"
+      ],
+      "correctIndex": 1,
+      "explanation": "`Props` adalah atribut kustom yang didaftarkan pada komponen agar bisa menerima data/masukan dari luar (komponen induk).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q29",
+      "question": "Lifecycle hook `mounted()` pada Vue akan dijalankan ketika...",
+      "options": [
+        "Instan aplikasi baru saja dibuat, belum ada DOM",
+        "Data pada komponen berubah",
+        "Komponen/instan telah selesai dipasang (mount) ke elemen DOM",
+        "Komponen akan dihancurkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "`mounted()` adalah lifecycle hook yang dipanggil setelah instan aplikasi atau komponen selesai dipasang ke elemen DOM.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q30",
+      "question": "Apa yang dimaksud dengan `Single File Component` (SFC) dalam Vue?",
+      "options": [
+        "Menulis seluruh aplikasi dalam satu file index.html",
+        "File berekstensi .vue yang mengenkapsulasi template, script, dan style dalam satu file",
+        "File JavaScript yang hanya berisi logika tanpa tampilan",
+        "File CSS tunggal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Single File Component (SFC) adalah file .vue yang menyatukan template, script, dan style dalam satu kesatuan file.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q31",
+      "question": "Untuk melakukan navigasi antar halaman dalam aplikasi Vue (SPA), pustaka resmi yang digunakan adalah...",
+      "options": ["Vuex", "Vue Router", "Axios", "Express"],
+      "correctIndex": 1,
+      "explanation": "Vue Router adalah pustaka resmi untuk mengelola routing dan navigasi pada aplikasi Vue.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q32",
+      "question": "Komponen `<router-view />` pada Vue Router berfungsi untuk...",
+      "options": [
+        "Membuat link navigasi",
+        "Menampilkan komponen yang sesuai dengan rute (URL) yang sedang aktif",
+        "Menyimpan history browser",
+        "Melakukan refresh halaman"
+      ],
+      "correctIndex": 1,
+      "explanation": "`<router-view />` adalah tempat (placeholder) di mana komponen yang cocok dengan rute aktif akan dirender/ditampilkan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q33",
+      "question": "Dalam Vue Router, apa kegunaan dari 'Dynamic Segment' (contoh: `/user/:id`)?",
+      "options": [
+        "Membuat rute yang statis dan tidak bisa berubah",
+        "Menangkap parameter variabel dari URL (misal ID user) ke dalam komponen",
+        "Menyembunyikan URL dari pengguna",
+        "Mengacak URL agar aman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Segmen dinamis (ditandai dengan titik dua, misal `:departemen`) digunakan untuk menangkap parameter/argumen variabel dari URL yang diakses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q34",
+      "question": "Direktif `v-model` pada elemen input form digunakan untuk...",
+      "options": [
+        "Hanya menampilkan nilai data (one-way binding)",
+        "Menciptakan two-way data binding (sinkronisasi dua arah) antara input dan data aplikasi",
+        "Memvalidasi input form",
+        "Mengubah warna input"
+      ],
+      "correctIndex": 1,
+      "explanation": "`v-model` digunakan untuk two-way binding, di mana perubahan di input memperbarui data, dan perubahan data memperbarui input.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q35",
+      "question": "Apa fungsi dari modifier `.prevent` pada event handler (misal `@submit.prevent`)?",
+      "options": [
+        "Menghentikan propagasi event",
+        "Mencegah aksi default browser (seperti reload halaman saat submit form)",
+        "Menjalankan event hanya sekali",
+        "Menangkap event dari elemen anak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Modifier `.prevent` ekuivalen dengan `event.preventDefault()`, yang mencegah aksi default browser terjadi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q36",
+      "question": "Manakah library yang umum digunakan dalam ekosistem TypeScript/Vue untuk melakukan HTTP Request (mengambil data dari API)?",
+      "options": ["Express", "Axios", "Hibernate", "Socket.io"],
+      "correctIndex": 1,
+      "explanation": "Axios adalah pustaka yang digunakan untuk mengambil file atau data dari suatu URL di Internet (HTTP Client).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q37",
+      "question": "Dalam konteks RESTful API, method HTTP `GET` digunakan untuk...",
+      "options": [
+        "Mengirim data baru ke server",
+        "Mengambil/membaca data dari server",
+        "Memperbarui data yang ada",
+        "Menghapus data"
+      ],
+      "correctIndex": 1,
+      "explanation": "HTTP Method `GET` digunakan untuk mengambil (retrieve) data dari server.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q38",
+      "question": "Apa fungsi dari `CORS` (Cross-Origin Resource Sharing) middleware pada sisi backend?",
+      "options": [
+        "Mempercepat koneksi database",
+        "Mengizinkan atau membatasi akses resource dari domain/origin yang berbeda (misal frontend dan backend beda port)",
+        "Mengenkripsi data password",
+        "Mengkompresi data JSON"
+      ],
+      "correctIndex": 1,
+      "explanation": "CORS middleware digunakan untuk menangani izin akses resource dari origin yang berbeda (misalnya frontend di port 8080 mengakses backend di port 4000).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q39",
+      "question": "Decorator `@Component` atau `@Options` dalam TypeScript/Vue class-style component berfungsi untuk...",
+      "options": [
+        "Menghias tampilan tombol",
+        "Menyuntikkan metadata atau mengubah perilaku class agar dikenali sebagai komponen Vue",
+        "Menghapus komponen",
+        "Membuat database"
+      ],
+      "correctIndex": 1,
+      "explanation": "Decorator adalah bentuk deklarasi khusus yang diinjeksi ke deklarasi class untuk mengubah perilaku atau menambahkan metadata, sering digunakan di framework untuk mendefinisikan komponen.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q40",
+      "question": "Langkah pertama dalam algoritma 'Drill Down' untuk memecahkan masalah pemrograman adalah...",
+      "options": [
+        "Langsung menulis kode",
+        "Memecah masalah besar menjadi beberapa masalah yang lebih kecil",
+        "Mencari library di internet",
+        "Melakukan kompilasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pendekatan *drill down* dilakukan dengan memecah suatu masalah besar menjadi beberapa masalah yang lebih kecil supaya lebih mudah dipecahkan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q41",
+      "question": "Perintah `npm init -y` digunakan untuk...",
+      "options": [
+        "Menginstal TypeScript",
+        "Membuat file `package.json` secara otomatis dengan setting default",
+        "Menjalankan server lokal",
+        "Menghapus direktori node_modules"
+      ],
+      "correctIndex": 1,
+      "explanation": "`npm init -y` digunakan untuk inisialisasi proyek Node.js dan membuat `package.json` tanpa perlu menjawab pertanyaan interaktif (default yes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q42",
+      "question": "Dalam arsitektur MVC pada Express, `Controller` bertugas untuk...",
+      "options": [
+        "Menyimpan data ke database secara langsung",
+        "Mengatur tampilan HTML",
+        "Menerima request dari route, memproses logika bisnis, dan mengirimkan respons",
+        "Mendefinisikan URL endpoint"
+      ],
+      "correctIndex": 2,
+      "explanation": "Controller melakukan proses bisnis dan logika tertentu setelah menerima request dari route, kemudian mengirimkan hasilnya (misal JSON).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q43",
+      "question": "Tipe data `tuple` pada TypeScript adalah...",
+      "options": [
+        "Array dengan panjang bebas dan tipe data sembarang",
+        "Array dengan jumlah elemen tetap dan tipe data yang sudah ditentukan urutannya",
+        "Tipe data untuk objek JSON",
+        "Tipe data untuk angka desimal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tuple seperti array, tetapi jumlahnya sudah pasti dan dengan tipe data tertentu yang boleh berbeda-beda pada urutan yang ditentukan",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q44",
+      "question": "Apa yang dimaksud dengan `Hoisting` dalam JavaScript/TypeScript?",
+      "options": [
+        "Kemampuan mengangkat beban server",
+        "Perilaku interpreter memindahkan deklarasi variabel/fungsi ke bagian paling atas scope sebelum dieksekusi",
+        "Teknik kompresi kode",
+        "Cara penulisan komentar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hoisting adalah kemampuan kompilator untuk memindahkan semua definisi (deklarasi) ke bagian atas sebelum program dijalanka.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q45",
+      "question": "Jika kita ingin membuat variabel yang nilainya TETAP dan tidak bisa diubah setelah inisialisasi, kita menggunakan...",
+      "options": ["var", "let", "const", "static"],
+      "correctIndex": 2,
+      "explanation": "`const` digunakan untuk variabel yang sekali dideklarasikan tidak dapat diubah nilainya",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q46",
+      "question": "Manakah sintaks yang benar untuk mendefinisikan interface 'IPerson'?",
+      "options": [
+        "class IPerson { name: string }",
+        "interface IPerson { name: string; age: number; }",
+        "def interface IPerson = { name: string }",
+        "type IPerson is { name: string }"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sintaks yang benar menggunakan kata kunci `interface` diikuti nama dan blok definisi properti. Contoh: `interface IPerson { ... }`",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q47",
+      "question": "Dalam TypeScript OOP, kata kunci `super()` pada constructor subclass digunakan untuk...",
+      "options": [
+        "Membuat instance menjadi superuser",
+        "Memanggil constructor dari class induk (parent class)",
+        "Menghapus class induk",
+        "Mendefinisikan variabel global"
+      ],
+      "correctIndex": 1,
+      "explanation": "Penggunaan `super()` dalam constructor subclass berarti memanggil constructor dari class induknya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q48",
+      "question": "Apa output dari kode: `console.log(typeof null)` pada JavaScript/TypeScript?",
+      "options": ["'null'", "'undefined'", "'object'", "'number'"],
+      "correctIndex": 2,
+      "explanation": "Dalam JavaScript (dan TypeScript), `typeof null` secara historis mengembalikan 'object'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q49",
+      "question": "Untuk menangani error pada blok `async/await`, struktur yang disarankan adalah...",
+      "options": ["if-else", "try-catch", "switch-case", "for-loop"],
+      "correctIndex": 1,
+      "explanation": "Dalam konstruksi async/await, penanganan error (reject) dilakukan dengan meletakkan await dalam blok `try...catch`.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q50",
+      "question": "Paket `nodemon` berguna untuk...",
+      "options": [
+        "Membuat database MongoDB",
+        "Me-restart aplikasi Node.js secara otomatis setiap kali ada perubahan file",
+        "Mengelola routing",
+        "Melakukan testing otomatis"
+      ],
+      "correctIndex": 1,
+      "explanation": "`nodemon` digunakan saat pengembangan untuk me-restart aplikasi secara otomatis saat file berubah.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q51",
+      "question": "Apa itu `Web Components` dalam konteks Ionic?",
+      "options": [
+        "Komponen hardware server",
+        "Komponen siap pakai untuk tampilan antarmuka yang standar dan reusable",
+        "Plugin untuk browser",
+        "Kabel jaringan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Web Components adalah komponen siap pakai untuk tampilan antarmuka dengan menggunakan standar web",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q52",
+      "question": "Manakah perintah untuk membuat proyek baru menggunakan Vue CLI?",
+      "options": [
+        "npm install vue",
+        "vue create nama-proyek",
+        "node vue start",
+        "git clone vue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perintah `vue create <nama-proyek>` digunakan untuk membuat proyek baru dengan Vue CLI.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q53",
+      "question": "Direktif `v-bind` (atau `:`) digunakan untuk...",
+      "options": [
+        "Mengikat (binding) atribut elemen HTML dengan data/ekspresi Vue",
+        "Melakukan looping",
+        "Membuat event listener",
+        "Menampilkan teks biasa"
+      ],
+      "correctIndex": 0,
+      "explanation": "`v-bind` digunakan untuk mengikat nilai data dengan atribut elemen (seperti src, href, class, style) pada template 3.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q54",
+      "question": "Apa fungsi folder `node_modules` dalam proyek Node.js/Vue?",
+      "options": [
+        "Menyimpan kode sumber aplikasi kita",
+        "Menyimpan semua paket pustaka/dependensi yang diunduh oleh npm",
+        "Menyimpan file hasil kompilasi",
+        "Menyimpan file konfigurasi git"
+      ],
+      "correctIndex": 1,
+      "explanation": "Direktori `node_modules` digunakan untuk menyimpan berbagai paket pustaka yang diperlukan oleh proyek.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q55",
+      "question": "Apa yang dimaksud dengan `Isomorphic` dalam konteks JavaScript/TypeScript?",
+      "options": [
+        "Kode yang hanya berjalan di browser Chrome",
+        "Kode yang dapat dijalankan baik di sisi client (frontend) maupun server (backend)",
+        "Kode yang berbentuk segitiga",
+        "Kode yang terenkripsi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Isomorphic berarti bahasa/kode tersebut dapat digunakan pada sisi client maupun server.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q56",
+      "question": "Dalam pola arsitektur RESTful API, status code `200` menandakan...",
+      "options": [
+        "Not Found (Data tidak ditemukan)",
+        "Internal Server Error",
+        "OK (Request berhasil)",
+        "Unauthorized (Tidak memiliki akses)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Meskipun tidak eksplisit di teks, ini adalah pengetahuan dasar REST yang tersirat dalam keberhasilan request. Namun berdasarkan modul, ketika akses endpoint berhasil, data dikirim (menyiratkan status OK 200).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q57",
+      "question": "Perbedaan `var` dan `let` dalam hal scope (ruang lingkup) adalah...",
+      "options": [
+        "var memiliki block scope, let memiliki function scope",
+        "let memiliki block scope, var memiliki function scope (atau global)",
+        "Keduanya sama saja",
+        "let hanya untuk angka, var untuk string"
+      ],
+      "correctIndex": 1,
+      "explanation": "`let` dikenali di ruang lingkup blok tempat variabel didefinisikan, sedangkan `var` dikenali di seluruh fungsi/global.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q58",
+      "question": "Apa kegunaan dari `Stencil` dalam ekosistem Ionic?",
+      "options": [
+        "Editor teks",
+        "Kompilator untuk membuat web components",
+        "Database",
+        "Server"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stencil adalah kompilator untuk membuat web components",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q59",
+      "question": "Dalam TypeScript, tipe data `enum` digunakan untuk...",
+      "options": [
+        "Menyimpan data biner",
+        "Mendefinisikan sekumpulan konstanta bernama (enumerasi)",
+        "Membuat fungsi anonim",
+        "Mengimpor modul"
+      ],
+      "correctIndex": 1,
+      "explanation": "`Enum` digunakan untuk menyimpan data enumerasi (kumpulan nilai yang diberi nama)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q60",
+      "question": "Fungsi `JSON.stringify()` digunakan untuk...",
+      "options": [
+        "Mengubah string JSON menjadi objek JavaScript",
+        "Mengubah objek JavaScript menjadi string JSON",
+        "Menghapus data JSON",
+        "Mengirim email"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dalam konteks penggunaan data JSON (tersirat di listing kode backend), `JSON.stringify` mengubah objek/data menjadi string JSON untuk dikirim/disimpan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q61",
+      "question": "Untuk mengambil data argumen dari Command Line pada aplikasi Node.js, kita bisa menggunakan library...",
+      "options": ["express", "axios", "yargs", "vue"],
+      "correctIndex": 2,
+      "explanation": "Library `yargs` (atau commander, minimist) digunakan untuk mengelola argumen dari command line.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q62",
+      "question": "Pada Vue Router, properti `history: createWebHistory()` digunakan untuk...",
+      "options": [
+        "Menghapus history browser",
+        "Mengaktifkan mode history HTML5 agar URL terlihat bersih (tanpa hash #)",
+        "Membuat log error",
+        "Menyimpan cache"
+      ],
+      "correctIndex": 1,
+      "explanation": "`createWebHistory()` digunakan untuk membuat routing dengan mode history web standar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q63",
+      "question": "Apa fungsi dari `export default` pada sebuah file modul TypeScript/JavaScript?",
+      "options": [
+        "Menghapus modul",
+        "Menjadikan fungsi/objek tersebut sebagai ekspor utama yang bisa diimpor file lain",
+        "Mengenkripsi file",
+        "Membuat variabel privat"
+      ],
+      "correctIndex": 1,
+      "explanation": "`export default` digunakan untuk mengekspor fungsionalitas agar bisa di-import oleh file lain.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q64",
+      "question": "Dalam TypeScript, apa arti tanda tanya `?` pada definisi properti interface (contoh: `email?: string`)?",
+      "options": [
+        "Properti tersebut wajib ada",
+        "Properti tersebut bersifat opsional (boleh ada, boleh tidak)",
+        "Properti tersebut error",
+        "Properti tersebut bertipe any"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tanda `?` menandakan properti opsional.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q65",
+      "question": "Salah satu kelebihan utama aplikasi Hybrid dibandingkan Native adalah...",
+      "options": [
+        "Performa grafis lebih tinggi",
+        "Akses hardware lebih cepat",
+        "Kode sumber (HTML/JS) bisa digunakan lintas platform (Android/iOS) sekali tulis (write once run anywhere)",
+        "Ukuran aplikasi lebih kecil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aplikasi hybrid menggunakan spesifikasi web terbuka, sehingga sekali dibangun untuk satu platform, biasanya dapat digunakan pada platform lain (cross platform)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q66",
+      "question": "Apa yang dimaksud dengan `Dependency Injection` pada framework seperti Angular atau Vue (melalui provide/inject)?",
+      "options": [
+        "Menyuntikkan virus ke aplikasi",
+        "Pola desain untuk memasok ketergantungan (dependencies) ke dalam komponen dari luar",
+        "Cara menginstal npm",
+        "Menghapus kode yang tidak perlu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ini adalah konsep umum yang disinggung dalam diagram lifecycle (init injections) dan penggunaan decorator, dimana dependensi diberikan ke objek yang membutuhkan.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q67",
+      "question": "Manakah pernyataan yang BENAR tentang `computed properties` pada Vue?",
+      "options": [
+        "Computed properties dieksekusi setiap kali ada re-render, tidak peduli dependensinya berubah atau tidak",
+        "Computed properties men-cache hasilnya dan hanya dihitung ulang jika dependensinya berubah",
+        "Computed properties sama persis dengan methods",
+        "Computed properties tidak bisa mengembalikan nilai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Computed properties (seperti pada Listing 2.29) digunakan untuk kalkulasi yang bergantung pada data lain dan efisien karena caching.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q68",
+      "question": "Pada Vue, bagaimana cara mengirim data dari komponen Anak (Child) ke komponen Induk (Parent)?",
+      "options": [
+        "Menggunakan Props",
+        "Menggunakan `v-bind`",
+        "Memancarkan event (Emitting Events) dengan `$emit`",
+        "Tidak bisa dilakukan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Meskipun props mengirim data Parent ke Child, komunikasi Child ke Parent biasanya dilakukan dengan emit event (tersirat dalam pembahasan event handling komponen).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q69",
+      "question": "Apa fungsi dari `package-lock.json`?",
+      "options": [
+        "Mengunci file agar tidak bisa diedit",
+        "Menyimpan versi spesifik dari setiap dependensi yang diinstal untuk memastikan konsistensi instalasi",
+        "Menyimpan password database",
+        "File sampah"
+      ],
+      "correctIndex": 1,
+      "explanation": "`package-lock.json` muncul dalam struktur proyek untuk mengelola versi paket secara presisi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q70",
+      "question": "Dalam TypeScript, apa kegunaan `union type` (contoh: `string | number`)?",
+      "options": [
+        "Menggabungkan dua variabel",
+        "Mengizinkan sebuah variabel menyimpan nilai dari salah satu tipe yang didefinisikan (string ATAU number)",
+        "Membuat tipe data baru",
+        "Melakukan operasi matematika"
+      ],
+      "correctIndex": 1,
+      "explanation": "Union type (menggunakan `|`) memungkinkan variabel mempunyai kemungkinan lebih dari 1 tipe data.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q71",
+      "question": "Jika ingin menggunakan CSS Framework seperti Bootstrap atau Ionic dalam komponen Vue, biasanya diimpor di bagian...",
+      "options": [
+        "Dalam tag <template>",
+        "Dalam tag <script>",
+        "Di file main.js atau di dalam tag <style>",
+        "Tidak bisa menggunakan CSS Framework"
+      ],
+      "correctIndex": 2,
+      "explanation": "Framework CSS global biasanya diimpor di entry point (main.js) atau style global, sedangkan style spesifik komponen ada di tag style.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q72",
+      "question": "Apa itu `NDK` pada pengembangan Android?",
+      "options": [
+        "Native Development Kit, memungkinkan penggunaan kode C/C++",
+        "New Development Kit",
+        "Node Development Kit",
+        "Network Development Kit"
+      ],
+      "correctIndex": 0,
+      "explanation": "NDK (Native Development Kit) memungkinkan penggunaan C/C++ untuk membangun engine aplikasi native tertentu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q73",
+      "question": "Pada Vue, `v-show` berbeda dengan `v-if` karena...",
+      "options": [
+        "v-show menghapus elemen dari DOM, v-if hanya menyembunyikan dengan CSS",
+        "v-if menghapus/membuat ulang elemen di DOM, v-show hanya mengubah properti CSS display",
+        "v-show hanya untuk loop",
+        "Keduanya sama persis"
+      ],
+      "correctIndex": 1,
+      "explanation": "`v-show` menampilkan atau menyembunyikan elemen (toggle visibility/display), sedangkan v-if melakukan rendering kondisional (bisa tidak merender elemen sama sekali).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q74",
+      "question": "Untuk membaca file secara asynchronous di Node.js/TypeScript, kita menggunakan modul `fs` dengan fungsi...",
+      "options": [
+        "fs.readFileSync",
+        "fs.readFile (dengan callback atau promise)",
+        "fs.readNow",
+        "fs.openFile"
+      ],
+      "correctIndex": 1,
+      "explanation": "Untuk operasi non-blocking/asynchronous, digunakan `fs.readFile` atau varian promise-nya, bukan versi `Sync`.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q75",
+      "question": "Dalam arsitektur Hybrid Ionic, file-file web (HTML, CSS, JS) ditampilkan kepada pengguna melalui komponen...",
+      "options": ["Native View", "WebView", "Console", "Terminal"],
+      "correctIndex": 1,
+      "explanation": "Aplikasi hybrid dijalankan dengan menggunakan fitur WebView untuk merender tampilan berbasis we.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q76",
+      "question": "Apa fungsi utama dari perintah `npm install -g @ionic/cli` dalam pengembangan aplikasi Ionic?",
+      "options": [
+        "Menginstal server database untuk aplikasi",
+        "Menginstal kerangka kerja Vue.js secara spesifik",
+        "Menginstal Ionic Command Line Interface secara global untuk mengelola proyek",
+        "Menginstal emulator Android untuk pengujian"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ionic CLI (Command Line Interface) adalah tool utama yang digunakan untuk membuat, menjalankan, dan mengelola proyek Ionic. Opsi -g menginstalnya secara global.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q77",
+      "question": "Manakah perintah yang tepat untuk membuat proyek Ionic baru dengan template 'tabs' yang berbasis framework Vue?",
+      "options": [
+        "ionic start myApp tabs --type=vue",
+        "ionic create myApp tabs --framework=vue",
+        "ionic new myApp tabs --vue",
+        "ionic init myApp tabs --type=vue"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sintaksis yang benar adalah `ionic start <nama> <template> [options]`. Untuk Vue, option yang digunakan adalah `--type=vue`.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q78",
+      "question": "Dalam struktur direktori proyek Ionic Vue, file manakah yang berfungsi sebagai 'entry point' utama TypeScript yang me-mount aplikasi?",
+      "options": [
+        "src/App.vue",
+        "src/main.ts",
+        "src/router/index.ts",
+        "public/index.html"
+      ],
+      "correctIndex": 1,
+      "explanation": "File `src/main.ts` adalah file utama yang mengimpor App.vue, router, dan IonicVue, serta melakukan mounting aplikasi ke DOM.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q79",
+      "question": "Direktori manakah yang digunakan untuk menyimpan aset statis seperti gambar logo atau icon yang akan diproses oleh Webpack?",
+      "options": [
+        "src/assets",
+        "public/assets",
+        "node_modules/assets",
+        "resources/img"
+      ],
+      "correctIndex": 1,
+      "explanation": "Direktori `public` berisi file dan direktori yang akan digunakan oleh Webpack untuk membentuk hasil akhir, termasuk aset gambar.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q80",
+      "question": "Apa fungsi dari perintah `ionic serve --lab`?",
+      "options": [
+        "Menjalankan aplikasi hanya pada emulator Android",
+        "Menjalankan aplikasi di browser dengan tampilan simulasi berdampingan (Android dan iOS)",
+        "Mengirim aplikasi ke Ionic Appflow untuk deployment",
+        "Membuat file build untuk produksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Argumen `--lab` mengaktifkan Ionic Lab yang menampilkan preview aplikasi dalam bingkai simulasi Android dan iOS secara bersamaan di browser.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q81",
+      "question": "Dalam file `tsconfig.json`, konfigurasi apa yang memungkinkan pemrogram menggunakan file JavaScript (.js) dalam proyek TypeScript?",
+      "options": [
+        "\"allowJs\": true",
+        "\"checkJs\": false",
+        "\"target\": \"es5\"",
+        "\"module\": \"commonjs\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Pengaturan `\"allowJs\": true` mengizinkan kompilator TypeScript untuk memproses file JavaScript.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q82",
+      "question": "Komponen Ionic manakah yang berfungsi sebagai kontainer utama aplikasi dan hanya boleh ada satu dalam sebuah proyek?",
+      "options": ["ion-page", "ion-content", "ion-app", "ion-router-outlet"],
+      "correctIndex": 2,
+      "explanation": "`ion-app` adalah elemen root untuk aplikasi Ionic. Komponen ini membungkus elemen lain dan menangani logika dasar aplikasi.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q83",
+      "question": "Extension Visual Studio Code manakah yang direkomendasikan untuk membantu formatting kode agar lebih mudah dibaca?",
+      "options": ["ESLint", "Vetur", "Prettier", "Ionic Snippets"],
+      "correctIndex": 2,
+      "explanation": "Prettier adalah code formatter yang populer untuk merapikan kode sumber dan menjaga konsistensi gaya penulisan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q84",
+      "question": "Pada `Single Page Layout`, komponen manakah yang biasanya digunakan untuk menampung isi utama halaman yang dapat di-scroll?",
+      "options": ["ion-header", "ion-toolbar", "ion-content", "ion-footer"],
+      "correctIndex": 2,
+      "explanation": "`ion-content` adalah komponen yang menyediakan area konten utama yang dapat digulir (scrollable) pada sebuah halaman.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q85",
+      "question": "Jika Anda ingin membuat layout dengan menu samping (side menu), komponen apa yang harus menjadi pembungkus (wrapper) utama menu dan konten?",
+      "options": ["ion-grid", "ion-split-pane", "ion-tabs", "ion-segment"],
+      "correctIndex": 1,
+      "explanation": "`ion-split-pane` digunakan untuk membuat layout yang membagi layar menjadi dua (biasanya menu dan konten) pada layar besar, atau menyembunyikan menu pada layar kecil.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q86",
+      "question": "Dalam sistem Responsive Grid Ionic, berapakah jumlah kolom default dalam satu baris (`ion-row`)?",
+      "options": ["6", "10", "12", "24"],
+      "correctIndex": 2,
+      "explanation": "Sistem grid Ionic secara default menggunakan sistem 12 kolom, mirip dengan Bootstrap.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q87",
+      "question": "Perhatikan kode berikut: `<ion-col size=\"4\">`. Apa arti dari atribut tersebut?",
+      "options": [
+        "Kolom tersebut akan memiliki lebar 4 pixel",
+        "Kolom tersebut akan menempati 4 dari 12 bagian grid yang tersedia",
+        "Kolom tersebut akan menjadi kolom ke-4",
+        "Kolom tersebut akan memiliki padding 4 unit"
+      ],
+      "correctIndex": 1,
+      "explanation": "`size=\"4\"` berarti kolom tersebut akan mengambil ruang sebesar 4 kolom dari total 12 kolom yang tersedia dalam satu baris.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q88",
+      "question": "Atribut apa yang digunakan pada `ion-col` untuk 'mendorong' kolom ke kanan sejauh jumlah kolom tertentu?",
+      "options": ["push", "pull", "offset", "move"],
+      "correctIndex": 0,
+      "explanation": "Atribut `push` digunakan untuk memindahkan kolom ke kanan, sedangkan `pull` menariknya ke kiri.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q89",
+      "question": "Variabel CSS manakah yang digunakan untuk mengubah warna latar belakang (background) keseluruhan aplikasi Ionic?",
+      "options": [
+        "--ion-background-color",
+        "--ion-color-base",
+        "--background-global",
+        "--ion-app-background"
+      ],
+      "correctIndex": 0,
+      "explanation": "`--ion-background-color` adalah variabel CSS global yang disediakan Ionic untuk mengatur warna latar belakang aplikasi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q90",
+      "question": "Apa fungsi dari `ion-menu-toggle`?",
+      "options": [
+        "Membuat menu menjadi permanen di layar",
+        "Menyembunyikan menu secara otomatis setelah item menu diklik",
+        "Mengubah warna menu saat di-hover",
+        "Menghapus menu dari DOM"
+      ],
+      "correctIndex": 1,
+      "explanation": "`ion-menu-toggle` digunakan untuk membungkus elemen (seperti link) di dalam menu agar menu otomatis menutup setelah elemen tersebut diklik.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q91",
+      "question": "Jika sebuah `ion-tab-button` tidak memiliki atribut `href`, bagaimana perilakunya?",
+      "options": [
+        "Tombol tidak akan bisa diklik",
+        "Akan terjadi error saat kompilasi",
+        "Tombol ditampilkan tetapi tidak melakukan navigasi URL",
+        "Tombol akan otomatis menuju ke halaman Home"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tanpa atribut `href`, tombol tab tetap dirender tetapi tidak akan memicu perubahan rute/navigasi URL saat diklik.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q92",
+      "question": "Di manakah lokasi file untuk mendefinisikan variabel CSS global seperti warna tema custom di proyek Ionic Vue?",
+      "options": [
+        "src/App.vue",
+        "src/main.ts",
+        "src/theme/variables.css",
+        "src/global.scss"
+      ],
+      "correctIndex": 2,
+      "explanation": "File `src/theme/variables.css` adalah tempat standar untuk mendefinisikan variabel CSS global, termasuk warna tema Ionic.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q93",
+      "question": "Apa yang dimaksud dengan 'Stepped Colors' dalam theming Ionic?",
+      "options": [
+        "Warna yang berubah otomatis setiap detik",
+        "Variasi gradasi warna (step 50-950) untuk teks dan background agar kontras terjaga",
+        "Warna yang khusus digunakan untuk tombol stepper",
+        "Teknik pewarnaan manual tanpa variabel CSS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stepped colors adalah variasi warna bertingkat yang digunakan Ionic untuk memastikan teks dan latar belakang memiliki kontras yang cukup.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q94",
+      "question": "Komponen `ion-card` biasanya terdiri dari sub-komponen berikut, KECUALI:",
+      "options": [
+        "ion-card-header",
+        "ion-card-content",
+        "ion-card-footer",
+        "ion-card-sidebar"
+      ],
+      "correctIndex": 3,
+      "explanation": "Struktur standar `ion-card` meliputi header, content, title, subtitle, tetapi tidak ada komponen standar bernama `ion-card-sidebar`.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q95",
+      "question": "Bagaimana cara menangkap nilai input dari komponen `<ion-input>` secara reaktif dalam Vue?",
+      "options": [
+        "Menggunakan atribut `value`",
+        "Menggunakan directive `v-model`",
+        "Menggunakan atribut `data-bind`",
+        "Menggunakan `ion-bind`"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dalam Vue, `v-model` digunakan untuk two-way data binding pada elemen input, termasuk `ion-input`.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q96",
+      "question": "Komponen `ion-list` sering digunakan bersama `ion-item-sliding`. Apa kegunaan `ion-item-sliding`?",
+      "options": [
+        "Membuat list item bergerak animasi saat dimuat",
+        "Memungkinkan pengguna menggeser item (swipe) untuk memunculkan opsi tambahan",
+        "Mengurutkan item secara otomatis",
+        "Membuat item list menjadi transparan"
+      ],
+      "correctIndex": 1,
+      "explanation": "`ion-item-sliding` memungkinkan interaksi geser (swipe) ke kiri atau kanan pada item list untuk menampilkan tombol aksi tersembunyi (seperti edit/hapus).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q97",
+      "question": "Untuk membuat notifikasi sementara yang muncul di bagian bawah layar dan hilang otomatis, komponen apa yang digunakan?",
+      "options": ["ion-alert", "ion-modal", "ion-toast", "ion-popover"],
+      "correctIndex": 2,
+      "explanation": "`ion-toast` adalah komponen notifikasi ringan yang muncul sebentar (biasanya di bawah) dan tidak memblokir interaksi pengguna secara penuh.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q98",
+      "question": "Dalam `ion-datetime`, format apa yang digunakan untuk menampilkan tanggal 2 digit (01-31)?",
+      "options": ["D", "DD", "YYYY", "MM"],
+      "correctIndex": 1,
+      "explanation": "Format `DD` merepresentasikan tanggal dengan 2 digit (misalnya 01, 05, 31). `D` untuk 1 digit, `MM` untuk bulan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q99",
+      "question": "Apa perbedaan utama antara `ion-modal` dan `ion-alert`?",
+      "options": [
+        "Modal hanya berisi teks, Alert bisa berisi gambar",
+        "Modal digunakan untuk konten kompleks/halaman penuh, Alert untuk pesan/konfirmasi singkat",
+        "Modal tidak bisa ditutup, Alert bisa ditutup",
+        "Tidak ada perbedaan, keduanya sama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Modal biasanya digunakan untuk menampilkan konten yang lebih besar atau formulir (mirip halaman sementara), sedangkan Alert untuk interaksi singkat seperti peringatan atau konfirmasi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q100",
+      "question": "Manakah komponen yang digunakan untuk menampilkan indikator loading (lingkaran berputar) saat aplikasi sedang memproses data?",
+      "options": ["ion-spinner", "ion-loading", "ion-progress-bar", "ion-wait"],
+      "correctIndex": 1,
+      "explanation": "`ion-loading` adalah komponen overlay yang menampilkan indikator aktivitas (bisa berupa spinner) dan pesan saat proses berlangsung.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q101",
+      "question": "Pada `ion-select`, jika atribut `multiple=\"true\"` diaktifkan, tampilan antarmuka apa yang biasanya muncul untuk memilih opsi?",
+      "options": [
+        "Radio Button",
+        "Checkbox",
+        "Toggle Switch",
+        "Dropdown tunggal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jika `multiple=\"true\"`, pengguna dapat memilih lebih dari satu opsi, sehingga antarmuka yang paling sesuai dan digunakan adalah Checkbox.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q102",
+      "question": "Untuk menggunakan icon tertentu dalam komponen Vue, langkah apa yang harus dilakukan pada bagian `<script>`?",
+      "options": [
+        "Hanya perlu mengimpor `IonIcon`",
+        "Tidak perlu import apapun, langsung pakai nama icon",
+        "Import icon dari `ionicons/icons` dan daftarkan di `setup()` atau `data()`",
+        "Menggunakan tag `<link>` di HTML"
+      ],
+      "correctIndex": 2,
+      "explanation": "Di Ionic Vue, icon harus diimpor spesifik dari paket `ionicons/icons` dan dikembalikan dalam fungsi `setup()` atau `data()` agar bisa diakses di template.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q103",
+      "question": "Komponen `ion-refresher` digunakan untuk fitur apa?",
+      "options": [
+        "Memuat ulang halaman secara otomatis setiap 5 detik",
+        "Fitur 'Pull-to-refresh' untuk memperbarui konten",
+        "Membersihkan cache aplikasi",
+        "Mereset state Vuex"
+      ],
+      "correctIndex": 1,
+      "explanation": "`ion-refresher` menyediakan fungsionalitas standar 'tarik untuk menyegarkan' (pull-to-refresh) pada konten.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q104",
+      "question": "Dalam manajemen rute (router), apa fungsi dari properti `redirect`?",
+      "options": [
+        "Menghapus history browser",
+        "Mengarahkan pengguna dari satu path ke path lain secara otomatis",
+        "Memblokir akses pengguna",
+        "Membuat halaman menjadi pop-up"
+      ],
+      "correctIndex": 1,
+      "explanation": "`redirect` digunakan untuk mengalihkan navigasi. Contohnya, jika pengguna mengakses root `/`, mereka dialihkan otomatis ke `/home`.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q105",
+      "question": "Apa kegunaan dari `ion-router-outlet`?",
+      "options": [
+        "Sebagai tombol untuk navigasi",
+        "Sebagai tempat (placeholder) di mana komponen halaman yang cocok dengan rute akan dirender",
+        "Sebagai file konfigurasi router",
+        "Sebagai link ke website eksternal"
+      ],
+      "correctIndex": 1,
+      "explanation": "`ion-router-outlet` berfungsi sebagai wadah dinamis yang menampilkan komponen sesuai dengan URL/rute yang sedang aktif.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q106",
+      "question": "Pada `Split Pane Layout`, properti `content-id` digunakan untuk...",
+      "options": [
+        "Menyimpan ID database",
+        "Menghubungkan menu samping dengan konten utama yang akan digeser/ditutup",
+        "Memberi warna pada konten",
+        "Menentukan ukuran font konten"
+      ],
+      "correctIndex": 1,
+      "explanation": "`content-id` pada `ion-split-pane` (dan `ion-menu`) harus cocok dengan `id` dari elemen konten utama agar menu dapat berinteraksi dengan benar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q107",
+      "question": "Jika Anda ingin membuat list item yang memiliki avatar (gambar bulat) di sebelah kiri, slot apa yang digunakan pada `ion-avatar`?",
+      "options": [
+        "slot=\"end\"",
+        "slot=\"start\"",
+        "slot=\"top\"",
+        "slot=\"avatar\""
+      ],
+      "correctIndex": 1,
+      "explanation": "`slot=\"start\"` menempatkan elemen di bagian awal (kiri pada LTR) dari `ion-item`.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q108",
+      "question": "Untuk mengambil data dari REST API dalam proyek Ionic Vue, library apa yang paling umum digunakan dan disarankan dalam modul?",
+      "options": [
+        "jQuery Ajax",
+        "Axios",
+        "XMLHttpRequest native",
+        "SoapClient"
+      ],
+      "correctIndex": 1,
+      "explanation": "Axios adalah library berbasis Promise yang populer dan disarankan dalam modul untuk melakukan HTTP request ke REST API.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q109",
+      "question": "Lifecycle hook Vue manakah yang paling tepat digunakan untuk memanggil API segera setelah komponen selesai dipasang ke DOM?",
+      "options": ["created()", "mounted()", "updated()", "unmounted()"],
+      "correctIndex": 1,
+      "explanation": "`mounted()` dipanggil setelah instance komponen dipasang ke DOM, menjadikannya tempat yang tepat untuk pengambilan data awal yang mempengaruhi tampilan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q110",
+      "question": "Apa fungsi dari `ion-back-button`?",
+      "options": [
+        "Tombol untuk menutup aplikasi",
+        "Tombol navigasi otomatis untuk kembali ke halaman sebelumnya dalam histori",
+        "Tombol untuk mereset formulir",
+        "Tombol untuk kembali ke halaman login"
+      ],
+      "correctIndex": 1,
+      "explanation": "`ion-back-button` secara cerdas mendeteksi histori navigasi dan menyediakan tombol kembali. Jika tidak ada histori, bisa diatur `default-href`.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q111",
+      "question": "Dalam routing dinamis, bagaimana cara mendefinisikan parameter dalam path URL (misal: ID user)?",
+      "options": [
+        "path: '/user-{id}'",
+        "path: '/user/:id'",
+        "path: '/user?id='",
+        "path: '/user/<id>'"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tanda titik dua (`:`) digunakan untuk menandai segmen dinamis atau parameter dalam definisi rute Vue Router (misal: `/user/:id`).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q112",
+      "question": "Bagaimana cara mengakses parameter rute (seperti `:id`) di dalam komponen Vue menggunakan Composition API / setup()?",
+      "options": [
+        "this.params.id",
+        "window.location.id",
+        "Menggunakan hook `useRoute()` lalu mengakses `.params.id`",
+        "Menggunakan `getParam('id')`"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dalam Vue 3/Ionic Vue, kita menggunakan `useRoute()` dari `vue-router` untuk mendapatkan objek rute saat ini, lalu mengakses properti `params`.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q113",
+      "question": "Direktif Vue manakah yang digunakan untuk melakukan looping (perulangan) data array ke dalam komponen `ion-item`?",
+      "options": ["v-if", "v-model", "v-bind", "v-for"],
+      "correctIndex": 3,
+      "explanation": "`v-for` adalah direktif Vue yang digunakan untuk merender daftar item berdasarkan array data.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q114",
+      "question": "Saat menggunakan `v-for`, atribut apa yang wajib ditambahkan untuk membantu Vue melacak identitas setiap node?",
+      "options": [":key", ":id", ":index", ":track"],
+      "correctIndex": 0,
+      "explanation": "Atribut `:key` wajib digunakan dengan `v-for` untuk memberikan identitas unik pada setiap elemen, membantu efisiensi rendering Vue.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q115",
+      "question": "Komponen `ion-img` memiliki fitur lazy loading. Apa artinya?",
+      "options": [
+        "Gambar dimuat sangat lambat",
+        "Gambar hanya dimuat ketika elemen tersebut masuk ke dalam viewport (layar yang terlihat)",
+        "Gambar dimuat sebelum aplikasi dimulai",
+        "Gambar dikompres otomatis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lazy loading pada `ion-img` berarti gambar hanya akan diunduh dan dirender saat pengguna menggulir layar hingga gambar tersebut hampir terlihat, menghemat bandwidth.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q116",
+      "question": "Apa fungsi atribut `detail=\"true\"` pada `ion-item`?",
+      "options": [
+        "Menampilkan detail item secara pop-up",
+        "Menampilkan ikon panah (chevron) di sebelah kanan (standar iOS) yang menandakan item dapat diklik",
+        "Membuat item menjadi lebih tinggi",
+        "Menampilkan deskripsi lengkap"
+      ],
+      "correctIndex": 1,
+      "explanation": "Atribut `detail` menampilkan 'detail arrow' atau chevron di akhir item, umum digunakan pada iOS untuk menunjukkan navigasi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q117",
+      "question": "Jika Anda ingin menampilkan elemen hanya pada platform iOS, class atau properti apa yang relevan diperiksa?",
+      "options": [
+        "ionic.platform === 'apple'",
+        "mode === 'ios'",
+        "device.os === 'mac'",
+        "style=\"ios\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Ionic menyediakan konfigurasi `mode`. Memeriksa apakah `mode === 'ios'` memungkinkan pengkondisian tampilan khusus iOS.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q118",
+      "question": "Dalam integrasi Axios, perintah `npm install vue-axios` bertujuan untuk...",
+      "options": [
+        "Mengganti Axios dengan versi Vue",
+        "Membungkus Axios agar terintegrasi lebih baik sebagai plugin dalam ekosistem Vue",
+        "Menghapus Axios dari proyek",
+        "Mempercepat koneksi internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "`vue-axios` adalah wrapper yang memudahkan penggunaan Axios di dalam komponen Vue (misalnya akses melalui `this.axios` pada Options API).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q119",
+      "question": "Apa kegunaan file `shims-vue.d.ts` dalam proyek Ionic Vue?",
+      "options": [
+        "Menyimpan konfigurasi database",
+        "Memberikan definisi tipe (Type Definitions) agar TypeScript mengerti bagaimana memperlakukan file `.vue`",
+        "Menyimpan shim untuk polyfill browser lama",
+        "File sampah yang bisa dihapus"
+      ],
+      "correctIndex": 1,
+      "explanation": "File ini memberi tahu TypeScript bahwa file dengan ekstensi `.vue` adalah modul yang valid dan mendefinisikan tipe komponennya.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q120",
+      "question": "Jika terjadi error pada aplikasi, konfigurasi global apa yang bisa digunakan di `main.ts` untuk menangkapnya?",
+      "options": [
+        "app.config.errorHandler",
+        "window.onerror",
+        "ionic.catch",
+        "vue.error"
+      ],
+      "correctIndex": 0,
+      "explanation": "`app.config.errorHandler` pada Vue 3 memungkinkan penanganan error secara global untuk semua komponen anak.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q121",
+      "question": "Untuk membuat teks menjadi tebal (bold) menggunakan komponen Ionic, tag apa yang membungkus teks di dalam toolbar title biasanya?",
+      "options": [
+        "Tidak ada, gunakan CSS atau ion-text",
+        "ion-bold",
+        "ion-strong",
+        "ion-b"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ionic tidak memiliki komponen khusus `ion-bold`. Styling teks dilakukan melalui CSS utilities atau properti standar CSS.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q122",
+      "question": "Pada komponen `ion-grid`, atribut `fixed` berfungsi untuk...",
+      "options": [
+        "Membuat grid tidak bisa discroll",
+        "Mengatur lebar container grid berdasarkan breakpoint layar (tidak selalu 100% lebar layar)",
+        "Membuat posisi grid menjadi `position: fixed`",
+        "Mengunci jumlah kolom"
+      ],
+      "correctIndex": 1,
+      "explanation": "`<ion-grid fixed>` membatasi lebar grid maksimum berdasarkan ukuran layar (breakpoint), sehingga konten tidak melebar penuh pada layar sangat besar.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q123",
+      "question": "Apa itu `Action Sheet` di Ionic?",
+      "options": [
+        "Lembar kerja seperti Excel",
+        "Dialog yang muncul dari bawah layar berisi sekumpulan opsi tindakan",
+        "Tombol yang melayang di pojok layar",
+        "Menu navigasi samping"
+      ],
+      "correctIndex": 1,
+      "explanation": "Action Sheet adalah panel dialog yang meluncur dari bawah layar, biasanya menawarkan pilihan tindakan seperti 'Edit', 'Delete', 'Share', atau 'Cancel'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q124",
+      "question": "Properti `translucent=\"true\"` pada `ion-header` memberikan efek apa (khususnya di iOS)?",
+      "options": [
+        "Header menjadi transparan total",
+        "Header menjadi semi-transparan dengan efek blur pada konten di belakangnya",
+        "Header menjadi berwarna hitam",
+        "Header menghilang saat discroll"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pada iOS, `translucent=\"true\"` memberikan efek kaca buram (frosted glass) di mana konten di balik header terlihat samar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q125",
+      "question": "Dalam penggunaan `alertController`, method apa yang dipanggil untuk memunculkan alert ke layar?",
+      "options": [".show()", ".open()", ".present()", ".display()"],
+      "correctIndex": 2,
+      "explanation": "Semua overlay controller di Ionic (Alert, Modal, Loading, Toast) menggunakan method `.present()` untuk menampilkannya ke layar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q126",
+      "question": "Manakah pernyataan yang BENAR mengenai `ion-button`?",
+      "options": [
+        "Secara default memiliki event handler `ionChange`",
+        "Dapat memiliki atribut `expand=\"block\"` untuk lebar penuh dengan margin",
+        "Tidak bisa diisi icon",
+        "Hanya bisa berwarna biru"
+      ],
+      "correctIndex": 1,
+      "explanation": "`expand=\"block\"` membuat tombol memenuhi lebar kontainer induknya tetapi tetap mempertahankan margin/rounded corners standar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q127",
+      "question": "Apa fungsi dari `ion-segment`?",
+      "options": [
+        "Memotong gambar",
+        "Menampilkan sekelompok tombol terkait di mana hanya satu yang bisa aktif (mirip tab view)",
+        "Membagi layar menjadi grid",
+        "Menampilkan progress bar"
+      ],
+      "correctIndex": 1,
+      "explanation": "`ion-segment` digunakan untuk berpindah antar tampilan atau memfilter konten, mirip tab tetapi biasanya berada dalam satu halaman konten.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q128",
+      "question": "Di file manakah kita biasanya mendefinisikan logika untuk menangkap event klik pada tombol?",
+      "options": [
+        "Bagian `<style>`",
+        "Bagian `<template>` (definisi event) dan `<script>` (definisi method)",
+        "File `main.ts`",
+        "File CSS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Event listener (seperti `@click`) didefinisikan di template HTML, dan logika fungsinya didefinisikan di dalam blok script komponen.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q129",
+      "question": "Jika `v-if=\"cat.adopted\"` bernilai `false`, apa yang terjadi pada elemen tersebut?",
+      "options": [
+        "Elemen tetap ada di DOM tapi transparan",
+        "Elemen dirender tapi didisable",
+        "Elemen tidak akan dirender/dihapus dari DOM",
+        "Elemen berwarna merah"
+      ],
+      "correctIndex": 2,
+      "explanation": "`v-if` adalah kondisional render yang nyata; jika kondisinya salah, elemen tersebut benar-benar tidak ada di dalam DOM.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q130",
+      "question": "Apa yang dimaksud dengan 'Convention over Configuration' pada struktur proyek Ionic?",
+      "options": [
+        "Kita harus mengkonfigurasi setiap file secara manual",
+        "Struktur direktori dan penamaan file mengikuti standar baku sehingga meminimalkan konfigurasi manual",
+        "Konfigurasi lebih diutamakan daripada kode",
+        "Nama file boleh sembarangan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ini adalah paradigma desain di mana framework membuat asumsi standar (konvensi) tentang struktur proyek, sehingga pengembang hanya perlu konfigurasi jika menyimpang dari standar tersebut.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q131",
+      "question": "Pada `ion-searchbar`, event apa yang dipicu saat teks di dalam kotak pencarian berubah?",
+      "options": ["ionInput", "ionChange", "ionClick", "ionSearch"],
+      "correctIndex": 1,
+      "explanation": "`ionChange` adalah event standar pada komponen input Ionic yang dipicu ketika nilai komponen berubah (biasanya saat kehilangan fokus atau setelah delay debounce).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q132",
+      "question": "Komponen `ion-toggle` biasanya digunakan untuk...",
+      "options": [
+        "Input teks panjang",
+        "Mengubah mode (On/Off) atau boolean",
+        "Memilih tanggal",
+        "Navigasi halaman"
+      ],
+      "correctIndex": 1,
+      "explanation": "`ion-toggle` adalah sakelar fisik simulasi yang digunakan untuk mengubah status antara aktif/tidak aktif (boolean).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q133",
+      "question": "Dalam routing Vue, `history: createWebHistory()` menggunakan mode apa?",
+      "options": [
+        "Hash mode (menggunakan # di URL)",
+        "HTML5 History Mode (URL bersih tanpa #)",
+        "Abstract mode (tidak mengubah URL)",
+        "Memory mode"
+      ],
+      "correctIndex": 1,
+      "explanation": "`createWebHistory` mengaktifkan mode history HTML5 standar yang menghasilkan URL bersih, bagus untuk SEO, berbeda dengan `createWebHashHistory`.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q134",
+      "question": "Untuk menampilkan ikon 'Menu' (garis tiga/hamburger) yang memicu side menu, komponen apa yang diletakkan di toolbar?",
+      "options": [
+        "ion-button",
+        "ion-menu-button",
+        "ion-nav-button",
+        "ion-hamburger"
+      ],
+      "correctIndex": 1,
+      "explanation": "`ion-menu-button` adalah komponen khusus yang otomatis menyembunyikan/menampilkan dirinya dan mentrigger menu utama saat diklik.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q135",
+      "question": "Apa fungsi dari direktori `src/services` dalam praktik pengembangan aplikasi yang baik (best practice)?",
+      "options": [
+        "Menyimpan gambar",
+        "Menyimpan logika bisnis atau akses API yang dapat digunakan kembali (reusable)",
+        "Menyimpan file HTML",
+        "Menyimpan konfigurasi router"
+      ],
+      "correctIndex": 1,
+      "explanation": "Memisahkan logika akses data (seperti panggilan API) ke dalam direktori `services` membuat kode lebih rapi, terorganisir, dan dapat digunakan kembali oleh berbagai komponen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q136",
+      "question": "Pada `ion-item-sliding`, komponen apa yang diletakkan di dalam `ion-item-options`?",
+      "options": ["ion-button", "ion-item-option", "ion-label", "ion-icon"],
+      "correctIndex": 1,
+      "explanation": "`ion-item-options` adalah kontainer untuk satu atau lebih `ion-item-option` (tombol aksi yang muncul saat digeser).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q137",
+      "question": "Jika kita ingin tombol aksi pada `ion-item-sliding` muncul di sebelah kanan saat digeser ke kiri, kita menggunakan atribut...",
+      "options": [
+        "side=\"start\"",
+        "side=\"end\"",
+        "side=\"left\"",
+        "side=\"right\""
+      ],
+      "correctIndex": 1,
+      "explanation": "`side=\"end\"` menempatkan opsi di akhir item (kanan pada LTR), yang akan terlihat saat pengguna menggeser item ke kiri.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q138",
+      "question": "Apa yang dimaksud dengan `Scoped CSS` (`<style scoped>`) dalam komponen Vue?",
+      "options": [
+        "CSS berlaku untuk seluruh aplikasi",
+        "CSS hanya berlaku untuk komponen tempat ia didefinisikan",
+        "CSS tidak akan dirender",
+        "CSS menggunakan sintaks SCSS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Atribut `scoped` memastikan gaya CSS yang ditulis hanya diterapkan pada elemen-elemen di dalam komponen tersebut, mencegah konflik gaya dengan komponen lain.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q139",
+      "question": "Manakah berikut ini yang BUKAN merupakan lifecycle hook di Vue 3?",
+      "options": ["onMounted", "onUpdated", "onDeleted", "onUnmounted"],
+      "correctIndex": 2,
+      "explanation": "Vue 3 tidak memiliki hook bernama `onDeleted`. Hook yang benar untuk pembersihan adalah `onUnmounted` (atau `unmounted` pada Options API).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q140",
+      "question": "Dalam penggunaan `ion-range`, atribut apa yang digunakan untuk menampilkan label tick marks (penanda nilai)?",
+      "options": ["snaps", "ticks", "marks", "steps"],
+      "correctIndex": 0,
+      "explanation": "Atribut `snaps` (sering dikombinasikan dengan `ticks`) memungkinkan slider untuk 'menempel' pada nilai step tertentu.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q141",
+      "question": "Untuk membuat list header yang 'lengket' (sticky) di bagian atas saat digulir, atribut apa yang digunakan pada `ion-list-header`?",
+      "options": [
+        "sticky=\"true\"",
+        "mode=\"sticky\"",
+        "Tidak perlu atribut, itu perilaku default",
+        "position=\"fixed\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Pada `ion-list-header`, perilaku sticky (menempel di atas saat scroll) seringkali merupakan perilaku default pada mode iOS, namun secara teknis di Ionic modern perilaku ini dikelola oleh struktur konten, namun opsi paling tepat di sini adalah 'perilaku default' dalam konteks native-feel.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q142",
+      "question": "Apa kegunaan dari `ion-skeleton-text`?",
+      "options": [
+        "Menampilkan teks hantu yang menakutkan",
+        "Menampilkan placeholder animasi saat data sedang dimuat (loading state)",
+        "Menampilkan struktur HTML",
+        "Menampilkan teks debug"
+      ],
+      "correctIndex": 1,
+      "explanation": "Skeleton text digunakan untuk meningkatkan persepsi kinerja (perceived performance) dengan menampilkan kerangka konten saat data asli sedang diambil.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q143",
+      "question": "Dalam sistem grid, apa fungsi `ion-row`?",
+      "options": [
+        "Mendefinisikan kolom",
+        "Mendefinisikan baris pembungkus kolom",
+        "Mendefinisikan tabel",
+        "Mendefinisikan header"
+      ],
+      "correctIndex": 1,
+      "explanation": "`ion-row` berfungsi sebagai pembungkus horizontal untuk kolom-kolom (`ion-col`) dalam sistem grid.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q144",
+      "question": "Apa fungsi dari `redirect: '/home'` pada konfigurasi rute?",
+      "options": [
+        "Mencegah akses ke /home",
+        "Otomatis memindahkan pengguna ke /home jika path yang diakses cocok",
+        "Merestart aplikasi",
+        "Menghapus rute /home"
+      ],
+      "correctIndex": 1,
+      "explanation": "Redirect digunakan untuk secara otomatis mengarahkan navigasi dari satu path ke path lainnya.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q145",
+      "question": "Untuk menggunakan dua jalur navigasi berbeda (misal: Tabs dan Side Menu) dalam satu aplikasi, komponen apa yang sangat krusial dikonfigurasi dengan benar?",
+      "options": [
+        "ion-button",
+        "ion-router-outlet (nested)",
+        "ion-img",
+        "ion-list"
+      ],
+      "correctIndex": 1,
+      "explanation": "Untuk navigasi kompleks, seringkali diperlukan `ion-router-outlet` yang bersarang (nested), misalnya satu outlet utama di App.vue dan outlet lain di dalam TabsPage.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q146",
+      "question": "Warna 'Danger' pada Ionic secara default merepresentasikan warna apa?",
+      "options": ["Biru", "Hijau", "Merah", "Kuning"],
+      "correctIndex": 2,
+      "explanation": "Dalam palet warna standar Ionic, 'Danger' diasosiasikan dengan warna merah untuk menandakan kesalahan atau aksi destruktif.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q147",
+      "question": "Metode HTTP apa yang digunakan `axios.get()`?",
+      "options": ["POST", "PUT", "GET", "DELETE"],
+      "correctIndex": 2,
+      "explanation": "Sesuai namanya, `axios.get()` melakukan permintaan HTTP dengan metode GET untuk mengambil data.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q148",
+      "question": "Jika Anda ingin mengubah warna teks pada komponen tertentu menjadi warna primer Ionic, class apa yang bisa digunakan?",
+      "options": [
+        "ion-color-primary",
+        "text-primary",
+        "ion-text-primary",
+        "color-primary"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ionic menyediakan kelas utilitas warna atau properti `color=\"primary\"` yang menerapkan variabel `--ion-color-primary`.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q149",
+      "question": "Apa itu 'Linter' (seperti ESLint) dalam konteks pengembangan Ionic Vue?",
+      "options": [
+        "Alat untuk mengkompilasi kode",
+        "Alat untuk menganalisis kode statis guna menemukan pola bermasalah atau error sintaks",
+        "Alat untuk menjalankan database",
+        "Alat untuk desain grafis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Linter menganalisis kode sumber untuk menandai kesalahan pemrograman, bug, kesalahan gaya, dan konstruksi yang mencurigakan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q150",
+      "question": "Fitur apa yang memungkinkan pengembang melihat perubahan kode secara langsung di browser tanpa me-refresh manual?",
+      "options": [
+        "Hot Module Replacement (HMR) / Live Reload",
+        "Static Compilation",
+        "Lazy Loading",
+        "Server Side Rendering"
+      ],
+      "correctIndex": 0,
+      "explanation": "Live Reload atau HMR memungkinkan browser memperbarui modul yang berubah secara otomatis saat file disimpan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q151",
+      "question": "Apa fungsi utama dari Native API Plugins dalam arsitektur aplikasi hybrid Ionic?",
+      "options": [
+        "Menggantikan peran WebView sepenuhnya",
+        "Menghubungkan aplikasi Web di WebView dengan fitur native sistem operasi",
+        "Mempercepat proses rendering HTML dan CSS",
+        "Menyediakan database SQL untuk penyimpanan cloud"
+      ],
+      "correctIndex": 1,
+      "explanation": "Native API Plugins berfungsi sebagai jembatan (native bridge) yang menghubungkan kode Web di WebView dengan akses aras rendah/native OS.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q152",
+      "question": "Dua framework utama yang didukung Ionic untuk akses Native API adalah...",
+      "options": [
+        "React Native dan Flutter",
+        "Capacitor dan Apache Cordova",
+        "Xamarin dan NativeScript",
+        "Electron dan Vue Native"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ionic mendukung penggunaan Capacitor (resmi dari tim Ionic) dan Apache Cordova untuk keperluan akses native API.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q153",
+      "question": "Apa prasyarat instalasi JDK yang disarankan untuk pengembangan aplikasi Android dengan Ionic?",
+      "options": [
+        "JDK versi 8 (1.8.x)",
+        "JDK versi terbaru (terkini)",
+        "JRE versi 7",
+        "OpenJDK versi 15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Versi JDK yang paling didukung untuk pengembangan Android dengan Ionic saat ini adalah JDK 8 (1.8.x).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q154",
+      "question": "Perintah CLI untuk menambahkan platform Android ke dalam proyek Ionic Capacitor adalah...",
+      "options": [
+        "ionic platform add android",
+        "ionic capacitor add android",
+        "ionic cordova platform add android",
+        "npm install android-platform"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perintah 'ionic capacitor add android' (atau disingkat 'ionic cap add android') digunakan untuk menambahkan native project Android.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q155",
+      "question": "Di mana lokasi default file APK versi debug yang dihasilkan setelah menjalankan perintah 'gradle assembleDebug'?",
+      "options": [
+        "android/app/src/main/apk",
+        "dist/apk/debug",
+        "android/app/build/outputs/apk/debug",
+        "build/android/outputs/apk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hasil build Gradle untuk versi debug secara default diletakkan di direktori android/app/build/outputs/apk/debug.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q156",
+      "question": "Apa fungsi dari perintah 'adb devices -l'?",
+      "options": [
+        "Menginstal aplikasi ke semua device",
+        "Melihat daftar device atau emulator yang sedang aktif/terhubung",
+        "Menghapus semua device virtual",
+        "Memulai ulang server ADB"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perintah 'adb devices -l' digunakan untuk menampilkan daftar device atau emulator yang terhubung beserta detailnya.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q157",
+      "question": "Jika ingin menggunakan plugin kamera dengan Capacitor, method apa yang digunakan untuk mengambil foto?",
+      "options": [
+        "Camera.takePicture()",
+        "Camera.capture()",
+        "Camera.getPhoto()",
+        "Plugins.Camera.snap()"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dalam Capacitor, method Camera.getPhoto() digunakan untuk mengambil foto, baik dari kamera langsung atau galeri.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q158",
+      "question": "Paket npm apa yang diperlukan agar kamera dapat berfungsi saat aplikasi dijalankan di browser (PWA)?",
+      "options": [
+        "@ionic/pwa-elements",
+        "@capacitor/web-camera",
+        "cordova-plugin-camera",
+        "@ionic-native/web-cam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Paket @ionic/pwa-elements diperlukan untuk menyediakan UI kamera (webcam) saat aplikasi dijalankan di lingkungan web.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q159",
+      "question": "Apa fungsi dari 'AppRate.promptForRating(true)' pada plugin AppRate?",
+      "options": [
+        "Menghapus rating sebelumnya",
+        "Memaksa dialog rating untuk muncul segera",
+        "Mengirim rating otomatis bintang 5",
+        "Menyembunyikan tombol 'No Thanks'"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parameter 'true' pada promptForRating memaksa dialog rating untuk muncul seketika, biasanya digunakan untuk pengujian atau tombol manual.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q160",
+      "question": "Dalam plugin Geolocation, method apa yang digunakan untuk memantau perubahan posisi pengguna secara terus-menerus?",
+      "options": [
+        "getCurrentPosition()",
+        "watchPosition()",
+        "trackLocation()",
+        "observePosition()"
+      ],
+      "correctIndex": 1,
+      "explanation": "Geolocation.watchPosition() digunakan untuk memantau posisi secara real-time dan terus menerus, berbeda dengan getCurrentPosition yang hanya sekali.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q161",
+      "question": "Apa perbedaan utama antara 'Reverse Geocoding' dan 'Forward Geocoding'?",
+      "options": [
+        "Reverse mencari koordinat dari nama, Forward mencari nama dari koordinat",
+        "Reverse mencari nama lokasi dari koordinat, Forward mencari koordinat dari nama lokasi",
+        "Reverse hanya bekerja offline, Forward harus online",
+        "Reverse menggunakan GPS, Forward menggunakan Wi-Fi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reverse geocoding mengubah koordinat (lat/long) menjadi nama tempat/alamat, sedangkan Forward mengubah nama tempat menjadi koordinat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q162",
+      "question": "Paket apa yang harus diinstal untuk mengelola izin akses SMS pada plugin SMS di Android?",
+      "options": [
+        "cordova-plugin-permission-helper",
+        "@ionic-native/android-permissions",
+        "android-sms-manager",
+        "@capacitor/permissions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plugin SMS memerlukan paket @ionic-native/android-permissions untuk menangani request dan check permission pengiriman SMS.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q163",
+      "question": "Apa yang terjadi jika perintah 'ionic cap sync' dijalankan?",
+      "options": [
+        "Menghapus folder android dan ios",
+        "Melakukan build web assets dan menyalinnya ke folder native (android/ios) serta memperbarui plugin",
+        "Hanya memperbarui file package.json",
+        "Menjalankan aplikasi di emulator"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perintah ini melakukan build aplikasi web dan menyinkronkan (copy) aset web serta konfigurasi plugin ke dalam project native.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q164",
+      "question": "DBMS apa yang secara default disediakan oleh Android untuk penyimpanan data lokal terstruktur?",
+      "options": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
+      "correctIndex": 2,
+      "explanation": "SQLite adalah RDBMS embedded yang disediakan secara default oleh Android untuk manajemen data lokal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q165",
+      "question": "Dalam penggunaan plugin SQLite di Ionic, method 'executeSql' mengembalikan Promise. Jika berhasil, objek apa yang biasanya diakses untuk melihat hasil query SELECT?",
+      "options": [
+        "result.data",
+        "ok.rows.item(i)",
+        "response.json()",
+        "db.cursor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hasil query SELECT pada plugin SQLite biasanya diakses melalui properti rows, dan item individual diambil dengan method item(index).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q166",
+      "question": "Mengapa penggunaan SQLite Native Plugin tidak akan berjalan dengan benar jika hanya menggunakan 'ionic serve' di browser?",
+      "options": [
+        "Karena browser tidak mendukung SQL",
+        "Karena plugin ini bergantung pada fitur native device (Cordova/Capacitor) yang tidak ada di browser standar",
+        "Karena SQLite membutuhkan koneksi internet",
+        "Karena browser memblokir port database"
+      ],
+      "correctIndex": 1,
+      "explanation": "SQLite Native Plugin memerlukan layer native (Cordova/Capacitor) untuk mengakses database SQLite di device, yang tidak tersedia di lingkungan browser biasa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q167",
+      "question": "Format pertukaran data apa yang standar digunakan dalam arsitektur RESTful API?",
+      "options": ["XML", "YAML", "JSON", "CSV"],
+      "correctIndex": 2,
+      "explanation": "JSON (JavaScript Object Notation) adalah standar format data utama yang digunakan dalam komunikasi RESTful API.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q168",
+      "question": "Fungsi 'JSON.stringify()' digunakan untuk...",
+      "options": [
+        "Mengubah string JSON menjadi objek JavaScript",
+        "Mengubah objek JavaScript menjadi string JSON",
+        "Memvalidasi format JSON",
+        "Mengenkripsi data JSON"
+      ],
+      "correctIndex": 1,
+      "explanation": "JSON.stringify() digunakan untuk menserialisasi objek JavaScript menjadi string berformat JSON.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q169",
+      "question": "Dalam pengembangan backend menggunakan Express.js, bagaimana cara mengakses parameter ID dari URL '/actors/:id'?",
+      "options": ["req.body.id", "req.query.id", "req.params.id", "req.id"],
+      "correctIndex": 2,
+      "explanation": "Parameter rute yang didefinisikan dengan titik dua (seperti :id) diakses melalui objek req.params.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q170",
+      "question": "Pada aplikasi Ionic Vue, di method lifecycle mana sebaiknya dilakukan pemanggilan data awal dari API (fetch data)?",
+      "options": [
+        "beforeUpdate",
+        "unmounted",
+        "ionViewWillEnter atau mounted",
+        "ionViewDidLeave"
+      ],
+      "correctIndex": 2,
+      "explanation": "ionViewWillEnter (spesifik Ionic) atau mounted (standar Vue) adalah tempat yang tepat untuk inisialisasi data saat halaman dimuat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q171",
+      "question": "Apa tujuan utama penggunaan 'axios' dalam aplikasi klien Ionic?",
+      "options": [
+        "Untuk mengakses kamera",
+        "Untuk melakukan HTTP request ke remote endpoint",
+        "Untuk manajemen state aplikasi",
+        "Untuk styling CSS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Axios adalah library HTTP client berbasis Promise yang populer digunakan untuk melakukan request ke server/API.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q172",
+      "question": "Di file mana pengaturan warna global (seperti --ion-color-primary) pada proyek Ionic biasanya didefinisikan?",
+      "options": [
+        "src/main.ts",
+        "src/App.vue",
+        "src/theme/variables.css",
+        "capacitor.config.json"
+      ],
+      "correctIndex": 2,
+      "explanation": "Definisi variabel CSS global untuk tema Ionic, termasuk warna utama, terletak di src/theme/variables.css.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q173",
+      "question": "Apa fungsi dari perintah 'cordova-res android --skip-config --copy'?",
+      "options": [
+        "Menghapus resource Android",
+        "Meng-generate dan menyalin icon serta splash screen ke folder native Android",
+        "Memperbarui konfigurasi Gradle",
+        "Menginstal plugin Cordova"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perintah ini men-generate aset gambar (icon/splash) dan menyalinnya langsung ke struktur direktori project Android.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q174",
+      "question": "Apa yang dimaksud dengan 'State Management' menggunakan Vuex?",
+      "options": [
+        "Mengelola status koneksi internet",
+        "Penyimpanan data terpusat (centralized store) untuk mengelola state aplikasi yang bisa diakses semua komponen",
+        "Mengelola siklus hidup baterai device",
+        "Sistem manajemen database lokal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vuex adalah pola manajemen state dan library bagi aplikasi Vue.js yang menyediakan store terpusat untuk semua komponen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q175",
+      "question": "Dalam Vuex, perubahan state (mutasi) harus dilakukan melalui...",
+      "options": [
+        "Mengubah variabel langsung (assignment)",
+        "Getter",
+        "Actions",
+        "Mutations (commit)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Satu-satunya cara untuk mengubah state di store Vuex secara reaktif dan terlacak adalah dengan melakukan commit pada mutation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q176",
+      "question": "Untuk menyimpan data login pengguna yang persisten di local storage device dan aman, pendekatan yang paling tepat dalam Ionic adalah...",
+      "options": [
+        "Menggunakan variabel global",
+        "Menggunakan Cookies",
+        "Menggunakan SQLite atau Ionic Storage",
+        "Menyimpannya di file teks biasa"
+      ],
+      "correctIndex": 2,
+      "explanation": "SQLite atau Ionic Storage menyediakan mekanisme penyimpanan persisten yang lebih andal dan natif untuk aplikasi mobile dibandingkan cookies atau variabel.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q177",
+      "question": "Apa fungsi dari file 'shims-vuex.d.ts' pada proyek Ionic Vue dengan TypeScript?",
+      "options": [
+        "Mendefinisikan rute aplikasi",
+        "Memberikan definisi tipe (type definition) agar $store dikenali oleh TypeScript",
+        "Mengimpor library Vuex",
+        "Menghapus warning error pada konsol"
+      ],
+      "correctIndex": 1,
+      "explanation": "File shims (declaration file) ini diperlukan agar properti $store yang disuntikkan Vuex dikenali tipenya oleh TypeScript compiler.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q178",
+      "question": "Method 'db.executeSql' dengan perintah 'INSERT INTO Users VALUES (?,?,?)' menggunakan tanda tanya (?) sebagai...",
+      "options": [
+        "Wildcard untuk pencarian",
+        "Placeholder untuk parameter binding guna mencegah SQL Injection",
+        "Indikator error",
+        "Tanda komentar SQL"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tanda tanya (?) berfungsi sebagai placeholder untuk nilai yang akan dimasukkan (binding parameters), yang penting untuk keamanan dan format query.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q179",
+      "question": "Bagaimana cara melakukan 'live reload' saat pengembangan aplikasi Ionic di device/emulator?",
+      "options": [
+        "Tidak mungkin dilakukan di device",
+        "Menggunakan perintah 'ionic cap run android -l --external'",
+        "Hanya bisa dengan 'ionic serve'",
+        "Harus build ulang APK setiap perubahan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flag '-l' (live reload) dan '--external' memungkinkan perubahan kode langsung terlihat di device tanpa perlu build ulang APK penuh.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q180",
+      "question": "Apa kegunaan utama dari 'Custom Directive' di Vue?",
+      "options": [
+        "Membuat komponen baru",
+        "Melakukan manipulasi DOM tingkat rendah pada elemen",
+        "Menggantikan Vue Router",
+        "Mengelola state global"
+      ],
+      "correctIndex": 1,
+      "explanation": "Custom Directive digunakan ketika kita membutuhkan akses/manipulasi low-level pada elemen DOM yang tidak cukup ditangani oleh fitur template standar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q181",
+      "question": "Dalam konteks Microservices untuk aplikasi mobile, peran 'Mobile Backend as a Service' (MBaaS) adalah...",
+      "options": [
+        "Menyediakan antarmuka pengguna",
+        "Menyediakan layanan server (storage, auth, database) siap pakai",
+        "Menyediakan emulator Android",
+        "Menggantikan sistem operasi Android"
+      ],
+      "correctIndex": 1,
+      "explanation": "MBaaS menyediakan infrastruktur backend (seperti database, autentikasi, push notification) sebagai layanan sehingga pengembang fokus pada frontend.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q182",
+      "question": "Jika 'resolveJsonModule' diset ke 'true' pada tsconfig.json, apa dampaknya?",
+      "options": [
+        "TypeScript akan mengabaikan file JSON",
+        "TypeScript dapat mengimpor file JSON langsung sebagai modul",
+        "File JSON akan dikonversi otomatis menjadi XML",
+        "Terjadi error saat kompilasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opsi ini memungkinkan TypeScript untuk melakukan import file .json secara langsung dan mengenali strukturnya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q183",
+      "question": "Pada plugin 'SocialSharing', parameter apa saja yang biasanya dikirimkan saat berbagi via WhatsApp?",
+      "options": [
+        "Hanya pesan teks",
+        "Pesan (text), Gambar (image), dan URL",
+        "Nomor telepon penerima saja",
+        "Lokasi GPS saja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Method shareViaWhatsApp biasanya menerima argumen berupa pesan teks, file gambar (atau null), dan URL yang ingin dibagikan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q184",
+      "question": "Jika aplikasi Ionic ingin menggunakan sensor GPS, namun pengguna menolak izin (permission), apa yang harus dilakukan aplikasi?",
+      "options": [
+        "Aplikasi harus crash",
+        "Memaksa izin aktif otomatis",
+        "Menangani error (catch block) dan mungkin meminta izin ulang atau memberi notifikasi",
+        "Menggunakan data lokasi palsu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aplikasi harus menangani penolakan izin dengan baik (graceful handling), biasanya melalui blok catch pada Promise, dan memberi feedback yang sesuai.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q185",
+      "question": "Apa fungsi dari 'ionic.config.json'?",
+      "options": [
+        "Menyimpan konfigurasi build Gradle",
+        "Menyimpan konfigurasi proyek Ionic seperti nama dan tipe integrasi",
+        "Menyimpan data user",
+        "Menyimpan konfigurasi TypeScript"
+      ],
+      "correctIndex": 1,
+      "explanation": "File ini berisi konfigurasi global untuk CLI Ionic terkait proyek tersebut, seperti nama app, id, dan tipe framework (vue/angular/react).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q186",
+      "question": "Dalam pengembangan aplikasi terintegrasi, mengapa pemisahan tugas (separation of concerns) antara Service/Provider dan Component itu penting?",
+      "options": [
+        "Agar kode lebih panjang",
+        "Untuk modularitas dan kemudahan pemeliharaan (maintainability)",
+        "Agar aplikasi lebih lambat",
+        "Tidak ada alasan khusus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Memisahkan logika bisnis/data (Service) dari logika tampilan (Component) membuat kode lebih terstruktur, mudah dites, dan mudah dirawat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q187",
+      "question": "Perintah 'apksigner sign --ks maska.keystore app-release-unsigned.apk' digunakan untuk...",
+      "options": [
+        "Membuat keystore baru",
+        "Menandatangani (sign) file APK agar siap rilis/instal",
+        "Menghapus signature dari APK",
+        "Mengubah nama file APK"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perintah ini menggunakan keystore untuk memberikan tanda tangan digital pada APK, yang wajib dilakukan sebelum APK dirilis ke publik atau Play Store.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q188",
+      "question": "Apa itu 'Gradle' dalam konteks pengembangan Android?",
+      "options": [
+        "Editor kode",
+        "Sistem operasi",
+        "Build automation tool",
+        "Emulator"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gradle adalah build tool otomatis yang digunakan Android Studio (dan Ionic) untuk mengkompilasi sumber daya aplikasi menjadi APK.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q189",
+      "question": "Jika Anda mendapatkan error 'cordova_not_available' saat menjalankan aplikasi di browser, apa penyebab utamanya?",
+      "options": [
+        "Browser tidak support HTML5",
+        "Plugin Cordova/Capacitor membutuhkan lingkungan native device untuk berjalan",
+        "Internet terputus",
+        "Kode TypeScript salah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Banyak plugin native bergantung pada bridge ke hardware device yang tidak tersedia di lingkungan browser standar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q190",
+      "question": "Apa fungsi dari 'db.sqlBatch' pada plugin SQLite?",
+      "options": [
+        "Menjalankan satu perintah SQL",
+        "Menjalankan sekumpulan perintah SQL sekaligus dalam satu batch",
+        "Menghapus database",
+        "Membuat backup database"
+      ],
+      "correctIndex": 1,
+      "explanation": "sqlBatch digunakan untuk mengeksekusi array perintah SQL secara berurutan dalam satu transaksi, yang efisien untuk inisialisasi tabel.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q191",
+      "question": "Komponen Ionic '<ion-refresher>' biasanya digunakan untuk fitur apa?",
+      "options": [
+        "Navigasi halaman",
+        "Pull-to-refresh (tarik untuk menyegarkan data)",
+        "Memutar video",
+        "Menampilkan loading spinner statis"
+      ],
+      "correctIndex": 1,
+      "explanation": "ion-refresher menyediakan fungsionalitas standar 'tarik ke bawah untuk refresh' pada konten list atau halaman.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q192",
+      "question": "Dalam manajemen state Vuex, properti 'state' berfungsi untuk...",
+      "options": [
+        "Menyimpan fungsi pengubah data",
+        "Menyimpan data/status aplikasi (single source of truth)",
+        "Menangani aksi asinkron",
+        "Menghubungkan ke API"
+      ],
+      "correctIndex": 1,
+      "explanation": "State dalam Vuex adalah objek yang menyimpan data aplikasi yang sebenarnya.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q193",
+      "question": "Apa kegunaan dari 'keytool' dalam persiapan rilis Android?",
+      "options": [
+        "Mengedit kode Java",
+        "Membuat kunci (keystore) untuk penandatanganan aplikasi",
+        "Mengoptimalkan gambar",
+        "Melakukan debugging"
+      ],
+      "correctIndex": 1,
+      "explanation": "keytool adalah utilitas manajemen kunci dan sertifikat yang digunakan untuk men-generate keystore bagi aplikasi Android.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q194",
+      "question": "Pada plugin 'Call Number', parameter kedua pada 'CallNumber.callNumber(number, bypassAppChooser)' berfungsi untuk...",
+      "options": [
+        "Menentukan durasi panggilan",
+        "Memilih SIM card",
+        "Bypass app chooser (langsung memanggil tanpa memilih aplikasi dialer)",
+        "Merekam panggilan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Parameter boolean kedua menentukan apakah akan mem-bypass dialog pemilihan aplikasi dan mencoba langsung melakukan panggilan.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q195",
+      "question": "Apa yang dimaksud dengan 'Hybrid App'?",
+      "options": [
+        "Aplikasi yang murni ditulis dengan Java/Kotlin",
+        "Aplikasi web yang dibungkus dalam container native (WebView) sehingga bisa diinstal seperti aplikasi native",
+        "Aplikasi yang hanya berjalan di desktop",
+        "Aplikasi yang tidak butuh internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hybrid app menggabungkan teknologi web (HTML/CSS/JS) yang berjalan di WebView dengan bridge ke fitur native.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q196",
+      "question": "Jika 'ion-button' diberi atribut 'router-link=\"/home\"', apa yang akan terjadi saat diklik?",
+      "options": [
+        "Membuka browser eksternal",
+        "Melakukan navigasi internal ke rute '/home'",
+        "Merefresh halaman",
+        "Tidak terjadi apa-apa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Atribut router-link pada komponen Ionic terintegrasi dengan Vue Router untuk navigasi internal SPA (Single Page Application).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q197",
+      "question": "Pada konfigurasi 'capacitor.config.json', properti 'webDir' menunjuk ke...",
+      "options": [
+        "Direktori kode sumber native",
+        "Direktori hasil build aplikasi web (misalnya 'dist' atau 'www')",
+        "Direktori plugin",
+        "Direktori node_modules"
+      ],
+      "correctIndex": 1,
+      "explanation": "webDir memberitahu Capacitor di mana aset web yang sudah di-build (HTML/CSS/JS) berada untuk dimuat ke dalam aplikasi native.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q198",
+      "question": "Fungsi 'setTimeout' sering digunakan dalam method refresh halaman untuk...",
+      "options": [
+        "Mempercepat loading",
+        "Mensimulasikan delay proses jaringan atau memberi waktu proses selesai sebelum menutup spinner",
+        "Menghentikan aplikasi",
+        "Menghapus data"
+      ],
+      "correctIndex": 1,
+      "explanation": "setTimeout sering digunakan dalam demo refresh untuk mensimulasikan waktu tunggu request network sebelum memanggil event.complete().",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q199",
+      "question": "Apa fungsi file 'variables.css' di folder theme?",
+      "options": [
+        "Menyimpan logika JavaScript",
+        "Mendefinisikan variabel CSS global untuk warna dan tema aplikasi",
+        "Menyimpan konfigurasi database",
+        "Menyimpan HTML template"
+      ],
+      "correctIndex": 1,
+      "explanation": "File ini adalah tempat sentral untuk mendefinisikan CSS Variables (seperti warna primer, sekunder, dll) yang digunakan komponen Ionic.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q200",
+      "question": "Pernyataan 'export default class Rest { ... }' dalam TypeScript menandakan...",
+      "options": [
+        "Kelas Rest hanya bisa digunakan di file itu saja",
+        "Kelas Rest diekspor sebagai modul utama yang bisa diimpor file lain",
+        "Kelas Rest adalah komponen Vue",
+        "Kelas Rest adalah plugin native"
+      ],
+      "correctIndex": 1,
+      "explanation": "Syntax export default memungkinkan kelas/fungsi tersebut diimpor oleh modul lain menggunakan syntax import.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q201",
+      "question": "Dalam arsitektur MVVM atau MVC pada Ionic Vue, folder 'views' biasanya berisi...",
+      "options": [
+        "Logika bisnis murni",
+        "Komponen halaman (Page) yang memiliki rute URL",
+        "File konfigurasi server",
+        "Aset gambar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Folder views umumnya berisi komponen Vue yang merepresentasikan halaman utuh yang dipetakan ke rute router.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q202",
+      "question": "Apa itu 'dependency injection' dalam konteks penggunaan Service di komponen Vue?",
+      "options": [
+        "Menyuntikkan virus ke aplikasi",
+        "Mengimpor dan menggunakan instance service/kelas lain ke dalam komponen untuk digunakan fungsionalitasnya",
+        "Menginstal paket npm",
+        "Menghapus dependensi yang tidak perlu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Meskipun Vue tidak seketat Angular dalam DI, konsepnya adalah menggunakan service luar (seperti class Rest) di dalam komponen untuk memisahkan logika.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q203",
+      "question": "Jika Anda ingin mengubah ikon aplikasi Android secara manual, di folder mana Anda harus mengganti file gambar?",
+      "options": [
+        "android/app/src/main/assets",
+        "android/app/src/main/res/mipmap-*",
+        "src/assets/icon",
+        "resources/android"
+      ],
+      "correctIndex": 1,
+      "explanation": "Folder res/mipmap-* (hdpi, mdpi, dll) adalah lokasi standar resource icon launcher pada proyek Android native.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q204",
+      "question": "Apa kegunaan dari 'CameraResultType.DataUrl'?",
+      "options": [
+        "Mengembalikan path file gambar di disk",
+        "Mengembalikan data gambar sebagai string base64 yang bisa langsung ditampilkan di tag img src",
+        "Mengembalikan objek Blob",
+        "Mengembalikan stream video"
+      ],
+      "correctIndex": 1,
+      "explanation": "DataUrl mengembalikan representasi gambar dalam format base64 string yang bisa langsung dimasukkan ke atribut src elemen image.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q205",
+      "question": "Dalam file 'package.json', bagian 'dependencies' berisi...",
+      "options": [
+        "Daftar paket yang hanya dibutuhkan saat pengembangan (dev)",
+        "Daftar paket library yang dibutuhkan aplikasi saat berjalan (runtime)",
+        "Skrip untuk menjalankan build",
+        "Metadata penulis aplikasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bagian dependencies mencantumkan pustaka yang menjadi bagian dari aplikasi produksi, berbeda dengan devDependencies.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q206",
+      "question": "Mengapa 'async/await' sering digunakan saat memanggil plugin Capacitor?",
+      "options": [
+        "Karena plugin Capacitor berjalan secara sinkron",
+        "Karena pemanggilan plugin native bersifat asinkron (Promise-based) untuk mencegah UI thread macet",
+        "Agar kode lebih sulit dibaca",
+        "Karena diwajibkan oleh Google"
+      ],
+      "correctIndex": 1,
+      "explanation": "Operasi native seperti kamera atau geolokasi butuh waktu, sehingga bersifat asinkron (Promise). Async/await memudahkan penulisan kode asinkron tersebut.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q207",
+      "question": "Method 'SplashScreen.hide()' digunakan untuk...",
+      "options": [
+        "Menampilkan splash screen",
+        "Menyembunyikan splash screen secara programatik setelah aplikasi siap",
+        "Menghapus plugin splash screen",
+        "Mengganti gambar splash screen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kita memanggil hide() untuk menutup splash screen secara manual ketika logika inisialisasi aplikasi kita sudah selesai.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q208",
+      "question": "Apa fungsi dari folder 'android' di root project Ionic Capacitor?",
+      "options": [
+        "Folder sampah",
+        "Folder proyek native Android yang dihasilkan Capacitor",
+        "Folder untuk menyimpan kode Vue",
+        "Folder backup"
+      ],
+      "correctIndex": 1,
+      "explanation": "Folder android berisi proyek Android Studio standar yang digenerate oleh Capacitor, tempat kode native dan konfigurasi build berada.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q209",
+      "question": "Jika 'ion-content' memiliki atribut ':fullscreen=\"true\"', apa efeknya?",
+      "options": [
+        "Konten akan tampil di balik header dan status bar",
+        "Konten akan hilang",
+        "Layar menjadi hitam",
+        "Tombol back hilang"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fullscreen menyebabkan konten merentang ke seluruh layar, termasuk area di bawah header transparan atau status bar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q210",
+      "question": "Perintah 'npm install' tanpa argumen nama paket berfungsi untuk...",
+      "options": [
+        "Menginstal Node.js",
+        "Menginstal semua dependensi yang terdaftar di package.json",
+        "Membuat file package.json baru",
+        "Menghapus folder node_modules"
+      ],
+      "correctIndex": 1,
+      "explanation": "npm install akan membaca package.json dan mengunduh semua paket yang terdaftar di sana ke folder node_modules.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q211",
+      "question": "Apa itu 'Heroku' dalam konteks materi modul?",
+      "options": [
+        "Framework CSS",
+        "Platform as a Service (PaaS) untuk men-deploy aplikasi backend/endpoint",
+        "Library database lokal",
+        "Emulator Android online"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heroku digunakan dalam modul sebagai contoh platform cloud untuk men-hosting RESTful API endpoint.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q212",
+      "question": "Objek 'Response' pada Express.js digunakan untuk...",
+      "options": [
+        "Membaca data dari klien",
+        "Mengirimkan balasan/data kembali ke klien",
+        "Menghubungkan ke database",
+        "Melakukan loop"
+      ],
+      "correctIndex": 1,
+      "explanation": "Objek Response (res) digunakan server untuk mengirimkan HTTP response (seperti JSON atau HTML) kembali ke peminta.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q213",
+      "question": "Apa kelebihan menggunakan TypeScript dibandingkan JavaScript biasa dalam proyek besar?",
+      "options": [
+        "Tidak perlu dikompilasi",
+        "Mendukung static typing yang membantu mendeteksi error lebih awal",
+        "Lebih cepat dieksekusi browser",
+        "Sintaksnya lebih pendek"
+      ],
+      "correctIndex": 1,
+      "explanation": "TypeScript menyediakan sistem tipe statis yang kuat, membantu mencegah bug tipe data dan meningkatkan kualitas kode serta intellisense.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q214",
+      "question": "Method 'Array.map()' pada JavaScript/TypeScript berfungsi untuk...",
+      "options": [
+        "Memfilter elemen array",
+        "Membuat array baru dengan memanipulasi setiap elemen array lama",
+        "Mencari satu elemen",
+        "Mengurutkan array"
+      ],
+      "correctIndex": 1,
+      "explanation": "Map digunakan untuk mentransformasi setiap elemen dalam array menjadi bentuk baru dan mengembalikannya sebagai array baru.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q215",
+      "question": "Di Ionic Vue, komponen '<ion-page>' berfungsi sebagai...",
+      "options": [
+        "Tombol navigasi",
+        "Kontainer utama (root) untuk sebuah halaman/view",
+        "Input teks",
+        "Footer halaman"
+      ],
+      "correctIndex": 1,
+      "explanation": "ion-page adalah elemen pembungkus dasar untuk setiap halaman di Ionic agar transisi dan styling halaman berfungsi benar.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q216",
+      "question": "Apa fungsi dari 'v-model' pada Vue.js?",
+      "options": [
+        "Menampilkan gambar",
+        "Two-way data binding antara input form dan data aplikasi",
+        "Membuat loop",
+        "Kondisional rendering"
+      ],
+      "correctIndex": 1,
+      "explanation": "v-model adalah directive Vue untuk binding dua arah, menyinkronkan nilai input HTML dengan variabel JavaScript secara otomatis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q217",
+      "question": "Dalam plugin SQLite, perintah 'DROP TABLE IF EXISTS' digunakan untuk...",
+      "options": [
+        "Membuat tabel baru",
+        "Menghapus tabel jika tabel tersebut sudah ada",
+        "Menambah kolom baru",
+        "Mengunci tabel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perintah ini memastikan tabel dihapus terlebih dahulu jika sudah ada, berguna saat reset data atau skema baru.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q218",
+      "question": "Apa itu 'Microservices'?",
+      "options": [
+        "Layanan komputer mikro",
+        "Arsitektur di mana aplikasi disusun dari kumpulan layanan kecil yang independen",
+        "Aplikasi monolith besar",
+        "Layanan perbaikan HP"
+      ],
+      "correctIndex": 1,
+      "explanation": "Microservices adalah gaya arsitektur yang memecah aplikasi menjadi layanan-layanan kecil yang berjalan sendiri dan berkomunikasi lewat API.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q219",
+      "question": "Pada Vue Router, properti 'redirect' digunakan untuk...",
+      "options": [
+        "Mencegah akses ke rute",
+        "Mengalihkan pengguna dari satu path ke path lain secara otomatis",
+        "Menutup aplikasi",
+        "Menyimpan history"
+      ],
+      "correctIndex": 1,
+      "explanation": "Redirect digunakan untuk meneruskan navigasi, misalnya mengalihkan path kosong '/' langsung ke '/home'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q220",
+      "question": "Apa fungsi dari 'export default' pada file Vue/TS?",
+      "options": [
+        "Menghapus modul",
+        "Mengekspor fungsionalitas utama dari sebuah modul agar bisa diimpor di tempat lain",
+        "Menyembunyikan kode",
+        "Menjalankan kode secara otomatis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Export default adalah cara standar ES6 module untuk mengekspos nilai utama (seperti komponen Vue) dari sebuah file.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q221",
+      "question": "Jika method 'Geolocation.getCurrentPosition()' gagal, blok kode mana yang akan dieksekusi?",
+      "options": ["then()", "catch()", "finally()", "success()"],
+      "correctIndex": 1,
+      "explanation": "Karena menggunakan Promise, jika operasi asinkron gagal (reject), maka kontrol akan masuk ke blok catch().",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q222",
+      "question": "Apa yang dimaksud dengan 'Single Page Application' (SPA)?",
+      "options": [
+        "Aplikasi yang hanya punya satu halaman HTML yang memuat konten secara dinamis",
+        "Aplikasi yang terdiri dari banyak file HTML",
+        "Aplikasi yang tidak punya halaman",
+        "Aplikasi cetak"
+      ],
+      "correctIndex": 0,
+      "explanation": "SPA adalah aplikasi web yang memuat satu halaman HTML tunggal dan memperbarui konten secara dinamis tanpa refresh halaman penuh.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q223",
+      "question": "Perintah SQL 'UPDATE Users SET name=? WHERE id=?' berfungsi untuk...",
+      "options": [
+        "Menghapus data user",
+        "Menambah data user baru",
+        "Memperbarui data nama user berdasarkan id tertentu",
+        "Mengambil data user"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perintah UPDATE digunakan untuk memodifikasi data yang sudah ada (kolom name) berdasarkan kondisi (WHERE id).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q224",
+      "question": "Fungsi 'console.log()' sangat berguna untuk...",
+      "options": [
+        "Menampilkan pesan error ke user",
+        "Debugging dengan mencetak nilai variabel atau pesan ke konsol developer",
+        "Menyimpan data ke database",
+        "Mengirim email"
+      ],
+      "correctIndex": 1,
+      "explanation": "console.log adalah alat debugging dasar untuk melihat output atau nilai variabel di konsol browser/IDE.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q225",
+      "question": "Apa peran dari file 'AndroidManifest.xml'?",
+      "options": [
+        "Menyimpan kode Java",
+        "Menyimpan informasi penting tentang aplikasi ke sistem Android (permission, activity, package name)",
+        "Menyimpan layout UI",
+        "Menyimpan gambar"
+      ],
+      "correctIndex": 1,
+      "explanation": "AndroidManifest.xml adalah file konfigurasi wajib di Android yang mendeskripsikan informasi esensial aplikasi ke OS Android.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q226",
+      "question": "Untuk mengubah tema aplikasi menjadi gelap (dark mode) secara dinamis, biasanya kita memanipulasi...",
+      "options": [
+        "File HTML",
+        "Class CSS pada elemen body atau html (misal: class='dark')",
+        "Menghapus semua CSS",
+        "Mengganti file index.html"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dark mode di Ionic biasanya diaktifkan dengan menambahkan class tertentu (seperti 'dark') pada elemen root atau body, yang memicu variabel CSS tema gelap.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q227",
+      "question": "Apa itu 'linter' dalam pengembangan software?",
+      "options": [
+        "Alat untuk menghapus kode",
+        "Alat untuk menganalisis kode statis guna menemukan pola bermasalah atau gaya kode yang tidak sesuai",
+        "Alat untuk kompilasi",
+        "Alat untuk database"
+      ],
+      "correctIndex": 1,
+      "explanation": "Linter (seperti ESLint) membantu menjaga kualitas kode dengan mendeteksi potensi error dan menegakkan standar penulisan kode.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q228",
+      "question": "Dalam TypeScript, apa arti dari tipe 'any'?",
+      "options": [
+        "Tipe data string",
+        "Tipe data angka",
+        "Tipe data yang menonaktifkan pengecekan tipe statis (bisa berupa apa saja)",
+        "Tipe data kosong"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tipe 'any' memberitahu compiler untuk tidak melakukan pengecekan tipe pada variabel tersebut, mengizinkan nilai tipe apa pun.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q229",
+      "question": "Apa fungsi dari 'v-for' di Vue?",
+      "options": [
+        "Melakukan looping untuk merender elemen daftar berdasarkan array/objek",
+        "Membuat kondisi if-else",
+        "Mengikat event",
+        "Menyembunyikan elemen"
+      ],
+      "correctIndex": 0,
+      "explanation": "v-for adalah directive untuk merender list item dengan cara mengiterasi data array atau objek.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q230",
+      "question": "Dalam konteks HTTP Request, status code '200' berarti...",
+      "options": [
+        "Not Found",
+        "Internal Server Error",
+        "OK (Berhasil)",
+        "Unauthorized"
+      ],
+      "correctIndex": 2,
+      "explanation": "HTTP Status 200 menandakan bahwa request telah berhasil diproses oleh server.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q231",
+      "question": "Apa yang dimaksud dengan 'Hot Module Replacement' (HMR)?",
+      "options": [
+        "Mengganti modul hardware saat komputer nyala",
+        "Fitur pengembangan yang memperbarui modul di browser secara instan tanpa reload halaman penuh saat kode diubah",
+        "Mengganti baterai HP",
+        "Fitur keamanan server"
+      ],
+      "correctIndex": 1,
+      "explanation": "HMR memungkinkan update kode instan di browser saat development, mempertahankan state aplikasi tanpa refresh penuh.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q232",
+      "question": "Pada Ionic, komponen '<ion-split-pane>' berguna untuk...",
+      "options": [
+        "Membagi layar menjadi dua kolom (biasanya menu samping dan konten utama) pada layar besar",
+        "Memecah aplikasi",
+        "Membuat animasi loading",
+        "Menampilkan pop-up"
+      ],
+      "correctIndex": 0,
+      "explanation": "ion-split-pane digunakan untuk layout responsif, menampilkan menu samping permanen di layar lebar dan menu tersembunyi (hamburger) di layar kecil.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q233",
+      "question": "Apa fungsi 'props' dalam komponen Vue?",
+      "options": [
+        "Menyimpan data internal komponen",
+        "Menerima data yang dikirim dari komponen induk (parent)",
+        "Mendefinisikan method",
+        "Mengatur routing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Props adalah cara untuk mengirim data dari parent component ke child component.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q234",
+      "question": "Jika Anda menggunakan 'ionic start myApp blank', template apa yang digunakan?",
+      "options": [
+        "Template dengan tab menu",
+        "Template dengan menu samping",
+        "Template kosong dengan satu halaman",
+        "Template dengan peta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Starter 'blank' membuat proyek dasar yang hanya berisi satu halaman kosong tanpa struktur navigasi kompleks.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q235",
+      "question": "Apa itu 'Git'?",
+      "options": [
+        "Bahasa pemrograman",
+        "Sistem kontrol versi (Version Control System) terdistribusi",
+        "Server database",
+        "Teks editor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Git adalah VCS yang digunakan untuk melacak perubahan kode sumber selama pengembangan software.",
+      "difficulty": "easy"
+    }
+  ]
+}

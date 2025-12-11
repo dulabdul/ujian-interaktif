@@ -1,9 +1,5 @@
 {
   "code": "MSIM4401",
-  "title": "Rekayasa Perangkat Lunak (RPL)",
-  "description": "Software Engineering principles, SDLC, and methodologies.",
-  "modules": [
-    { "id": "modul1", "title": "Modul 1: Konsep Dasar RPL" },
-    { "id": "modul2", "title": "Modul 2: Model Proses Software" }
-  ]
+  "title": "Pemrograman Berbasis Perangkat Bergerak",
+  "description": "Pemrograman Berbasis Perangkat Bergerak"
 }

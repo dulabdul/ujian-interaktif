@@ -3,6 +3,7 @@ export type Difficulty = 'easy' | 'medium' | 'hard';
 export interface Question {
   id: string;
   question: string;
+  image?: string; // <--- Tambahkan baris ini (String URL/Path gambar)
   options: string[];
   correctIndex: number;
   explanation: string;

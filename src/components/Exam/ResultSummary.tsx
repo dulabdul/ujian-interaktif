@@ -104,6 +104,15 @@ export const ResultSummary = ({
                   </div>
 
                   <div className='flex-grow'>
+                    {q.image && (
+                      <div className='mb-4'>
+                        <img
+                          src={q.image}
+                          alt='Review Soal'
+                          className='rounded-md max-h-[200px] w-auto border border-gray-200'
+                        />
+                      </div>
+                    )}
                     <p className='font-medium text-gray-900 mb-3'>
                       {idx + 1}. {q.question}
                     </p>

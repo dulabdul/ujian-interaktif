@@ -1,0 +1,1631 @@
+{
+  "id": "bank_soal_full",
+  "title": "Bank Soal Lengkap MSIM4401",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Metode pemrograman yang memandang segala sesuatu sebagai objek yang memiliki data (atribut) dan perilaku (method) disebut dengan ....",
+      "options": [
+        "Pemrograman Terstruktur",
+        "Pemrograman Prosedural",
+        "Pemrograman Berorientasi Objek",
+        "Pemrograman Fungsional"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pemrograman Berorientasi Objek (PBO) atau OOP adalah paradigma yang membungkus data dan fungsi dalam kelas atau objek. (Referensi: Modul 1, Hal 1.3)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "Bahasa pemrograman pertama yang memperkenalkan konsep *class* dan *object* untuk keperluan simulasi adalah ....",
+      "options": ["Java", "C++", "Smalltalk", "Simula 67"],
+      "correctIndex": 3,
+      "explanation": "Bahasa Simula 67 dikembangkan oleh Kristen Nygaard dan Ole-Johan Dahl dan merupakan bahasa pertama yang menggunakan konsep objek dan kelas. (Referensi: Modul 1, Hal 1.5)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q3",
+      "question": "Perangkat lunak yang bertugas menerjemahkan kode sumber (*source code*) Java menjadi *bytecode* (file .class) adalah ....",
+      "options": ["Interpreter", "Compiler", "Linker", "Loader"],
+      "correctIndex": 1,
+      "explanation": "Compiler (javac) menerjemahkan kode sumber menjadi bytecode yang independen platform. Bytecode ini kemudian dijalankan oleh interpreter (JVM). (Referensi: Modul 1, Hal 1.11)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "Mesin imajiner (maya) yang berfungsi menjalankan program Java (bytecode) pada berbagai platform perangkat keras yang berbeda adalah ....",
+      "options": [
+        "JDK (Java Development Kit)",
+        "IDE (Integrated Development Environment)",
+        "JVM (Java Virtual Machine)",
+        "API (Application Programming Interface)"
+      ],
+      "correctIndex": 2,
+      "explanation": "JVM adalah mesin virtual yang mengeksekusi bytecode Java, memungkinkan prinsip 'Write Once, Run Anywhere'. (Referensi: Modul 1, Hal 1.14)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q5",
+      "question": "Manakah di bawah ini yang merupakan penulisan *identifier* (nama variabel) yang **VALID** dalam bahasa Java?",
+      "options": ["1namaMenu", "nama Menu", "$harga_Menu", "class"],
+      "correctIndex": 2,
+      "explanation": "Identifier boleh dimulai dengan huruf, underscore (_), atau tanda dolar ($). Tidak boleh dimulai dengan angka, tidak boleh ada spasi, dan tidak boleh menggunakan keyword (seperti 'class'). (Referensi: Modul 2, Hal 2.5)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q6",
+      "question": "Tipe data primitif pada Java yang digunakan untuk menyimpan nilai logika benar (*true*) atau salah (*false*) adalah ....",
+      "options": ["string", "boolean", "char", "bit"],
+      "correctIndex": 1,
+      "explanation": "Tipe data boolean hanya memiliki dua kemungkinan nilai: true atau false. (Referensi: Modul 2, Hal 2.4)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "Perhatikan kode berikut:<br><pre>int harga = 15000;</pre><br>Variabel `harga` di atas termasuk jenis variabel ....",
+      "options": [
+        "Instance Variable",
+        "Class Variable",
+        "Local Variable",
+        "Global Variable"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jika variabel dideklarasikan di dalam sebuah method (seperti main) atau blok kode, ia disebut Local Variable. (Asumsi kode berada dalam method berdasarkan konteks umum). (Referensi: Modul 2, Hal 2.7)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q8",
+      "question": "Untuk mendeklarasikan konstanta (nilai tetap yang tidak bisa diubah) dalam Java, *keyword* yang digunakan adalah ....",
+      "options": ["static", "const", "final", "var"],
+      "correctIndex": 2,
+      "explanation": "Keyword `final` digunakan untuk membuat variabel menjadi konstanta, artinya nilainya tidak dapat diubah setelah inisialisasi. `const` adalah reserved keyword tapi tidak dipakai di Java. (Referensi: Modul 2, Hal 2.10)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "Operator aritmatika `%` dalam Java berfungsi untuk ....",
+      "options": [
+        "Menghitung hasil pembagian",
+        "Menghitung sisa bagi (modulus)",
+        "Menghitung persentase",
+        "Melakukan perpangkatan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Operator `%` adalah modulus yang menghasilkan sisa dari pembagian bilangan bulat. (Referensi: Modul 2, Hal 2.11)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "Struktur data yang memuat sekumpulan data dengan tipe yang sama dan memiliki ukuran tetap (*fixed size*) disebut ....",
+      "options": ["String", "Class", "Array", "Object"],
+      "correctIndex": 2,
+      "explanation": "Array adalah struktur data statis yang menyimpan elemen bertipe sama dengan ukuran yang ditentukan saat deklarasi. (Referensi: Modul 3, Hal 3.4)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "Deklarasi array satu dimensi untuk menyimpan data harga (integer) yang benar adalah ....",
+      "options": [
+        "int harga = new int[5];",
+        "int[] harga = new int[5];",
+        "array int harga = new array[5];",
+        "harga int[] = new int[5];"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sintaks deklarasi array di Java adalah `TipeData[] namaVariabel = new TipeData[ukuran];`. (Referensi: Modul 3, Hal 3.5)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q12",
+      "question": "Jika terdapat array `int[] data = {10, 20, 30, 40};`, berapakah nilai dari `data[2]`?",
+      "options": ["10", "20", "30", "40"],
+      "correctIndex": 2,
+      "explanation": "Indeks array dimulai dari 0. Indeks 0 = 10, Indeks 1 = 20, Indeks 2 = 30. (Referensi: Modul 3, Hal 3.4)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "Method pada class `String` yang digunakan untuk mengetahui panjang karakter (jumlah huruf) dalam sebuah string adalah ....",
+      "options": ["size()", "length()", "count()", "getSize()"],
+      "correctIndex": 1,
+      "explanation": "Untuk String, method `length()` digunakan untuk mengembalikan jumlah karakter. Pada Array, menggunakan properti `length` (tanpa kurung). (Referensi: Modul 3, Hal 3.8)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q14",
+      "question": "Untuk membandingkan apakah dua buah String `s1` dan `s2` memiliki isi teks yang sama persis, perintah yang paling tepat digunakan adalah ....",
+      "options": ["s1 == s2", "s1.compare(s2)", "s1.equals(s2)", "s1 = s2"],
+      "correctIndex": 2,
+      "explanation": "Operator `==` membandingkan referensi memori objek, sedangkan method `equals()` membandingkan isi konten stringnya. (Referensi: Modul 3, Method pada String)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q15",
+      "question": "Dalam struktur percabangan `if`, kondisi yang diperiksa harus menghasilkan nilai bertipe ....",
+      "options": ["Integer", "String", "Boolean", "Char"],
+      "correctIndex": 2,
+      "explanation": "Ekspresi di dalam kurung `if (...)` harus bernilai true atau false (boolean). (Referensi: Modul 4, Hal 4.5)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q16",
+      "question": "Perhatikan potongan kode berikut:<br><pre>int nilai = 75;<br>if (nilai > 80) {<br>    System.out.print(\"A\");<br>} else if (nilai > 70) {<br>    System.out.print(\"B\");<br>} else {<br>    System.out.print(\"C\");<br>}</pre><br>Output dari kode di atas adalah ....",
+      "options": ["A", "B", "C", "BC"],
+      "correctIndex": 1,
+      "explanation": "Nilai 75 tidak lebih besar dari 80 (False), maka cek kondisi berikutnya. 75 lebih besar dari 70 (True), maka cetak 'B' dan keluar dari struktur if. (Referensi: Modul 4, Struktur If-Else-If)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q17",
+      "question": "Struktur keputusan yang paling efisien digunakan ketika terdapat banyak pilihan kondisi yang didasarkan pada nilai tunggal (seperti pilihan menu angka 1, 2, 3) adalah ....",
+      "options": ["If-Else", "Switch-Case", "For Loop", "While Loop"],
+      "correctIndex": 1,
+      "explanation": "Switch-case dirancang khusus untuk percabangan multi-arah berdasarkan nilai variabel tunggal, lebih rapi daripada if-else bertingkat. (Referensi: Modul 4, Hal 4.19)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "Pada struktur `switch-case`, kata kunci yang digunakan untuk menghentikan eksekusi agar tidak berlanjut ke *case* berikutnya (*fall-through*) adalah ....",
+      "options": ["stop", "return", "exit", "break"],
+      "correctIndex": 3,
+      "explanation": "`break` digunakan dalam switch-case untuk keluar dari blok switch setelah case yang cocok dieksekusi. (Referensi: Modul 4, Hal 4.20)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "Manakah operator logika yang menghasilkan nilai `true` HANYA jika kedua operand-nya bernilai `true`?",
+      "options": ["&& (AND)", "|| (OR)", "! (NOT)", "^ (XOR)"],
+      "correctIndex": 0,
+      "explanation": "Operator AND (&&) mensyaratkan semua kondisi harus benar agar hasilnya benar. (Referensi: Modul 2, Tabel Operator Kondisional, Hal 2.12)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "Berdasarkan studi kasus restoran, jika pelanggan memesan 'Nasi Goreng' seharga 20000 dan jumlah pesanan 2, manakah rumus menghitung total biaya yang benar?",
+      "options": [
+        "total = harga + jumlah;",
+        "total = harga * jumlah;",
+        "total = harga / jumlah;",
+        "total = harga - jumlah;"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total biaya dihitung dengan mengalikan harga satuan dengan jumlah item yang dibeli. (Logika dasar Tugas Praktik 1)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q21",
+      "question": "Tipe data `char` di Java digunakan untuk menyimpan ....",
+      "options": [
+        "Bilangan bulat",
+        "Bilangan desimal",
+        "Karakter tunggal",
+        "Kumpulan karakter"
+      ],
+      "correctIndex": 2,
+      "explanation": "`char` menyimpan satu karakter Unicode 16-bit, contohnya 'A', '1', atau '%'. (Referensi: Modul 2, Hal 2.4)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q22",
+      "question": "Penulisan deklarasi variabel berikut yang **SALAH** adalah ....",
+      "options": [
+        "int jumlah = 10;",
+        "double luas = 5.5;",
+        "String nama = 'Budi';",
+        "char grade = 'A';"
+      ],
+      "correctIndex": 2,
+      "explanation": "String harus diapit oleh tanda kutip dua (`\"`), bukan kutip satu (`'`). Kutip satu digunakan untuk `char`. Seharusnya: `String nama = \"Budi\";`. (Referensi: Modul 2, Hal 2.6)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q23",
+      "question": "Dalam PBO, cetakan atau *blueprint* untuk membuat objek disebut ....",
+      "options": ["Method", "Class", "Package", "Variable"],
+      "correctIndex": 1,
+      "explanation": "Class adalah definisi atau rancangan dari mana objek dibuat. Objek adalah *instance* dari class. (Referensi: Modul 1, Hal 1.9)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q24",
+      "question": "Keyword `void` pada deklarasi method `public static void main(...)` berarti ....",
+      "options": [
+        "Method tersebut harus mengembalikan nilai integer",
+        "Method tersebut bersifat publik",
+        "Method tersebut tidak mengembalikan nilai apapun",
+        "Method tersebut adalah metode statis"
+      ],
+      "correctIndex": 2,
+      "explanation": "`void` adalah tipe kembalian (return type) yang menandakan method tidak menghasilkan output nilai (return value) setelah dijalankan. (Referensi: Modul 3, Method)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q25",
+      "question": "Berikut ini adalah karakteristik dari array, KECUALI ....",
+      "options": [
+        "Menyimpan data dengan tipe yang sama",
+        "Ukuran array dapat diubah secara dinamis setelah deklarasi",
+        "Elemen diakses menggunakan indeks",
+        "Indeks dimulai dari 0"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ukuran array di Java bersifat tetap (fixed) setelah inisialisasi. Tidak bisa diperbesar atau diperkecil secara otomatis. (Referensi: Modul 3, Hal 3.4)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q26",
+      "question": "Jika kita ingin membuat program restoran yang dapat menyimpan banyak menu, struktur data yang paling tepat untuk menyimpan daftar harga menu (yang semuanya berupa angka) adalah ....",
+      "options": [
+        "Array of int/double",
+        "Array of String",
+        "Variable single int",
+        "Looping"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karena harga berupa angka dan ada banyak menu, array bertipe numerik (int atau double) adalah wadah yang tepat. (Referensi: Tugas Praktik 1)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q27",
+      "question": "Operator logika `||` akan menghasilkan nilai `true` jika ....",
+      "options": [
+        "Kedua operand bernilai false",
+        "Salah satu atau kedua operand bernilai true",
+        "Hanya operand pertama yang true",
+        "Kedua operand harus bernilai true"
+      ],
+      "correctIndex": 1,
+      "explanation": "Operator OR (`||`) bernilai true jika minimal ada satu kondisi yang benar. (Referensi: Modul 2, Tabel 2.5, Hal 2.12)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q28",
+      "question": "Perhatikan kode: `int x = 10; int y = x++;` Berapakah nilai `y` setelah kode dijalankan?",
+      "options": ["10", "11", "12", "9"],
+      "correctIndex": 0,
+      "explanation": "Operator `x++` adalah *post-increment*. Nilai `x` (10) diberikan dulu ke `y`, baru kemudian `x` ditambah menjadi 11. Jadi `y` mendapat nilai asli 10. (Referensi: Modul 2, Tabel 2.9, Hal 2.14)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q29",
+      "question": "Simbol `//` dalam kode program Java digunakan untuk ....",
+      "options": [
+        "Membuat blok kode",
+        "Membuat komentar satu baris",
+        "Membuat komentar banyak baris",
+        "Operator pembagian"
+      ],
+      "correctIndex": 1,
+      "explanation": "`//` digunakan untuk single-line comment. `/* ... */` untuk multi-line. (Referensi: Modul 2, Hal 2.32)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q30",
+      "question": "Dalam pembuatan aplikasi restoran, variabel `totalBayar` sebaiknya menggunakan tipe data ....",
+      "options": ["boolean", "String", "int atau double", "char"],
+      "correctIndex": 2,
+      "explanation": "Total bayar adalah nilai numerik yang mungkin membutuhkan desimal (double) atau bilangan bulat besar (int/long) untuk mata uang. (Logika Tugas Praktik)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q31",
+      "question": "Manakah yang merupakan penulisan *CamelCase* yang benar untuk nama variabel?",
+      "options": ["total_bayar", "TotalBayar", "totalBayar", "TOTALBAYAR"],
+      "correctIndex": 2,
+      "explanation": "CamelCase untuk variabel diawali huruf kecil, dan kata berikutnya diawali huruf besar. `TotalBayar` (PascalCase) biasanya untuk nama Class. (Referensi: Modul 2, Hal 2.11)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q32",
+      "question": "Apa hasil dari `10 % 3`?",
+      "options": ["3", "1", "3.33", "0"],
+      "correctIndex": 1,
+      "explanation": "10 dibagi 3 adalah 3 dengan sisa 1. Operator `%` mengambil sisanya. (Referensi: Modul 2, Operator Aritmatika)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q33",
+      "question": "Method `System.out.println()` berfungsi untuk ....",
+      "options": [
+        "Menerima input dari user",
+        "Menampilkan output ke layar dan ganti baris",
+        "Menampilkan output ke layar tanpa ganti baris",
+        "Menghapus layar"
+      ],
+      "correctIndex": 1,
+      "explanation": "`println` singkatan dari print line, artinya mencetak lalu pindah ke baris baru. (Referensi: Modul 2, Hal 2.16)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q34",
+      "question": "Jika `a = true` dan `b = false`, maka hasil dari `a && b` adalah ....",
+      "options": ["true", "false", "null", "error"],
+      "correctIndex": 1,
+      "explanation": "Operator AND (`&&`) hanya bernilai true jika keduanya true. Karena `b` false, hasilnya false. (Referensi: Modul 2, Tabel 2.5)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q35",
+      "question": "Dalam struktur `switch`, kondisi `default` akan dieksekusi jika ....",
+      "options": [
+        "Nilai sesuai dengan case pertama",
+        "Terdapat perintah break",
+        "Tidak ada case yang cocok dengan nilai variabel",
+        "Selalu dieksekusi di awal"
+      ],
+      "correctIndex": 2,
+      "explanation": "`default` adalah opsi opsional yang dijalankan jika tidak ada `case` yang memenuhi syarat. Mirip dengan `else` pada if-else. (Referensi: Modul 4, Hal 4.20)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q36",
+      "question": "Manakah deklarasi array 2 dimensi yang benar?",
+      "options": [
+        "int[][] matriks = new int[3][3];",
+        "int[] matriks = new int[3,3];",
+        "int matriks = new int[3][3];",
+        "int[3][3] matriks = new int;"
+      ],
+      "correctIndex": 0,
+      "explanation": "Array 2 dimensi menggunakan dua pasang kurung siku `[][]`. (Referensi: Modul 3, Hal 3.6)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q37",
+      "question": "Apa output dari kode: `String s = \"Java\"; System.out.println(s.charAt(2));`?",
+      "options": ["J", "a", "v", "Error"],
+      "correctIndex": 2,
+      "explanation": "`charAt(index)` mengambil karakter pada posisi indeks. Indeks 0='J', 1='a', 2='v'. (Referensi: Modul 3, String)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q38",
+      "question": "Perintah `import java.util.Scanner;` digunakan untuk ....",
+      "options": [
+        "Menampilkan teks",
+        "Memasukkan library untuk input data",
+        "Membuat array",
+        "Mengakhiri program"
+      ],
+      "correctIndex": 1,
+      "explanation": "Class `Scanner` berada di paket `java.util` dan digunakan untuk membaca input dari keyboard/user. (Tersirat dalam tugas input data)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q39",
+      "question": "Manakah yang merupakan tipe data *Reference*?",
+      "options": ["int", "boolean", "String", "char"],
+      "correctIndex": 2,
+      "explanation": "`String` adalah sebuah Class (dimulai huruf besar), sehingga variabel String adalah tipe referensi (objek), bukan primitif. (Referensi: Modul 2, Hal 2.4)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q40",
+      "question": "Dalam PBO, variabel yang dideklarasikan di dalam kelas tetapi di luar method disebut ....",
+      "options": [
+        "Local Variable",
+        "Instance Variable",
+        "Parameter Variable",
+        "Block Variable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Instance variable adalah atribut milik objek yang dideklarasikan dalam kelas, di luar method manapun. (Referensi: Modul 2, Hal 2.8)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q41",
+      "question": "Apa yang dimaksud dengan *case sensitive* pada Java?",
+      "options": [
+        "Huruf besar dan kecil dianggap sama",
+        "Huruf besar dan kecil dibedakan",
+        "Hanya huruf besar yang dikenali",
+        "Hanya huruf kecil yang dikenali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Java membedakan antara 'Nama' dan 'nama'. Keduanya adalah identifier yang berbeda. (Referensi: Modul 2, Identifier)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q42",
+      "question": "Pada array `int[] angka = {1, 2, 3};`, perintah `angka.length` akan menghasilkan nilai ....",
+      "options": ["2", "3", "4", "null"],
+      "correctIndex": 1,
+      "explanation": "Properti `.length` pada array mengembalikan jumlah elemen dalam array tersebut. (Referensi: Modul 3, Hal 3.6)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q43",
+      "question": "Manakah struktur percabangan yang tepat untuk memeriksa kondisi bersarang (*nested*)?",
+      "options": ["Switch-Case", "Nested If", "Looping", "Array"],
+      "correctIndex": 1,
+      "explanation": "Nested If adalah struktur if di dalam blok if lain, digunakan untuk kondisi berlapis. (Referensi: Modul 4, Hal 4.10)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q44",
+      "question": "Tipe data yang paling hemat memori untuk menyimpan angka 1 sampai 100 adalah ....",
+      "options": ["long", "int", "byte", "double"],
+      "correctIndex": 2,
+      "explanation": "Tipe `byte` berukuran 8-bit dengan rentang -128 sampai 127, cukup untuk menyimpan angka 100 dan paling hemat memori. (Referensi: Modul 2, Hal 2.4)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q45",
+      "question": "Operator `!=` digunakan untuk memeriksa ....",
+      "options": ["Kesamaan", "Ketidaksamaan", "Lebih besar", "Lebih kecil"],
+      "correctIndex": 1,
+      "explanation": "`!=` adalah operator relasional yang berarti 'tidak sama dengan'. (Referensi: Modul 2, Tabel 2.3, Hal 2.12)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q46",
+      "question": "Jika `x = 5`, maka `x += 3` akan membuat nilai `x` menjadi ....",
+      "options": ["3", "5", "8", "15"],
+      "correctIndex": 2,
+      "explanation": "`x += 3` ekivalen dengan `x = x + 3`. Jadi 5 + 3 = 8. (Referensi: Modul 2, Tabel 2.8, Hal 2.13)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q47",
+      "question": "Untuk membuat komentar banyak baris (*multiline comment*), simbol yang digunakan adalah ....",
+      "options": ["// ...", "/* ... */", "# ...", ""],
+      "correctIndex": 1,
+      "explanation": "Komentar yang diawali `/*` dan diakhiri `*/` bisa mencakup banyak baris. (Referensi: Modul 2, Hal 2.32)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q48",
+      "question": "Salah satu kelebihan Array adalah ....",
+      "options": [
+        "Ukurannya dinamis",
+        "Bisa menyimpan tipe data berbeda",
+        "Akses elemen cepat menggunakan indeks",
+        "Membutuhkan memori besar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Karena lokasi memori berurutan, akses data via indeks sangat cepat. Kekurangannya adalah ukuran statis dan tipe data homogen. (Referensi: Modul 3, Array)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q49",
+      "question": "Dalam tugas restoran, jika total belanja > 100.000 mendapat diskon, struktur kontrol apa yang digunakan?",
+      "options": ["Looping", "If (Kondisi)", "Array", "Class"],
+      "correctIndex": 1,
+      "explanation": "Untuk mengecek apakah `total > 100000` diperlukan struktur keputusan (Decision/If). (Logika Tugas Praktik)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q50",
+      "question": "Manakah yang merupakan urutan eksekusi program Java dari kode sumber ke hasil?",
+      "options": [
+        "Source Code -> Interpreter -> Compiler -> Output",
+        "Source Code -> Compiler -> Bytecode -> JVM -> Output",
+        "Bytecode -> Source Code -> JVM -> Output",
+        "Source Code -> Output"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kode (.java) dikompilasi menjadi bytecode (.class), lalu dijalankan oleh JVM. (Referensi: Modul 1, Gambar 1.4, Hal 1.12)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q51",
+      "question": "Struktur perulangan yang akan mengeksekusi blok kode minimal satu kali meskipun kondisi awal bernilai false adalah ....",
+      "options": ["For loop", "While loop", "Do-While loop", "For-Each loop"],
+      "correctIndex": 2,
+      "explanation": "Do-While melakukan pengecekan kondisi di akhir blok (post-test loop), sehingga kode di dalam blok 'do' pasti dijalankan minimal satu kali sebelum kondisi diperiksa. (Referensi: Modul 5, Struktur Perulangan)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q52",
+      "question": "Perhatikan kode berikut:<br><pre>for (int i = 0; i < 5; i++) {<br>    System.out.print(i + \" \");<br>}</pre><br>Output dari kode di atas adalah ....",
+      "options": ["1 2 3 4 5", "0 1 2 3 4 5", "0 1 2 3 4", "1 2 3 4"],
+      "correctIndex": 2,
+      "explanation": "Loop dimulai dari i=0 dan berjalan selama i < 5. Nilai i yang dicetak adalah 0, 1, 2, 3, 4. Saat i=5, kondisi false dan loop berhenti. (Referensi: Modul 5, For Loop)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q53",
+      "question": "Keyword yang digunakan untuk menghentikan paksa sebuah perulangan sebelum kondisi normalnya tercapai adalah ....",
+      "options": ["continue", "return", "break", "stop"],
+      "correctIndex": 2,
+      "explanation": "Keyword 'break' digunakan untuk keluar dari blok perulangan (atau switch) seketika itu juga. (Referensi: Modul 5, Control Flow)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q54",
+      "question": "Dalam konsep PBO, kemampuan suatu kelas untuk mewarisi atribut dan method dari kelas lain disebut ....",
+      "options": [
+        "Encapsulation",
+        "Polymorphism",
+        "Inheritance",
+        "Abstraction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inheritance (Pewarisan) adalah mekanisme dimana sebuah kelas baru (subclass) mendapatkan sifat dan perilaku dari kelas yang sudah ada (superclass). (Referensi: Modul 7, Inheritance)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q55",
+      "question": "Keyword yang digunakan untuk mendeklarasikan pewarisan (inheritance) antar kelas di Java adalah ....",
+      "options": ["implements", "extends", "inherits", "super"],
+      "correctIndex": 1,
+      "explanation": "Keyword 'extends' digunakan untuk mendefinisikan bahwa sebuah kelas merupakan turunan dari kelas lain. Contoh: `class Mobil extends Kendaraan`. (Referensi: Modul 7, Inheritance)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q56",
+      "question": "Perhatikan kode berikut:<br><pre>int i = 0;<br>while (i < 3) {<br>    System.out.print(\"Java \");<br>    i++;<br>}</pre><br>Berapa kali kata 'Java' akan dicetak?",
+      "options": [
+        "2 kali",
+        "3 kali",
+        "4 kali",
+        "Tidak terhingga (Infinite loop)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loop berjalan saat i=0, i=1, dan i=2. Saat i=3, kondisi i<3 bernilai false. Jadi tercetak 3 kali. (Referensi: Modul 5, While Loop)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q57",
+      "question": "Konsep menyembunyikan detail implementasi data dan hanya memberikan akses melalui method tertentu (getter/setter) disebut ....",
+      "options": [
+        "Inheritance",
+        "Polymorphism",
+        "Encapsulation",
+        "Instansiasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Encapsulation (Pengkapsulan) adalah pembungkusan data dan method, serta menyembunyikan rincian data dari akses luar langsung untuk keamanan. (Referensi: Modul 8, Encapsulation)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q58",
+      "question": "Modifier akses yang membuat anggota kelas (variabel/method) HANYA dapat diakses dari dalam kelas itu sendiri adalah ....",
+      "options": ["public", "protected", "private", "default"],
+      "correctIndex": 2,
+      "explanation": "Modifier 'private' adalah tingkat akses paling ketat, hanya terlihat oleh kelas tempat ia didefinisikan. (Referensi: Modul 8, Access Modifiers)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q59",
+      "question": "Apa output dari kode berikut?<br><pre>for (int i = 1; i <= 5; i++) {<br>    if (i == 3) continue;<br>    System.out.print(i);<br>}</pre>",
+      "options": ["12345", "1245", "12", "3"],
+      "correctIndex": 1,
+      "explanation": "Perintah 'continue' akan melewati sisa kode dalam iterasi saat ini dan lanjut ke iterasi berikutnya. Saat i=3, 'continue' dieksekusi, sehingga 'print(3)' dilewati. (Referensi: Modul 5, Jump Statements)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q60",
+      "question": "Dalam Tugas Praktik 2, untuk membuat menu yang terus muncul kembali setelah user selesai memesan (kecuali user memilih keluar), struktur perulangan yang paling tepat digunakan adalah ....",
+      "options": ["if-else", "do-while", "for", "switch-case"],
+      "correctIndex": 1,
+      "explanation": "Do-while sangat cocok untuk menu interaktif karena menu harus ditampilkan minimal sekali, lalu program mengecek apakah user ingin mengulang/kembali ke menu. (Logika Tugas Praktik 2)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q61",
+      "question": "Jika sebuah kelas `Kucing` merupakan turunan dari kelas `Hewan`, manakah pernyataan yang benar?",
+      "options": [
+        "Kucing adalah superclass dari Hewan",
+        "Hewan adalah subclass dari Kucing",
+        "Kucing mewarisi method public/protected dari Hewan",
+        "Kucing tidak dapat memiliki atribut sendiri"
+      ],
+      "correctIndex": 2,
+      "explanation": "Subclass (Kucing) mewarisi member non-private dari Superclass (Hewan). Hewan adalah superclass, Kucing adalah subclass. (Referensi: Modul 7, Inheritance Rules)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q62",
+      "question": "Untuk mengakses method milik *superclass* yang telah di-*override* oleh *subclass*, kita menggunakan keyword ....",
+      "options": ["this", "super", "parent", "base"],
+      "correctIndex": 1,
+      "explanation": "Keyword 'super' digunakan untuk merujuk pada anggota (variabel, method, konstruktor) dari kelas induk (superclass). Contoh: `super.tampilMenu()`. (Referensi: Modul 7, Keyword Super)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q63",
+      "question": "Struktur `for-each` di Java paling efektif digunakan untuk ....",
+      "options": [
+        "Melakukan perulangan tanpa batas",
+        "Mengakses elemen array/koleksi secara berurutan",
+        "Melakukan perulangan dengan indeks mundur",
+        "Mengubah nilai elemen dalam array primitif"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enhanced for loop (for-each) dirancang untuk menyederhanakan iterasi melalui elemen array atau collection tanpa perlu mengatur indeks secara manual. (Referensi: Modul 5, For-Each)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q64",
+      "question": "Apa yang terjadi jika kondisi pada `while` loop tidak pernah menjadi `false`?",
+      "options": [
+        "Program berhenti otomatis",
+        "Terjadi Infinite Loop (Perulangan Tak Berujung)",
+        "Terjadi Syntax Error",
+        "Loop tidak dijalankan sama sekali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jika kondisi while selalu true, program akan terus terjebak dalam blok perulangan selamanya (sampai memori habis atau dihentikan paksa). (Referensi: Modul 5, While Loop)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q65",
+      "question": "Method `setHarga(double harga)` dalam enkapsulasi biasanya dideklarasikan dengan akses modifier ....",
+      "options": ["private", "public", "protected", "static"],
+      "correctIndex": 1,
+      "explanation": "Method Setter (mutator) biasanya bersifat `public` agar kelas lain dapat mengubah nilai variabel private melalui aturan yang aman. (Referensi: Modul 8, Getter & Setter)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q66",
+      "question": "Dalam konsep Polymorphism, kemampuan *subclass* untuk mendefinisikan ulang method yang sudah ada di *superclass* dengan implementasi yang berbeda disebut ....",
+      "options": [
+        "Overloading",
+        "Overriding",
+        "Encapsulating",
+        "Instantiating"
+      ],
+      "correctIndex": 1,
+      "explanation": "Method Overriding terjadi ketika subclass memiliki method dengan nama, parameter, dan tipe kembalian yang sama dengan superclass, tetapi dengan isi kode berbeda. (Referensi: Modul 8, Polymorphism)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q67",
+      "question": "Perhatikan kode:<br><pre>public void makan() { ... }<br>public void makan(String makanan) { ... }</pre><br>Dua method dengan nama sama tetapi parameter berbeda dalam satu kelas disebut ....",
+      "options": ["Overriding", "Overloading", "Inheritance", "Constructor"],
+      "correctIndex": 1,
+      "explanation": "Method Overloading adalah membuat beberapa method dengan nama sama tetapi berbeda parameter (jumlah atau tipe) dalam satu kelas. (Referensi: Modul 8, Polymorphism)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q68",
+      "question": "Pada Tugas Praktik 2, terdapat fitur 'validasi input'. Struktur apa yang paling tepat untuk memastikan user menginput nilai yang benar (misal: tidak boleh negatif) berulang kali sampai benar?",
+      "options": ["if-else", "while loop", "switch-case", "array"],
+      "correctIndex": 1,
+      "explanation": "While loop sangat cocok untuk validasi: `while (inputSalah) { mintaInputLagi(); }`. Loop akan terus berjalan selama input masih salah. (Logika Tugas Praktik 2)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q69",
+      "question": "Manakah deklarasi class berikut yang menerapkan konsep Inheritance dengan benar?",
+      "options": [
+        "public class Makanan implements MenuItem",
+        "public class Makanan extends MenuItem",
+        "public class Makanan inherits MenuItem",
+        "public class Makanan super MenuItem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dalam Java, pewarisan kelas menggunakan keyword `extends`. `implements` digunakan untuk interface. (Referensi: Modul 7, Syntax Inheritance)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q70",
+      "question": "Variabel yang dideklarasikan dengan `private` di dalam sebuah class ....",
+      "options": [
+        "Dapat diakses oleh semua kelas dalam satu package",
+        "Dapat diakses oleh subclass saja",
+        "Hanya dapat diakses di dalam kelas itu sendiri",
+        "Dapat diakses dari mana saja"
+      ],
+      "correctIndex": 2,
+      "explanation": "Akses private membatasi visibilitas hanya pada body kelas tersebut. Ini inti dari enkapsulasi. (Referensi: Modul 8, Access Modifier)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q71",
+      "question": "Berapa nilai akhir variabel `count`?<br><pre>int count = 0;<br>do {<br>    count++;<br>} while (count < 5);</pre>",
+      "options": ["4", "5", "6", "0"],
+      "correctIndex": 1,
+      "explanation": "Iterasi: 1 (1<5? T), 2 (2<5? T), 3 (3<5? T), 4 (4<5? T), 5 (5<5? F). Loop berhenti saat count = 5. (Referensi: Modul 5, Do-While)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q72",
+      "question": "Untuk membuat sebuah method menjadi method pembangun (Constructor) yang dipanggil saat objek dibuat, syarat utamanya adalah ....",
+      "options": [
+        "Harus bertipe void",
+        "Harus memiliki nama yang sama persis dengan nama Class",
+        "Harus menggunakan keyword static",
+        "Harus bersifat private"
+      ],
+      "correctIndex": 1,
+      "explanation": "Constructor adalah method khusus yang namanya harus sama dengan nama kelas dan tidak memiliki tipe kembalian (bahkan tidak void). (Referensi: Modul 1/7, Class & Object)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q73",
+      "question": "Apa fungsi dari `System.in` dalam Java?",
+      "options": [
+        "Mengirim output ke monitor",
+        "Membaca input byte stream standar (biasanya keyboard)",
+        "Menangani error",
+        "Membuka file"
+      ],
+      "correctIndex": 1,
+      "explanation": "`System.in` adalah InputStream standar yang terhubung ke input keyboard, biasanya dibungkus dengan Scanner untuk membaca teks. (Referensi: Tugas 2 - Input I/O)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q74",
+      "question": "Pada Tugas 2, jika user ingin memesan banyak menu sekaligus, kita bisa menggunakan Array untuk menyimpan pesanan. Jika kita tidak tahu pasti berapa banyak pesanan user, class Java Collection apa yang lebih fleksibel daripada Array biasa?",
+      "options": ["String", "ArrayList", "int[]", "Object"],
+      "correctIndex": 1,
+      "explanation": "ArrayList adalah array dinamis yang ukurannya bisa bertambah sesuai kebutuhan, cocok untuk menampung jumlah pesanan yang tidak tentu. (Referensi: Tugas 3 - ArrayList, relevan dengan pengembangan Tugas 2)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q75",
+      "question": "Manakah pernyataan yang BENAR tentang *Nested Loop* (Loop Bersarang)?",
+      "options": [
+        "Loop di dalam loop tidak diperbolehkan di Java",
+        "Inner loop akan dijalankan sampai selesai untuk setiap satu iterasi Outer loop",
+        "Outer loop akan berjalan lebih cepat dari inner loop",
+        "Variabel counter kedua loop harus memiliki nama yang sama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pada nested loop, loop bagian dalam (inner) akan menyelesaikan seluruh siklusnya untuk setiap satu langkah/iterasi dari loop bagian luar (outer). (Referensi: Modul 5, Nested Loops)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q76",
+      "question": "Jika class `Manajer` extends `Karyawan`, maka `Karyawan` disebut sebagai ....",
+      "options": ["Subclass", "Superclass", "Child class", "Leaf class"],
+      "correctIndex": 1,
+      "explanation": "Kelas induk yang mewariskan sifat disebut Superclass (atau Parent class). Kelas yang mewarisi (Manajer) disebut Subclass. (Referensi: Modul 7, Inheritance)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q77",
+      "question": "Dalam Java, sebuah class hanya boleh memiliki .... (terkait inheritance)",
+      "options": [
+        "Satu superclass langsung (Single Inheritance)",
+        "Banyak superclass langsung (Multiple Inheritance)",
+        "Tidak boleh punya superclass",
+        "Maksimal dua superclass"
+      ],
+      "correctIndex": 0,
+      "explanation": "Java tidak mendukung multiple inheritance untuk class. Sebuah class hanya bisa `extends` satu class lain. Multiple inheritance disimulasikan via Interface. (Referensi: Modul 7, Inheritance)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q78",
+      "question": "Kode: `this.nama = nama;` Keyword `this` merujuk pada ....",
+      "options": [
+        "Class induk",
+        "Method main",
+        "Objek saat ini (current object)",
+        "Variabel statis"
+      ],
+      "correctIndex": 2,
+      "explanation": "`this` adalah referensi ke objek yang sedang aktif/dijalankan. Digunakan untuk membedakan instance variable dengan parameter method yang bernama sama. (Referensi: Modul 8, Encapsulation)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q79",
+      "question": "Apa keuntungan utama menggunakan Encapsulation?",
+      "options": [
+        "Membuat kode lebih panjang",
+        "Meningkatkan keamanan data dan fleksibilitas pemeliharaan kode",
+        "Membuat eksekusi program lebih cepat",
+        "Mengizinkan akses data sembarangan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dengan menyembunyikan data (private) dan menggunakan setter/getter, kita bisa mengontrol bagaimana data diubah (validasi) dan menjaga integritas objek. (Referensi: Modul 8, Encapsulation)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q80",
+      "question": "Dalam Tugas 2, jika user diminta memilih menu 1-4, dan user menginput 5. Logika apa yang harus dijalankan?",
+      "options": [
+        "Program langsung berhenti",
+        "Program lanjut ke proses pembayaran",
+        "Program menampilkan pesan error dan meminta input ulang",
+        "Program hang"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sesuai prinsip validasi input (logic Tugas 2), program harus menangani input di luar jangkauan (invalid) secara user-friendly, biasanya dengan loop. (Logika Tugas Praktik 2)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q81",
+      "question": "Apa output dari kode ini?<br><pre>int x = 0;<br>while (x < 3) {<br>    x++;<br>}<br>System.out.println(x);</pre>",
+      "options": ["2", "3", "4", "0"],
+      "correctIndex": 1,
+      "explanation": "Loop: x jadi 1, x jadi 2, x jadi 3. Saat x=3, kondisi `3 < 3` false. Loop berhenti. Nilai x terakhir adalah 3. (Referensi: Modul 5, While Loop)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q82",
+      "question": "Untuk menjumlahkan semua elemen dalam array `int[] harga`, struktur loop yang paling sederhana adalah ....",
+      "options": [
+        "for (int h : harga) { total += h; }",
+        "while (harga > 0) { total += harga; }",
+        "do { total += harga; } while (true);",
+        "if (harga != null) { total = harga; }"
+      ],
+      "correctIndex": 0,
+      "explanation": "Enhanced for loop (for-each) sangat ringkas untuk menjumlahkan isi array tanpa menggunakan indeks. (Referensi: Modul 5, For-Each)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q83",
+      "question": "Jika kelas `Bebek` memiliki method `suara()` yang mencetak 'Wek wek', dan kelas turunannya `AnakBebek` mendefinisikan ulang method `suara()` untuk mencetak 'Ciit ciit', ini adalah contoh ....",
+      "options": ["Overloading", "Overriding", "Constructor", "Inheritance"],
+      "correctIndex": 1,
+      "explanation": "Mengganti perilaku method yang diwarisi dari superclass adalah definisi Method Overriding. (Referensi: Modul 8, Polymorphism)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q84",
+      "question": "Dalam Java, semua kelas secara otomatis merupakan turunan dari kelas root yaitu ....",
+      "options": ["Main", "String", "Object", "System"],
+      "correctIndex": 2,
+      "explanation": "Class `java.lang.Object` adalah akar (root) dari semua hierarki kelas di Java. Setiap kelas secara implisit extends Object. (Referensi: Modul 7, Superclass Object)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q85",
+      "question": "Method `scanner.nextInt()` digunakan untuk membaca input bertipe ....",
+      "options": [
+        "String satu kata",
+        "String satu baris",
+        "Bilangan bulat (integer)",
+        "Bilangan desimal (double)"
+      ],
+      "correctIndex": 2,
+      "explanation": "`nextInt()` adalah method Scanner untuk mengambil token input berikutnya sebagai `int`. (Referensi: Modul 1/Tugas 2, Input)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q86",
+      "question": "Variabel `static` dalam sebuah class memiliki sifat ....",
+      "options": [
+        "Dimiliki oleh setiap objek secara unik",
+        "Nilainya berbeda-beda tiap objek",
+        "Dimiliki bersama oleh seluruh instance kelas tersebut (shared)",
+        "Hanya bisa diakses di dalam method main"
+      ],
+      "correctIndex": 2,
+      "explanation": "Variabel static adalah variabel kelas, bukan variabel objek. Hanya ada satu salinan di memori yang dibagi (shared) ke semua objek. (Referensi: Modul 2, Static Keyword)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q87",
+      "question": "Apa output kode ini?<br><pre>for(int i=0; i<3; i++);<br>    System.out.print(i);</pre><br>(Perhatikan tanda titik koma)",
+      "options": ["012", "0123", "Error: variabel i tidak dikenali", "3"],
+      "correctIndex": 2,
+      "explanation": "Tanda `;` setelah for loop mengakhiri loop tanpa body. Variabel `i` dideklarasikan DI DALAM loop for scope. Statement `print(i)` berada di LUAR loop, sehingga variabel `i` sudah tidak dikenali (out of scope). *Catatan: Jika i dideklarasikan sebelum loop, outputnya 3.* (Referensi: Modul 5, Scope Variabel)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q88",
+      "question": "Modifier akses yang memungkinkan anggota kelas diakses oleh kelas lain dalam satu package DAN oleh subclass di package lain adalah ....",
+      "options": ["public", "private", "protected", "default (no modifier)"],
+      "correctIndex": 2,
+      "explanation": "`protected` memberikan akses dalam package yang sama + subclass (meskipun beda package). (Referensi: Modul 8, Access Modifiers)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q89",
+      "question": "Manakah cara yang benar memanggil konstruktor superclass dari subclass?",
+      "options": ["super.Karyawan()", "super()", "new Super()", "extends()"],
+      "correctIndex": 1,
+      "explanation": "`super()` adalah sintaks untuk memanggil konstruktor kelas induk. Harus diletakkan di baris pertama konstruktor subclass. (Referensi: Modul 7, Constructor Chaining)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q90",
+      "question": "Dalam tugas restoran, data menu (nama, harga) sebaiknya dikelompokkan dalam sebuah ....",
+      "options": [
+        "Method",
+        "Loop",
+        "Class/Objek (misal: MenuItem)",
+        "Variabel String panjang"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pendekatan OOP menyarankan pembungkusan data terkait (nama & harga) ke dalam sebuah Class/Model (misal `MenuItem`) agar mudah dikelola dalam array/list. (Logika Tugas Praktik 3)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q91",
+      "question": "Apa hasil dari `int[] arr = new int[5]; System.out.println(arr[0]);`?",
+      "options": ["0", "null", "Error", "Acak"],
+      "correctIndex": 0,
+      "explanation": "Array tipe numerik di Java secara otomatis diinisialisasi dengan nilai default 0. (Referensi: Modul 3, Array Default Values)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q92",
+      "question": "Manakah pernyataan yang SALAH mengenai method Getter?",
+      "options": [
+        "Digunakan untuk mengambil nilai variabel private",
+        "Biasanya memiliki return type sesuai variabel yang diambil",
+        "Harus selalu bersifat private",
+        "Biasanya diawali kata 'get'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Method Getter justru harus bersifat `public` (atau setidaknya lebih luas dari private) agar bisa diakses dari luar untuk membaca nilai variabel private. (Referensi: Modul 8, Encapsulation)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q93",
+      "question": "Kondisi `for(;;)` dalam Java akan menghasilkan ....",
+      "options": [
+        "Syntax Error",
+        "Loop yang tidak berjalan sama sekali",
+        "Infinite Loop (Perulangan tanpa henti)",
+        "Loop berjalan satu kali"
+      ],
+      "correctIndex": 2,
+      "explanation": "`for(;;)` adalah cara standar membuat infinite loop di Java, sama dengan `while(true)`. (Referensi: Modul 5, Infinite Loop)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q94",
+      "question": "Pada Tugas 2, jika kita ingin menghitung total harga dari array `int[] harga` dan `int[] jumlah`, algoritma yang tepat adalah ....",
+      "options": [
+        "Mengalikan total harga dengan total jumlah",
+        "Looping array, kalikan harga[i]*jumlah[i], lalu akumulasikan ke total",
+        "Looping array, jumlahkan harga[i] lalu kalikan jumlah[i]",
+        "Menggunakan if-else untuk setiap item"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total biaya = Sum(harga per item * jumlah item). Perlu iterasi (loop) untuk setiap jenis item. (Logika Tugas Praktik 2)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q95",
+      "question": "Apa maksud dari `System.out.printf(\"%.2f\", nilai);`?",
+      "options": [
+        "Mencetak nilai float apa adanya",
+        "Mencetak nilai float dengan format 2 angka di belakang koma",
+        "Mencetak nilai integer kali 2",
+        "Mencetak error"
+      ],
+      "correctIndex": 1,
+      "explanation": "`printf` digunakan untuk formatting. `%.2f` artinya format float/double dengan presisi 2 desimal. (Referensi: Modul 3, String Formatting)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q96",
+      "question": "Keyword `return` dalam sebuah method berfungsi untuk ....",
+      "options": [
+        "Mengulang method",
+        "Mengembalikan nilai ke pemanggil method dan menghentikan method",
+        "Mencetak nilai ke layar",
+        "Mendeklarasikan variabel baru"
+      ],
+      "correctIndex": 1,
+      "explanation": "`return` mengirimkan hasil fungsi kembali ke kode yang memanggilnya dan segera keluar dari method tersebut. (Referensi: Modul 3, Method Return)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q97",
+      "question": "Jika Anda memiliki method `public int hitung(int a, int b)`, manakah pemanggilan yang valid?",
+      "options": [
+        "hitung(10);",
+        "int hasil = hitung(5, 5);",
+        "String s = hitung(1, 2);",
+        "hitung(\"1\", \"2\");"
+      ],
+      "correctIndex": 1,
+      "explanation": "Method menerima 2 int dan mengembalikan int. Maka argumen harus 2 integer dan hasilnya disimpan di variabel int. (Referensi: Modul 3, Method Parameters)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q98",
+      "question": "Dalam diagram kelas (UML), tanda minus (-) sebelum nama atribut menandakan akses modifier ....",
+      "options": ["public", "private", "protected", "static"],
+      "correctIndex": 1,
+      "explanation": "Dalam notasi UML, `-` berarti private, `+` berarti public, dan `#` berarti protected. (Referensi: Modul 6, Konsep UML - meski modul 6 tidak ada teksnya, ini pengetahuan umum PBO sesuai RPS)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q99",
+      "question": "Apa output dari kode: `int i=5; do { System.out.print(i); i++; } while(i<5);`?",
+      "options": ["Tidak ada output", "5", "56", "Error"],
+      "correctIndex": 1,
+      "explanation": "Do-while menjalankan blok dulu. Cetak 5. Lalu increment i jadi 6. Cek kondisi `6 < 5` (False). Loop berhenti. Output: 5. (Referensi: Modul 5, Do-While)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q100",
+      "question": "Fitur Java yang memungkinkan nama method yang sama digunakan untuk perilaku yang berbeda pada subclass (runtime polymorphism) adalah ....",
+      "options": ["Overloading", "Overriding", "Casting", "Interface"],
+      "correctIndex": 1,
+      "explanation": "Overriding adalah dasar dari runtime polymorphism, di mana JVM menentukan method mana yang dipanggil (milik super atau subclass) saat runtime berdasarkan tipe objek aslinya. (Referensi: Modul 8, Polymorphism)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q101",
+      "question": "Dalam konsep PBO, class yang tidak dapat diinstansiasi menjadi objek secara langsung dan biasanya mengandung satu atau lebih method abstrak disebut ....",
+      "options": [
+        "Final Class",
+        "Static Class",
+        "Abstract Class",
+        "Concrete Class"
+      ],
+      "correctIndex": 2,
+      "explanation": "Abstract class adalah kelas yang dideklarasikan dengan keyword 'abstract' dan berfungsi sebagai kerangka dasar bagi subclass-nya. Ia tidak bisa dibuat objeknya menggunakan 'new'. (Referensi: Modul 7, Abstraction)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q102",
+      "question": "Perhatikan kode berikut:<br><pre>public abstract class MenuItem {<br>    public abstract void tampilMenu();<br>}</pre><br>Apa konsekuensi dari method `tampilMenu()` yang dideklarasikan sebagai abstrak?",
+      "options": [
+        "Method tersebut harus memiliki body (implementasi) di kelas MenuItem",
+        "Subclass yang mewarisi MenuItem WAJIB meng-override/mengimplementasikan method tersebut",
+        "Method tersebut bersifat opsional bagi subclass",
+        "Method tersebut tidak bisa diakses dari luar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Method abstrak tidak memiliki body dan memaksa subclass (yang concrete) untuk menyediakan implementasi detailnya. (Referensi: Modul 7, Abstract Method)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q103",
+      "question": "Keyword yang digunakan untuk mendeklarasikan bahwa sebuah class menggunakan/mengimplementasikan sebuah Interface adalah ....",
+      "options": ["extends", "implements", "abstract", "interface"],
+      "correctIndex": 1,
+      "explanation": "Hubungan antara Class dengan Interface menggunakan keyword `implements`. Sedangkan Class dengan Class menggunakan `extends`. (Referensi: Modul 7, Interface)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q104",
+      "question": "Fitur Java yang memungkinkan objek dari subclass diperlakukan sebagai objek dari superclass-nya (misal: `MenuItem item = new Makanan();`) disebut ....",
+      "options": [
+        "Encapsulation",
+        "Polymorphism",
+        "Serialization",
+        "Exception"
+      ],
+      "correctIndex": 1,
+      "explanation": "Polymorphism (banyak bentuk) memungkinkan referensi tipe superclass memegang objek dari subclass yang berbeda-beda. (Referensi: Modul 8, Polymorphism)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q105",
+      "question": "Mekanisme untuk menangani error yang terjadi saat runtime (program berjalan) agar program tidak berhenti mendadak disebut ....",
+      "options": [
+        "Event Handling",
+        "Exception Handling",
+        "File Handling",
+        "Data Handling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exception handling (penanganan pengecualian) menggunakan blok try-catch untuk menangkap error runtime. (Referensi: Modul 8, Exception Handling)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q106",
+      "question": "Blok kode yang PASTI dieksekusi baik terjadi exception maupun tidak terjadi exception adalah ....",
+      "options": ["try", "catch", "finally", "throws"],
+      "correctIndex": 2,
+      "explanation": "Blok `finally` selalu dijalankan setelah blok try/catch selesai, biasanya digunakan untuk menutup koneksi file atau database. (Referensi: Modul 8, Exception Handling)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q107",
+      "question": "Dalam Tugas 3, kita diminta menyimpan data menu ke dalam file teks. Kelas Java yang biasa digunakan untuk menulis karakter ke file adalah ....",
+      "options": ["FileReader", "FileWriter", "Scanner", "System.in"],
+      "correctIndex": 1,
+      "explanation": "`FileWriter` adalah class turunan OutputStreamWriter yang digunakan untuk menulis stream karakter ke file. (Referensi: Modul 8, File I/O)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q108",
+      "question": "Jika kita ingin menyimpan daftar objek menu yang jumlahnya bisa bertambah atau berkurang secara dinamis (tidak fix), struktur data yang paling tepat digunakan adalah ....",
+      "options": [
+        "Array statis (MenuItem[])",
+        "ArrayList<MenuItem>",
+        "String",
+        "int[]"
+      ],
+      "correctIndex": 1,
+      "explanation": "ArrayList adalah implementasi List yang ukurannya dinamis (resizable array), sangat cocok untuk daftar menu yang bisa ditambah/hapus. (Referensi: Tugas 3, ArrayList)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q109",
+      "question": "Method `add()` pada ArrayList digunakan untuk ....",
+      "options": [
+        "Menghapus elemen",
+        "Menambahkan elemen baru ke dalam list",
+        "Mengurutkan elemen",
+        "Mencari elemen"
+      ],
+      "correctIndex": 1,
+      "explanation": "`ArrayList.add(objek)` berfungsi menambahkan objek ke akhir list. (Referensi: Tugas 3/Modul 3, Collection)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q110",
+      "question": "Perhatikan kode: `try { ... } catch (IOException e) { ... }`. Kode ini menangani error yang berkaitan dengan ....",
+      "options": [
+        "Perhitungan matematika (pembagian nol)",
+        "Input/Output operasi (seperti baca tulis file)",
+        "Koneksi database",
+        "Array index out of bound"
+      ],
+      "correctIndex": 1,
+      "explanation": "`IOException` adalah singkatan dari Input Output Exception. (Referensi: Modul 8, Exception Types)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q111",
+      "question": "Dalam notasi UML (Unified Modeling Language), hubungan pewarisan (inheritance) digambarkan dengan simbol ....",
+      "options": [
+        "Garis putus-putus",
+        "Garis dengan belah ketupat (diamond)",
+        "Garis lurus dengan panah segitiga tertutup (solid) mengarah ke superclass",
+        "Garis lurus tanpa panah"
+      ],
+      "correctIndex": 2,
+      "explanation": "Generalization (Inheritance) dalam UML disimbolkan dengan garis solid berujung panah segitiga kosong yang menunjuk ke induk. (Referensi: Modul 6, UML Class Diagram)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q112",
+      "question": "Manakah pernyataan yang BENAR mengenai Interface?",
+      "options": [
+        "Interface bisa memiliki method dengan body (implementasi penuh)",
+        "Interface bisa diinstansiasi menjadi objek dengan keyword new",
+        "Semua variabel dalam Interface secara implisit adalah public static final (konstanta)",
+        "Sebuah class hanya boleh mengimplementasikan satu Interface"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dalam Java (sebelum versi 8), interface hanya boleh berisi method abstrak dan konstanta. Variabel di interface otomatis menjadi konstanta. (Referensi: Modul 7, Interface)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q113",
+      "question": "Jika terjadi error `IndexOutOfBoundsException`, kemungkinan penyebabnya adalah ....",
+      "options": [
+        "Salah nama file",
+        "Mengakses indeks array yang tidak ada (misal indeks -1 atau melebihi ukuran)",
+        "Membagi bilangan dengan nol",
+        "Kehabisan memori"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exception ini muncul saat kita mencoba mengakses elemen array/list di posisi yang di luar batas ukurannya. (Referensi: Modul 8, Common Exceptions)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q114",
+      "question": "Class `Scanner` selain untuk membaca input keyboard, juga bisa digunakan untuk membaca input dari ....",
+      "options": ["File teks", "Database SQL", "Website", "Printer"],
+      "correctIndex": 0,
+      "explanation": "`Scanner` bisa menerima objek `File` sebagai sumber inputnya, sehingga bisa digunakan untuk membaca isi file baris demi baris. (Referensi: Modul 8, File I/O)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q115",
+      "question": "Dalam diagram Use Case UML, aktor (Actor) merepresentasikan ....",
+      "options": [
+        "Fungsi sistem",
+        "Pengguna atau sistem lain yang berinteraksi dengan sistem yang dibuat",
+        "Database",
+        "Alur program"
+      ],
+      "correctIndex": 1,
+      "explanation": "Actor menggambarkan peran user atau entitas eksternal yang berinteraksi dengan use case sistem. (Referensi: Modul 6, Use Case Diagram)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q116",
+      "question": "Apa fungsi keyword `throws` pada deklarasi method? Contoh: `public void bacaFile() throws IOException`",
+      "options": [
+        "Menangani exception di dalam method tersebut",
+        "Melempar tanggung jawab penanganan exception ke pemanggil method",
+        "Membuat exception baru",
+        "Menghapus exception"
+      ],
+      "correctIndex": 1,
+      "explanation": "`throws` mendeklarasikan bahwa method tersebut berpotensi menghasilkan error, dan method yang memanggilnya-lah yang wajib menanganinya (try-catch). (Referensi: Modul 8, Exception Handling)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q117",
+      "question": "Dalam GUI Java (Swing), komponen container dasar yang berfungsi sebagai jendela utama aplikasi adalah ....",
+      "options": ["JButton", "JLabel", "JFrame", "JPanel"],
+      "correctIndex": 2,
+      "explanation": "`JFrame` adalah top-level container yang mewakili jendela (window) aplikasi desktop dengan title bar dan border. (Referensi: Modul 9, GUI)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q118",
+      "question": "Layout manager pada GUI yang menyusun komponen secara berurutan dari kiri ke kanan (seperti aliran teks) adalah ....",
+      "options": ["BorderLayout", "FlowLayout", "GridLayout", "NullLayout"],
+      "correctIndex": 1,
+      "explanation": "`FlowLayout` adalah layout default untuk JPanel, menyusun komponen mengalir (flow) sebaris demi sebaris. (Referensi: Modul 9, Layout Managers)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q119",
+      "question": "Perbedaan utama antara Abstract Class dan Interface adalah ....",
+      "options": [
+        "Abstract class hanya boleh method kosong, Interface boleh method berisi",
+        "Abstract class bisa memiliki instance variable (state), Interface tidak (hanya konstanta)",
+        "Class bisa implements banyak Abstract Class",
+        "Tidak ada perbedaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Abstract class masih merupakan class yang bisa menyimpan state (variabel non-final), sedangkan Interface murni hanya kontrak perilaku (sebelum Java 8). (Referensi: Modul 7, Abstract vs Interface)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q120",
+      "question": "Untuk mengubah tipe data primitif `int` menjadi objek `Integer`, proses ini disebut ....",
+      "options": ["Casting", "Autoboxing", "Unboxing", "Parsing"],
+      "correctIndex": 1,
+      "explanation": "Autoboxing adalah konversi otomatis yang dilakukan compiler Java dari tipe primitif ke kelas wrapper-nya (misal: int ke Integer). (Referensi: Modul 3, Wrapper Classes)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q121",
+      "question": "Jika Anda ingin memastikan user menginput angka saat diminta harga, exception apa yang perlu ditangani jika user malah menginput huruf?",
+      "options": [
+        "IOException",
+        "NullPointerException",
+        "InputMismatchException",
+        "FileNotFoundException"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jika menggunakan Scanner.nextInt() tapi user memasukkan String, Java akan melempar `InputMismatchException`. (Referensi: Modul 8/Tugas 3, Validasi Input)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q122",
+      "question": "Class `File` dalam Java (`java.io.File`) berfungsi untuk ....",
+      "options": [
+        "Membaca isi file",
+        "Menulis isi file",
+        "Merepresentasikan path/properti file atau direktori (bukan isinya)",
+        "Mengompres file"
+      ],
+      "correctIndex": 2,
+      "explanation": "Class `File` hanya merepresentasikan abstrak dari path file/folder (cek ada/tidak, hapus, buat folder). Untuk baca/tulis isinya butuh Stream/Reader/Writer. (Referensi: Modul 8, Class File)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q123",
+      "question": "Dalam Polymorphism, jika `Hewan h = new Kucing();` dan Kucing memiliki method `meong()` yang tidak ada di kelas Hewan, apa yang terjadi jika kita panggil `h.meong()`?",
+      "options": [
+        "Berhasil memanggil method meong",
+        "Compile Error",
+        "Runtime Error",
+        "Method meong otomatis dibuat di Hewan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Referensi bertipe Superclass (`Hewan`) hanya bisa mengakses method yang dideklarasikan di Superclass. Method spesifik Subclass (`meong`) tidak terlihat kecuali dilakukan Downcasting. (Referensi: Modul 8, Polymorphism Rules)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q124",
+      "question": "Event Listener yang digunakan untuk menangani aksi klik pada tombol (`JButton`) di Java Swing adalah ....",
+      "options": [
+        "MouseListener",
+        "KeyListener",
+        "ActionListener",
+        "WindowListener"
+      ],
+      "correctIndex": 2,
+      "explanation": "`ActionListener` dengan method `actionPerformed` adalah interface standar untuk menangani event klik tombol. (Referensi: Modul 9, Event Handling)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q125",
+      "question": "Pada ArrayList, method `get(index)` berfungsi untuk ....",
+      "options": [
+        "Menghapus elemen",
+        "Mengambil/mengakses elemen pada indeks tertentu",
+        "Mengubah nilai elemen",
+        "Mencari posisi elemen"
+      ],
+      "correctIndex": 1,
+      "explanation": "`get(i)` digunakan untuk mengambil nilai elemen pada posisi i. Mirip dengan `array[i]`. (Referensi: Modul 3, ArrayList)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q126",
+      "question": "Konsep 'Write Once, Run Anywhere' pada Java dimungkinkan berkat adanya ....",
+      "options": [
+        "Kode biner",
+        "Bytecode dan JVM",
+        "Compiler C++",
+        "Sistem Operasi Windows"
+      ],
+      "correctIndex": 1,
+      "explanation": "Compiler menghasilkan Bytecode universal, dan JVM di tiap OS menerjemahkan Bytecode tersebut ke bahasa mesin lokal. (Referensi: Modul 1, Filosofi Java)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q127",
+      "question": "Apa kegunaan dari `super()` dalam konstruktor subclass?",
+      "options": [
+        "Memanggil konstruktor kelas itu sendiri",
+        "Memanggil konstruktor kelas induk (superclass)",
+        "Membuat objek baru",
+        "Menghapus objek induk"
+      ],
+      "correctIndex": 1,
+      "explanation": "`super()` memanggil konstruktor superclass untuk memastikan inisialisasi bagian induk dari objek selesai sebelum bagian anak diinisialisasi. (Referensi: Modul 7, Constructor)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q128",
+      "question": "Dalam diagram Sequence UML, sumbu vertikal (ke bawah) melambangkan ....",
+      "options": [
+        "Objek yang terlibat",
+        "Waktu (Time)",
+        "Pesan (Message)",
+        "Aktor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sequence diagram menggambarkan interaksi seiring waktu. Sumbu vertikal ke bawah menunjukkan berjalannya waktu. (Referensi: Modul 6, Sequence Diagram)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q129",
+      "question": "Manakah yang merupakan checked exception (harus ditangani try-catch saat compile time)?",
+      "options": [
+        "NullPointerException",
+        "ArithmeticException",
+        "IOException",
+        "IndexOutOfBoundsException"
+      ],
+      "correctIndex": 2,
+      "explanation": "`IOException` adalah checked exception, compiler akan error jika kita tidak menanganinya (try-catch atau throws). Sisanya adalah unchecked (Runtime) exception. (Referensi: Modul 8, Checked vs Unchecked Exception)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q130",
+      "question": "Method `toString()` pada sebuah Class biasanya di-override untuk tujuan ....",
+      "options": [
+        "Menghapus objek",
+        "Mengembalikan representasi String yang bermakna dari objek tersebut",
+        "Mengubah objek menjadi integer",
+        "Menyimpan ke database"
+      ],
+      "correctIndex": 1,
+      "explanation": "Secara default `toString()` mencetak alamat memori. Kita override agar mencetak data yang mudah dibaca (misal: 'Nama: Nasi, Harga: 5000'). (Referensi: Modul 7, Object Class methods)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q131",
+      "question": "Apa output dari kode `ArrayList<String> list = new ArrayList<>(); list.add(\"A\"); list.add(\"B\"); list.remove(0); System.out.println(list.get(0));`?",
+      "options": ["A", "B", "null", "Error"],
+      "correctIndex": 1,
+      "explanation": "Awalnya [A, B]. `remove(0)` menghapus elemen di indeks 0 ('A'). List bergeser menjadi [B]. Maka `get(0)` sekarang adalah 'B'. (Referensi: Modul 3, ArrayList Operations)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q132",
+      "question": "Keyword `static` pada method `public static void main` berarti method tersebut ....",
+      "options": [
+        "Milik instance objek tertentu",
+        "Bisa dipanggil tanpa harus membuat objek (instansiasi) kelasnya terlebih dahulu",
+        "Tidak bisa diubah",
+        "Hanya bisa dipanggil satu kali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Method static milik kelas, bukan objek. JVM memanggil `main` sebelum ada objek yang dibuat. (Referensi: Modul 2, Static)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q133",
+      "question": "Manakah komponen Swing yang digunakan untuk menerima input teks satu baris dari user?",
+      "options": ["JLabel", "JButton", "JTextField", "JTextArea"],
+      "correctIndex": 2,
+      "explanation": "`JTextField` adalah kolom input satu baris. `JTextArea` untuk banyak baris. (Referensi: Modul 9, Swing Components)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q134",
+      "question": "Apa arti simbol `#` (pagar) pada diagram kelas UML?",
+      "options": ["Public", "Private", "Protected", "Package"],
+      "correctIndex": 2,
+      "explanation": "+ (Public), - (Private), # (Protected). (Referensi: Modul 6, UML Visibility)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q135",
+      "question": "Jika class `Hewan` bersifat abstrak dan memiliki method abstrak `suara()`, maka class `Kucing` yang meng-extends `Hewan` ....",
+      "options": [
+        "Boleh tidak mengimplementasikan method suara()",
+        "Harus menjadi abstrak juga jika tidak mengimplementasikan suara()",
+        "Otomatis menghapus method suara()",
+        "Error jika mengimplementasikan suara()"
+      ],
+      "correctIndex": 1,
+      "explanation": "Subclass konkrit wajib mengimplementasikan semua method abstrak parent-nya. Jika tidak, subclass tersebut harus dideklarasikan abstrak juga. (Referensi: Modul 7, Abstract Class rules)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q136",
+      "question": "Apa kegunaan dari `JTable` pada pemrograman GUI Java?",
+      "options": [
+        "Menampilkan gambar",
+        "Menampilkan data dalam bentuk baris dan kolom (tabel)",
+        "Membuat menu bar",
+        "Menampilkan dialog pesan"
+      ],
+      "correctIndex": 1,
+      "explanation": "`JTable` adalah komponen visual untuk menampilkan data tabular (tabel). (Referensi: Modul 9, Advanced Swing)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q137",
+      "question": "Perintah `System.exit(0);` digunakan untuk ....",
+      "options": [
+        "Keluar dari loop",
+        "Keluar dari method",
+        "Menghentikan program Java sepenuhnya (terminasi)",
+        "Merestart komputer"
+      ],
+      "correctIndex": 2,
+      "explanation": "`System.exit(0)` mematikan JVM. Argumen 0 menandakan terminasi normal. (Referensi: Tugas 2, Menu Keluar)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q138",
+      "question": "Dalam IO Stream, class `BufferedReader` sering digunakan bersama `FileReader` untuk ....",
+      "options": [
+        "Membaca file gambar",
+        "Meningkatkan efisiensi pembacaan file teks (buffering)",
+        "Menulis file biner",
+        "Menghapus file"
+      ],
+      "correctIndex": 1,
+      "explanation": "`BufferedReader` membungkus reader lain untuk membaca teks dalam blok besar (buffer) sehingga lebih efisien daripada membaca per karakter. (Referensi: Modul 8, I/O)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q139",
+      "question": "Pada Tugas 3, fitur 'Simpan Struk' ke file teks merupakan penerapan dari konsep ....",
+      "options": [
+        "Database Management",
+        "File Input/Output (I/O)",
+        "Networking",
+        "Multithreading"
+      ],
+      "correctIndex": 1,
+      "explanation": "Operasi menulis data dari memori program ke media penyimpanan (file txt) adalah inti dari File I/O. (Referensi: Tugas 3)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q140",
+      "question": "Apa itu 'Constructor Overloading'?",
+      "options": [
+        "Membuat konstruktor di dalam konstruktor",
+        "Memiliki lebih dari satu konstruktor dalam satu kelas dengan parameter berbeda",
+        "Menghapus konstruktor default",
+        "Mewarisi konstruktor dari parent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sama seperti method overloading, kita bisa membuat banyak cara untuk menginisialisasi objek (misal: konstruktor kosong, konstruktor dengan nama, konstruktor dengan nama & harga). (Referensi: Modul 8, Polymorphism)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q141",
+      "question": "Tipe data pembungkus (Wrapper Class) untuk tipe primitif `char` adalah ....",
+      "options": ["Char", "String", "Character", "Text"],
+      "correctIndex": 2,
+      "explanation": "Wrapper class untuk `char` adalah `Character` (nama lengkap). Untuk `int` adalah `Integer`. (Referensi: Modul 3, Wrapper Classes)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q142",
+      "question": "Manakah kode yang benar untuk membuat objek Scanner yang membaca file 'data.txt'?",
+      "options": [
+        "Scanner sc = new Scanner(\"data.txt\");",
+        "Scanner sc = new Scanner(new File(\"data.txt\"));",
+        "Scanner sc = new Scanner(File.open(\"data.txt\"));",
+        "Scanner sc = new Scanner(System.in);"
+      ],
+      "correctIndex": 1,
+      "explanation": "Scanner membutuhkan objek `File` sebagai argumen konstruktor untuk membaca file. Jika hanya string \"data.txt\", ia akan membaca string itu sendiri, bukan filenya. (Referensi: Modul 8, File I/O)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q143",
+      "question": "Prinsip 'High Cohesion' dalam desain kelas berarti ....",
+      "options": [
+        "Sebuah kelas memiliki banyak tanggung jawab berbeda",
+        "Sebuah kelas fokus pada satu tugas/tanggung jawab yang spesifik",
+        "Sebuah kelas sangat bergantung pada kelas lain",
+        "Sebuah kelas tidak memiliki method"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cohesion mengukur seberapa fokus tanggung jawab sebuah modul/kelas. High cohesion (baik) berarti kelas tersebut fokus melakukan satu hal dengan baik. (Referensi: Konsep Desain PBO/UML Modul 6)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q144",
+      "question": "Jika kita ingin variabel `pajak` di kelas `Transaksi` bisa diakses langsung tanpa membuat objek `new Transaksi()`, maka variabel tersebut harus dideklarasikan sebagai ....",
+      "options": [
+        "public abstract",
+        "public final",
+        "public static",
+        "private"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keyword `static` membuat anggota kelas bisa diakses langsung via nama kelas (`Transaksi.pajak`). (Referensi: Modul 2, Static)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q145",
+      "question": "Dalam struktur data Map (misal HashMap), data disimpan dalam bentuk pasangan ....",
+      "options": [
+        "Index - Value",
+        "Key - Value",
+        "Node - Link",
+        "Row - Column"
+      ],
+      "correctIndex": 1,
+      "explanation": "Map menyimpan data berpasangan Kunci (Key) dan Nilai (Value), di mana Key harus unik. (Referensi: Modul 3, Collections - Wawasan)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q146",
+      "question": "Pernyataan `import javax.swing.*;` digunakan untuk ....",
+      "options": [
+        "Mengimpor library input output",
+        "Mengimpor library untuk GUI berbasis Swing",
+        "Mengimpor library database",
+        "Mengimpor library matematika"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paket `javax.swing` berisi kelas-kelas untuk membuat GUI seperti JFrame, JButton, dll. (Referensi: Modul 9, GUI)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q147",
+      "question": "Dalam hierarki Exception, class induk tertinggi dari semua jenis error dan exception adalah ....",
+      "options": ["Exception", "Throwable", "Error", "RuntimeException"],
+      "correctIndex": 1,
+      "explanation": "`Throwable` adalah superclass dari `Error` dan `Exception`. (Referensi: Modul 8, Exception Hierarchy)",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q148",
+      "question": "Manakah yang BUKAN merupakan keuntungan menggunakan ArrayList dibandingkan Array biasa?",
+      "options": [
+        "Ukuran dinamis",
+        "Memiliki method helper seperti add, remove, contains",
+        "Performa akses lebih cepat dibanding array statis",
+        "Bisa langsung mencetak isinya dengan toString"
+      ],
+      "correctIndex": 2,
+      "explanation": "Array statis (primitif) justru sedikit lebih cepat secara performa (akses memori langsung) dibanding ArrayList yang merupakan objek kompleks. Keunggulan ArrayList adalah fleksibilitas, bukan kecepatan raw. (Referensi: Modul 3, Array vs ArrayList)",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q149",
+      "question": "Pada UML Class Diagram, bagian paling atas dari kotak kelas berisi ....",
+      "options": [
+        "Nama Kelas",
+        "Atribut/Variabel",
+        "Method/Operasi",
+        "Nama Package"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kotak kelas UML terbagi 3 bagian: Atas (Nama Kelas), Tengah (Atribut), Bawah (Method). (Referensi: Modul 6, Class Diagram)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q150",
+      "question": "Apa fungsi method `super.tampilMenu()` di dalam method `tampilMenu()` milik subclass?",
+      "options": [
+        "Terjadi error rekursif",
+        "Memanggil method tampilMenu milik subclass itu sendiri",
+        "Memanggil method tampilMenu milik superclass sebelum menjalankan kode tambahan di subclass",
+        "Menghapus method parent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ini teknik umum dalam overriding: kita panggil dulu logika asli parent (`super.method()`), lalu tambahkan logika spesifik anak. (Referensi: Modul 8, Polymorphism)",
+      "difficulty": "medium"
+    }
+  ]
+}

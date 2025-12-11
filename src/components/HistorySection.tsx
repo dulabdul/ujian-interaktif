@@ -10,6 +10,7 @@ export default function HistorySection() {
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setHistory(getHistory());
     setMounted(true);
   }, []);

@@ -38,6 +38,15 @@ export const QuestionCard = ({ question, onNext, isLast }: Props) => {
 
   return (
     <div className='bg-white rounded-xl shadow-sm border border-gray-200 p-6'>
+      {question.image && (
+        <div className='mb-6 flex justify-center'>
+          <img
+            src={question.image}
+            alt='Soal Visual'
+            className='rounded-lg max-h-[300px] w-auto border border-gray-100 shadow-sm object-contain'
+          />
+        </div>
+      )}
       {/* Use semantic tags for accessibility */}
       <h3 className='text-xl font-semibold text-gray-900 mb-6'>
         {question.question}
