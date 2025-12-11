@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# UniPrep - Interactive Exam Platform
 
-## Getting Started
+A lightweight, Next.js-based interactive practice site for university modules. It runs entirely locally using JSON files as a database.
 
-First, run the development server:
+## 🚀 Quick Start
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1.  **Clone or Create Project:**
+    If you are generating this:
+    ```bash
+    npx create-next-app@latest my-app --ts --src-dir --tailwind --eslint
+    cd my-app
+    # (Copy the provided files into the structure)
+    npm install lucide-react clsx tailwind-merge
+    npm install -D vitest jsdom @testing-library/react @vitejs/plugin-react
+    ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2.  **Run Development Server:**
+    ```bash
+    npm run dev
+    ```
+    Open [http://localhost:3000](http://localhost:3000) with your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📁 How to Add Data
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+No database setup required. Everything is in `src/data`.
 
-## Learn More
+### Adding a New Course (MK)
+1. Create a folder in `src/data/` with the MK Code (e.g., `src/data/MATA4101`).
+2. Create a `meta.json` file inside that folder:
+    ```json
+    {
+      "code": "MATA4101",
+      "title": "Calculus I",
+      "description": "Basic calculus.",
+      "modules": [
+        { "id": "modul1", "title": "Functions" }
+      ]
+    }
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+### Adding Questions (Module)
+1. Create a JSON file in the course folder matching the module ID (e.g., `modul1.json`).
+2. Schema:
+    ```json
+    {
+      "id": "modul1",
+      "title": "Functions",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is 2+2?",
+          "options": ["3", "4", "5"],
+          "correctIndex": 1,
+          "explanation": "Math.",
+          "difficulty": "easy"
+        }
+      ]
+    }
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Framework:** Next.js 14 (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **Data:** Local JSON (Server Components)
 
-## Deploy on Vercel
+## 🏗 Architecture Notes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **SRP:** Data fetching is isolated in `lib/data.ts`. UI components are dumb (display only) where possible.
+- **Client/Server:** We use Server Components for pages to read JSON files, and Client Components (`ExamClient`) only for the interactive exam session.
+- **Migration Path:** To switch to a real DB, update `src/lib/data.ts` to fetch from an API or Prisma/Supabase instead of `fs`. The rest of the app will remain unchanged.

@@ -1,26 +1,25 @@
 @import "tailwindcss";
 
+@theme {
+  /* Definisikan warna custom di sini */
+  /* Format v4: --color-namawarna: kodehex; */
+  
+  --color-primary: #2563eb;   /* Blue-600 */
+  --color-secondary: #475569; /* Slate-600 */
+  --color-success: #16a34a;   /* Green-600 */
+  --color-error: #dc2626;     /* Red-600 */
+  
+  /* Jika butuh animasi custom, masukkan di sini juga */
+}
+
+/* Reset dasar (opsional, tapi bagus untuk konsistensi).
+  Tailwind v4 sudah punya reset bawaan yang bagus, 
+  tapi ini untuk memastikan font antialiased.
+*/
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  @apply antialiased bg-gray-50 text-gray-900;
 }
