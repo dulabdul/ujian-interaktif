@@ -113,9 +113,12 @@ export const ResultSummary = ({
                         />
                       </div>
                     )}
-                    <p className='font-medium text-gray-900 mb-3'>
-                      {idx + 1}. {q.question}
-                    </p>
+                    <p
+                      className='font-medium text-gray-900 mb-3'
+                      dangerouslySetInnerHTML={{
+                        __html: `${idx + 1}. ${q.question}`,
+                      }}
+                    />
 
                     <div className='space-y-2 text-sm'>
                       {/* Opsi Jawaban */}

@@ -48,10 +48,10 @@ export const QuestionCard = ({ question, onNext, isLast }: Props) => {
         </div>
       )}
       {/* Use semantic tags for accessibility */}
-      <h3 className='text-xl font-semibold text-gray-900 mb-6'>
-        {question.question}
-      </h3>
-
+      <h3
+        className='text-xl font-semibold text-gray-900 mb-6'
+        dangerouslySetInnerHTML={{ __html: question.question }}
+      />
       <div
         className='space-y-3'
         role='radiogroup'>

@@ -4,7 +4,7 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Digital Subcriber Line merupakan koneksi WAN yang termasuk pada jenis layanan...",
+      "question": "Digital Subcriber Line merupakan koneksi WAN yang termasuk pada jenis layanan",
       "options": [
         "Cell-Switching",
         "Packet Switching",
@@ -12,7 +12,7 @@
         "Dedicated digital"
       ],
       "correctIndex": 3,
-      "explanation": "Berdasarkan tabel jenis koneksi WAN, xDSL (Digital Subscriber Line) dikategorikan sebagai tipe pelayanan Dedicated Digital.",
+      "explanation": "Berdasarkan tabel jenis koneksi WAN, xDSL (Digital Subscriber Line) dikategorikan sebagai tipe pelayanan Dedicated Digital. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.14, Tabel 3.1)",
       "difficulty": "medium"
     },
     {
@@ -20,7 +20,7 @@
       "question": "Frame merupakan bentuk PDU dalam proses enkapsulasi pada layer ....",
       "options": ["Network", "Data link", "Physical", "Transport"],
       "correctIndex": 1,
-      "explanation": "Dalam proses enkapsulasi data, pada Layer 2 (Data Link), PDU (Protocol Data Unit) yang terbentuk disebut Frame.",
+      "explanation": "Dalam proses enkapsulasi data, pada Layer 2 (Data Link), PDU (Protocol Data Unit) yang terbentuk disebut Frame. Pada layer ini ditambahkan header dan trailer. (Referensi: Modul 2, Kegiatan Belajar 1, Hal 2.17, Gambar 2.19)",
       "difficulty": "medium"
     },
     {
@@ -28,20 +28,20 @@
       "question": "Metode request HTTP yang digunakan untuk melakukan upload suatu resource ke suatu site adalah..",
       "options": ["HEAD", "PUT", "GET", "POST"],
       "correctIndex": 1,
-      "explanation": "Metode PUT dalam protokol HTTP digunakan untuk menaruh (upload) resource ke server pada URI yang spesifik.",
+      "explanation": "Metode PUT dalam protokol HTTP digunakan untuk menaruh (upload) resource ke server pada URI yang spesifik. (Referensi: Modul 8 - Terkait World Wide Web)",
       "difficulty": "medium"
     },
     {
       "id": "q4",
-      "question": "Suatu DHCP Client mencoba mendapatkan alamat IP dari DHCP server, tetapi permintaanya tidak dapat diproses. Urutan proses yang benar sesuai dengan skenario tersebut adalah...",
+      "question": "Perhatikan pesan-pesan DHCP berikut!<br>i. DHCPOFFER<br>ii. DHCPNACK<br>iii. DHCPDISCOVER<br>iv. DHCPREQUEST<br>Suatu DHCP Client mencoba mendapatkan alamat IP dari DHCP server, tetapi permintaanya tidak dapat diproses.<br>Urutan proses yang benar sesuai dengan skenario tersebut adalah",
       "options": [
-        "iii (DHCPDISCOVER) -> i (DHCPOFFER) -> iv (DHCPREQUEST) -> ii (DHCPNACK)",
+        "iii -> i -> iv -> ii",
         "i -> iii -> iv -> ii",
         "iii -> iv -> i -> ii",
         "iv -> iii -> ii -> i"
       ],
       "correctIndex": 0,
-      "explanation": "Proses dimulai dengan Client mencari server (DISCOVER), Server menawarkan IP (OFFER), Client meminta IP tersebut (REQUEST), dan karena permintaan tidak dapat diproses, Server menolak (NACK).",
+      "explanation": "Proses dimulai dengan Client mencari server (DISCOVER - iii), Server menawarkan IP (OFFER - i), Client meminta IP tersebut (REQUEST - iv), dan karena permintaan tidak dapat diproses, Server menolak (NACK - ii). (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.23)",
       "difficulty": "hard"
     },
     {
@@ -49,12 +49,12 @@
       "question": "Perangkat lunak database yang digunakan untuk manajemen perangkat pada jaringan adalah ....",
       "options": ["master Agent", "sub Agent", "management Station", "MIB"],
       "correctIndex": 3,
-      "explanation": "MIB (Management Information Base) adalah basis data yang menyimpan informasi hierarkis mengenai perangkat yang dikelola dalam manajemen jaringan.",
-      "difficulty": "hard"
+      "explanation": "MIB (Management Information Base) adalah basis data yang menyimpan informasi hierarkis mengenai perangkat yang dikelola dalam manajemen jaringan. (Referensi: Modul 9, Manajemen Jaringan)",
+      "difficulty": "medium"
     },
     {
       "id": "q6",
-      "question": "Tipe AS Stub pada protokol routing BGP adalah...",
+      "question": "Tipe AS Stub pada protokol routing BGP adalah",
       "options": [
         "bagian AS yang terkoneksi hanya 1 koneksi dengan AS",
         "bagian dari semua trafik yang bukan lokal",
@@ -62,7 +62,7 @@
         "sepasang router BGP yang saling tukar informasi"
       ],
       "correctIndex": 0,
-      "explanation": "Dalam terminologi BGP, tipe AS Stub adalah bagian Autonomous System (AS) yang hanya memiliki satu koneksi tunggal dengan AS lainnya.",
+      "explanation": "Dalam terminologi BGP, tipe AS Stub adalah bagian Autonomous System (AS) yang hanya memiliki satu koneksi tunggal dengan AS lainnya. (Referensi: Modul 5, Kegiatan Belajar 1, Hal 5.9, Gambar 5.4)",
       "difficulty": "hard"
     },
     {
@@ -75,7 +75,7 @@
         "mengelola pengalamatan fisik dan metode akses ke media jaringan"
       ],
       "correctIndex": 2,
-      "explanation": "Layer Transport berfungsi memberikan pengiriman data secara end-to-end, memastikan reliabilitas data (pada TCP), serta melakukan flow control.",
+      "explanation": "Layer Transport berfungsi memberikan pengiriman data secara end-to-end, memastikan reliabilitas data (pada TCP), serta melakukan flow control dan congestion control. (Referensi: Modul 1, Kegiatan Belajar 1, Hal 1.6)",
       "difficulty": "medium"
     },
     {
@@ -83,12 +83,12 @@
       "question": "Jumlah host yang terbentuk dalam suatu subnet bila subnet mask nya bernilai 255.255.255.128 adalah ....",
       "options": ["128 host", "64 host", "126 host", "62 host"],
       "correctIndex": 2,
-      "explanation": "Subnet mask /25 menyisakan 7 bit untuk host (2^7 = 128). Jumlah host usable adalah 128 - 2 = 126 host.",
+      "explanation": "Subnet mask 255.255.255.128 (/25) menyisakan 7 bit untuk host (32 - 25 = 7). Jumlah host total adalah 2^7 = 128. Jumlah host yang dapat digunakan (usable) adalah 128 - 2 (network & broadcast) = 126 host. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.6)",
       "difficulty": "hard"
     },
     {
       "id": "q9",
-      "question": "Media transmisi dengan karakteristik menggunakan material tembaga yang mempunyai kabel inti ditengah dan kebel serabut di sisi samping dengan dipisahkan oleh suatu isolator adalah...",
+      "question": "Media transmisi dengan karakteristik menggunakan material tembaga yang mempunyai kabel inti ditengah dan kebel serabut di sisi samping dengan dipisahkan oleh suatu isolator adalah",
       "options": [
         "coaxial",
         "fiber optic",
@@ -96,15 +96,15 @@
         "unshielded Twisted Pair"
       ],
       "correctIndex": 0,
-      "explanation": "Deskripsi tersebut adalah ciri fisik kabel Coaxial yang memiliki inti tembaga tunggal dan serabut ground.",
+      "explanation": "Kabel Coaxial memiliki struktur inti tembaga di tengah, dikelilingi isolator, kemudian dilapisi kabel serabut (ground) di sisi samping, dan pelindung luar. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.19)",
       "difficulty": "easy"
     },
     {
       "id": "q10",
-      "question": "Secara periodik setiap router melakukan proses pertukaran seluruh isi tabel routing dengan router tetangganya, mekanisme tersebut digunakan oleh protokol routing yang menggunakan konsep...",
+      "question": "Secara periodik setiap router melakukan proses pertukaran seluruh isi tabel routing dengan router tetangganya, mekanisme tersebut digunakan oleh protokol routing yang menggunakan konsep",
       "options": ["distance vector", "link State", "hybrid", "link Distance"],
       "correctIndex": 0,
-      "explanation": "Protokol Distance Vector (seperti RIP) bekerja dengan cara setiap router saling bertukar informasi seluruh tabel routing dengan router tetangganya secara periodik.",
+      "explanation": "Protokol Distance Vector (seperti RIP) bekerja dengan cara setiap router saling bertukar informasi seluruh tabel routing dengan router tetangganya secara periodik. (Referensi: Modul 5, Kegiatan Belajar 1, Hal 5.6)",
       "difficulty": "medium"
     },
     {
@@ -112,12 +112,12 @@
       "question": "Parameter TCP yang digunakan untuk memeriksa validitas pengirim dan penerima adalah ....",
       "options": ["Checksum", "SYN", "URG", "Window"],
       "correctIndex": 0,
-      "explanation": "Checksum adalah field pada header TCP yang digunakan untuk mengecek validitas data (error checking) antara pengirim dan penerima.",
+      "explanation": "Checksum adalah field pada header TCP yang digunakan untuk mengecek validitas data (error checking) antara pengirim dan penerima. (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.18)",
       "difficulty": "medium"
     },
     {
       "id": "q12",
-      "question": "Susun tahapan-tahapan penggunaan FTP yang benar: i. CD, PW; ii. SENDSITE, SITE; iii. QUIT; iv. FTP, LOGIN, Password; v. PUT",
+      "question": "Perhatikan proses-proses berikut!<br>i. CD, PW<br>ii. SENDSITE, SITE<br>iii. QUIT<br>iv. FTP, LOGIN, Password<br>v. PUT<br>Susun tahapan-tahapan penggunaan FTP yang benar!",
       "options": [
         "i -> iii -> ii -> iv -> v",
         "iv -> i -> ii -> v -> iii",
@@ -125,8 +125,8 @@
         "iv -> ii -> v -> i -> iii"
       ],
       "correctIndex": 1,
-      "explanation": "Tahapan logis penggunaan FTP: Login (iv) -> Navigasi direktori (i) -> Set parameter (ii) -> Transfer file (v) -> Keluar (iii).",
-      "difficulty": "medium"
+      "explanation": "Tahapan logis penggunaan FTP: 1. Login (iv), 2. Navigasi direktori (i), 3. Set parameter/Site (ii), 4. Transfer file/Put (v), 5. Keluar/Quit (iii). (Referensi: Modul 7, Protokol Transfer File)",
+      "difficulty": "hard"
     },
     {
       "id": "q13",
@@ -138,28 +138,28 @@
         "signal spliter"
       ],
       "correctIndex": 2,
-      "explanation": "Antena adalah perangkat pasif yang digunakan untuk memancarkan dan mengarahkan sinyal frekuensi radio (RF).",
+      "explanation": "Antena adalah perangkat pasif yang digunakan untuk memancarkan dan mengarahkan sinyal frekuensi radio (RF) dalam jaringan nirkabel. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.24, Gambar 3.32)",
       "difficulty": "easy"
     },
     {
       "id": "q14",
-      "question": "Protokol ini merupakan protokol dasar yang bertugas untuk menukarkan email (mail exchange) antar host yang berbasis TCP/IP, protokol tersebut adalah...",
+      "question": "Protokol ini merupakan protokol dasar yang bertugas untuk menukarkan email (mail exchange) antar host yang berbasis TCP/IP, protokol tersebut adalah",
       "options": ["SMTP", "POP3", "IMAP", "MIME"],
       "correctIndex": 0,
-      "explanation": "SMTP (Simple Mail Transfer Protocol) adalah protokol standar yang digunakan untuk pengiriman dan pertukaran email antar server.",
-      "difficulty": "easy"
+      "explanation": "SMTP (Simple Mail Transfer Protocol) adalah protokol standar yang digunakan untuk pengiriman dan pertukaran email antar server (mail exchange). (Referensi: Modul 1, Kegiatan Belajar 1, Hal 1.7)",
+      "difficulty": "medium"
     },
     {
       "id": "q15",
-      "question": "Pesan DHCP yang digunakan oleh DHCP Client untuk menyatakan bahwa DHCP Client sedang menggunakan informasi dari server adalah...",
+      "question": "Pesan DHCP yang digunakan oleh DHCP Client untuk menyatakan bahwa DHCP Client sedang menggunakan informasi dari server adalah",
       "options": ["DHCPREQUEST", "DHCPDECLINE", "DHCPDISCOVER", "DHCPOFFER"],
       "correctIndex": 0,
-      "explanation": "DHCPREQUEST adalah pesan dari client yang berfungsi untuk meminta atau mengonfirmasi penggunaan alamat IP yang ditawarkan oleh server.",
+      "explanation": "DHCPREQUEST adalah pesan dari client yang berfungsi untuk meminta atau mengonfirmasi penggunaan alamat IP yang ditawarkan oleh server. (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.23)",
       "difficulty": "medium"
     },
     {
       "id": "q16",
-      "question": "Pernyataan yang merupakan cara kerja dari jaringan Token Ring adalah...",
+      "question": "Pernyataan yang merupakan cara kerja dari jaringan Token Ring adalah",
       "options": [
         "Setiap perangkat dapat mengirim data kapan saja tanpa menunggu giliran",
         "Data dikirim secara broadcast ke seluruh perangkat dalam jaringan",
@@ -167,12 +167,12 @@
         "Jaringan menggunakan gelombang radio untuk mengirimkan data antar perangkat"
       ],
       "correctIndex": 2,
-      "explanation": "Pada jaringan Token Ring, sebuah 'token' dilempar mengelilingi jaringan. Host hanya bisa mengirim data jika memegang token tersebut.",
-      "difficulty": "easy"
+      "explanation": "Pada jaringan Token Ring, sebuah 'token' dilempar mengelilingi jaringan (ring). Host hanya bisa mengirim data jika memegang token tersebut. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.13)",
+      "difficulty": "medium"
     },
     {
       "id": "q17",
-      "question": "Karakteristik dari perangkat lunak Point to Point Protocol (PPP) adalah...",
+      "question": "Karakteristik dari perangkat lunak Point to Point Protocol (PPP) adalah",
       "options": [
         "Menggunakan Enkapsulasi PPP melalui Integrated Service Digital Network (ISDN)",
         "Menggunakan single data frame",
@@ -180,12 +180,12 @@
         "Menggunakan enkapsulasi datagram melalui link serial"
       ],
       "correctIndex": 3,
-      "explanation": "Salah satu komponen inti dari PPP adalah metodenya dalam menggunakan enkapsulasi datagram melalui link serial.",
-      "difficulty": "medium"
+      "explanation": "Salah satu komponen inti dari PPP adalah metodenya dalam menggunakan enkapsulasi datagram melalui link serial. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.16)",
+      "difficulty": "hard"
     },
     {
       "id": "q18",
-      "question": "Jika Anda ingin menghubungkan sebuah komputer ke switch dalam jaringan lokal (LAN), jenis pemasangan kabel UTP yang paling tepat digunakan adalah...",
+      "question": "Jika Anda ingin menghubungkan sebuah komputer ke switch dalam jaringan lokal (LAN), jenis pemasangan kabel UTP yang paling tepat digunakan adalah",
       "options": [
         "straigth Through",
         "cross over",
@@ -193,20 +193,20 @@
         "straigth over"
       ],
       "correctIndex": 0,
-      "explanation": "Kabel Straight-Through digunakan untuk menghubungkan perangkat yang berbeda jenis, seperti PC (Host) ke Switch.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q19",
-      "question": "Kabel UTP Cat 5 memiliki kemampuan data rate maksimal sebesar...",
-      "options": ["10 Mbps", "100 Mbps", "1000 Mbps", "10000 Mbps"],
-      "correctIndex": 1,
-      "explanation": "Kabel UTP Kategori 5 (CAT 5) didesain untuk mendukung kecepatan transmisi data hingga 100 Mbps.",
+      "explanation": "Kabel Straight-Through digunakan untuk menghubungkan perangkat yang berbeda jenis, seperti PC (Host) ke Switch atau Hub. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.21)",
       "difficulty": "medium"
     },
     {
+      "id": "q19",
+      "question": "Kabel UTP Cat 5 memiliki kemampuan data rate maksimal sebesar",
+      "options": ["10 Mbps", "100 Mbps", "1000 Mbps", "10000 Mbps"],
+      "correctIndex": 1,
+      "explanation": "Kabel UTP Kategori 5 (CAT 5) didesain untuk mendukung kecepatan transmisi data hingga 100 Mbps. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.20, Tabel 3.2)",
+      "difficulty": "easy"
+    },
+    {
       "id": "q20",
-      "question": "Pernyataan yang menjelaskan arti dari Resource Record (RR) dalam sistem DNS Adalah...",
+      "question": "Pernyataan yang menjelaskan arti dari Resource Record (RR) dalam sistem DNS Adalah",
       "options": [
         "resource Record (RR) adalah database yang menyimpan seluruh konfigurasi jaringan dalam sebuah domain",
         "resource Record (RR) adalah catatan yang digunakan oleh DNS untuk menyimpan informasi terkait domain seperti alamat IP dan informasi lainnya",
@@ -214,20 +214,20 @@
         "resource Record (RR) adalah mekanisme untuk mengamankan data saat dikirimkan melalui jaringan"
       ],
       "correctIndex": 1,
-      "explanation": "Resource Record (RR) adalah entri data dasar dalam DNS yang memetakan nama domain ke informasi tertentu.",
+      "explanation": "Dalam DNS, Resource Record (RR) adalah entri data dasar yang memetakan nama domain ke informasi tertentu, seperti alamat IP (A record), mail server (MX record), dll. (Referensi: Modul 6 - Terkait DNS)",
       "difficulty": "medium"
     },
     {
       "id": "q21",
-      "question": "Aplikasi yang menggunakan protokol TCP adalah...",
+      "question": "Aplikasi yang menggunakan protokol TCP adalah",
       "options": ["SNMP", "RPC", "DNS", "SMTP"],
       "correctIndex": 3,
-      "explanation": "SMTP menggunakan TCP untuk memastikan email terkirim dengan reliabel. SNMP dan DNS (query standar) umumnya menggunakan UDP.",
+      "explanation": "SMTP menggunakan TCP untuk memastikan email terkirim dengan reliabel. SNMP dan DNS (untuk query standar) umumnya menggunakan UDP. (Referensi: Modul 1, Hal 1.7 dan Modul 5, Hal 5.16)",
       "difficulty": "medium"
     },
     {
       "id": "q22",
-      "question": "Teknologi 10 Base T memiliki karakteristik sebagai berikut...",
+      "question": "Teknologi 10 Base T memiliki karakteristik sebagai berikut",
       "options": [
         "Jarak maksimum untuk tiap segmen 500 meter",
         "Menggunakan kabel UTP",
@@ -235,12 +235,12 @@
         "Menggunakan kabel fiber optic"
       ],
       "correctIndex": 1,
-      "explanation": "Dalam penamaan 10BaseT: 'T' berarti Twisted Pair (UTP) dan '10' berarti 10 Mbps.",
+      "explanation": "Dalam penamaan 10BaseT: '10' berarti 10 Mbps, 'Base' berarti Baseband, dan 'T' berarti Twisted Pair (UTP). (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.7)",
       "difficulty": "medium"
     },
     {
       "id": "q23",
-      "question": "Protokol wireless LAN 802.11.ac memiliki kemampuan...",
+      "question": "Protokol wireless LAN 802.11.ac memiliki kemampuan",
       "options": [
         "Data rate: 54 Mbps Frekuensi: 2.4 GHz Modulasi: 64 QAM",
         "Data rate: 78 Mbps-3.2 Gbps Frekuensi: 5 GHz Modulasi : 256 QAM",
@@ -248,7 +248,7 @@
         "Data rate: 54 Mbps Frekuensi: 5 GHz Modulasi: 11 QAM"
       ],
       "correctIndex": 1,
-      "explanation": "Standar 802.11ac beroperasi pada frekuensi 5 GHz, menggunakan modulasi 256-QAM, dan menawarkan kecepatan Gigabit.",
+      "explanation": "Standar 802.11ac beroperasi pada frekuensi 5 GHz, menggunakan modulasi 256-QAM, dan menawarkan kecepatan data yang sangat tinggi (Gigabit Wi-Fi). (Referensi: Modul 9 - Terkait Wireless LAN)",
       "difficulty": "hard"
     },
     {
@@ -256,7 +256,7 @@
       "question": "SSH merupakan protokol yang digunakan untuk melakukan perintah komputer secara jarak jauh. Protokol ini memanfaatkan port ....",
       "options": ["20", "21", "22", "23"],
       "correctIndex": 2,
-      "explanation": "SSH (Secure Shell) secara default menggunakan Port 22.",
+      "explanation": "SSH (Secure Shell) secara default menggunakan Port 22. Port 23 digunakan oleh Telnet, sedangkan 20/21 oleh FTP. (Referensi: Modul 7 - Eksekusi Jarak Jauh)",
       "difficulty": "easy"
     },
     {
@@ -264,7 +264,7 @@
       "question": "Bila klien mencoba mengakses halaman yang tidak ditemukan oleh server, kode status HTTP yang akan dikembalikan oleh server adalah..",
       "options": ["301", "200", "404", "503"],
       "correctIndex": 2,
-      "explanation": "Kode status HTTP 404 berarti 'Not Found'.",
+      "explanation": "Kode status HTTP 404 berarti 'Not Found', mengindikasikan bahwa server tidak dapat menemukan resource yang diminta. (Referensi: Modul 8 - World Wide Web)",
       "difficulty": "easy"
     },
     {
@@ -272,12 +272,12 @@
       "question": "IP address 223.150.67.89 termasuk ke dalam kelas....",
       "options": ["A", "B", "C", "D"],
       "correctIndex": 2,
-      "explanation": "Kelas C memiliki rentang oktet pertama dari 192 hingga 223.",
-      "difficulty": "easy"
+      "explanation": "Kelas C memiliki rentang oktet pertama dari 192 hingga 223. Karena 223 masuk dalam rentang ini, maka IP tersebut adalah Kelas C. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.5)",
+      "difficulty": "medium"
     },
     {
       "id": "q27",
-      "question": "Berikut ini merupakan karakteristik User Datagram Protocol, kecuali...",
+      "question": "Berikut ini merupakan karakteristik User Datagram Protocol, kecuali",
       "options": [
         "protokol transport yang bersifat connectionless",
         "tidak memiliki fungsi reliabilitas data",
@@ -285,21 +285,21 @@
         "digunakan oleh protokol TFTP"
       ],
       "correctIndex": 2,
-      "explanation": "Pernyataan bahwa UDP lebih lambat adalah salah. UDP justru lebih cepat daripada TCP karena overhead yang kecil.",
+      "explanation": "UDP justru lebih cepat daripada TCP karena memiliki overhead yang lebih kecil (tanpa koneksi, tanpa flow control yang rumit). Pernyataan bahwa UDP lebih lambat adalah salah. (Referensi: Modul 1, Hal 1.6 & Modul 5, Hal 5.15)",
       "difficulty": "medium"
     },
     {
       "id": "q28",
-      "question": "Perhatikan gambar berikut! Gambar tersebut merupakan konektor...",
-      "image": "/images/soal/28.PNG",
+      "question": "Perhatikan gambar berikut!<br>Gambar tersebut merupakan konektor",
       "options": ["LC Duplex", "SC Duplex", "FDDI", "ST"],
       "correctIndex": 0,
-      "explanation": "Konektor LC (Lucent Connector) Duplex dicirikan dengan bentuk kotak kecil dan mekanisme pengunci (latch) seperti RJ45.",
+      "explanation": "Gambar menunjukkan konektor serat optik tipe LC (Lucent Connector) Duplex, yang dicirikan dengan bentuk kotak kecil dan mekanisme pengunci (latch) seperti RJ45. (Referensi: Modul 3, Tabel 3.3 dan identifikasi visual)",
+      "image": "/images/soal/28.PNG",
       "difficulty": "medium"
     },
     {
       "id": "q29",
-      "question": "Pesan ICMP yang digunakan untuk mengecek status suatu host (aktif atau non aktif) adalah...",
+      "question": "Pesan ICMP yang digunakan untuk mengecek status suatu host (aktif atau non aktif) adalah",
       "options": [
         "timestamp request (13) dan Timestamp reply (14)",
         "echo (8) dan echo reply (0)",
@@ -307,15 +307,15 @@
         "address mask request (17) dan Address Mask Reply (18)"
       ],
       "correctIndex": 1,
-      "explanation": "Pesan Echo (Tipe 8) dan Echo Reply (Tipe 0) adalah mekanisme dasar yang digunakan oleh utilitas 'Ping'.",
+      "explanation": "Pesan Echo (Tipe 8) dan Echo Reply (Tipe 0) adalah mekanisme dasar yang digunakan oleh utilitas 'Ping' untuk memeriksa apakah host tujuan dapat dijangkau dan aktif. (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.20)",
       "difficulty": "medium"
     },
     {
       "id": "q30",
-      "question": "Lapisan pada model referensi OSI yang bertugas untuk mengurusi format data yang dapat dipahami oleh berbagai macam media adalah...",
+      "question": "Lapisan pada model referensi OSI yang bertugas untuk mengurusi format data yang dapat dipahami oleh berbagai macam media adalah",
       "options": ["session", "transport", "data Link", "presentation"],
       "correctIndex": 3,
-      "explanation": "Layer Presentasi (Layer 6) bertugas mendefinisikan format data (seperti enkripsi dan kompresi).",
+      "explanation": "Layer Presentasi (Layer 6) bertugas mendefinisikan format data (seperti ASCII, JPEG, enkripsi) dan melakukan konversi agar data dapat dipahami oleh aplikasi dan jaringan. (Referensi: Modul 2, Kegiatan Belajar 1, Hal 2.6)",
       "difficulty": "medium"
     },
     {
@@ -328,16 +328,16 @@
         "Network Interface"
       ],
       "correctIndex": 1,
-      "explanation": "TCP beroperasi pada Layer Transport (Layer 4).",
+      "explanation": "TCP adalah protokol utama yang beroperasi pada Layer Transport (Layer 4 dalam model OSI atau Layer Transport dalam model TCP/IP). (Referensi: Modul 1, Hal 1.6)",
       "difficulty": "easy"
     },
     {
       "id": "q32",
-      "question": "Diberikan beberapa produk TCP/IP berikut. Produk TCP/IP yang berfungsi sebagai terminal interaktif untuk mengakses suatu remote pada internet adalah...",
+      "question": "Diberikan beberapa produk TCP/IP berikut: TELNET, TCP, FTP, dan SMTP. Produk TCP/IP yang berfungsi sebagai terminal interaktif untuk mengakses suatu remote pada internet adalah",
       "options": ["TCP", "TELNET", "FTP", "SMTP"],
       "correctIndex": 1,
-      "explanation": "TELNET (Teletype Network) adalah protokol untuk mengakses komputer lain dari jarak jauh melalui antarmuka terminal.",
-      "difficulty": "easy"
+      "explanation": "TELNET (Teletype Network) adalah protokol aplikasi yang memungkinkan pengguna untuk mengakses komputer lain dari jarak jauh (remote) melalui antarmuka baris perintah (terminal). (Referensi: Modul 1, Hal 1.7)",
+      "difficulty": "medium"
     },
     {
       "id": "q33",
@@ -349,12 +349,12 @@
         "11001110 01100111 11100011 11000000"
       ],
       "correctIndex": 2,
-      "explanation": "202 = 11001010. Pilihan yang oktet pertamanya 11001010 adalah jawaban yang benar.",
+      "explanation": "Alamat IP 32-bit dibagi menjadi 4 oktet. Konversi desimal ke biner: 202 = 11001010, 103 = 01100111, 251 = 11111011 (catatan: pada opsi C terdapat sedikit perbedaan di oktet ke-3, namun oktet pertama 11001010 adalah yang paling tepat untuk 202), 192 = 11000000. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.4)",
       "difficulty": "hard"
     },
     {
       "id": "q34",
-      "question": "Suatu PC terpasang alamat IP 192.168.10.15 dengan subnet mask 255.255.255.0, network ID dan Host ID dari PC tersebut adalah...",
+      "question": "Suatu PC terpasang alamat IP 192.168.10.15 dengan subnet mask 255.255.255.0, network ID dan Host ID dari PC tersebut adalah",
       "options": [
         "Network ID: 192.168.10.0, Host ID: 0.0.0.15",
         "Network ID: 192.168.0.0, Host ID: 0.0.10.15",
@@ -362,25 +362,25 @@
         "Network ID: 192.168.10.0, Host ID: 0.0.10.15"
       ],
       "correctIndex": 0,
-      "explanation": "Subnet mask /24 memisahkan 3 oktet pertama sebagai Network ID dan oktet terakhir sebagai Host ID.",
+      "explanation": "Subnet mask 255.255.255.0 menunjukkan bahwa 3 oktet pertama (192.168.10) adalah bagian jaringan (NetID), dan oktet terakhir (15) adalah bagian host (HostID). (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.6)",
       "difficulty": "medium"
     },
     {
       "id": "q35",
-      "question": "Urutan proses untuk melakukan pembentukan koneksi berbasis TCP menggunakan socket API adalah...",
+      "question": "Perhatikan proses-proses berikut!<br>i. accept()<br>ii. socket()<br>iii. bind()<br>iv. connect()<br>v. listen()<br>Urutan proses untuk melakukan pembentukan koneksi berbasis TCP menggunakan socket API adalah",
       "options": [
-        "i (accept) -> iii (bind) -> v (listen) -> iv (connect) -> i",
-        "ii (socket) -> v (listen) -> iii (bind) -> i (accept) -> iv",
-        "iii (bind) -> ii (socket) -> iv (connect) -> v (listen) -> i",
-        "ii (socket) -> iii (bind) -> v (listen) -> i (accept)"
+        "i -> iii -> v -> iv -> i",
+        "ii -> v -> iii -> i -> iv",
+        "iii -> ii -> iv -> v -> i",
+        "ii -> iii -> v -> i"
       ],
       "correctIndex": 3,
-      "explanation": "Urutan standar server TCP: Membuat socket -> Bind port -> Listen -> Accept koneksi.",
+      "explanation": "Pada sisi server untuk koneksi TCP, urutannya adalah: membuat socket (ii), melakukan bind ke port (iii), listen menunggu koneksi (v), dan accept menerima koneksi (i). (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.17, Gambar 5.8)",
       "difficulty": "hard"
     },
     {
       "id": "q36",
-      "question": "Asynchrous Transfer Mode merupakan koneksi WAN yang termasuk pada jenis layanan...",
+      "question": "Asynchrous Transfer Mode merupakan koneksi WAN yang termasuk pada jenis layanan",
       "options": [
         "Cell-Switching",
         "Packet Switching",
@@ -388,7 +388,7 @@
         "Dedicated digital"
       ],
       "correctIndex": 0,
-      "explanation": "ATM menggunakan metode Cell-Switching, di mana data dikirim dalam potongan diskrit berukuran tetap.",
+      "explanation": "ATM (Asynchronous Transfer Mode) menggunakan metode Cell-Switching, di mana data dikirim dalam potongan diskrit berukuran tetap yang disebut cell. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.14, Tabel 3.1)",
       "difficulty": "medium"
     },
     {
@@ -396,8 +396,8 @@
       "question": "Menggunakan single data frame merupakan karakteristik pada koneksi WAN ....",
       "options": ["ISDN", "POTS", "Frame relay", "Dial up modem"],
       "correctIndex": 2,
-      "explanation": "Frame Relay memiliki karakteristik menggunakan single data frame untuk efisiensi.",
-      "difficulty": "medium"
+      "explanation": "Karakteristik Frame Relay salah satunya adalah menggunakan single data frame untuk efisiensi pengiriman data. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.18)",
+      "difficulty": "hard"
     },
     {
       "id": "q38",
@@ -409,7 +409,7 @@
         "11001110 01100111 11100011 11000000"
       ],
       "correctIndex": 2,
-      "explanation": "Konversi 202 ke biner adalah 11001010.",
+      "explanation": "Sama seperti soal nomor 33. Konversi 202 ke biner adalah 11001010. Opsi C adalah yang paling sesuai. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.4)",
       "difficulty": "hard"
     },
     {
@@ -417,12 +417,12 @@
       "question": "Berapa jumlah host yang terbentuk dalam suatu subnet bila subnet mask nya bernilai 255.255.254.0?",
       "options": ["254 host", "256 host", "510 host", "512 host"],
       "correctIndex": 2,
-      "explanation": "Subnet /23 menyisakan 9 bit host. Jumlah host = 2^9 - 2 = 510 host.",
+      "explanation": "Subnet mask 255.255.254.0 sama dengan /23. Sisa bit host adalah 32 - 23 = 9 bit. Jumlah host = 2^9 - 2 = 512 - 2 = 510 host. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.6)",
       "difficulty": "hard"
     },
     {
       "id": "q40",
-      "question": "Susun tahapan-tahapan penggunaan FTP yang benar!",
+      "question": "Perhatikan proses-proses berikut!<br>i. CD, PW<br>ii. SENDSITE, SITE<br>iii. QUIT<br>iv. FTP, LOGIN, Password<br>v. PUT<br>Susun tahapan-tahapan penggunaan FTP yang benar!",
       "options": [
         "i -> iii -> ii -> iv -> v",
         "v -> iv -> iii -> ii -> i",
@@ -430,15 +430,15 @@
         "iv -> ii -> v -> i -> iii"
       ],
       "correctIndex": 3,
-      "explanation": "Urutan logis: Login (iv) -> Pengaturan (ii) -> Transfer (v) -> Navigasi (i) -> Quit (iii).",
-      "difficulty": "medium"
+      "explanation": "Urutan logis penggunaan FTP: Login (iv) -> Pengaturan Site/Mode (ii) -> Transfer File/Put (v) -> Navigasi/CD (i) -> Keluar/Quit (iii). Pilihan D adalah urutan yang paling logis dimulai dengan Login dan diakhiri Quit. (Referensi: Modul 7, Protokol Transfer File)",
+      "difficulty": "hard"
     },
     {
       "id": "q41",
       "question": "Suatu PC terpasang alamat IP 12.168.10.5 berdasarkan subnet mask default dari kelas IP tersebut tentukan alamat network dari PC tersebut!",
       "options": ["12.168.0.0", "12.0.0.0", "12.168.10.0", "12.168.10.5"],
       "correctIndex": 1,
-      "explanation": "IP Kelas A (12.x.x.x) memiliki default mask /8, sehingga Network ID-nya adalah 12.0.0.0.",
+      "explanation": "Alamat IP dengan oktet pertama 12 termasuk Kelas A (1-126). Default subnet mask Kelas A adalah 255.0.0.0, sehingga Network ID-nya adalah 12.0.0.0. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.5)",
       "difficulty": "medium"
     },
     {
@@ -446,7 +446,7 @@
       "question": "IP address 224.0.0.5 termasuk ke dalam kelas....",
       "options": ["A", "B", "C", "D"],
       "correctIndex": 3,
-      "explanation": "Kelas D (Multicast) memiliki rentang alamat 224.0.0.0 hingga 239.255.255.255.",
+      "explanation": "Kelas D memiliki rentang alamat 224.0.0.0 hingga 239.255.255.255 yang digunakan untuk multicast. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.5)",
       "difficulty": "easy"
     },
     {
@@ -454,21 +454,21 @@
       "question": "SSH merupakan protokol yang digunakan untuk melakukan perintah komputer secara jarak jauh. Protokol ini memanfaatkan port ....",
       "options": ["20", "21", "22", "23"],
       "correctIndex": 2,
-      "explanation": "SSH menggunakan port 22.",
+      "explanation": "SSH (Secure Shell) secara default beroperasi pada port 22. Port 23 adalah Telnet, port 20/21 adalah FTP. (Referensi: Modul 7, Eksekusi Jarak Jauh)",
       "difficulty": "easy"
     },
     {
       "id": "q44",
-      "question": "Perhatikan gambar berikut! Gambar tersebut merupakan konektor...",
-      "image": "/images/soal/44.PNG",
+      "question": "Perhatikan gambar berikut!<br>Gambar tersebut merupakan konektor",
       "options": ["SC Duplex", "FC", "ST", "LC Duplex"],
       "correctIndex": 2,
-      "explanation": "Konektor ST (Straight Tip) memiliki ciri fisik berbentuk bulat dengan mekanisme kunci bayonet.",
+      "explanation": "Konektor ST (Straight Tip) memiliki ciri fisik berbentuk bulat dengan mekanisme kunci bayonet (diputar), mirip konektor BNC. (Referensi: Modul 3, Tabel 3.3)",
+      "image": "/images/soal/44.PNG",
       "difficulty": "medium"
     },
     {
       "id": "q45",
-      "question": "Media transmisi yang ketika digunakan untuk mengirimkan data, dimana arah ujung yang satu dengan ujung yang lainnya sudah jelas adalah...",
+      "question": "Media transmisi yang ketika digunakan untuk mengirimkan data, dimana arah ujung yang satu dengan ujung yang lainnya sudah jelas adalah",
       "options": [
         "Transmisi radio",
         "Komunkasi satelit",
@@ -476,13 +476,12 @@
         "Wifi"
       ],
       "correctIndex": 2,
-      "explanation": "Fiber Optic adalah contoh Guided Media (media terpandu/kabel).",
-      "difficulty": "easy"
+      "explanation": "Media Terarah (Guided Transmission Data) adalah media fisik seperti kabel di mana sinyal diarahkan sepanjang media padat. Contohnya adalah Fiber Optic. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.23)",
+      "difficulty": "medium"
     },
     {
       "id": "q46",
-      "question": "Perhatikan gambar berikut! Jenis pemasangan kabel UTP yang diperlukan pada jalur D adalah...",
-      "image": "/images/soal/46.PNG",
+      "question": "Perhatikan gambar berikut!<br>Jenis pemasangan kabel UTP yang diperlukan pada jalur D adalah",
       "options": [
         "Straigth Through",
         "Cross over",
@@ -490,20 +489,21 @@
         "Straigth over"
       ],
       "correctIndex": 1,
-      "explanation": "Jalur D menghubungkan perangkat sejenis, sehingga memerlukan kabel Cross-over.",
+      "explanation": "Jalur D biasanya menghubungkan perangkat yang setara/sejenis (misalnya Switch ke Switch atau Hub ke Hub). Untuk menghubungkan perangkat sejenis digunakan kabel Cross-over. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.21)",
+      "image": "/images/soal/46.PNG",
       "difficulty": "medium"
     },
     {
       "id": "q47",
-      "question": "Kabel UTP Cat 5 memiliki kemampuan data rate maksimal sebesar...",
+      "question": "Kabel UTP Cat 5 memiliki kemampuan data rate maksimal sebesar",
       "options": ["10 Mbps", "100 Mbps", "1000 Mbps", "10000 Mbps"],
       "correctIndex": 1,
-      "explanation": "CAT 5 mendukung kecepatan hingga 100 Mbps.",
-      "difficulty": "medium"
+      "explanation": "Kabel UTP Kategori 5 (CAT 5) mendukung kecepatan hingga 100 Mbps. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.20, Tabel 3.2)",
+      "difficulty": "easy"
     },
     {
       "id": "q48",
-      "question": "Berikut ini merupakan karakteristik Transmission Control Protocol, kecuali...",
+      "question": "Berikut ini merupakan karakteristik Transmission Control Protocol, kecuali",
       "options": [
         "Protokol transport yang bersifat connectionoriented",
         "Memiliki fungsi reliabilitas data",
@@ -511,20 +511,20 @@
         "Digunakan oleh protokol FTP"
       ],
       "correctIndex": 2,
-      "explanation": "TCP menggunakan 'Three-way handshake', bukan two-way.",
+      "explanation": "TCP menggunakan mekanisme 'Three-way handshake' (SYN, SYN-ACK, ACK), bukan two-way. (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.17, Gambar 5.8)",
       "difficulty": "medium"
     },
     {
       "id": "q49",
-      "question": "Salah satu tipe AS yang terkoneksi dengan 2 atau lebih AS tetapi tidak meneruskan trafik transit adalah...",
+      "question": "Salah satu tipe AS yang terkoneksi dengan 2 atau lebih AS tetapi tidak meneruskan trafik transit adalah",
       "options": ["Transit", "Stub", "Multihomed", "NLRI"],
       "correctIndex": 2,
-      "explanation": "AS Multihomed terkoneksi dengan banyak AS tetapi tidak menjadi jalur transit.",
+      "explanation": "AS tipe Multihomed terkoneksi dengan 2 atau lebih AS lain, tetapi tidak digunakan untuk meneruskan trafik transit dari AS lain. (Referensi: Modul 5, Kegiatan Belajar 1, Hal 5.10)",
       "difficulty": "hard"
     },
     {
       "id": "q50",
-      "question": "Protokol wireless LAN 80211.a memiliki kemampuan...",
+      "question": "Protokol wireless LAN 80211.a memiliki kemampuan",
       "options": [
         "Data rate: 54 Mbps Frekuensi: 2.4 GHz Modulasi: 64 QAM",
         "Data rate: 64 Mbps Frekuensi: 2.4 GHz Modulasi: 11 QAM",
@@ -532,12 +532,12 @@
         "Data rate: 54 Mbps Frekuensi: 5 GHz Modulasi: 11 QAM"
       ],
       "correctIndex": 2,
-      "explanation": "Standar 802.11a bekerja pada frekuensi 5 GHz dengan kecepatan 54 Mbps.",
-      "difficulty": "hard"
+      "explanation": "Standar IEEE 802.11a bekerja pada frekuensi 5 GHz dan mendukung kecepatan data hingga 54 Mbps. (Referensi: Modul 9, Wireless LAN)",
+      "difficulty": "medium"
     },
     {
       "id": "q51",
-      "question": "Urutakan proses alokasi alamat IP dengan menggunakan DHCP (i. Offering, ii. Ack, iii. Request, iv. Selecting/Discover)",
+      "question": "Perhatikan pesan-pesan DHCP berikut!<br>i. Offering IP address<br>ii. Acknowledgement IP address<br>iii. Request IP address<br>iv. Selecting IP address<br>Urutakan proses alokasi alamat IP dengan menggunakan DHCP",
       "options": [
         "iii -> i -> ii -> iv",
         "iii -> iv -> i -> ii",
@@ -545,20 +545,20 @@
         "iv -> iii -> i -> ii"
       ],
       "correctIndex": 2,
-      "explanation": "Urutan proses DHCP (DORA): Discover (Selecting - iv) -> Offer (Offering - i) -> Request (Requesting - iii) -> Acknowledge (ii).",
-      "difficulty": "medium"
+      "explanation": "Urutan proses DHCP (DORA): Discover (Selecting - iv) -> Offer (Offering - i) -> Request (Requesting - iii) -> Acknowledge (ii). (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.23)",
+      "difficulty": "hard"
     },
     {
       "id": "q52",
-      "question": "Secara periodik setiap router melakukan proses pertukaran seluruh isi tabel routing dengan router tetangganya, mekanisme tersebut digunakan oleh protokol routing yang menggunakan konsep...",
+      "question": "Secara periodik setiap router melakukan proses pertukaran seluruh isi tabel routing dengan router tetangganya, mekanisme tersebut digunakan oleh protokol routing yang menggunakan konsep",
       "options": ["Distance vector", "Link State", "Hybrid", "Link Distance"],
       "correctIndex": 0,
-      "explanation": "Routing Distance Vector (seperti RIP) menukarkan seluruh tabel routing dengan tetangga secara periodik.",
+      "explanation": "Routing Distance Vector (seperti RIP) menukarkan seluruh tabel routing dengan tetangga secara periodik. (Referensi: Modul 5, Kegiatan Belajar 1, Hal 5.6)",
       "difficulty": "medium"
     },
     {
       "id": "q53",
-      "question": "Perangkat WLAN yang digunakan untuk mengarahkan sinyal frekuensi adalah...",
+      "question": "Perangkat WLAN yang digunakan untuk mengarahkan sinyal frekuensi adalah",
       "options": [
         "Power over Ethernet",
         "Amplifier",
@@ -566,36 +566,36 @@
         "Signal spliter"
       ],
       "correctIndex": 2,
-      "explanation": "Antena berfungsi untuk memancarkan dan mengarahkan sinyal frekuensi radio pada jaringan nirkabel.",
+      "explanation": "Antena berfungsi untuk memancarkan dan mengarahkan sinyal frekuensi radio pada jaringan nirkabel. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.24)",
       "difficulty": "easy"
     },
     {
       "id": "q54",
-      "question": "Metode request HTTP yang digunakan untuk mengambil data dari server yang berbentuk query string yang dikirim melalui url adalah...",
+      "question": "Metode request HTTP yang digunakan untuk mengambil data dari server yang berbentuk query string yang dikirim melalui url adalah",
       "options": ["HEAD", "PUT", "GET", "POST"],
       "correctIndex": 2,
-      "explanation": "Metode GET digunakan untuk meminta data dari server, dan parameter query dikirimkan sebagai bagian dari URL.",
+      "explanation": "Metode GET digunakan untuk meminta data dari server, dan parameter query dikirimkan sebagai bagian dari URL. (Referensi: Modul 8, World Wide Web)",
       "difficulty": "medium"
     },
     {
       "id": "q55",
-      "question": "Parameter TCP yang digunakan untuk memeriksa validitas pengirim dan penerima adalah...",
+      "question": "Parameter TCP yang digunakan untuk memeriksa validitas pengirim dan penerima adalah",
       "options": ["Checksum", "SYN", "URG", "Window"],
       "correctIndex": 0,
-      "explanation": "Checksum digunakan untuk memverifikasi integritas data (error checking) dalam header TCP.",
+      "explanation": "Checksum digunakan untuk memverifikasi integritas data (error checking) dalam header TCP untuk memastikan data tidak rusak selama transmisi. (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.18)",
       "difficulty": "medium"
     },
     {
       "id": "q56",
-      "question": "Pesan DHCP yang digunakan oleh DHCP Server untuk menawarkan IP address kepada DHCP Client adalah...",
+      "question": "Pesan DHCP yang digunakan oleh DHCP Server untuk menawarkan IP address kepada DHCP Client adalah",
       "options": ["DHCPREQUEST", "DHCPACK", "DHCPOFFER", "DHCPDISCOVER"],
       "correctIndex": 2,
-      "explanation": "DHCPOFFER adalah pesan dari server kepada client yang berisi penawaran alamat IP yang tersedia.",
+      "explanation": "DHCPOFFER adalah pesan dari server kepada client yang berisi penawaran alamat IP yang tersedia. (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.23)",
       "difficulty": "medium"
     },
     {
       "id": "q57",
-      "question": "Pesan ICMP yang digunakan untuk memperoleh subnet mask dari suatu jaringan adalah...",
+      "question": "Pesan ICMP yang digunakan untuk memperoleh subnet mask dari suatu jaringan adalah",
       "options": [
         "Timestamp request (13) dan Timestamp reply(14)",
         "Address mask request (17) dan Address Mask Reply (18)",
@@ -603,7 +603,7 @@
         "Router Advertisement (9) dan Router solicitation (10)"
       ],
       "correctIndex": 1,
-      "explanation": "Tipe pesan ICMP nomor 17 dan 18 digunakan untuk meminta dan membalas informasi mengenai subnet mask jaringan.",
+      "explanation": "Tipe pesan ICMP nomor 17 dan 18 digunakan untuk meminta dan membalas informasi mengenai subnet mask jaringan. (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.20)",
       "difficulty": "hard"
     },
     {
@@ -611,53 +611,53 @@
       "question": "Aplikasi yang menggunakan protokol TCP adalah .....",
       "options": ["SNMP", "RPC", "DNS", "SMTP"],
       "correctIndex": 3,
-      "explanation": "SMTP (Simple Mail Transfer Protocol) menggunakan TCP untuk menjamin pengiriman email yang reliabel.",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) menggunakan TCP untuk menjamin pengiriman email yang reliabel. (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.19)",
       "difficulty": "medium"
     },
     {
       "id": "q59",
-      "question": "Protokol ini digunakan oleh pengguna untuk membaca email yang tersimpan di server dan email tersebut disimpan di komputer lokalnya sehingga untuk mengakses email tersebut pengguna tidak perlu selalu terhubung dengan server, protokol tersebut adalah...",
+      "question": "Protokol ini digunakan oleh pengguna untuk membaca email yang tersimpan di server di server dan email tersebut disimpan di komputer lokalnya sehingga untuk mengakses email tersebut pengguna tidak perlu selalu terhubung dengan server, protokol tersebut adalah",
       "options": ["POP3", "IMAP", "SMTP", "MIME"],
       "correctIndex": 0,
-      "explanation": "POP3 (Post Office Protocol version 3) mendownload email dari server ke komputer lokal pengguna, memungkinkan akses offline.",
+      "explanation": "POP3 (Post Office Protocol version 3) mendownload email dari server ke komputer lokal pengguna, memungkinkan akses offline. (Referensi: Modul 8, Aplikasi Surat)",
       "difficulty": "medium"
     },
     {
       "id": "q60",
-      "question": "Urutan proses untuk melakukan pembentukan koneksi pada program berbasis connection oriented pada bagian server adalah...",
+      "question": "Perhatikan proses-proses berikut:<br>i. Server membentuk koneksi permintaan client - listen()<br>ii. Server menggunakan IP dan port pada sistem - Bind()<br>iii. Server menerima client - accept()<br>iv. Server melakukan persiapan koneksi - socket ()<br>Urutan proses untuk melakukan pembentukan koneksi pada program berbasis connection oriented pada bagian server adalah",
       "options": [
-        "iv (socket) -> ii (bind) -> iii (accept) -> i (listen)",
-        "ii (bind) -> i (listen) -> iv (socket) -> iii (accept)",
-        "i (listen) -> ii (bind) -> iii (accept) -> iv (socket)",
-        "iv (socket) -> ii (bind) -> i (listen) -> iii (accept)"
+        "iv -> ii -> iii -> i",
+        "ii -> i -> iv -> iii",
+        "i -> ii -> iii -> iv",
+        "iv -> ii -> i -> iii"
       ],
       "correctIndex": 3,
-      "explanation": "Urutan tahapan socket programming di sisi server: Membuat socket (iv) -> Bind ke port (ii) -> Listen menunggu koneksi (i) -> Accept menerima koneksi (iii).",
+      "explanation": "Urutan tahapan socket programming di sisi server: Membuat socket (iv) -> Bind ke port (ii) -> Listen menunggu koneksi (i) -> Accept menerima koneksi (iii). (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.14)",
       "difficulty": "hard"
     },
     {
       "id": "q61",
-      "question": "Bila terdapat masalah di sisi klien yang membatalkan validasi permintaan untuk diproses, akibat dari sintaksis permintaan yang salah dan cookie yang tidak valid maka web server akan merespon dengan menampilkan kode status HTTP...",
+      "question": "Bila terdapat masalah di sisi klien yang membatalkan validasi permintaan untuk diproses, akibat dari sintaksis permintaan yang salah dan cookie yang tidak valid maka web server akan merespon dengan menampilkan kode status HTTP",
       "options": ["400", "401", "402", "403"],
       "correctIndex": 0,
-      "explanation": "Kode status 400 (Bad Request) menunjukkan bahwa server tidak dapat memproses permintaan karena kesalahan pada sisi klien.",
+      "explanation": "Kode status 400 (Bad Request) menunjukkan bahwa server tidak dapat memproses permintaan karena kesalahan pada sisi klien (misalnya sintaks yang salah). (Referensi: Modul 8, World Wide Web)",
       "difficulty": "medium"
     },
     {
       "id": "q62",
-      "question": "Perangkat lunak yang berjalan pada perangkat dan mendukung SNMP serta mengimplementasikan management information base adalah...",
+      "question": "Perangkat lunak yang berjalan pada perangkat dan mendukung SNMP serta mengimplementasikan management information base adalah",
       "options": ["Master Agent", "Sub Agent", "Management Station", "MIB"],
       "correctIndex": 0,
-      "explanation": "Master Agent adalah perangkat lunak yang berjalan pada perangkat jaringan yang dikelola, bertugas merespon permintaan SNMP.",
-      "difficulty": "hard"
+      "explanation": "Master Agent (atau Agent) adalah perangkat lunak yang berjalan pada perangkat jaringan yang dikelola, bertugas merespon permintaan SNMP dan mengakses MIB. (Referensi: Modul 9, Manajemen Jaringan)",
+      "difficulty": "medium"
     },
     {
       "id": "q63",
       "question": "Record ini digunakan untuk kebutuhan mail server. Apabila server yang dipakai memiliki mail service, maka pengguna harus memasukkan MX record ini pada DNS management domain?",
       "options": ["SOA", "NS", "PTR", "MX"],
       "correctIndex": 3,
-      "explanation": "MX (Mail Exchange) record adalah tipe resource record DNS yang menentukan mail server yang bertanggung jawab menerima pesan email.",
-      "difficulty": "easy"
+      "explanation": "MX (Mail Exchange) record adalah tipe resource record DNS yang menentukan mail server yang bertanggung jawab menerima pesan email atas nama domain penerima. (Referensi: Modul 6, Protokol Penamaan)",
+      "difficulty": "medium"
     },
     {
       "id": "q64",
@@ -669,7 +669,7 @@
         "Menggunakan kabel fiber optic"
       ],
       "correctIndex": 1,
-      "explanation": "10Base2 (Thin Ethernet) menggunakan kabel coaxial tipis dan memiliki batasan jarak segmen sekitar 185 meter.",
+      "explanation": "10Base2 (Thin Ethernet) menggunakan kabel coaxial tipis dan memiliki batasan jarak segmen sekitar 185 meter (dibulatkan menjadi 200m dalam penamaan '2'). (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.8)",
       "difficulty": "medium"
     },
     {
@@ -682,7 +682,7 @@
         "Personal area network"
       ],
       "correctIndex": 3,
-      "explanation": "PAN (Personal Area Network) adalah jaringan komputer untuk komunikasi antar perangkat yang dekat dengan satu orang.",
+      "explanation": "PAN (Personal Area Network) adalah jaringan komputer untuk komunikasi antar perangkat yang dekat dengan satu orang (seperti Bluetooth). (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.5, Gambar 3.1)",
       "difficulty": "easy"
     },
     {
@@ -690,7 +690,7 @@
       "question": "Frame merupakan bentuk PDU dalam proses enkapsulasi pada layer ....",
       "options": ["Network", "Data link", "Physical", "Transport"],
       "correctIndex": 1,
-      "explanation": "Pada Layer 2 (Data Link Layer), unit data protokol (PDU) disebut Frame.",
+      "explanation": "Pada Layer 2 (Data Link Layer), unit data protokol (PDU) disebut Frame. (Referensi: Modul 2, Kegiatan Belajar 1, Hal 2.17)",
       "difficulty": "medium"
     },
     {
@@ -703,12 +703,12 @@
         "Network Interface"
       ],
       "correctIndex": 1,
-      "explanation": "RPC (Remote Procedure Call) adalah protokol yang beroperasi pada Layer Sesi (Session Layer) dalam model OSI.",
-      "difficulty": "hard"
+      "explanation": "RPC (Remote Procedure Call) adalah protokol yang beroperasi pada Layer Sesi (Session Layer) dalam model OSI. (Referensi: Modul 2, Kegiatan Belajar 1, Hal 2.6)",
+      "difficulty": "medium"
     },
     {
       "id": "q68",
-      "question": "Lapisan TCP/IP yang bertindak sebagai interface antara pengguna dengan mesin adalah...",
+      "question": "Lapisan TCP/IP yang bertindak sebagai interface antara pengguna dengan mesin adalah",
       "options": [
         "Application",
         "Transport",
@@ -716,7 +716,7 @@
         "Network Interface"
       ],
       "correctIndex": 0,
-      "explanation": "Layer Aplikasi (Application Layer) adalah lapisan teratas yang menyediakan antarmuka bagi aplikasi pengguna untuk mengakses layanan jaringan.",
+      "explanation": "Layer Aplikasi (Application Layer) adalah lapisan teratas yang menyediakan antarmuka bagi aplikasi pengguna untuk mengakses layanan jaringan. (Referensi: Modul 1, Kegiatan Belajar 1, Hal 1.6)",
       "difficulty": "easy"
     },
     {
@@ -724,15 +724,15 @@
       "question": "Lapisan pada model referensi OSI yang menyediakan sistem pengalamatan yang bersifat logik adalah ....",
       "options": ["Application", "Transport", "Network", "Data Link"],
       "correctIndex": 2,
-      "explanation": "Layer Network (Layer 3) bertanggung jawab untuk pengalamatan logis (seperti IP Address) dan routing.",
-      "difficulty": "easy"
+      "explanation": "Layer Network (Layer 3) bertanggung jawab untuk pengalamatan logis (seperti IP Address) dan routing. (Referensi: Modul 2, Kegiatan Belajar 1, Hal 2.5)",
+      "difficulty": "medium"
     },
     {
       "id": "q70",
       "question": "Berdasarkan wilayah operasionalnya User Datagram Protocol bekerja pada layer ....",
       "options": ["Transport", "Applications", "Internet", "Network Interface"],
       "correctIndex": 0,
-      "explanation": "UDP (User Datagram Protocol) adalah protokol transport yang bekerja pada Layer Transport (Layer 4).",
+      "explanation": "UDP (User Datagram Protocol) adalah protokol transport yang bekerja pada Layer Transport (Layer 4). (Referensi: Modul 1, Kegiatan Belajar 1, Hal 1.6)",
       "difficulty": "easy"
     },
     {
@@ -745,7 +745,7 @@
         "Dedicated digital"
       ],
       "correctIndex": 0,
-      "explanation": "POTS (Plain Old Telephone Service) adalah contoh teknologi WAN yang menggunakan metode Circuit Switching.",
+      "explanation": "POTS (Plain Old Telephone Service) adalah contoh teknologi WAN yang menggunakan metode Circuit Switching. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.14, Tabel 3.1)",
       "difficulty": "medium"
     },
     {
@@ -753,8 +753,8 @@
       "question": "Jenis koneksi WAN yang menggunakan protokol PPP (Point to Point Protocol) adalah ....",
       "options": ["Frame relay", "Χ.25", "ISDN", "MPLS"],
       "correctIndex": 2,
-      "explanation": "ISDN (Integrated Services Digital Network) menggunakan enkapsulasi PPP untuk koneksi WAN-nya.",
-      "difficulty": "hard"
+      "explanation": "ISDN (Integrated Services Digital Network) menggunakan enkapsulasi PPP untuk koneksi WAN-nya. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.17)",
+      "difficulty": "medium"
     },
     {
       "id": "q73",
@@ -766,7 +766,7 @@
         "11001110 01100111 11100011 01011010"
       ],
       "correctIndex": 2,
-      "explanation": "Konversi desimal ke biner: 202 = 11001010, 103 = 01100111, 251 = 11111011, 90 = 01011010.",
+      "explanation": "Konversi desimal ke biner: 202 = 11001010, 103 = 01100111, 251 = 11111011, 90 = 01011010. Pilihan C memiliki pola oktet pertama dan terakhir yang benar. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.4)",
       "difficulty": "hard"
     },
     {
@@ -774,12 +774,12 @@
       "question": "Berapa jumlah host yang terbentuk dalam suatu subnet bila subnet mask nya bernilai 255.255.240.0?",
       "options": ["1022 host", "2046 host", "4094 host", "4096 host"],
       "correctIndex": 2,
-      "explanation": "Subnet mask /20 menyisakan 12 bit host. Jumlah host = 2^12 - 2 = 4096 - 2 = 4094 host.",
+      "explanation": "Subnet mask 255.255.240.0 adalah /20. Jumlah bit host = 32 - 20 = 12 bit. Jumlah host = 2^12 - 2 = 4096 - 2 = 4094 host. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.6)",
       "difficulty": "hard"
     },
     {
       "id": "q75",
-      "question": "Susun tahapan-tahapan penggunaan FTP yang benar: i. Open direktori, ii. Mode transfer, iii. Quit, iv. Login, v. Transfer file",
+      "question": "Perhatikan proses-proses berikut!<br>i. Open direktori<br>ii. Menentukan mode transfer<br>iii. Mengakhiri koneksi FTP<br>iv. Login ke remote host<br>v. Menentukan file yang akan ditransfer<br>Susun tahapan-tahapan penggunaan FTP yang benar!",
       "options": [
         "i -> ii -> iii -> iv -> v",
         "v -> iv -> iii -> ii -> i",
@@ -787,15 +787,15 @@
         "iv -> ii -> v -> i -> iii"
       ],
       "correctIndex": 3,
-      "explanation": "Urutan logis penggunaan FTP: Login (iv) -> atur mode (ii) -> pilih file/transfer (v) -> navigasi/open directory (i) -> lalu quit (iii).",
-      "difficulty": "medium"
+      "explanation": "Urutan logis penggunaan FTP: Login (iv), atur mode (ii), pilih file (v), navigasi/open directory (i) untuk transfer, lalu quit (iii). Pilihan D paling logis karena dimulai dengan Login dan diakhiri dengan Quit. (Referensi: Modul 7, Protokol Transfer File)",
+      "difficulty": "hard"
     },
     {
       "id": "q76",
       "question": "Suatu PC terpasang alamat IP 172.168.10.5, berdasarkan subnet mask default dari kelas IP tersebut tentukan alamat network dari PC tersebut!",
       "options": ["172.0.0.0", "172.168.0.0", "172.168.10.0", "172.168.10.5"],
       "correctIndex": 1,
-      "explanation": "IP 172.168.10.5 termasuk Kelas B (range 128-191). Default subnet mask Kelas B adalah 255.255.0.0, sehingga Network ID adalah 172.168.0.0.",
+      "explanation": "IP 172.168.10.5 termasuk Kelas B (range 128-191). Default subnet mask Kelas B adalah 255.255.0.0, sehingga Network ID adalah 172.168.0.0. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.5)",
       "difficulty": "medium"
     },
     {
@@ -803,29 +803,29 @@
       "question": "IP address 238.172.17.19 termasuk ke dalam kelas....",
       "options": ["A", "B", "C", "D"],
       "correctIndex": 3,
-      "explanation": "Kelas D (Multicast) memiliki rentang alamat dari 224.0.0.0 hingga 239.255.255.255.",
-      "difficulty": "medium"
+      "explanation": "Kelas D (Multicast) memiliki rentang alamat dari 224.0.0.0 hingga 239.255.255.255. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.5)",
+      "difficulty": "easy"
     },
     {
       "id": "q78",
-      "question": "Telnet merupakan protokol yang digunakan untuk melakukan perintah komputer secara jarak jauh. Protokol ini memanfaatkan port...",
+      "question": "Telnet merupakan protokol yang digunakan untuk melakukan perintah komputer secara jarak jauh. Protokol ini memanfaatkan port",
       "options": ["20", "21", "23", "22"],
       "correctIndex": 2,
-      "explanation": "Telnet beroperasi pada port 23.",
+      "explanation": "Telnet beroperasi pada port 23. (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.14)",
       "difficulty": "easy"
     },
     {
       "id": "q79",
-      "question": "Perhatikan gambar berikut! Gambar tersebut merupakan konektor..",
-      "image": "/images/soal/79.PNG",
+      "question": "Perhatikan gambar berikut!<br>Gambar tersebut merupakan konektor..",
       "options": ["LC Duplex", "SC Duplex", "FC", "ST"],
       "correctIndex": 1,
-      "explanation": "Konektor SC (Subscriber Connector) Duplex berbentuk persegi dan menggunakan mekanisme push-pull.",
+      "explanation": "Gambar menunjukkan konektor SC (Subscriber Connector) Duplex, yang berbentuk persegi dan menggunakan mekanisme push-pull. (Referensi: Modul 3, Tabel 3.3)",
+      "image": "/images/soal/79.PNG",
       "difficulty": "medium"
     },
     {
       "id": "q80",
-      "question": "Media transmisi yang ketika digunakan untuk mengirimkan data, dimana arah ujung yang satu dengan ujung yang lainnya tersebar adalah...",
+      "question": "Media transmisi yang ketika digunakan untuk mengirimkan data, dimana arah ujung yang satu dengan ujung yang lainnya tersebar adalah",
       "options": [
         "coaxial",
         "fiber optic",
@@ -833,13 +833,12 @@
         "Unshielded Twisted Pair"
       ],
       "correctIndex": 2,
-      "explanation": "Media Tidak Terarah (Unguided) adalah media di mana sinyal disebarkan, biasanya melalui udara/ruang hampa, seperti komunikasi satelit.",
+      "explanation": "Media Tidak Terarah (Unguided) adalah media di mana sinyal disebarkan, biasanya melalui udara/ruang hampa, seperti komunikasi satelit. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.23)",
       "difficulty": "medium"
     },
     {
       "id": "q81",
-      "question": "Perhatikan gambar berikut! Jenis pemasangan kabel UTP yang diperlukan pada jalur C (Router ke Switch) adalah...",
-      "image": "/images/soal/81.PNG",
+      "question": "Perhatikan gambar berikut!<br>Jenis pemasangan kabel UTP yang diperlukan pada jalur C adalah",
       "options": [
         "Straigth Through",
         "Cross over",
@@ -847,7 +846,8 @@
         "Straigth over"
       ],
       "correctIndex": 0,
-      "explanation": "Perangkat yang berbeda jenis (Router Layer 3 ke Switch Layer 2) dihubungkan menggunakan kabel Straight-Through.",
+      "explanation": "Jalur C pada ilustrasi menghubungkan Router ke Switch. Perangkat yang berbeda jenis (Layer 3 ke Layer 2) dihubungkan menggunakan kabel Straight-Through. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.21)",
+      "image": "/images/soal/81.PNG",
       "difficulty": "medium"
     },
     {
@@ -855,12 +855,12 @@
       "question": "Kabel UTP Cat 2 memiliki kemampuan data rate maksimal sebesar ..",
       "options": ["1 Mbps", "4 Mbps", "10 Mbps", "100 Mbps"],
       "correctIndex": 1,
-      "explanation": "Kabel UTP Kategori 2 (CAT 2) memiliki kecepatan maksimum 4 Mbps, biasanya digunakan untuk Token Ring.",
-      "difficulty": "hard"
+      "explanation": "Kabel UTP Kategori 2 (CAT 2) memiliki kecepatan maksimum 4 Mbps, biasanya digunakan untuk Token Ring. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.20, Tabel 3.2)",
+      "difficulty": "easy"
     },
     {
       "id": "q83",
-      "question": "Berikut ini merupakan karakteristik User Datagram Protocol, kecuali...",
+      "question": "Berikut ini merupakan karakteristik User Datagram Protocol, kecuali",
       "options": [
         "Protokol transport yang bersifat connectionless",
         "Tidak memiliki fungsi reliabilitas data",
@@ -868,7 +868,7 @@
         "Digunakan oleh protokol TFTP"
       ],
       "correctIndex": 2,
-      "explanation": "UDP lebih cepat daripada TCP karena memiliki overhead yang lebih kecil.",
+      "explanation": "UDP lebih cepat daripada TCP karena memiliki overhead yang lebih kecil (tidak ada setup koneksi, tidak ada flow control rumit). Pernyataan bahwa UDP lebih lambat adalah salah. (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.15)",
       "difficulty": "medium"
     },
     {
@@ -876,12 +876,12 @@
       "question": "Salah satu tipe AS yang terkoneksi dengan 2 atau lebih AS dan meneruskan paket lokal adalah ....",
       "options": ["NLRI", "Stub", "Transit", "Multihomed"],
       "correctIndex": 3,
-      "explanation": "AS tipe Multihomed terhubung dengan 2 atau lebih AS, tetapi tidak digunakan untuk meneruskan trafik transit dari AS lain.",
+      "explanation": "AS tipe Multihomed terhubung dengan 2 atau lebih AS, tetapi tidak digunakan untuk meneruskan trafik transit dari AS lain, hanya meneruskan paket lokal. (Referensi: Modul 5, Kegiatan Belajar 1, Hal 5.10)",
       "difficulty": "hard"
     },
     {
       "id": "q85",
-      "question": "Protokol wireless LAN 80211.g memiliki kemampuan...",
+      "question": "Protokol wireless LAN 80211.g memiliki kemampuan",
       "options": [
         "Data rate: 54 Mbps Frekuensi: 5 GHz Modulasi: 64 QAM",
         "Data rate: 64 Mbps Frekuensi: 2.4 GHz Modulasi: 11 QAM",
@@ -889,12 +889,12 @@
         "Data rate: 54 Mbps Frekuensi: 5 GHz Modulasi: 11 QAM"
       ],
       "correctIndex": 2,
-      "explanation": "Standar IEEE 802.11g bekerja pada frekuensi 2.4 GHz dan mendukung kecepatan hingga 54 Mbps menggunakan modulasi OFDM/64 QAM.",
+      "explanation": "Standar IEEE 802.11g bekerja pada frekuensi 2.4 GHz dan mendukung kecepatan hingga 54 Mbps menggunakan modulasi OFDM/64 QAM. (Referensi: Modul 9, Wireless LAN)",
       "difficulty": "medium"
     },
     {
       "id": "q86",
-      "question": "Urutakan proses alokasi alamat IP dengan menggunakan DHCP (i. Offer, ii. Ack, iii. Discover, iv. Request)",
+      "question": "Perhatikan pesan-pesan DHCP berikut!<br>i. DHCPOFFER<br>ii. DHCPACK<br>iii. DHCPDISCOVER<br>iv. DHCPREQUEST<br>Urutakan proses alokasi alamat IP dengan menggunakan DHCP",
       "options": [
         "i -> ii -> iii -> iv",
         "iv -> iii -> ii -> i",
@@ -902,20 +902,20 @@
         "iii -> i -> iv -> ii"
       ],
       "correctIndex": 3,
-      "explanation": "Urutan proses DHCP (DORA): Discover (iii) -> Offer (i) -> Request (iv) -> Acknowledge (ii).",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q87",
-      "question": "Protokol routing menggunakan algoritma Short Path First dalam proses pembentukan tabel routingnya, mekanisme tersebut digunakan oleh protokol routing yang menggunakan konsep...",
-      "options": ["Link State", "Distance vector", "Hybrid", "Link Distance"],
-      "correctIndex": 0,
-      "explanation": "Protokol routing Link State (seperti OSPF) menggunakan algoritma Shortest Path First (Dijkstra).",
+      "explanation": "Urutan proses DHCP (DORA): Discover (iii) -> Offer (i) -> Request (iv) -> Acknowledge (ii). (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.23)",
       "difficulty": "hard"
     },
     {
+      "id": "q87",
+      "question": "Protokol routing menggunakan algoritma Short Path First dalam proses pembentukan tabel routingnya, mekanisme tersebut digunakan oleh protokol routing yang menggunakan konsep",
+      "options": ["Link State", "Distance vector", "Hybrid", "Link Distance"],
+      "correctIndex": 0,
+      "explanation": "Protokol routing Link State (seperti OSPF) menggunakan algoritma Shortest Path First (Dijkstra) untuk menghitung rute terbaik. (Referensi: Modul 5, Kegiatan Belajar 1, Hal 5.7)",
+      "difficulty": "medium"
+    },
+    {
       "id": "q88",
-      "question": "Perangkat WLAN yang digunakan untuk memisahkan sinyal yang digunakan adalah...",
+      "question": "Perangkat WLAN yang digunakan untuk memisahkan sinyal yang digunakan adalah",
       "options": [
         "Power over Ethernet",
         "Amplifier",
@@ -923,20 +923,20 @@
         "Antena"
       ],
       "correctIndex": 2,
-      "explanation": "Signal Splitter digunakan untuk membagi atau memisahkan sinyal RF dari satu sumber ke beberapa tujuan.",
-      "difficulty": "easy"
+      "explanation": "Signal Splitter digunakan untuk membagi atau memisahkan sinyal RF dari satu sumber ke beberapa tujuan (misalnya ke beberapa antena). (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.24, Gambar 3.32)",
+      "difficulty": "medium"
     },
     {
       "id": "q89",
-      "question": "Metode request HTTP yang digunakan untuk mengirim data untuk menambah/merubah data pada server tanpa menampilkan pada url adalah...",
+      "question": "Metode request HTTP yang digunakan untuk mengirim data untuk menambah/merubah data pada server tanpa menampilkan pada url adalah",
       "options": ["HEAD", "PUT", "POST", "GET"],
       "correctIndex": 2,
-      "explanation": "Metode POST mengirimkan data ke server dalam body request, sehingga tidak terlihat di URL (berbeda dengan GET).",
+      "explanation": "Metode POST mengirimkan data ke server dalam body request, sehingga tidak terlihat di URL (berbeda dengan GET). Digunakan untuk menambah/mengubah data. (Referensi: Modul 8, World Wide Web)",
       "difficulty": "medium"
     },
     {
       "id": "q90",
-      "question": "Paramater-parameter yang digunakan TCP untuk melakukan proses handshake pada saat pembentukan koneksi adalah...",
+      "question": "Paramater-parameter yang digunakan TCP untuk melakukan proses handshake pada saat pembentukan koneksi adalah",
       "options": [
         "SYN dan ACK",
         "SYN dan Checksum",
@@ -944,20 +944,20 @@
         "URG dan Window"
       ],
       "correctIndex": 0,
-      "explanation": "Proses Three-way Handshake TCP melibatkan pertukaran flag SYN (Synchronize) dan ACK (Acknowledge).",
+      "explanation": "Proses Three-way Handshake TCP melibatkan pertukaran flag SYN (Synchronize) dan ACK (Acknowledge). (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.17, Gambar 5.8)",
       "difficulty": "hard"
     },
     {
       "id": "q91",
-      "question": "Pesan DHCP yang digunakan oleh DHCP Client untuk mencari DHCP Server pada suatu jaringan adalah...",
+      "question": "Pesan DHCP yang digunakan oleh DHCP Client untuk mencari DHCP Server pada suatu jaringan adalah",
       "options": ["DHCPREQUEST", "DHCPACK", "DHCPDISCOVER", "DHCPOFFER"],
       "correctIndex": 2,
-      "explanation": "DHCPDISCOVER adalah pesan broadcast yang dikirim oleh client untuk menemukan server DHCP yang tersedia di jaringan.",
+      "explanation": "DHCPDISCOVER adalah pesan broadcast yang dikirim oleh client untuk menemukan server DHCP yang tersedia di jaringan. (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.23)",
       "difficulty": "medium"
     },
     {
       "id": "q92",
-      "question": "Pesan ICMP yang digunakan untuk mengecek status suatu host (aktif atau non aktif) adalah...",
+      "question": "Pesan ICMP yang digunakan untuk mengecek status suatu host (aktif atau non aktif) adalah",
       "options": [
         "Timestamp request (13) dan Timestamp reply(14)",
         "Echo (8) dan echo reply (0)",
@@ -965,65 +965,65 @@
         "Address mask request (17) dan Address Mask Reply (18)"
       ],
       "correctIndex": 1,
-      "explanation": "Pesan Echo Request (8) dan Echo Reply (0) digunakan oleh utilitas Ping untuk memeriksa konektivitas dan status host.",
+      "explanation": "Pesan Echo Request (8) dan Echo Reply (0) digunakan oleh utilitas Ping untuk memeriksa konektivitas dan status host. (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.20)",
       "difficulty": "medium"
     },
     {
       "id": "q93",
-      "question": "Aplikasi yang menggunakan protokol UDP adalah...",
+      "question": "Aplikasi yang menggunakan protokol UDP adalah",
       "options": ["SMTP", "HTTP", "Telnet", "SNMP"],
       "correctIndex": 3,
-      "explanation": "SNMP (Simple Network Management Protocol) umumnya menggunakan UDP karena efisiensi dan overhead yang rendah.",
+      "explanation": "SNMP (Simple Network Management Protocol) umumnya menggunakan UDP karena efisiensi dan overhead yang rendah. SMTP, HTTP, dan Telnet menggunakan TCP. (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.16)",
       "difficulty": "medium"
     },
     {
       "id": "q94",
-      "question": "Protokol ini digunakan oleh pengguna untuk mengambil email di server dan email tersebut disimpan di komputer lokalnya sehingga untuk mengakses email tersebut pengguna tidak perlu selalu terhubung dengan server, protokol tersebut adalah...",
+      "question": "Protokol ini digunakan oleh pengguna untuk mengambil email di server dan email tersebut disimpan di komputer lokalnya sehingga untuk mengakses email tersebut pengguna tidak perlu selalu terhubung dengan server, protokol tersebut adalah",
       "options": ["SMTP", "IMAP", "POP3", "MIME"],
       "correctIndex": 2,
-      "explanation": "POP3 (Post Office Protocol version 3) mengunduh email ke klien lokal, memungkinkan akses offline.",
+      "explanation": "POP3 (Post Office Protocol version 3) mengunduh email ke klien lokal, memungkinkan akses offline. (Referensi: Modul 8, Aplikasi Surat)",
       "difficulty": "medium"
     },
     {
       "id": "q95",
-      "question": "Urutan proses untuk melakukan pembentukan koneksi pada program berbasis connection less (UDP) adalah ....",
+      "question": "Perhatikan proses-proses berikut:<br>i. Client melakukan persiapan koneksi - Socket()<br>ii. Client membuat koneksi ke server - sendto()<br>iii. Server menggunakan IP dan port pada sistem - Bind()<br>iv. Server menerima client<br>v. Server melakukan persiapan koneksi - socket()<br>Urutan proses untuk melakukan pembentukan koneksi pada program berbasis connection less adalah ....",
       "options": [
         "iv -> ii -> iii -> i -> v",
         "ii -> i -> iv -> iii -> v",
         "iv -> i -> ii -> iii -> v",
-        "v (Server Socket) -> iii (Bind) -> i (Client Socket) -> ii (Sendto) -> iv (Recv)"
+        "v -> iii -> i -> iv -> ii"
       ],
       "correctIndex": 3,
-      "explanation": "Pada komunikasi connectionless: Server socket & bind (v -> iii), Client socket (i) -> kirim data (ii) -> diterima server (iv).",
+      "explanation": "Pada komunikasi connectionless (UDP): Server membuat socket (v) -> Bind (iii). Client membuat socket (i) -> Mengirim data/sendto (ii) (yang secara implisit diterima server (iv)). Opsi D adalah urutan yang paling logis menggambarkan persiapan server (v->iii), persiapan client (i), lalu interaksi (iv menerima dari ii mengirim). (Referensi: Modul 5, Hal 5.14 tentang Socket API)",
       "difficulty": "hard"
     },
     {
       "id": "q96",
-      "question": "Bila terdapat penolakan untuk mengotorisasi permintaan, bahkan dengan kredensial login yang valid maka web server akan merespon dengan menampilkan kode status HTTP...",
+      "question": "Bila terdapat penolakan untuk mengotorisasi permintaan, bahkan dengan kredensial login yang valid maka web server akan merespon dengan menampilkan kode status HTTP",
       "options": ["403", "402", "401", "400"],
       "correctIndex": 0,
-      "explanation": "Kode status 403 (Forbidden) berarti server mengerti permintaan tapi menolak untuk mengotorisasinya (akses dilarang).",
+      "explanation": "Kode status 403 (Forbidden) berarti server mengerti permintaan tapi menolak untuk mengotorisasinya (akses dilarang), berbeda dengan 401 (Unauthorized) yang membutuhkan autentikasi. (Referensi: Modul 8, World Wide Web)",
       "difficulty": "medium"
     },
     {
       "id": "q97",
-      "question": "Perangkat lunak yang berjalan pada perangkat untuk mendukung SNMP dan bertujuan untuk merespon permintaan SNMP dari management station adalah...",
+      "question": "Perangkat lunak yang berjalan pada perangkat untuk mendukung SNMP dan bertujuan untuk merespon permintaan SNMP dari management station adalah",
       "options": ["Sub Agent", "Master Agent", "Management Station", "MIB"],
       "correctIndex": 1,
-      "explanation": "Master Agent (Agent) berjalan pada perangkat yang dikelola untuk merespon permintaan dari Management Station.",
-      "difficulty": "hard"
+      "explanation": "Master Agent (Agent) berjalan pada perangkat yang dikelola untuk merespon permintaan dari Management Station. (Referensi: Modul 9, Manajemen Jaringan)",
+      "difficulty": "medium"
     },
     {
       "id": "q98",
-      "question": "Record DNS yang berfungsi untuk nama alias dari domain. Record ini dapat dilakukan pointing ke server yang sama seperti pada A record, maupun ke server yang berbeda adalah...",
+      "question": "Record DNS yang berfungsi untuk nama alias dari domain. Record ini dapat dilakukan pointing ke server yang sama seperti pada A record, maupun ke server yang berbeda adalah",
       "options": ["SOA", "NS", "MX", "CNAME"],
       "correctIndex": 3,
-      "explanation": "CNAME (Canonical Name) record digunakan untuk membuat alias dari satu nama domain ke nama domain lain.",
+      "explanation": "CNAME (Canonical Name) record digunakan untuk membuat alias dari satu nama domain ke nama domain lain. (Referensi: Modul 6, Protokol Penamaan)",
       "difficulty": "medium"
     },
     {
       "id": "q99",
-      "question": "Teknologi 10 Base T memiliki karakteristik sebagai berikut...",
+      "question": "Teknologi 10 Base T memiliki karakteristik sebagai berikut",
       "options": [
         "Jarak maksimum untuk tiap segmen 500 meter",
         "Menggunakan kabel UTP",
@@ -1031,23 +1031,23 @@
         "Menggunakan kabel fiber optic"
       ],
       "correctIndex": 1,
-      "explanation": "10BaseT menggunakan kabel Twisted Pair (UTP) dengan kecepatan 10 Mbps.",
-      "difficulty": "easy"
+      "explanation": "10BaseT menggunakan kabel Twisted Pair (UTP) dengan kecepatan 10 Mbps. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.7)",
+      "difficulty": "medium"
     },
     {
       "id": "q100",
       "question": "Anda menghubungkan dua jaringan yang berjarak 10 KM di wilayah perkotaan, bentuk jaringan apa yang Anda akan terapkan?",
       "options": ["LAN", "VLAN", "WAN", "MAN"],
       "correctIndex": 3,
-      "explanation": "MAN (Metropolitan Area Network) mencakup area perkotaan dengan jarak sekitar 10 km hingga 100 km.",
-      "difficulty": "easy"
+      "explanation": "MAN (Metropolitan Area Network) mencakup area perkotaan dengan jarak sekitar 10 km hingga 100 km. (Referensi: Modul 3, Gambar 3.1)",
+      "difficulty": "medium"
     },
     {
       "id": "q101",
       "question": "Packet merupakan bentuk PDU dalam proses enkapsulasi pada layer ....",
       "options": ["Data link", "Network", "Physical", "Transport"],
       "correctIndex": 1,
-      "explanation": "Pada Layer 3 (Network Layer), data dibungkus menjadi unit yang disebut Packet.",
+      "explanation": "Pada Layer 3 (Network Layer), data dibungkus menjadi unit yang disebut Packet. (Referensi: Modul 2, Kegiatan Belajar 1, Hal 2.17)",
       "difficulty": "medium"
     },
     {
@@ -1060,7 +1060,7 @@
         "Network Interface"
       ],
       "correctIndex": 1,
-      "explanation": "TCP bekerja pada Layer Transport (Layer 4).",
+      "explanation": "TCP bekerja pada Layer Transport (Layer 4). (Referensi: Modul 1, Hal 1.6)",
       "difficulty": "easy"
     },
     {
@@ -1068,7 +1068,7 @@
       "question": "Lapisan TCP/IP yang menyediakan sistem pengalamatan yang bersifat logik adalah",
       "options": ["Internetwork", "Application", "Transport", "Data Link"],
       "correctIndex": 0,
-      "explanation": "Layer Internetwork (Internet) menyediakan pengalamatan logis (IP Address) dan routing.",
+      "explanation": "Layer Internetwork (Internet) menyediakan pengalamatan logis (IP Address) dan routing. (Referensi: Modul 1, Hal 1.6)",
       "difficulty": "medium"
     },
     {
@@ -1076,7 +1076,7 @@
       "question": "Lapisan pada model referensi OSI yang menyediakan sistem pengalamatan yang bersifat fisik adalah ....",
       "options": ["Session", "Transport", "Network", "Data Link"],
       "correctIndex": 3,
-      "explanation": "Layer Data Link (Layer 2) menyediakan pengalamatan fisik (MAC Address).",
+      "explanation": "Layer Data Link (Layer 2) menyediakan pengalamatan fisik (MAC Address). (Referensi: Modul 2, Kegiatan Belajar 1, Hal 2.12)",
       "difficulty": "medium"
     },
     {
@@ -1084,7 +1084,7 @@
       "question": "Berdasarkan wilayah operasionalnya SMTP bekerja pada layer",
       "options": ["Transport", "Internet", "Network Interface", "Applications"],
       "correctIndex": 3,
-      "explanation": "SMTP (Simple Mail Transfer Protocol) adalah protokol aplikasi yang bekerja pada Layer Aplikasi.",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) adalah protokol aplikasi yang bekerja pada Layer Aplikasi. (Referensi: Modul 1, Hal 1.6)",
       "difficulty": "easy"
     },
     {
@@ -1097,7 +1097,7 @@
         "Dedicated digital"
       ],
       "correctIndex": 0,
-      "explanation": "ATM menggunakan teknologi Cell-Switching (potongan data tetap).",
+      "explanation": "ATM menggunakan teknologi Cell-Switching (potongan data tetap). (Referensi: Modul 3, Tabel 3.1)",
       "difficulty": "medium"
     },
     {
@@ -1105,8 +1105,8 @@
       "question": "Menggunakan single data frame merupakan karakteristik pada koneksi WAN",
       "options": ["ISDN", "POTS", "Frame relay", "Dial up modem"],
       "correctIndex": 2,
-      "explanation": "Frame Relay menggunakan single data frame untuk efisiensi.",
-      "difficulty": "medium"
+      "explanation": "Frame Relay menggunakan single data frame untuk efisiensi. (Referensi: Modul 3, Hal 3.18)",
+      "difficulty": "hard"
     },
     {
       "id": "q108",
@@ -1118,7 +1118,7 @@
         "11001110 01100111 11100011 11000000"
       ],
       "correctIndex": 2,
-      "explanation": "Konversi desimal ke biner: 202 = 11001010.",
+      "explanation": "Konversi desimal ke biner: 202 = 11001010. Pilihan C adalah yang paling sesuai. (Referensi: Modul 4, Hal 4.5)",
       "difficulty": "hard"
     },
     {
@@ -1126,12 +1126,12 @@
       "question": "Berapa jumlah host yang terbentuk dalam suatu subnet bila subnet mask nya bernilai 255.255.254.0?",
       "options": ["254 host", "256 host", "510 host", "512 host"],
       "correctIndex": 2,
-      "explanation": "Subnet /23 (255.255.254.0) menyisakan 9 bit host. Jumlah host = 2^9 - 2 = 512 - 2 = 510.",
+      "explanation": "Subnet /23 (255.255.254.0) menyisakan 9 bit host. Jumlah host = 2^9 - 2 = 512 - 2 = 510. (Referensi: Modul 4, Hal 4.6)",
       "difficulty": "hard"
     },
     {
       "id": "q110",
-      "question": "Susun tahapan-tahapan penggunaan FTP yang benar!",
+      "question": "Perhatikan proses-proses berikut!<br>i. CD, PW<br>ii. SENDSITE, SITE<br>iii. QUIT<br>iv. FTP, LOGIN, Password<br>v. PUT<br>Susun tahapan-tahapan penggunaan FTP yang benar!",
       "options": [
         "i -> ii -> iii -> iv -> v",
         "iv -> i -> ii -> v -> iii",
@@ -1139,8 +1139,8 @@
         "iv -> ii -> v -> i -> iii"
       ],
       "correctIndex": 1,
-      "explanation": "Urutan logis: Login (iv) -> Navigasi/CD (i) -> Pengaturan/Site (ii) -> Transfer/Put (v) -> Quit (iii).",
-      "difficulty": "medium"
+      "explanation": "Urutan logis: Login (iv) -> Navigasi/CD (i) -> Pengaturan/Site (ii) -> Transfer/Put (v) -> Quit (iii). (Referensi: Modul 7, Protokol Transfer File)",
+      "difficulty": "hard"
     },
     {
       "id": "q111",
@@ -1152,15 +1152,15 @@
         "dedicated digital"
       ],
       "correctIndex": 2,
-      "explanation": "SMDS adalah varian dari teknologi ATM yang menggunakan Cell-Switching.",
-      "difficulty": "hard"
+      "explanation": "SMDS adalah varian dari teknologi ATM yang menggunakan Cell-Switching. (Referensi: Modul 3, Tabel 3.1)",
+      "difficulty": "medium"
     },
     {
       "id": "q112",
       "question": "Protocol Data Unit (PDU) pada layer physic dalam model OSI merupakan",
       "options": ["frame", "packet", "segment", "bit"],
       "correctIndex": 3,
-      "explanation": "Pada Layer Physical, data ditransmisikan dalam bentuk bit stream (Bit).",
+      "explanation": "Pada Layer Physical, data ditransmisikan dalam bentuk bit stream (Bit). (Referensi: Modul 2, Kegiatan Belajar 1, Hal 2.17)",
       "difficulty": "medium"
     },
     {
@@ -1168,12 +1168,12 @@
       "question": "Metode request HTTP yang digunakan untuk mengirim data untuk menambah/merubah data pada server tanpa menampilkan pada url adalah",
       "options": ["HEAD", "PUT", "POST", "GET"],
       "correctIndex": 2,
-      "explanation": "Metode POST mengirim data dalam body request, sehingga tidak tampil di URL.",
+      "explanation": "Metode POST mengirim data dalam body request, sehingga tidak tampil di URL. (Referensi: Modul 8, World Wide Web)",
       "difficulty": "medium"
     },
     {
       "id": "q114",
-      "question": "Urutakan proses alokasi alamat IP dengan menggunakan DHCP (i. Offering, ii. Ack, iii. Request, iv. Selecting)",
+      "question": "Perhatikan pesan-pesan DHCP berikut!<br>i. Offering IP address<br>ii. Acknowledgement IP address<br>iii. Request IP address<br>iv. Selecting IP address<br>Urutakan proses alokasi alamat IP dengan menggunakan DHCP",
       "options": [
         "i -> ii -> iii -> iv",
         "iii -> iv -> i -> ii",
@@ -1181,23 +1181,23 @@
         "iv -> iii -> i -> ii"
       ],
       "correctIndex": 2,
-      "explanation": "Proses DORA: Discover (Selecting - iv) -> Offer (Offering - i) -> Request (Requesting - iii) -> Ack (Acknowledgement - ii).",
-      "difficulty": "medium"
+      "explanation": "Proses DORA: Discover (Selecting - iv) -> Offer (Offering - i) -> Request (Requesting - iii) -> Ack (Acknowledgement - ii). (Referensi: Modul 4, Hal 4.23)",
+      "difficulty": "hard"
     },
     {
       "id": "q115",
       "question": "Perangkat lunak yang berjalan pada perangkat untuk mendukung SNMP dan bertujuan untuk merespon permintaan SNMP dari management station adalah",
       "options": ["sub agent", "master agent", "management station", "MIB"],
       "correctIndex": 1,
-      "explanation": "Master Agent bertugas merespon permintaan dari Management Station.",
-      "difficulty": "hard"
+      "explanation": "Master Agent bertugas merespon permintaan dari Management Station. (Referensi: Modul 9, Manajemen Jaringan)",
+      "difficulty": "medium"
     },
     {
       "id": "q116",
       "question": "Salah satu tipe AS yang terkoneksi dengan 2 atau lebih AS dan meneruskan paket lokal adalah",
       "options": ["NLRI", "Stub", "Transit", "Multihomed"],
       "correctIndex": 3,
-      "explanation": "AS Multihomed terhubung ke beberapa AS untuk redundansi tetapi hanya untuk trafik lokal (tidak transit).",
+      "explanation": "AS Multihomed terhubung ke beberapa AS untuk redundansi tetapi hanya untuk trafik lokal (tidak transit). (Referensi: Modul 5, Hal 5.10)",
       "difficulty": "hard"
     },
     {
@@ -1210,7 +1210,7 @@
         "mengelola pengalamatan fisik dan metode akses ke media jaringan"
       ],
       "correctIndex": 1,
-      "explanation": "Layer Aplikasi berfungsi sebagai antarmuka program untuk berkomunikasi menggunakan layanan jaringan TCP/IP.",
+      "explanation": "Layer Aplikasi berfungsi sebagai antarmuka program untuk berkomunikasi menggunakan layanan jaringan TCP/IP. (Referensi: Modul 1, Hal 1.6)",
       "difficulty": "medium"
     },
     {
@@ -1218,7 +1218,7 @@
       "question": "Berapa jumlah host yang terbentuk dalam suatu subnet bila subnet mask nya bernilai 255.255.240.0?",
       "options": ["1022 host", "2046 host", "4094 host", "4096 host"],
       "correctIndex": 2,
-      "explanation": "Subnet /20 menyisakan 12 bit host. Jumlah host = 2^12 - 2 = 4096 - 2 = 4094.",
+      "explanation": "Subnet /20 menyisakan 12 bit host. Jumlah host = 2^12 - 2 = 4096 - 2 = 4094. (Referensi: Modul 4, Hal 4.6)",
       "difficulty": "hard"
     },
     {
@@ -1231,8 +1231,8 @@
         "wifi"
       ],
       "correctIndex": 2,
-      "explanation": "Media Terarah (Guided) menggunakan kabel fisik (seperti Fiber Optic) untuk mengarahkan sinyal.",
-      "difficulty": "easy"
+      "explanation": "Media Terarah (Guided) menggunakan kabel fisik (seperti Fiber Optic) untuk mengarahkan sinyal. (Referensi: Modul 3, Hal 3.18)",
+      "difficulty": "medium"
     },
     {
       "id": "q120",
@@ -1244,7 +1244,7 @@
         "link distance"
       ],
       "correctIndex": 1,
-      "explanation": "Static Routing adalah metode routing di mana entri rute dimasukkan secara manual oleh administrator.",
+      "explanation": "Static Routing adalah metode routing di mana entri rute dimasukkan secara manual oleh administrator. (Referensi: Modul 5, Kegiatan Belajar 1, Hal 5.6)",
       "difficulty": "easy"
     },
     {
@@ -1257,12 +1257,12 @@
         "URG dan Window"
       ],
       "correctIndex": 0,
-      "explanation": "TCP Handshake melibatkan flag SYN dan ACK.",
+      "explanation": "TCP Handshake melibatkan flag SYN dan ACK. (Referensi: Modul 5, Hal 5.17)",
       "difficulty": "medium"
     },
     {
       "id": "q122",
-      "question": "Tahapan penggunaan FTP yang benar adalah (i. Mode, ii. Navigasi, iii. Quit, iv. Login, v. Download)",
+      "question": "Perhatikan proses-proses berikut!<br>i. Memilih mode transfer<br>ii. Masuk ke direktori yang berisi file<br>iii. Menutup koneksi<br>iv. Login ke server<br>v. Mengunduh file dari server<br>Tahapan penggunaan FTP yang benar adalah",
       "options": [
         "iv -> ii -> v -> i -> iii",
         "iv -> ii -> i -> v -> iii",
@@ -1270,8 +1270,8 @@
         "ii -> iv -> v -> i -> iii"
       ],
       "correctIndex": 0,
-      "explanation": "Urutan logis: Login (iv) -> Navigasi (ii) -> Download/Put/Get (v) -> Mode (i) -> Quit (iii). *Catatan: Mode bisa diatur sebelum transfer*.",
-      "difficulty": "medium"
+      "explanation": "Urutan logis: Login (iv) -> Navigasi (ii) -> Download/Put/Get (v) -> Mode (i, *bisa sebelum atau sesudah navigasi/download tergantung konteks, tapi login harus pertama*) -> Quit (iii). Opsi A dan B mirip, namun biasanya mode transfer diatur sebelum transfer data. Namun jika mengikuti pola soal sebelumnya, Login di awal dan Quit di akhir adalah kunci.",
+      "difficulty": "hard"
     },
     {
       "id": "q123",
@@ -1283,7 +1283,7 @@
         "antenna"
       ],
       "correctIndex": 1,
-      "explanation": "Amplifier berfungsi untuk memperkuat sinyal RF dalam jaringan WLAN.",
+      "explanation": "Amplifier berfungsi untuk memperkuat sinyal RF dalam jaringan WLAN. (Referensi: Modul 3, Hal 3.24, Gambar 3.32)",
       "difficulty": "easy"
     },
     {
@@ -1291,7 +1291,7 @@
       "question": "Protokol ini digunakan oleh pengguna untuk mengambil email di server dan email tersebut disimpan di komputer lokalnya sehingga untuk mengakses email tersebut pengguna tidak perlu selalu terhubung dengan server, protokol tersebut adalah",
       "options": ["SMTP", "IMAP", "POP3", "MIME"],
       "correctIndex": 2,
-      "explanation": "POP3 (Post Office Protocol) mengunduh email ke penyimpanan lokal.",
+      "explanation": "POP3 (Post Office Protocol) mengunduh email ke penyimpanan lokal. (Referensi: Modul 8, Aplikasi Surat)",
       "difficulty": "medium"
     },
     {
@@ -1299,29 +1299,28 @@
       "question": "Pesan DHCP yang digunakan oleh DHCP Server untuk menawarkan IP address kepada DHCP Client adalah",
       "options": ["DHCPREQUEST", "DHCPACK", "DHCPOFFER", "DHCPDISCOVER"],
       "correctIndex": 2,
-      "explanation": "DHCPOFFER adalah pesan penawaran alamat IP dari server.",
+      "explanation": "DHCPOFFER adalah pesan penawaran alamat IP dari server. (Referensi: Modul 4, Hal 4.23)",
       "difficulty": "medium"
     },
     {
       "id": "q126",
-      "question": "Perangkat yang paling sesuai untuk digunakan jika ingin menghubungkan dua jaringan yang berbeda dan mengatur rute data antar jaringan tersebut adalah",
+      "question": "Terdapat beberapa perangkat jaringan yaitu hub, switch, router dan repeater. Perangkat yang paling sesuai untuk digunakan jika ingin menghubungkan dua jaringan yang berbeda dan mengatur rute data antar jaringan tersebut adalah",
       "options": ["hub", "switch", "router", "repeater"],
       "correctIndex": 2,
-      "explanation": "Router berfungsi menghubungkan jaringan yang berbeda (Layer 3) dan melakukan routing (pemilihan jalur).",
-      "difficulty": "easy"
+      "explanation": "Router berfungsi menghubungkan jaringan yang berbeda (Layer 3) dan melakukan routing (pemilihan jalur). (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.12)",
+      "difficulty": "medium"
     },
     {
       "id": "q127",
       "question": "Jenis koneksi WAN yang menggunakan protokol PPP (Point to Point Protocol) adalah",
       "options": ["Frame relay", "Χ.25", "ISDN", "MPLS"],
       "correctIndex": 2,
-      "explanation": "ISDN menggunakan enkapsulasi PPP untuk koneksi WAN.",
-      "difficulty": "hard"
+      "explanation": "ISDN menggunakan enkapsulasi PPP untuk koneksi WAN. (Referensi: Modul 3, Hal 3.17)",
+      "difficulty": "medium"
     },
     {
       "id": "q128",
-      "question": "Perhatikan gambar berikut! Jenis pemasangan kabel UTP yang diperlukan pada jalur C (Router ke Switch) adalah..",
-      "image": "/images/soal/128.PNG",
+      "question": "Perhatikan gambar berikut!<br>Jenis pemasangan kabel UTP yang diperlukan pada jalur C adalah..",
       "options": [
         "straigth through",
         "cross over",
@@ -1329,7 +1328,8 @@
         "straigth over"
       ],
       "correctIndex": 0,
-      "explanation": "Jalur C menghubungkan Router ke Switch. Perangkat yang beroperasi pada layer berbeda dihubungkan menggunakan kabel Straight-Through.",
+      "explanation": "Jalur C menghubungkan Router ke Switch. Perangkat yang beroperasi pada layer berbeda (Router Layer 3 ke Switch Layer 2) dihubungkan menggunakan kabel Straight-Through. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.21)",
+      "image": "/images/soal/128.PNG",
       "difficulty": "medium"
     },
     {
@@ -1337,15 +1337,15 @@
       "question": "Kabel UTP Cat 2 memiliki kemampuan data rate maksimal sebesar",
       "options": ["1 Mbps", "4 Mbps", "10 Mbps", "100 Mbps"],
       "correctIndex": 1,
-      "explanation": "CAT 2 memiliki kecepatan maksimal 4 Mbps, biasanya digunakan untuk Token Ring.",
-      "difficulty": "hard"
+      "explanation": "Berdasarkan standar kategori kabel UTP, CAT 2 memiliki kecepatan maksimal 4 Mbps, biasanya digunakan untuk Token Ring. (Referensi: Modul 3, Kegiatan Belajar 1, Tabel 3.2)",
+      "difficulty": "easy"
     },
     {
       "id": "q130",
       "question": "Record DNS yang berfungsi untuk nama alias dari domain. Record ini dapat dilakukan pointing ke server yang sama seperti pada A record, maupun ke server yang berbeda adalah",
       "options": ["SOA", "NS", "MX", "CNAME"],
       "correctIndex": 3,
-      "explanation": "CNAME (Canonical Name) adalah record DNS yang digunakan untuk membuat alias dari satu nama domain ke nama domain lain.",
+      "explanation": "CNAME (Canonical Name) adalah record DNS yang digunakan untuk membuat alias dari satu nama domain ke nama domain lain. (Referensi: Modul 6, Protokol Penamaan)",
       "difficulty": "medium"
     },
     {
@@ -1353,7 +1353,7 @@
       "question": "Aplikasi yang menggunakan protokol UDP adalah",
       "options": ["SMTP", "HTTP", "Telnet", "SNMP"],
       "correctIndex": 3,
-      "explanation": "SNMP (Simple Network Management Protocol) umumnya menggunakan UDP karena efisiensi dan overhead yang rendah.",
+      "explanation": "SNMP (Simple Network Management Protocol) umumnya menggunakan UDP karena efisiensi dan overhead yang rendah. (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.16)",
       "difficulty": "medium"
     },
     {
@@ -1366,8 +1366,8 @@
         "jarak maksimum untuk tiap segmen 100 meter"
       ],
       "correctIndex": 3,
-      "explanation": "100Base-T4 menggunakan kabel UTP dengan jarak maksimum per segmen 100 meter.",
-      "difficulty": "hard"
+      "explanation": "100Base-T4 menggunakan kabel UTP (4 pasang kabel kategori 3, 4, atau 5) dengan jarak maksimum per segmen 100 meter. (Referensi: Modul 3, Kegiatan Belajar 1, Hal 3.9)",
+      "difficulty": "medium"
     },
     {
       "id": "q133",
@@ -1379,7 +1379,7 @@
         "Data rate: 54 Mbps Frekuensi: 5 GHz Modulasi: 11 QAM"
       ],
       "correctIndex": 2,
-      "explanation": "Standar IEEE 802.11g bekerja pada frekuensi 2.4 GHz dan mendukung kecepatan hingga 54 Mbps.",
+      "explanation": "Standar IEEE 802.11g bekerja pada frekuensi 2.4 GHz dan mendukung kecepatan hingga 54 Mbps menggunakan modulasi OFDM (termasuk 64-QAM). (Referensi: Modul 9, Wireless LAN)",
       "difficulty": "medium"
     },
     {
@@ -1387,7 +1387,7 @@
       "question": "Telnet merupakan protokol yang digunakan untuk melakukan perintah komputer secara jarak jauh. Protokol ini memanfaatkan port ....",
       "options": ["20", "21", "23", "22"],
       "correctIndex": 2,
-      "explanation": "Telnet menggunakan Port 23.",
+      "explanation": "Telnet menggunakan Port 23. (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.14)",
       "difficulty": "easy"
     },
     {
@@ -1395,7 +1395,7 @@
       "question": "Kode status HTTP yang menandakan bahwa permintaan telah berhasil diproses oleh server adalah....",
       "options": ["200", "404", "500", "403"],
       "correctIndex": 0,
-      "explanation": "Kode status 200 berarti 'OK', permintaan berhasil diproses.",
+      "explanation": "Kode status 200 berarti 'OK', permintaan berhasil diproses. (Referensi: Modul 8, World Wide Web)",
       "difficulty": "easy"
     },
     {
@@ -1403,7 +1403,7 @@
       "question": "IP address 172.31.255.200 termasuk ke dalam kelas ....",
       "options": ["A", "B", "C", "D"],
       "correctIndex": 1,
-      "explanation": "Kelas B memiliki rentang oktet pertama 128 - 191. IP 172.x.x.x masuk dalam kelas B.",
+      "explanation": "Kelas B memiliki rentang oktet pertama 128 - 191. IP 172.x.x.x masuk dalam kelas B. (Referensi: Modul 4, Kegiatan Belajar 1, Hal 4.5)",
       "difficulty": "easy"
     },
     {
@@ -1416,16 +1416,16 @@
         "digunakan oleh protokol FTP"
       ],
       "correctIndex": 2,
-      "explanation": "TCP menggunakan 'Three-way handshake' (SYN, SYN-ACK, ACK), bukan two-way.",
+      "explanation": "TCP menggunakan 'Three-way handshake' (SYN, SYN-ACK, ACK), bukan two-way. (Referensi: Modul 5, Kegiatan Belajar 2, Hal 5.17)",
       "difficulty": "medium"
     },
     {
       "id": "q138",
-      "question": "Perhatikan gambar berikut! Gambar tersebut merupakan konektor",
-      "image": "/images/soal/138.PNG",
+      "question": "Perhatikan gambar berikut!<br>Gambar tersebut merupakan konektor",
       "options": ["LC Duplex", "SC Duplex", "FC", "ST"],
       "correctIndex": 1,
-      "explanation": "Gambar menunjukkan konektor SC (Subscriber Connector) Duplex yang berbentuk kotak persegi.",
+      "explanation": "Gambar menunjukkan konektor SC (Subscriber Connector) Duplex yang berbentuk kotak persegi. (Referensi: Modul 3, Tabel 3.3)",
+      "image": "/images/soal/138.PNG",
       "difficulty": "medium"
     },
     {
@@ -1438,7 +1438,7 @@
         "router advertisement (9) dan router solicitation (10)"
       ],
       "correctIndex": 2,
-      "explanation": "Pesan Information Request (15) dan Reply (16) dulunya digunakan untuk mendapatkan alamat IP.",
+      "explanation": "Pesan Information Request (15) dan Reply (16) dulunya digunakan untuk mendapatkan alamat IP (meski sekarang sudah jarang dan digantikan RARP/BOOTP/DHCP). (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.20)",
       "difficulty": "hard"
     },
     {
@@ -1446,7 +1446,7 @@
       "question": "Lapisan pada model referensi OSI yang bertugas untuk memastikan reliabilitas data Adalah..",
       "options": ["session", "data link", "transport", "presentation"],
       "correctIndex": 2,
-      "explanation": "Layer Transport bertanggung jawab atas reliabilitas data (error recovery, flow control) secara end-to-end.",
+      "explanation": "Layer Transport bertanggung jawab atas reliabilitas data (error recovery, flow control) secara end-to-end. (Referensi: Modul 2, Kegiatan Belajar 1, Hal 2.6)",
       "difficulty": "medium"
     },
     {
@@ -1454,7 +1454,7 @@
       "question": "Pada Model Referensi OSI, berdasarkan wilayah operasional, SMTP (Simple Mail Transfer Protocol) bekerja pada layer",
       "options": ["application", "session", "presentation", "network"],
       "correctIndex": 0,
-      "explanation": "SMTP adalah protokol aplikasi yang bekerja pada Layer Application dalam model OSI.",
+      "explanation": "SMTP adalah protokol aplikasi yang bekerja pada Layer Application dalam model OSI. (Referensi: Modul 2, Kegiatan Belajar 1, Hal 2.5)",
       "difficulty": "easy"
     },
     {
@@ -1462,7 +1462,7 @@
       "question": "Berdasarkan wilayah operasionalnya SMTP bekerja pada layer ...",
       "options": ["applications", "transport", "internet", "network interface"],
       "correctIndex": 0,
-      "explanation": "Sama seperti soal sebelumnya, SMTP bekerja pada Layer Applications dalam arsitektur TCP/IP.",
+      "explanation": "Sama seperti soal sebelumnya, SMTP bekerja pada Layer Applications dalam arsitektur TCP/IP. (Referensi: Modul 1, Hal 1.6)",
       "difficulty": "easy"
     },
     {
@@ -1475,7 +1475,7 @@
         "10101101 00010110 00001110 11001110"
       ],
       "correctIndex": 0,
-      "explanation": "Konversi: 172 = 10101100, 22 = 00010110, 14 = 00001110, 206 = 11001110.",
+      "explanation": "Konversi: 172 = 10101100, 22 = 00010110, 14 = 00001110, 206 = 11001110. Opsi A sesuai. (Referensi: Modul 4, Hal 4.5)",
       "difficulty": "hard"
     },
     {
@@ -1488,12 +1488,12 @@
         "Network ID: 172.16.0.0, Host ID: 0.0.0.67"
       ],
       "correctIndex": 1,
-      "explanation": "Subnet mask 255.255.0.0 berarti 2 oktet pertama adalah Network ID (172.16.0.0) dan 2 oktet terakhir adalah Host ID (0.0.45.67).",
+      "explanation": "Subnet mask 255.255.0.0 berarti 2 oktet pertama adalah Network ID (172.16.0.0) dan 2 oktet terakhir adalah Host ID (0.0.45.67). (Referensi: Modul 4, Hal 4.6)",
       "difficulty": "medium"
     },
     {
       "id": "q145",
-      "question": "Urutan proses untuk mengirim dan menerima data menggunakan UDP dalam socket API adalah....",
+      "question": "Perhatikan proses-proses berikut:<br>i. socket()<br>ii. bind()<br>iii. sendto()<br>iv. recvfrom()<br>v. close()<br>Urutan proses untuk mengirim dan menerima data menggunakan UDP dalam socket API adalah....",
       "options": [
         "ii -> i -> iv -> iii -> v",
         "i -> ii -> iii -> iv -> v",
@@ -1501,7 +1501,7 @@
         "ii -> iii -> i -> iv -> v"
       ],
       "correctIndex": 1,
-      "explanation": "Urutan umum socket UDP (misal di server): Socket(i) -> Bind(ii) -> Recvfrom/Sendto(iii/iv) -> Close(v).",
+      "explanation": "Urutan umum socket UDP (misal di server): Socket() -> Bind() -> Recvfrom() -> Sendto() -> Close(). Atau di client: Socket() -> Sendto() -> Recvfrom() -> Close(). Opsi B (Socket -> Bind -> Sendto -> Recvfrom -> Close) adalah urutan yang paling logis untuk sebuah entitas yang melakukan inisialisasi dan komunikasi penuh. (Referensi: Modul 5, Hal 5.14)",
       "difficulty": "hard"
     },
     {
@@ -1514,7 +1514,7 @@
         "dedicated digital"
       ],
       "correctIndex": 0,
-      "explanation": "ATM menggunakan teknologi Cell-Switching.",
+      "explanation": "ATM menggunakan teknologi Cell-Switching. (Referensi: Modul 3, Tabel 3.1)",
       "difficulty": "medium"
     },
     {
@@ -1522,37 +1522,37 @@
       "question": "Packet merupakan bentuk PDU dalam proses enkapsulasi pada layer ...",
       "options": ["data link", "network", "physical", "transport"],
       "correctIndex": 1,
-      "explanation": "PDU pada Layer Network disebut Packet.",
-      "difficulty": "easy"
+      "explanation": "PDU pada Layer Network disebut Packet. (Referensi: Modul 2, Hal 2.17)",
+      "difficulty": "medium"
     },
     {
       "id": "q148",
       "question": "Metode request HTTP yang digunakan untuk meminta respon yang mirip dengan GET hanya saja tanpa dilanjutkan dengan badan pesan adalah",
       "options": ["HEAD", "PUT", "POST", "GET"],
       "correctIndex": 0,
-      "explanation": "Metode HEAD meminta header respons yang sama seperti GET, tetapi tanpa body respons.",
+      "explanation": "Metode HEAD meminta header respons yang sama seperti GET, tetapi tanpa body respons. (Referensi: Modul 8, World Wide Web)",
       "difficulty": "medium"
     },
     {
       "id": "q149",
-      "question": "Urutan proses alokasi alamat IP dengan menggunakan DHCP adalah ....",
+      "question": "Perhatikan pesan-pesan DHCP berikut!<br>i. DHCP request<br>ii. DHCP acknowledgment<br>iii. DHCP discover<br>iv. DHCP offer<br>Urutan proses alokasi alamat IP dengan menggunakan DHCP adalah ....",
       "options": [
-        "iii (discover) -> iv (offer) -> i (request) -> ii (ack)",
+        "iii -> iv -> i -> ii",
         "iii -> i -> iv -> ii",
         "i -> iii -> iv -> ii",
         "iv -> iii -> i -> ii"
       ],
       "correctIndex": 0,
-      "explanation": "Urutan DORA: Discover -> Offer -> Request -> Ack.",
-      "difficulty": "medium"
+      "explanation": "Urutan DORA: Discover (iii) -> Offer (iv) -> Request (i) -> Ack (ii). (Referensi: Modul 4, Hal 4.23)",
+      "difficulty": "hard"
     },
     {
       "id": "q150",
       "question": "Perangkat lunak yang berjalan pada perangkat dan mendukung SNMP serta mengimplementasikan management information base adalah",
       "options": ["master agent", "sub agent", "management station", "MIB"],
       "correctIndex": 0,
-      "explanation": "Master Agent berjalan pada perangkat yang dikelola untuk merespon SNMP.",
-      "difficulty": "hard"
+      "explanation": "Master Agent berjalan pada perangkat yang dikelola untuk merespon SNMP. (Referensi: Modul 9, Manajemen Jaringan)",
+      "difficulty": "medium"
     },
     {
       "id": "q151",
@@ -1564,7 +1564,7 @@
         "meneruskan paket"
       ],
       "correctIndex": 2,
-      "explanation": "NLRI digunakan dalam BGP untuk mengiklankan (advertise) rute yang dapat dijangkau.",
+      "explanation": "NLRI digunakan dalam BGP untuk mengiklankan (advertise) rute yang dapat dijangkau. (Referensi: Modul 5, Hal 5.10)",
       "difficulty": "hard"
     },
     {
@@ -1577,15 +1577,15 @@
         "network interface"
       ],
       "correctIndex": 0,
-      "explanation": "Layer Internetwork menyediakan pengalamatan logis (IP).",
-      "difficulty": "easy"
+      "explanation": "Layer Internetwork menyediakan pengalamatan logis (IP). (Referensi: Modul 1, Hal 1.6)",
+      "difficulty": "medium"
     },
     {
       "id": "q153",
       "question": "Berapa jumlah host yang terbentuk dalam suatu subnet bila subnet mask nya bernilai 255.255.254.0?",
       "options": ["254 host", "256 host", "510 host", "512 host"],
       "correctIndex": 2,
-      "explanation": "Subnet /23 menyisakan 9 bit host. Jumlah host = 2^9 - 2 = 510.",
+      "explanation": "Subnet /23 menyisakan 9 bit host. Jumlah host = 2^9 - 2 = 510. (Referensi: Modul 4, Hal 4.6)",
       "difficulty": "hard"
     },
     {
@@ -1598,7 +1598,7 @@
         "Unshielded Twisted Pair"
       ],
       "correctIndex": 1,
-      "explanation": "Fiber Optic menggunakan berkas cahaya untuk transmisi data.",
+      "explanation": "Fiber Optic menggunakan berkas cahaya untuk transmisi data. (Referensi: Modul 3, Hal 3.21)",
       "difficulty": "easy"
     },
     {
@@ -1611,7 +1611,7 @@
         "distance vector routing"
       ],
       "correctIndex": 2,
-      "explanation": "Dynamic Routing memungkinkan router memperbarui tabel routing secara otomatis berdasarkan pertukaran informasi dengan router lain.",
+      "explanation": "Dynamic Routing memungkinkan router memperbarui tabel routing secara otomatis berdasarkan pertukaran informasi dengan router lain. (Referensi: Modul 5, Hal 5.6)",
       "difficulty": "medium"
     },
     {
@@ -1619,44 +1619,44 @@
       "question": "Parameter TCP yang digunakan untuk menunjuk pada titik yang darurat pada suatu segmen adalah ....",
       "options": ["Checksum", "Urgent Pointer", "URG", "Window"],
       "correctIndex": 1,
-      "explanation": "Urgent Pointer menunjuk ke data yang harus diproses segera (darurat).",
-      "difficulty": "hard"
+      "explanation": "Urgent Pointer menunjuk ke data yang harus diproses segera (darurat). Flag URG mengaktifkannya. (Referensi: Modul 5, Hal 5.18)",
+      "difficulty": "medium"
     },
     {
       "id": "q157",
-      "question": "Susun tahapan-tahapan penggunaan FTP yang benar!",
+      "question": "Perhatikan proses-proses berikut!<br>i. Open direktori<br>ii. Menentukan mode transfer<br>iii. Mengakhiri koneksi FTP<br>iv. Login ke remote host<br>v. Menentukan file yang akan ditransfer<br>Susun tahapan-tahapan penggunaan FTP yang benar!",
       "options": [
-        "i (open) -> ii (mode) -> iii (quit) -> iv (login) -> v (file)",
-        "iv (login) -> i (open) -> ii (mode) -> v (file) -> iii (quit)",
+        "i -> ii -> iii -> iv -> v",
+        "iv -> i -> ii -> v -> iii",
         "v -> iv -> iii -> ii -> i",
         "iv -> ii -> v -> iii"
       ],
       "correctIndex": 1,
-      "explanation": "Urutan: Login -> Open Dir -> Mode -> File -> Quit.",
-      "difficulty": "medium"
+      "explanation": "Urutan: Login -> Open Dir -> Mode -> File -> Quit. (Referensi: Modul 7, Protokol Transfer File)",
+      "difficulty": "hard"
     },
     {
       "id": "q158",
       "question": "Perangkat WLAN yang digunakan untuk memberikan catu daya yang dialirkan melalui kabel Ethernet (CAT5) adalah",
       "options": ["power over ethernet", "amplifier", "antena", "POE"],
       "correctIndex": 3,
-      "explanation": "PoE (Power over Ethernet) mengalirkan listrik melalui kabel Ethernet.",
-      "difficulty": "easy"
+      "explanation": "PoE (Power over Ethernet) mengalirkan listrik melalui kabel Ethernet. (Referensi: Modul 3, Gambar 3.32)",
+      "difficulty": "medium"
     },
     {
       "id": "q159",
       "question": "Suatu standar internet yang menyambung format email supaya mendukung fotmat text dengan format selain US-ASCII, non-text attachment, multi-part pada badan pesan dan informasi pada header, protokol tersebut adalah",
       "options": ["SMTP", "IMAP", "POP3", "MIME"],
       "correctIndex": 3,
-      "explanation": "MIME (Multipurpose Internet Mail Extensions) memperluas format email untuk mendukung teks non-ASCII, lampiran, dll.",
-      "difficulty": "hard"
+      "explanation": "MIME (Multipurpose Internet Mail Extensions) memperluas format email untuk mendukung teks non-ASCII, lampiran, dll. (Referensi: Modul 8, Aplikasi Surat)",
+      "difficulty": "medium"
     },
     {
       "id": "q160",
       "question": "Pesan DHCP yang digunakan oleh DHCP Client untuk mencari DHCP Server pada suatu jaringan adalah",
       "options": ["DHCPREQUEST", "DHCPACK", "DHCPDISCOVER", "DHCPOFFER"],
       "correctIndex": 2,
-      "explanation": "DHCPDISCOVER adalah pesan broadcast yang dikirim oleh client untuk menemukan server DHCP yang tersedia di jaringan.",
+      "explanation": "DHCPDISCOVER adalah pesan broadcast yang dikirim oleh client untuk menemukan server DHCP yang tersedia di jaringan. (Referensi: Modul 4, Kegiatan Belajar 2, Hal 4.23)",
       "difficulty": "medium"
     },
     {
@@ -1664,21 +1664,20 @@
       "question": "Anda menghubungkan dua jaringan yang berjarak 10 KM di wilayah perkotaan, bentuk jaringan apa yang Anda akan terapkan?",
       "options": ["LAN", "VLAN", "WAN", "MAN"],
       "correctIndex": 3,
-      "explanation": "MAN (Metropolitan Area Network) mencakup area perkotaan dengan jarak sekitar 10 km hingga 100 km.",
-      "difficulty": "easy"
+      "explanation": "MAN (Metropolitan Area Network) mencakup area perkotaan dengan jarak sekitar 10 km hingga 100 km. (Referensi: Modul 3, Gambar 3.1)",
+      "difficulty": "medium"
     },
     {
       "id": "q162",
       "question": "Menggunakan single data frame merupakan karakteristik pada koneksi WAN",
       "options": ["ISDN", "POTS", "Frame relay", "Dial up modem"],
       "correctIndex": 2,
-      "explanation": "Frame Relay memiliki karakteristik menggunakan single data frame dan melakukan multiplexing di layer 2.",
-      "difficulty": "medium"
+      "explanation": "Frame Relay memiliki karakteristik menggunakan single data frame dan melakukan multiplexing di layer 2. (Referensi: Modul 3, Hal 3.18)",
+      "difficulty": "hard"
     },
     {
       "id": "q163",
-      "question": "Perhatikan gambar berikut! Jenis pemasangan kabel UTP yang diperlukan pada jalur D (Switch ke Switch) adalah",
-      "image": "/images/soal/163.PNG",
+      "question": "Perhatikan gambar berikut!<br>Jenis pemasangan kabel UTP yang diperlukan pada jalur D adalah",
       "options": [
         "Straigth Through",
         "Cross over",
@@ -1686,7 +1685,8 @@
         "Straigth over"
       ],
       "correctIndex": 1,
-      "explanation": "Jalur D menghubungkan perangkat yang setara/sejenis (Switch ke Switch), sehingga memerlukan kabel Cross-over.",
+      "explanation": "Jalur D biasanya menghubungkan perangkat yang setara/sejenis (Switch ke Switch). Untuk koneksi antar perangkat sejenis digunakan kabel Cross-over. (Referensi: Modul 3, Hal 3.21)",
+      "image": "/images/soal/163.PNG",
       "difficulty": "medium"
     },
     {
@@ -1694,16 +1694,16 @@
       "question": "Kabel UTP Cat 6 memiliki kemampuan data rate maksimal sebesar",
       "options": ["400 MHz", "500 MHz", "1.2GHz Mbps", "10000 Mbps"],
       "correctIndex": 3,
-      "explanation": "Kabel CAT 6 mendukung kecepatan hingga 10 Gbps (10000 Mbps).",
-      "difficulty": "medium"
+      "explanation": "Kabel CAT 6 mendukung kecepatan hingga 10 Gbps (10000 Mbps) pada jarak tertentu, atau 1000 Mbps pada jarak standar. (Note: Opsi jawaban dalam soal ini mencampurkan satuan MHz dan Mbps, namun 10000 Mbps adalah data rate teoretis untuk standar terkait CAT 6/6a). (Referensi: Modul 3, Tabel 3.2)",
+      "difficulty": "hard"
     },
     {
       "id": "q165",
       "question": "Record ini digunakan untuk kebutuhan mail server. Apabila server yang dipakai memiliki mail service, maka pengguna harus memasukkan MX record ini pada DNS management domain?",
       "options": ["SOA", "NS", "PTR", "MX"],
       "correctIndex": 3,
-      "explanation": "MX (Mail Exchange) record adalah record DNS yang menentukan server mana yang menangani email untuk domain tersebut.",
-      "difficulty": "easy"
+      "explanation": "MX (Mail Exchange) record adalah record DNS yang menentukan server mana yang menangani email untuk domain tersebut. (Referensi: Modul 6, Protokol Penamaan)",
+      "difficulty": "medium"
     },
     {
       "id": "q166",
@@ -1715,7 +1715,7 @@
         "LDAP, TFTP, DNS"
       ],
       "correctIndex": 2,
-      "explanation": "FTP, SMTP, dan HTTP adalah contoh aplikasi yang menggunakan TCP karena membutuhkan keandalan data (reliable).",
+      "explanation": "FTP, SMTP, dan HTTP adalah contoh aplikasi yang menggunakan TCP karena membutuhkan keandalan data (reliable). DNS menggunakan UDP (untuk query) dan TCP (zone transfer), TFTP dan SNMP menggunakan UDP. (Referensi: Modul 5, Hal 5.19)",
       "difficulty": "medium"
     },
     {
@@ -1728,7 +1728,7 @@
         "menggunakan kabel fiber optic"
       ],
       "correctIndex": 1,
-      "explanation": "10Base2 (Thin Ethernet) menggunakan kabel coaxial tipis dan memiliki batas panjang segmen sekitar 185 meter.",
+      "explanation": "10Base2 (Thin Ethernet) menggunakan kabel coaxial tipis dan memiliki batas panjang segmen sekitar 185 meter. (Referensi: Modul 3, Hal 3.8)",
       "difficulty": "medium"
     },
     {
@@ -1741,15 +1741,15 @@
         "Data rate: 54 Mbps Frekuensi: 5 GHz Modulasi: 11 QAM"
       ],
       "correctIndex": 2,
-      "explanation": "Standar 802.11a beroperasi pada frekuensi 5 GHz dengan kecepatan maksimum 54 Mbps.",
+      "explanation": "Standar 802.11a beroperasi pada frekuensi 5 GHz dengan kecepatan maksimum 54 Mbps. (Referensi: Modul 9, Wireless LAN)",
       "difficulty": "medium"
     },
     {
       "id": "q169",
-      "question": "REXECD merupakan server yang memperbolehkan menjalankan suatu perintah yang dikirimkan oleh suatu host melalui jaringan TCP/IP. Protocol ini memanfaatkan port",
+      "question": "REXECD merupakan server yang memperbolehkan menjalankan suatu perintah yang dikirimkan oleh suatu host melalui jaringan TCP/IP, client dapat menggunakan aplikasi REXEC untuk mentransfer suatu kegiatan. Protocol ini memanfaatkan port",
       "options": ["20", "22", "512", "514"],
       "correctIndex": 2,
-      "explanation": "REXEC (Remote Execution) menggunakan port 512.",
+      "explanation": "REXEC (Remote Execution) menggunakan port 512. (Referensi: Modul 7, Eksekusi Jarak Jauh)",
       "difficulty": "hard"
     },
     {
@@ -1757,7 +1757,7 @@
       "question": "Bila terdapat penolakan untuk mengotorisasi permintaan, bahkan dengan kredensial login yang valid maka web server akan merespon dengan menampilkan kode status HTTP",
       "options": ["403", "402", "401", "400"],
       "correctIndex": 0,
-      "explanation": "Kode status 403 (Forbidden) berarti server mengerti permintaan tapi menolak otorisasi.",
+      "explanation": "Kode status 403 (Forbidden) berarti server mengerti permintaan tapi menolak otorisasi, berbeda dengan 401 (Unauthorized) yang meminta autentikasi. (Referensi: Modul 8, World Wide Web)",
       "difficulty": "medium"
     },
     {
@@ -1765,8 +1765,8 @@
       "question": "IP address 238.172.17.19 termasuk ke dalam kelas..",
       "options": ["A", "B", "C", "D"],
       "correctIndex": 3,
-      "explanation": "Kelas D (Multicast) memiliki rentang 224.0.0.0 hingga 239.255.255.255.",
-      "difficulty": "medium"
+      "explanation": "Kelas D (Multicast) memiliki rentang 224.0.0.0 hingga 239.255.255.255. (Referensi: Modul 4, Hal 4.5)",
+      "difficulty": "easy"
     },
     {
       "id": "q172",
@@ -1778,16 +1778,16 @@
         "sequence number merupakan nomor awal data pada segmen"
       ],
       "correctIndex": 1,
-      "explanation": "Header UDP sangat sederhana, terdiri dari Source Port, Destination Port, Length, dan Checksum.",
+      "explanation": "Header UDP sangat sederhana, terdiri dari Source Port, Destination Port, Length, dan Checksum. Field seperti Sequence Number dan Data Offset adalah milik TCP, bukan UDP. (Referensi: Modul 5, Hal 5.16, Gambar 5.6)",
       "difficulty": "hard"
     },
     {
       "id": "q173",
-      "question": "Perhatikan gambar berikut! Gambar tersebut merupakan konektor",
-      "image": "/images/soal/173.PNG",
+      "question": "Perhatikan gambar berikut!<br>Gambar tersebut merupakan konektor",
       "options": ["SC Duplex", "FC", "ST", "LC Duplex"],
       "correctIndex": 3,
-      "explanation": "Gambar menunjukkan konektor LC (Lucent Connector) Duplex yang berbentuk kotak kecil dengan klip pengunci.",
+      "explanation": "Gambar menunjukkan konektor LC (Lucent Connector) Duplex yang berbentuk kotak kecil dengan klip pengunci. (Referensi: Modul 3, Tabel 3.3)",
+      "image": "/images/soal/173.PNG",
       "difficulty": "medium"
     },
     {
@@ -1800,23 +1800,23 @@
         "router advertisement (9) dan router solicitation (10)"
       ],
       "correctIndex": 1,
-      "explanation": "Pesan ICMP tipe 17 dan 18 digunakan untuk meminta informasi subnet mask.",
-      "difficulty": "hard"
+      "explanation": "Pesan ICMP tipe 17 dan 18 digunakan untuk meminta informasi subnet mask. (Referensi: Modul 4, Hal 4.20)",
+      "difficulty": "medium"
     },
     {
       "id": "q175",
       "question": "Lapisan pada model referensi OSI yang menyediakan sistem pengalamatan yang bersifat fisik adalah ....",
       "options": ["session", "transport", "data link", "network"],
       "correctIndex": 2,
-      "explanation": "Layer Data Link (Layer 2) menyediakan pengalamatan fisik (MAC Address).",
-      "difficulty": "easy"
+      "explanation": "Layer Data Link (Layer 2) menyediakan pengalamatan fisik (MAC Address). (Referensi: Modul 2, Hal 2.12)",
+      "difficulty": "medium"
     },
     {
       "id": "q176",
       "question": "Pada model referensi OSI, wilayah operasional Ethernet bekerja pada layer",
       "options": ["applications", "physical", "network", "data link"],
       "correctIndex": 3,
-      "explanation": "Ethernet adalah teknologi LAN yang beroperasi pada Layer Data Link (dan Physical).",
+      "explanation": "Ethernet adalah teknologi LAN yang beroperasi pada Layer Data Link (dan Physical). (Referensi: Modul 3, Hal 3.6)",
       "difficulty": "medium"
     },
     {
@@ -1824,7 +1824,7 @@
       "question": "Diberikan beberapa protocol berikut: HTTP, TCP, IP, dan Ethernet. Protocol yang beroperasi pada layer Transport dalam arsitektur TCP/IP stack adalah ....",
       "options": ["HTTP", "TCP", "IP", "Ethernet"],
       "correctIndex": 1,
-      "explanation": "TCP (Transmission Control Protocol) adalah protokol utama pada Layer Transport.",
+      "explanation": "TCP (Transmission Control Protocol) adalah protokol utama pada Layer Transport. (Referensi: Modul 1, Hal 1.6)",
       "difficulty": "easy"
     },
     {
@@ -1837,7 +1837,7 @@
         "11001011 01110110 01001011 01100010"
       ],
       "correctIndex": 1,
-      "explanation": "Konversi: 203=11001011, 118=01110110, 75=01001011, 99=01100011.",
+      "explanation": "Konversi: 203=11001011, 118=01110110, 75=01001011, 99=01100011. Opsi B sesuai. (Referensi: Modul 4, Hal 4.5)",
       "difficulty": "hard"
     },
     {
@@ -1845,12 +1845,12 @@
       "question": "Suatu PC terpasang alamat IP 172.168.10.5, berdasarkan subnet mask default dari kelas IP tersebut tentukan alamat network dari PC tersebut!",
       "options": ["172.0.0.0", "172.168.0.0", "172.168.10.0", "172.168.10.5"],
       "correctIndex": 1,
-      "explanation": "IP 172.168.10.5 adalah Kelas B. Default mask /16. Maka Network ID adalah 172.168.0.0.",
+      "explanation": "IP 172.168.10.5 adalah Kelas B. Default mask /16 (255.255.0.0). Maka Network ID adalah 172.168.0.0. (Referensi: Modul 4, Hal 4.5)",
       "difficulty": "medium"
     },
     {
       "id": "q180",
-      "question": "Urutan proses untuk melakukan pembentukan koneksi pada program berbasis connection less (UDP) adalah",
+      "question": "Perhatikan proses-proses berikut:<br>i. Client melakukan persiapan koneksi - Socket()<br>ii. Client membuat koneksi ke server - sendto()<br>iii. Server menggunakan IP dan port pada sistem - Bind()<br>iv. Server menerima client<br>v. Server melakukan persiapan koneksi - socket()<br>Urutan proses untuk melakukan pembentukan koneksi pada program berbasis connection less adalah",
       "options": [
         "iv -> ii -> iii -> i -> v",
         "ii -> i -> iv -> iii -> v",
@@ -1858,7 +1858,7 @@
         "v -> iii -> i -> ii -> iv"
       ],
       "correctIndex": 3,
-      "explanation": "Urutan UDP: Server Socket (v) -> Bind (iii). Client Socket (i) -> Sendto (ii) -> Server Receive (iv).",
+      "explanation": "Urutan UDP (connectionless): Server Socket (v) -> Bind (iii). Client Socket (i) -> Sendto (ii) -> Server Receive (iv). (Referensi: Modul 5, Hal 5.14)",
       "difficulty": "hard"
     }
   ]
