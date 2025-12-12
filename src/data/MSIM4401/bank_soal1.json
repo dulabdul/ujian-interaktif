@@ -325,7 +325,7 @@
         "Menangani error"
       ],
       "correctIndex": 1,
-      "explanation": "`v-for` digunakan untuk melakukan perulangan (looping) guna mengakses dan menampilkan data dari array.",
+      "explanation": "`v-for` digunakan untuk melakukan perulangan (looping) guna mengakses dan menampilkan data dari array 2.",
       "difficulty": "easy"
     },
     {
@@ -351,7 +351,7 @@
         "Komponen akan dihancurkan"
       ],
       "correctIndex": 2,
-      "explanation": "`mounted()` adalah lifecycle hook yang dipanggil setelah instan aplikasi atau komponen selesai dipasang ke elemen DOM.",
+      "explanation": "`mounted()` adalah lifecycle hook yang dipanggil setelah instan aplikasi atau komponen selesai dipasang ke elemen DOM 2.",
       "difficulty": "medium"
     },
     {
@@ -536,7 +536,7 @@
         "Cara penulisan komentar"
       ],
       "correctIndex": 1,
-      "explanation": "Hoisting adalah kemampuan kompilator untuk memindahkan semua definisi (deklarasi) ke bagian atas sebelum program dijalanka.",
+      "explanation": "Hoisting adalah kemampuan kompilator untuk memindahkan semua definisi (deklarasi) ke bagian atas sebelum program dijalankan2.",
       "difficulty": "hard"
     },
     {
@@ -638,7 +638,7 @@
         "Menampilkan teks biasa"
       ],
       "correctIndex": 0,
-      "explanation": "`v-bind` digunakan untuk mengikat nilai data dengan atribut elemen (seperti src, href, class, style) pada template 3.",
+      "explanation": "`v-bind` digunakan untuk mengikat nilai data dengan atribut elemen (seperti src, href, class, style) pada template .",
       "difficulty": "medium"
     },
     {

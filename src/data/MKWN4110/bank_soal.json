@@ -1,0 +1,1866 @@
+{
+  "id": "bank_soal_full",
+  "title": "Bank Soal Lengkap MSIM4401",
+  "questions": [
+    {
+      "id": "m1_q1",
+      "question": "Landasan pendidikan Pancasila yang berkaitan dengan nilai-nilai yang tumbuh dan berkembang dalam kehidupan bangsa Indonesia sejak masa lampau disebut landasan...",
+      "options": [
+        "Landasan Yuridis",
+        "Landasan Filosofis",
+        "Landasan Kultural",
+        "Landasan Formal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Landasan kultural mendasarkan pendidikan Pancasila pada nilai-nilai kebudayaan dan pandangan hidup yang lahir dari bangsa Indonesia sendiri.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q2",
+      "question": "Berdasarkan tingkatan pengetahuan ilmiah menurut Kaelan, pengetahuan yang menjawab pertanyaan 'mengapa' dan berkaitan dengan sebab-akibat (kausalitas) disebut pengetahuan...",
+      "options": ["Deskriptif", "Kausal", "Normatif", "Esensial"],
+      "correctIndex": 1,
+      "explanation": "Pengetahuan kausal memberikan jawaban terhadap pertanyaan ilmiah 'mengapa', sehingga sifat jawabannya adalah tentang sebab akibat (kausa materialis, formalis, efisien, finalis).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q3",
+      "question": "Undang-Undang yang menegaskan bahwa kurikulum pendidikan tinggi wajib memuat mata kuliah Pendidikan Pancasila adalah...",
+      "options": [
+        "UU No. 20 Tahun 2003",
+        "UU No. 12 Tahun 2012",
+        "UU No. 2 Tahun 1989",
+        "UU No. 14 Tahun 2005"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pasal 35 ayat (5) UU No. 12 Tahun 2012 menentukan bahwa kurikulum pendidikan tinggi wajib memuat mata kuliah Pendidikan Agama, Pancasila, Kewarganegaraan, dan Bahasa Indonesia.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q4",
+      "question": "Dalam konteks Pancasila sebagai pengetahuan ilmiah, syarat 'berobjek' terbagi menjadi dua, yaitu...",
+      "options": [
+        "Objek material dan objek formal",
+        "Objek internal dan objek eksternal",
+        "Objek primer dan objek sekunder",
+        "Objek alamiah dan objek ilmiah"
+      ],
+      "correctIndex": 0,
+      "explanation": "Syarat berobjek dalam pengetahuan ilmiah mencakup objek material (sasaran yang dikaji) dan objek formal (titik pusat perhatian/sudut pandang).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q5",
+      "question": "Tingkatan pengetahuan yang berkaitan dengan ukuran, parameter, dan norma-norma, serta membedakan antara 'das sein' (yang senyatanya) dan 'das sollen' (yang seharusnya), adalah pengetahuan...",
+      "options": ["Deskriptif", "Kausal", "Normatif", "Esensial"],
+      "correctIndex": 2,
+      "explanation": "Pengetahuan normatif menjawab pertanyaan 'ke mana' atau 'bagaimana seharusnya', berkaitan dengan norma dan ukuran.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q6",
+      "question": "Pancasila memiliki susunan kesatuan yang logis, hubungan antar sila yang organis, dan berbentuk hierarkis piramidal. Hal ini menunjukkan bahwa Pancasila memenuhi syarat ilmiah yaitu...",
+      "options": ["Berobjek", "Bermetode", "Bersistem", "Bersifat Universal"],
+      "correctIndex": 2,
+      "explanation": "Bersistem bermakna memiliki kebulatan dan keutuhan di mana bagian-bagiannya saling berhubungan dan tidak berkontradiksi, seperti susunan hierarkis Pancasila.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q7",
+      "question": "Objek material dari Pancasila sebagai pengetahuan ilmiah adalah...",
+      "options": [
+        "Rumusan sila-sila Pancasila dalam pembukaan UUD 1945",
+        "Tata cara hidup manusia Indonesia yang sudah membudaya",
+        "Metode analitiko sintetik",
+        "Sistem ketatanegaraan Indonesia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Objek material Pancasila adalah tata cara hidup manusia Indonesia yang sudah menjadi kebiasaan atau membudaya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q8",
+      "question": "Salah satu ciri berpikir filsafati adalah 'koheren'. Apa yang dimaksud dengan koheren?",
+      "options": [
+        "Berpikir secara menyeluruh",
+        "Berpikir mendalam sampai ke akar-akarnya",
+        "Runtut dan tidak mengandung uraian yang bertentangan",
+        "Bebas dan bertanggung jawab"
+      ],
+      "correctIndex": 2,
+      "explanation": "Koheren berarti pemikiran filsafat memiliki unsur keruntutan dan tidak boleh mengandung uraian yang bertentangan satu sama lain.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q9",
+      "question": "Landasan konseptual pendidikan Pancasila merujuk pada konsep filsafat Pancasila yang dirumuskan oleh...",
+      "options": ["Soekarno", "Moh. Yamin", "Notonegoro", "Soepomo"],
+      "correctIndex": 2,
+      "explanation": "Landasan konseptual banyak merujuk pada pemikiran Notonegoro yang meneliti sejarah perkembangan dan notulen sidang BPUPKI/PPKI secara ilmiah populer.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q10",
+      "question": "Visi pembelajaran Pancasila di perguruan tinggi adalah...",
+      "options": [
+        "Menjadikan mahasiswa sebagai ahli hukum tata negara",
+        "Terwujudnya kepribadian sivitas akademika yang bersumber pada nilai-nilai Pancasila",
+        "Menghafal seluruh butir-butir Pancasila",
+        "Membentuk mahasiswa yang apatis terhadap politik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Visi pembelajaran Pancasila adalah terwujudnya kepribadian sivitas akademika yang bersumber pada nilai-nilai Pancasila.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q11",
+      "question": "Pendekatan dalam mempelajari Pancasila yang menjelaskan proses pertumbuhan dan pelembagaan nilai-nilai Pancasila dalam kehidupan disebut pendekatan...",
+      "options": [
+        "Yuridis Konstitusional",
+        "Filosofis",
+        "Sejarah (Historis)",
+        "Sosiologis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pendekatan sejarah menjelaskan proses pertumbuhan dan pelembagaan nilai-nilai Pancasila serta menjembatani jarak waktu.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q12",
+      "question": "Mengapa pendekatan yuridis konstitusional penting dalam studi Pancasila?",
+      "options": [
+        "Karena Pancasila adalah warisan sejarah masa lalu",
+        "Karena Pancasila merupakan sumber dari segala sumber hukum negara",
+        "Karena Pancasila adalah kajian etika semata",
+        "Karena Pancasila hanya berlaku bagi aparat penegak hukum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pancasila sebagai dasar negara merupakan sumber dari segala sumber hukum, sehingga pendekatan hukum penting untuk pengamalannya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q13",
+      "question": "Dalam konteks pengetahuan ilmiah, metode yang digunakan untuk menemukan makna di balik objek dan dipadu dengan keruntutan sejarah disebut...",
+      "options": [
+        "Metode Kuantitatif",
+        "Metode Hermeneutika",
+        "Metode Eksperimental",
+        "Metode Statistik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metode hermeneutika lazim digunakan dalam filsafat untuk menemukan makna di balik objek (interpretasi) dan dipadu dengan koherensi historis.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q14",
+      "question": "Menurut The International Commission on Education for the 21st Century, kurikulum pendidikan tinggi yang relevan dengan Pendidikan Pancasila terutama pada unsur...",
+      "options": [
+        "Learning to know dan Learning to do",
+        "Learning to do dan Learning to be",
+        "Learning to behave dan Learning to live together",
+        "Learning to research dan Learning to analyze"
+      ],
+      "correctIndex": 2,
+      "explanation": "Materi pembelajaran Pancasila memenuhi unsur 'learning to behave' (belajar berperilaku) dan 'learning to live together' (belajar hidup bersama).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q15",
+      "question": "Pancasila bersifat universal. Menurut Notonegoro, sifat universal ini terletak pada...",
+      "options": [
+        "Implementasi praktis di setiap daerah",
+        "Istilah inti atau pokok masing-masing sila (Ketuhanan, Kemanusiaan, dsb)",
+        "Sejarah perumusan di BPUPKI",
+        "Urutan sila yang tidak boleh dibalik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sifat universal Pancasila terletak pada inti mutlak silanya: Ketuhanan, Kemanusiaan, Persatuan, Kerakyatan, dan Keadilan, yang diakui secara umum.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q16",
+      "question": "Jika seseorang membayar pajak bukan karena takut sanksi, melainkan karena kesadaran otonom bahwa itu untuk kebaikan bersama, hal ini merupakan tinjauan Pancasila dari pendekatan...",
+      "options": ["Historis", "Yuridis", "Filosofis (Etika)", "Sosiologis"],
+      "correctIndex": 2,
+      "explanation": "Pendekatan etika (cabang filsafat) menyoroti kesadaran moral, hati nurani, dan tanggung jawab otonom dalam bertindak.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q17",
+      "question": "Tujuan pendidikan nasional menurut UU No. 20 Tahun 2003 adalah berkembangnya potensi peserta didik agar menjadi manusia yang...",
+      "options": [
+        "Hanya cerdas secara intelektual",
+        "Beriman, bertakwa, berakhlak mulia, dan menjadi warga negara demokratis serta bertanggung jawab",
+        "Mampu bersaing secara ekonomi global tanpa mempedulikan budaya lokal",
+        "Menguasai teknologi mutakhir semata"
+      ],
+      "correctIndex": 1,
+      "explanation": "UU Sisdiknas menekankan keseimbangan antara iman, takwa, akhlak, ilmu, dan kewarganegaraan yang demokratis.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q18",
+      "question": "Pengetahuan esensial tentang Pancasila bertujuan untuk...",
+      "options": [
+        "Mengetahui sejarah perumusan saja",
+        "Mendapatkan pengetahuan tentang inti sari atau makna terdalam (hakikat) sila-sila Pancasila",
+        "Menghafal urutan sila",
+        "Mengetahui biografi perumus Pancasila"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pengetahuan esensial menjawab pertanyaan 'apa' (hakikat), mencari inti sari atau makna terdalam.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q19",
+      "question": "Objek formal dalam studi Pancasila sebagai pengetahuan ilmiah adalah...",
+      "options": [
+        "Bangsa Indonesia",
+        "Adat istiadat",
+        "Rumusan Pancasila, isi arti, dan pelaksanaannya",
+        "Manusia Indonesia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Objek formal adalah sudut pandang. Dalam hal ini, sudut pandangnya adalah rumusan, arti, dan pelaksanaan Pancasila.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q20",
+      "question": "Sila 'Kemanusiaan yang Adil dan Beradab' diliputi dan dijiwai oleh sila...",
+      "options": [
+        "Ketuhanan Yang Maha Esa",
+        "Persatuan Indonesia",
+        "Kerakyatan",
+        "Keadilan Sosial"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dalam struktur hierarkis piramidal, sila ke-2 diliputi dan dijiwai oleh sila ke-1.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q21",
+      "question": "Landasan historis pendidikan Pancasila merujuk pada fakta bahwa...",
+      "options": [
+        "Pancasila adalah warisan budaya dunia",
+        "Nilai-nilai Pancasila telah dimiliki bangsa Indonesia melalui proses sejarah panjang sejak zaman kerajaan",
+        "Pancasila dibuat oleh Belanda sebelum kemerdekaan",
+        "Pancasila diadopsi dari revolusi Perancis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Landasan historis menyatakan bahwa nilai Pancasila adalah kepribadian bangsa yang terbentuk melalui proses sejarah panjang (Kutai, Sriwijaya, Majapahit, dst).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q22",
+      "question": "Pernyataan Sutan Takdir Ali Syahbana yang menganggap Pancasila memiliki kontradiksi dalam dirinya, dibantah oleh Roeslan Abdul Gani yang menyatakan bahwa...",
+      "options": [
+        "Pancasila adalah dogma agama",
+        "Pancasila adalah sintesis dari gagasan Islam, demokrasi, sosialisme, dan nilai asli Indonesia",
+        "Pancasila tidak perlu logis",
+        "Pancasila hanya alat politik sesaat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Roeslan Abdul Gani, mengutip Kahin, menyatakan Pancasila adalah sintesis gagasan modern dan asli, serta merupakan filsafat sosial yang sudah dewasa.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q23",
+      "question": "Ciri berpikir filsafati yang berarti 'tidak terbatas pada hal-hal fisik saja tetapi menembus ke balik realitas' disebut...",
+      "options": ["Kritis", "Sistematis", "Spekulatif", "Radikal (Mendasar)"],
+      "correctIndex": 3,
+      "explanation": "Berpikir radikal (radix = akar) berarti berpikir mendalam sampai ke akar-akarnya atau hakikatnya, tidak hanya pada fenomena fisik.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q24",
+      "question": "Dalam tinjauan etimologis, kata 'Pancasila' berasal dari bahasa Sanskerta. Kata 'Syiila' dengan huruf 'i' ganda (panjang) berarti...",
+      "options": [
+        "Batu sendi",
+        "Lima dasar",
+        "Peraturan tingkah laku yang baik/penting",
+        "Dasar negara"
+      ],
+      "correctIndex": 2,
+      "explanation": "Panca = lima. Syila (i pendek) = batu sendi/alas. Syiila (i panjang) = peraturan tingkah laku yang baik/senonoh.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q25",
+      "question": "Manakah pernyataan yang BENAR mengenai hubungan antara ilmu dan nilai dalam Pancasila sebagai pengetahuan ilmiah?",
+      "options": [
+        "Pancasila harus bebas nilai (value-free)",
+        "Pancasila bersifat subjektif mutlak tergantung individu",
+        "Kebenaran Pancasila bersifat universal tidak dibatasi waktu dan ruang",
+        "Pancasila tidak memerlukan metode pembuktian"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sebagai pengetahuan ilmiah, Pancasila bersifat universal/objektif, artinya kebenarannya didasarkan pada alasan akal yang dapat diterima umum, tidak dibatasi waktu/ruang.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q1",
+      "question": "Menurut teori kausalitas dari Notonegoro, asal mula bahan (causa materialis) dari Pancasila adalah...",
+      "options": [
+        "PPKI dan BPUPKI",
+        "Ir. Soekarno dan Moh. Hatta",
+        "Bangsa Indonesia sendiri (adat, budaya, agama)",
+        "Pembukaan UUD 1945"
+      ],
+      "correctIndex": 2,
+      "explanation": "Causa materialis Pancasila adalah Bangsa Indonesia sendiri, karena nilai-nilainya digali dari adat, budaya, dan agama yang hidup di masyarakat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q2",
+      "question": "Siapakah yang berperan sebagai 'Causa Formalis' (asal mula bentuk) dari Pancasila?",
+      "options": [
+        "Bangsa Indonesia",
+        "Soekarno, Hatta, dan anggota BPUPKI",
+        "PPKI",
+        "Pemerintah Jepang"
+      ],
+      "correctIndex": 1,
+      "explanation": "Causa formalis adalah pembentuk rumusan. Soekarno, Hatta, dan anggota BPUPKI merumuskan dan membahas bentuk Pancasila.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q3",
+      "question": "PPKI yang mengesahkan Pancasila sebagai dasar negara pada 18 Agustus 1945 berkedudukan sebagai...",
+      "options": [
+        "Causa Materialis",
+        "Causa Formalis",
+        "Causa Efisien (Karya)",
+        "Causa Finalis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Causa efisien (asal mula karya) adalah pihak yang menjadikan Pancasila dari calon dasar negara menjadi dasar negara yang sah, yaitu PPKI.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q4",
+      "question": "Dalam teori nilai budaya Kluckhohn, masalah hakikat hubungan manusia dengan alam sekitarnya pada budaya Indonesia cenderung memandang bahwa...",
+      "options": [
+        "Manusia harus menaklukkan alam",
+        "Manusia harus mencari keselarasan dengan alam",
+        "Manusia menyerah saja pada kedahsyatan alam",
+        "Alam adalah musuh manusia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Budaya Indonesia cenderung memandang bahwa manusia harus berusaha mencari keselarasan/harmoni dengan alam, bukan menaklukkannya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q5",
+      "question": "Notonegoro menyebutkan bahwa manusia memiliki tiga kecenderungan mendasar (kodrat). Kecenderungan 'Theo-genetis' berarti...",
+      "options": [
+        "Manusia adalah makhluk sosial",
+        "Manusia adalah makhluk biologis",
+        "Manusia pada dasarnya percaya kepada Tuhan",
+        "Manusia bergantung pada teknologi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Theo-genetis adalah pandangan bahwa manusia pada dasarnya percaya kepada Tuhan atau adanya kebenaran tertinggi (transenden).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q6",
+      "question": "Usulan dasar negara 'Peri Kebangsaan, Peri Kemanusiaan, Peri Ketuhanan, Peri Kerakyatan, dan Kesejahteraan Rakyat' disampaikan oleh...",
+      "options": [
+        "Ir. Soekarno",
+        "Mr. Soepomo",
+        "Mr. Muh. Yamin",
+        "Moh. Hatta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lima asas tersebut disampaikan oleh Mr. Muh. Yamin dalam pidatonya pada sidang BPUPKI tanggal 29 Mei 1945.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q7",
+      "question": "Pada tanggal 1 Juni 1945, Ir. Soekarno mengusulkan lima dasar negara yang diberi nama Pancasila. Jika diperas menjadi satu (Ekasila), maka intinya adalah...",
+      "options": [
+        "Sosio-Nasionalisme",
+        "Sosio-Demokrasi",
+        "Ketuhanan",
+        "Gotong Royong"
+      ],
+      "correctIndex": 3,
+      "explanation": "Soekarno menawarkan Trisila, dan jika diperas lagi menjadi Ekasila yaitu Gotong Royong.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q8",
+      "question": "Perubahan penting dalam sila pertama Piagam Jakarta saat disahkan menjadi Pembukaan UUD 1945 adalah...",
+      "options": [
+        "Penghapusan tujuh kata 'dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya'",
+        "Penambahan kata 'Yang Maha Esa'",
+        "Penggantian kata 'Allah' menjadi 'Tuhan'",
+        "Penghapusan seluruh sila pertama"
+      ],
+      "correctIndex": 0,
+      "explanation": "Demi persatuan bangsa, tujuh kata dalam Piagam Jakarta dihapus dan diganti menjadi 'Ketuhanan Yang Maha Esa'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q9",
+      "question": "Mr. Soepomo dalam sidang BPUPKI tanggal 31 Mei 1945 mengusulkan paham negara...",
+      "options": ["Individualistik", "Liberal", "Integralistik", "Komunistik"],
+      "correctIndex": 2,
+      "explanation": "Soepomo mengusulkan paham negara integralistik (negara persatuan) yang mengatasi seluruh golongan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q10",
+      "question": "Sidang kedua BPUPKI pada tanggal 10-17 Juli 1945 berfokus pada pembahasan...",
+      "options": [
+        "Dasar Negara",
+        "Rancangan Undang-Undang Dasar (Hukum Dasar)",
+        "Pemilihan Presiden",
+        "Pembentukan KNIP"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sidang kedua BPUPKI membahas rancangan hukum dasar (UUD) dan menerima hasil kerja Panitia Sembilan (Piagam Jakarta).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q11",
+      "question": "Secara historis, Proklamasi Kemerdekaan 17 Agustus 1945 disebut sebagai 'Revolusi Pancasila' karena...",
+      "options": [
+        "Mengubah struktur kolonial menjadi nasional secara cepat dan radikal",
+        "Dilakukan dengan perang fisik yang lama",
+        "Hanya melibatkan golongan tua",
+        "Menghapus semua hukum adat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Disebut revolusi karena merombak struktur kolonial secara radikal dan cepat menjadi tatanan negara merdeka yang dijiwai Pancasila.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q12",
+      "question": "Dalam periode berlakunya Konstitusi RIS 1949, rumusan Pancasila yang digunakan adalah...",
+      "options": [
+        "Sama persis dengan Pembukaan UUD 1945",
+        "Rumusan Piagam Jakarta",
+        "Rumusan dalam Mukadimah Konstitusi RIS (Ketuhanan YME, Perikemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial)",
+        "Rumusan Ir. Soekarno 1 Juni"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dalam Mukadimah KRIS 1949, rumusan Pancasila berbeda urutan dan diksinya (misal: Kebangsaan, Perikemanusiaan) dibanding UUD 45.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q13",
+      "question": "Dekrit Presiden 5 Juli 1959 menandai kembalinya bangsa Indonesia ke...",
+      "options": ["UUDS 1950", "UUD 1945", "Konstitusi RIS", "Piagam Jakarta"],
+      "correctIndex": 1,
+      "explanation": "Dekrit Presiden 5 Juli 1959 membubarkan Konstituante dan menetapkan berlakunya kembali UUD 1945.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q14",
+      "question": "Instruksi Presiden No. 12 Tahun 1968 dikeluarkan untuk...",
+      "options": [
+        "Mengganti sila Pancasila",
+        "Menyeragamkan tata urutan dan rumusan Pancasila sesuai Pembukaan UUD 1945",
+        "Membubarkan partai politik",
+        "Membentuk BPUPKI baru"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inpres No. 12/1968 bertujuan menertibkan keberagaman rumusan yang beredar di masyarakat dengan menetapkan rumusan sah sesuai Pembukaan UUD 1945.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q15",
+      "question": "Bukti historis bahwa nilai persatuan sudah ada dalam budaya Indonesia lama adalah...",
+      "options": [
+        "Semboyan 'Bhinneka Tunggal Ika' pada masa Majapahit",
+        "Adanya sistem kasta",
+        "Perang antar kerajaan",
+        "Dominasi satu suku atas suku lain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Semboyan Bhinneka Tunggal Ika (Tan Hana Dharma Mangrwa) dari masa Majapahit menunjukkan cita-cita persatuan dalam keberagaman.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q16",
+      "question": "Yang dimaksud dengan 'Causa Finalis' (asal mula tujuan) dalam perumusan Pancasila adalah...",
+      "options": [
+        "Ir. Soekarno dan Hatta",
+        "Adat istiadat bangsa",
+        "Tujuan untuk menjadikan Pancasila sebagai Dasar Negara",
+        "Pengesahan oleh PPKI"
+      ],
+      "correctIndex": 2,
+      "explanation": "Causa finalis adalah tujuan dari dirumuskannya Pancasila, yaitu hendak dijadikan sebagai dasar negara Indonesia merdeka.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q17",
+      "question": "Hubungan antara Proklamasi 17 Agustus 1945 dengan Pembukaan UUD 1945 adalah...",
+      "options": [
+        "Tidak ada hubungan",
+        "Pembukaan UUD 1945 merupakan uraian terperinci dari Proklamasi",
+        "Proklamasi membatalkan Pembukaan UUD 1945",
+        "Pembukaan UUD 1945 disusun sebelum naskah Proklamasi direncanakan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pembukaan UUD 1945 adalah pernyataan kemerdekaan yang lebih rinci dan memuat cita-cita luhur dari Proklamasi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q18",
+      "question": "Nilai 'Kemanusiaan yang adil dan beradab' secara budaya dibuktikan dengan adanya...",
+      "options": [
+        "Candi Borobudur sebagai tempat ibadah",
+        "Sikap ramah tamah, sopan santun, dan gotong royong bangsa Indonesia",
+        "Sistem kerajaan yang otoriter",
+        "Penggunaan bahasa Sanskerta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sikap ramah, sopan, dan membantu sesama merupakan bukti historis nilai kemanusiaan dalam budaya Indonesia.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q19",
+      "question": "Pada masa UUDS 1950, sistem pemerintahan yang digunakan adalah...",
+      "options": [
+        "Presidensial",
+        "Parlementer",
+        "Monarki Konstitusional",
+        "Komunis"
+      ],
+      "correctIndex": 1,
+      "explanation": "UUDS 1950 menganut sistem parlementer yang menyebabkan seringnya pergantian kabinet.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q20",
+      "question": "Manakah di bawah ini yang merupakan rumusan Pancasila dalam Piagam Jakarta?",
+      "options": [
+        "Ketuhanan Yang Maha Esa",
+        "Ketuhanan dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya",
+        "Ketuhanan yang berkebudayaan",
+        "Peri Ketuhanan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rumusan sila pertama dalam Piagam Jakarta memuat tujuh kata 'dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q21",
+      "question": "Asal mula tidak langsung (indirect) Pancasila merujuk pada...",
+      "options": [
+        "Sidang BPUPKI",
+        "Sidang PPKI",
+        "Proses proklamasi",
+        "Asal mula bahan (kausa materialis) yang terdapat dalam sejarah bangsa sebelum kemerdekaan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Asal mula tidak langsung menunjuk pada aspek bahan (adat, budaya, agama) yang sudah ada jauh sebelum proses perumusan formal.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q22",
+      "question": "Konsep 'Theo-genetis, Bio-genetis, Sosio-genetis' dari Notonegoro menjelaskan tentang...",
+      "options": [
+        "Asal usul alam semesta",
+        "Kecenderungan mendasar manusia Indonesia dalam nilai budaya",
+        "Struktur pemerintahan desa",
+        "Sistem ekonomi Pancasila"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konsep ini menjelaskan kecenderungan manusia Indonesia: Berketuhanan (Theo), Keseimbangan jasmani/rohani (Bio), dan Makhluk sosial (Sosio).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q23",
+      "question": "Panitia Sembilan berhasil merumuskan rancangan mukadimah hukum dasar pada tanggal...",
+      "options": [
+        "1 Juni 1945",
+        "29 Mei 1945",
+        "22 Juni 1945",
+        "18 Agustus 1945"
+      ],
+      "correctIndex": 2,
+      "explanation": "22 Juni 1945 adalah tanggal disepakatinya Piagam Jakarta oleh Panitia Sembilan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q24",
+      "question": "Rumusan Pancasila yang sah dan benar secara hukum adalah yang terdapat dalam...",
+      "options": [
+        "Pidato Moh. Yamin",
+        "Piagam Jakarta",
+        "Pembukaan UUD 1945 alinea ke-4",
+        "Konstitusi RIS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rumusan legal formal yang berlaku saat ini adalah yang termuat dalam Pembukaan UUD 1945.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q25",
+      "question": "Dalam sejarahnya, Pancasila pernah ditafsirkan sebagai 'Nasakom' (Nasionalis, Agama, Komunis). Hal ini terjadi pada masa...",
+      "options": [
+        "Orde Baru",
+        "Orde Lama (Demokrasi Terpimpin)",
+        "Reformasi",
+        "Awal Kemerdekaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pada masa Orde Lama/Demokrasi Terpimpin, Soekarno mencoba menyatukan kekuatan politik dengan konsep Nasakom.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q1",
+      "question": "Istilah 'Dasar Negara' secara etimologis identik dengan istilah 'Grundnorm' yang dikemukakan oleh...",
+      "options": ["Hans Kelsen", "Karl Marx", "Max Weber", "Montesquieu"],
+      "correctIndex": 0,
+      "explanation": "Hans Kelsen memperkenalkan istilah Grundnorm (norma dasar) yang menjadi landasan bagi norma-norma hukum di bawahnya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q2",
+      "question": "Pancasila sebagai dasar negara memiliki makna bahwa Pancasila berfungsi sebagai...",
+      "options": [
+        "Simbol negara semata",
+        "Alat politik praktis",
+        "Sumber dari segala sumber hukum di Indonesia",
+        "Hiasan dalam dokumen negara"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sebagai dasar negara, Pancasila adalah sumber tertib hukum tertinggi yang melandasi semua peraturan perundang-undangan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q3",
+      "question": "Kedudukan Pancasila sebagai dasar negara tertuang secara formal dalam...",
+      "options": [
+        "Batang Tubuh UUD 1945",
+        "Pembukaan UUD 1945 Alinea IV",
+        "Penjelasan UUD 1945",
+        "Ketetapan Presiden"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alinea IV Pembukaan UUD 1945 secara eksplisit memuat rumusan Pancasila sebagai dasar negara (...maka disusunlah... berdasar kepada...).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q4",
+      "question": "Susunan sila-sila Pancasila bersifat hierarkis piramidal. Artinya...",
+      "options": [
+        "Sila pertama adalah yang paling penting dan sila kelima pelengkap",
+        "Sila kelima mendasari sila-sila sebelumnya",
+        "Sila pertama mendasari dan menjiwai sila kedua, ketiga, keempat, dan kelima",
+        "Setiap sila berdiri sendiri tanpa hubungan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hierarkis piramidal berarti sila 1 menjiwai sila 2-5, sila 2 dijiwai sila 1 dan menjiwai sila 3-5, dst. Ada urutan fundamen.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q5",
+      "question": "Sumber yuridis Pancasila sebagai dasar negara dipertegas dalam UU No. 12 Tahun 2011 tentang...",
+      "options": [
+        "Sistem Pendidikan Nasional",
+        "Pembentukan Peraturan Perundang-undangan",
+        "Partai Politik",
+        "Pemerintahan Daerah"
+      ],
+      "correctIndex": 1,
+      "explanation": "UU No. 12 Tahun 2011 (Pasal 2) menegaskan Pancasila merupakan sumber segala sumber hukum negara.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q6",
+      "question": "Pancasila digambarkan dalam lambang negara Burung Garuda. Simbol 'Rantai' melambangkan sila...",
+      "options": [
+        "Ketuhanan Yang Maha Esa",
+        "Kemanusiaan yang Adil dan Beradab",
+        "Persatuan Indonesia",
+        "Keadilan Sosial"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rantai melambangkan sila kedua (Kemanusiaan). Bintang (1), Pohon Beringin (3), Kepala Banteng (4), Padi Kapas (5).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q7",
+      "question": "Sumber sosiologis Pancasila sebagai dasar negara berarti...",
+      "options": [
+        "Pancasila adalah hasil konstruksi politik elite",
+        "Nilai-nilai Pancasila digali dari kehidupan nyata masyarakat Indonesia yang tumbuh dan berkembang",
+        "Pancasila diimpor dari sosiolog Barat",
+        "Pancasila hanya berlaku untuk masyarakat desa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sumber sosiologis berarti nilai-nilai tersebut hidup (living values) dalam interaksi sosial masyarakat Indonesia sejak dahulu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q8",
+      "question": "Dalam konsep 'Staatsfundamentalnorm' (Pokok Kaidah Negara yang Fundamental), pembukaan UUD 1945 yang memuat Pancasila memiliki sifat...",
+      "options": [
+        "Dapat diubah oleh MPR",
+        "Tetap, kuat, dan tidak dapat diubah oleh siapapun",
+        "Fleksibel mengikuti rezim",
+        "Sementara"
+      ],
+      "correctIndex": 1,
+      "explanation": "Staatsfundamentalnorm adalah norma hukum tertinggi yang menjadi landasan eksistensi negara, sehingga mengubahnya dianggap membubarkan negara.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m3_q9",
+      "question": "Sila 'Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan' mengandung makna...",
+      "options": [
+        "Demokrasi liberal",
+        "Kekuasaan absolut di tangan pemimpin",
+        "Pengambilan keputusan melalui musyawarah mufakat",
+        "Dominasi suara mayoritas (majoritarianism)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inti sila ke-4 adalah demokrasi musyawarah mufakat, bukan sekadar voting atau dominasi mayoritas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q10",
+      "question": "Salah satu tantangan dinamika Pancasila sebagai dasar negara adalah...",
+      "options": [
+        "Tingginya semangat gotong royong",
+        "Ketaatan hukum yang sempurna",
+        "Inkonsistensi antara nilai dasar, instrumental, dan praksis",
+        "Terlalu banyaknya penghayatan nilai Pancasila"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tantangan utama adalah kesenjangan antara nilai ideal (dasar) dengan aturan pelaksana (instrumental) dan kenyataan di lapangan (praksis).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m3_q11",
+      "question": "Menurut Sukarno, Pancasila adalah 'Philosophische Grondslag'. Apa arti istilah tersebut?",
+      "options": [
+        "Undang-undang tertulis",
+        "Dasar falsafah negara (fundamen, filsafat, pikiran sedalam-dalamnya)",
+        "Semboyan negara",
+        "Lambang negara"
+      ],
+      "correctIndex": 1,
+      "explanation": "Philosophische Grondslag berarti dasar filsafat/fundamen yang di atasnya didirikan bangunan Indonesia merdeka.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q12",
+      "question": "Sumber politis Pancasila sebagai dasar negara tercermin dalam...",
+      "options": [
+        "Kehidupan adat istiadat",
+        "Konsensus politik para pendiri bangsa dan kebijakan penyelenggara negara",
+        "Kitab Sutasoma",
+        "Penelitian ilmiah di kampus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Secara politis, Pancasila adalah hasil konsensus nasional dan menjadi landasan etika dalam kehidupan politik negara.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q13",
+      "question": "Keadilan sosial dalam sila kelima menekankan pada...",
+      "options": [
+        "Keseimbangan antara hak dan kewajiban serta kesejahteraan bersama",
+        "Kebebasan individu mengumpulkan kekayaan tanpa batas",
+        "Pemerataan pendapatan yang sama rata sama rasa (komunis)",
+        "Bantuan sosial hanya untuk kelompok tertentu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Keadilan sosial Pancasila menolak liberalisme ekstrem dan komunisme, menekankan keseimbangan hak/kewajiban dan kesejahteraan umum.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q14",
+      "question": "Makna 'Bhinneka Tunggal Ika' yang menyertai Pancasila adalah...",
+      "options": [
+        "Berbeda-beda tetapi bermusuhan",
+        "Sama rata sama rasa",
+        "Berbeda-beda tetapi tetap satu jua",
+        "Satu bangsa satu bahasa saja"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bhinneka Tunggal Ika berarti persatuan dalam keberagaman.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q15",
+      "question": "Dalam hierarki piramidal, Sila Kelima (Keadilan Sosial) adalah sila yang...",
+      "options": [
+        "Menjiwai sila 1, 2, 3, 4",
+        "Diliputi dan dijiwai oleh sila 1, 2, 3, 4",
+        "Berdiri sendiri",
+        "Menjadi dasar sila pertama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sila kelima adalah tujuan konkret yang diliputi dan dijiwai oleh keempat sila di atasnya.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m3_q16",
+      "question": "Pancasila sebagai 'Leitstar' dinamis mengandung arti...",
+      "options": [
+        "Pancasila adalah benda mati",
+        "Pancasila adalah bintang penunjuk jalan yang memandu arah bangsa",
+        "Pancasila adalah hukum pidana",
+        "Pancasila adalah aturan militer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leitstar (Bintang Pemandu) berarti Pancasila memberikan orientasi arah ke mana bangsa ini akan dibawa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q17",
+      "question": "Konsekuensi Pancasila sebagai dasar negara bagi penyelenggara negara adalah...",
+      "options": [
+        "Bebas membuat aturan sesuai kepentingan pribadi",
+        "Wajib menjadikan Pancasila sebagai pedoman dalam pembuatan kebijakan",
+        "Hanya perlu menghafal Pancasila",
+        "Menggunakan Pancasila untuk menekan lawan politik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebagai dasar negara, penyelenggara negara wajib menjadikan nilai Pancasila sebagai landasan kebijakan publik.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q18",
+      "question": "Simbol 'Kepala Banteng' pada sila keempat melambangkan...",
+      "options": [
+        "Kekuatan militer",
+        "Hewan sosial yang suka berkumpul (musyawarah)",
+        "Pertanian",
+        "Ketuhanan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Banteng diartikan sebagai hewan sosial yang suka berkumpul, analogi untuk musyawarah/diskusi.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q19",
+      "question": "Nilai 'Saling mengkualifikasi' dalam sila Pancasila berarti...",
+      "options": [
+        "Sila satu meniadakan sila lain",
+        "Sila satu berkualifikasi sila yang lain (contoh: Ketuhanan yang berkemanusiaan, berpersatuan, dst)",
+        "Sila-sila saling bertentangan",
+        "Setiap sila punya definisi yang terpisah mutlak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Saling mengkualifikasi berarti setiap sila mengandung kualitas dari sila-sila lainnya (majemuk tunggal).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m3_q20",
+      "question": "Pancasila sebagai dasar negara menolak paham yang memisahkan urusan agama dari negara secara mutlak, yaitu paham...",
+      "options": ["Sekularisme", "Theokrasi", "Demokrasi", "Sosialisme"],
+      "correctIndex": 0,
+      "explanation": "Pancasila (Sila 1) menolak sekularisme yang memisahkan agama dan negara sepenuhnya, dan juga menolak negara agama (theokrasi).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q21",
+      "question": "Pokok pikiran pertama Pembukaan UUD 1945 adalah 'Negara melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia dengan berdasar atas persatuan'. Ini adalah penjabaran dari sila...",
+      "options": ["Pertama", "Kedua", "Ketiga", "Kelima"],
+      "correctIndex": 2,
+      "explanation": "Pokok pikiran pertama adalah pokok pikiran Persatuan (Sila ke-3).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q22",
+      "question": "Pengertian negara menurut Georg Jellinek adalah...",
+      "options": [
+        "Organisasi kekuasaan dari kelompok manusia yang telah berkediaman di wilayah tertentu",
+        "Alat kelas penindas",
+        "Keluarga besar",
+        "Perjanjian masyarakat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jellinek mendefinisikan negara sebagai organisasi kekuasaan sekelompok manusia di wilayah tertentu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q23",
+      "question": "Asas 'Nomokrasi' dalam konsep negara hukum Pancasila berarti...",
+      "options": [
+        "Kedaulatan Rakyat",
+        "Kedaulatan Hukum",
+        "Kedaulatan Raja",
+        "Kedaulatan Tuhan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nomokrasi berarti pemerintahan berdasarkan hukum (Supremasi Hukum), berpasangan dengan Demokrasi (Kedaulatan Rakyat).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m3_q24",
+      "question": "Salah satu fungsi Pancasila sebagai Dasar Negara adalah sebagai 'Dasar Perhubungan Antarwarga Negara'. Hal ini tercermin dalam...",
+      "options": [
+        "Sikap saling curiga",
+        "Semangat gotong royong dan toleransi",
+        "Persaingan bebas",
+        "Individualisme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pancasila menjadi perekat sosial melalui nilai gotong royong dan toleransi.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q25",
+      "question": "Moerdiono menyebutkan tiga tingkatan nilai dalam ideologi. Nilai yang bersifat abstrak dan tetap adalah...",
+      "options": [
+        "Nilai Dasar",
+        "Nilai Instrumental",
+        "Nilai Praksis",
+        "Nilai Teknis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nilai Dasar adalah nilai yang mendasar, tetap, dan abstrak (Sila Pancasila). Instrumental adalah penjabarannya (UU). Praksis adalah pelaksanaannya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q1",
+      "question": "Secara etimologis, ideologi berasal dari kata 'idea' dan 'logos'. Logos artinya...",
+      "options": ["Cita-cita", "Ilmu/Pengetahuan", "Gagasan", "Keyakinan"],
+      "correctIndex": 1,
+      "explanation": "Logos berarti ilmu. Ideologi adalah ilmu tentang ide-ide atau gagasan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q2",
+      "question": "Ideologi Tertutup memiliki ciri khas yaitu...",
+      "options": [
+        "Nilai-nilainya digali dari masyarakat sendiri",
+        "Isinya tidak bersifat operasional",
+        "Nilainya dipaksakan dari luar dan bersifat mutlak",
+        "Dapat berinteraksi dengan perkembangan zaman"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ideologi tertutup biasanya dipaksakan oleh penguasa/kelompok tertentu, bersifat dogmatis dan mutlak, bukan dari konsensus masyarakat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q3",
+      "question": "Pancasila dikategorikan sebagai Ideologi Terbuka. Apa maksudnya?",
+      "options": [
+        "Pancasila dapat diganti dengan ideologi lain",
+        "Nilai-nilai dasarnya tetap, namun penjabarannya dinamis mengikuti perkembangan zaman",
+        "Pancasila tidak memiliki pendirian yang tetap",
+        "Siapapun boleh menafsirkan Pancasila semaunya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ideologi terbuka memiliki nilai dasar yang tetap, namun nilai instrumental dan praksisnya fleksibel mengikuti zaman.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q4",
+      "question": "Dimensi ideologi yang mencerminkan kemampuan ideologi untuk berkembang sesuai dengan aspirasi masyarakat dan zaman disebut dimensi...",
+      "options": ["Realitas", "Idealisme", "Fleksibilitas", "Normatif"],
+      "correctIndex": 2,
+      "explanation": "Dimensi fleksibilitas adalah kemampuan ideologi untuk beradaptasi dan berkembang (dinamis).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q5",
+      "question": "Salah satu batasan keterbukaan ideologi Pancasila adalah...",
+      "options": [
+        "Menerima paham Liberalisme",
+        "Larangan terhadap ideologi Marxisme, Leninisme, dan Komunisme",
+        "Boleh mengubah nilai dasar",
+        "Meniadakan stabilitas nasional"
+      ],
+      "correctIndex": 1,
+      "explanation": "Keterbukaan Pancasila tidak berlaku untuk paham yang bertentangan secara fundamental seperti Komunisme/Marxisme.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q6",
+      "question": "Ideologi yang menekankan pada kebebasan individu yang mutlak dan peran negara yang minimal disebut...",
+      "options": ["Sosialisme", "Komunisme", "Liberalisme", "Fasisme"],
+      "correctIndex": 2,
+      "explanation": "Liberalisme menjunjung tinggi kebebasan individu di atas kepentingan negara/kelompok.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q7",
+      "question": "Perbedaan mendasar antara Pancasila dan Komunisme dalam hal agama adalah...",
+      "options": [
+        "Pancasila menolak agama, Komunisme menerima agama",
+        "Pancasila membebaskan agama, Komunisme menjadikan agama candu (atheis)",
+        "Keduanya sama-sama negara agama",
+        "Keduanya menolak campur tangan agama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pancasila berketuhanan YME, sedangkan Komunisme cenderung atheis dan menganggap agama sebagai candu masyarakat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q8",
+      "question": "Dalam ideologi Pancasila, hubungan antara agama dan negara bersifat...",
+      "options": [
+        "Sekuler mutlak (pemisahan total)",
+        "Negara agama (teokrasi)",
+        "Tidak ada hubungan",
+        "Saling mendukung (simbiotik) di mana negara memfasilitasi kehidupan beragama"
+      ],
+      "correctIndex": 3,
+      "explanation": "Indonesia bukan negara sekuler dan bukan negara agama, melainkan negara yang berketuhanan di mana agama dan negara saling mendukung.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m4_q9",
+      "question": "Destutt de Tracy adalah tokoh yang pertama kali menggunakan istilah...",
+      "options": ["Demokrasi", "Ideologi", "Filsafat", "Sosiologi"],
+      "correctIndex": 1,
+      "explanation": "Destutt de Tracy mempopulerkan istilah 'Ideologie' pada masa Revolusi Perancis sebagai 'science of ideas'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q10",
+      "question": "Fungsi ideologi sebagai 'bekal dan jalan bagi seseorang untuk menemukan identitasnya' disebut fungsi...",
+      "options": [
+        "Struktur Kognitif",
+        "Orientasi Dasar",
+        "Norma",
+        "Identitas Diri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Orientasi dasar memberikan makna dan tujuan hidup, membantu menemukan identitas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q11",
+      "question": "Salah satu karakteristik Kapitalisme adalah...",
+      "options": [
+        "Alat produksi dikuasai negara",
+        "Kebebasan pasar dan kepemilikan modal oleh swasta",
+        "Sama rata sama rasa",
+        "Ekonomi terpimpin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kapitalisme menekankan pada kebebasan pasar, kompetisi, dan kepemilikan pribadi atas alat produksi.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q12",
+      "question": "Dimensi 'Realitas' dalam ideologi Pancasila mengandung makna bahwa...",
+      "options": [
+        "Pancasila berisi cita-cita muluk",
+        "Nilai-nilai Pancasila bersumber dari realitas budaya dan hidup masyarakat Indonesia",
+        "Pancasila harus realistis menerima semua budaya asing",
+        "Pancasila hanya teori"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dimensi realitas berarti nilai ideologi tersebut berakar dari kehidupan nyata masyarakatnya, bukan rekaan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q13",
+      "question": "Nilai Instrumental dalam ideologi Pancasila dapat ditemukan dalam...",
+      "options": [
+        "Pembukaan UUD 1945",
+        "Peraturan perundang-undangan (UU, PP) dan kebijakan negara",
+        "Perilaku sehari-hari",
+        "Adat istiadat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nilai instrumental adalah penjabaran nilai dasar ke dalam arahan yang lebih operasional seperti Undang-Undang.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q14",
+      "question": "Nilai Praksis dalam ideologi Pancasila adalah...",
+      "options": [
+        "Nilai yang tertulis di buku",
+        "Realisasi nilai dalam pengalaman nyata sehari-hari",
+        "Nilai yang bersifat abstrak",
+        "Nilai dalam konstitusi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nilai praksis adalah wujud penerapan nilai Pancasila dalam kenyataan hidup sehari-hari.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q15",
+      "question": "Tantangan internal terhadap ideologi Pancasila di era modern antara lain...",
+      "options": [
+        "Agresi militer asing",
+        "Gerakan separatis dan terorisme",
+        "Perang dagang China-AS",
+        "Pemanasan global"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gerakan separatis dan terorisme adalah ancaman dari dalam yang merongrong persatuan dan ideologi negara.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q16",
+      "question": "Pancasila sebagai ideologi negara berarti Pancasila berfungsi sebagai...",
+      "options": [
+        "Alat kekuasaan",
+        "Pedoman hidup dan cita-cita bangsa dalam penyelenggaraan negara",
+        "Mitos belaka",
+        "Aturan agama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ideologi negara berfungsi sebagai pedoman (way of life) dan cita-cita yang mengarahkan penyelenggaraan negara.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q17",
+      "question": "Dalam menghadapi globalisasi, Pancasila sebagai ideologi berperan sebagai...",
+      "options": [
+        "Penutup diri dari dunia luar",
+        "Filter (penyaring) budaya asing",
+        "Penerima segala budaya asing",
+        "Penghambat kemajuan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pancasila berfungsi menyaring nilai-nilai global; menerima yang positif dan menolak yang bertentangan dengan nilai bangsa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q18",
+      "question": "Machiavelli mengaitkan ideologi dengan...",
+      "options": [
+        "Kebenaran mutlak",
+        "Tipu daya dan kekuasaan untuk melanggengkan kekuasaan",
+        "Kesejahteraan rakyat",
+        "Kebebasan individu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Machiavelli melihat aspek manipulatif dalam politik/ideologi untuk mempertahankan kekuasaan (menghalalkan segala cara).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m4_q19",
+      "question": "Soerjanto Poespowardojo menyatakan bahwa ideologi adalah...",
+      "options": [
+        "Mimpi di siang bolong",
+        "Hasil refleksi manusia berkat kemampuannya menjaga jarak dengan dunia kehidupannya",
+        "Doktrin militer",
+        "Kumpulan mitos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Definisi akademis Soerjanto menekankan aspek refleksi kritis manusia terhadap realitasnya.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m4_q20",
+      "question": "Paham Integralistik yang disampaikan Soepomo memiliki kemiripan dengan Pancasila dalam hal...",
+      "options": [
+        "Mengutamakan kebebasan individu",
+        "Mengutamakan persatuan antara pimpinan dan rakyat (manunggaling kawula gusti)",
+        "Mengutamakan pertentangan kelas",
+        "Memisahkan agama dari negara"
+      ],
+      "correctIndex": 1,
+      "explanation": "Integralistik menekankan kesatuan organis antara negara dan rakyat, mengatasi paham golongan, mirip sila ke-3.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q21",
+      "question": "Salah satu ciri ideologi adalah 'Cenderung Eksklusif, Absolut, dan Universal'. Maksudnya...",
+      "options": [
+        "Ideologi mau menerima pendapat lain",
+        "Ideologi menganggap ajarannya paling benar dan tidak dapat ditawar",
+        "Ideologi bersifat sementara",
+        "Ideologi hanya berlaku lokal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Karakteristik ideologi seringkali menuntut loyalitas mutlak dan menganggap sistem nilainya sebagai kebenaran tunggal.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q22",
+      "question": "Makna Sila Ketuhanan dalam ideologi Pancasila menolak paham...",
+      "options": ["Ateisme", "Monoteisme", "Toleransi", "Kebebasan beragama"],
+      "correctIndex": 0,
+      "explanation": "Pancasila mewajibkan pengakuan terhadap Tuhan, sehingga menolak paham yang tidak mengakui Tuhan (Ateisme).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q23",
+      "question": "Penerapan Sila Keadilan Sosial dalam ideologi negara bertujuan untuk...",
+      "options": [
+        "Membuat semua orang sama kaya",
+        "Menghilangkan hak milik pribadi",
+        "Mewujudkan kesejahteraan umum dan mengurangi kesenjangan sosial",
+        "Memberikan bantuan tunai selamanya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keadilan sosial berfokus pada pemerataan kesejahteraan dan penghapusan diskriminasi/kesenjangan, bukan penghapusan hak milik.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q24",
+      "question": "Napoleon menganggap istilah 'ideologi' sebagai...",
+      "options": [
+        "Ilmu masa depan",
+        "Ilusi belaka atau khayalan",
+        "Dasar negara yang kuat",
+        "Senjata perang"
+      ],
+      "correctIndex": 1,
+      "explanation": "Napoleon memandang sinis 'ideologues' dan menganggap ideologi sebagai khayalan yang tidak membumi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q25",
+      "question": "Mengapa Pancasila disebut sebagai 'working ideology'?",
+      "options": [
+        "Karena hanya bekerja di atas kertas",
+        "Karena Pancasila bekerja menggerakkan bangsa dalam pembangunan nyata",
+        "Karena Pancasila adalah ideologi kaum buruh",
+        "Karena Pancasila dibuat oleh pekerja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Working ideology berarti ideologi yang hidup dan bekerja secara operasional dalam kehidupan berbangsa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q1",
+      "question": "Secara etimologis, istilah 'filsafat' berasal dari bahasa Yunani 'philosophia' yang berarti...",
+      "options": [
+        "Cinta kekuasaan",
+        "Cinta kebijaksanaan",
+        "Cinta pengetahuan",
+        "Cinta keadilan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Philo = cinta, Sophia = kebijaksanaan. Philosophia = cinta kebijaksanaan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q2",
+      "question": "Salah satu ciri berpikir filsafat adalah 'Radikal'. Artinya...",
+      "options": [
+        "Berpikir keras dan kasar",
+        "Berpikir sampai ke akar-akarnya (hakikat)",
+        "Berpikir anarkis",
+        "Berpikir praktis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Radix artinya akar. Berpikir radikal dalam filsafat berarti mendalami masalah sampai ke substansi dasarnya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q3",
+      "question": "Pancasila disebut sebagai sistem filsafat karena sila-silanya...",
+      "options": [
+        "Berdiri sendiri-sendiri",
+        "Saling bertentangan",
+        "Merupakan satu kesatuan yang utuh, bulat, dan hierarkis",
+        "Hanya pelengkap"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sistem berarti kesatuan bagian-bagian yang saling berhubungan. Pancasila bersifat majemuk tunggal.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q4",
+      "question": "Dalam filsafat Pancasila, sila pertama (Ketuhanan) mendasari sila kedua, ketiga, keempat, dan kelima. Struktur ini disebut...",
+      "options": [
+        "Hierarkis Piramidal",
+        "Struktural Fungsional",
+        "Kolektif Kolegial",
+        "Paralel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hierarkis piramidal menggambarkan urutan fundamen di mana sila di atas menjiwai sila di bawahnya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q5",
+      "question": "Objek material filsafat Pancasila adalah...",
+      "options": [
+        "Sudut pandang filosofis",
+        "Bangsa Indonesia dengan segala aspek kehidupannya",
+        "Metode berpikir",
+        "Buku-buku filsafat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Objek material adalah bahan yang dikaji, yaitu realitas kehidupan bangsa Indonesia.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q6",
+      "question": "Landasan ontologis Pancasila membahas tentang...",
+      "options": [
+        "Cara mendapatkan pengetahuan Pancasila",
+        "Nilai dan manfaat Pancasila",
+        "Hakikat keberadaan (ada) manusia Indonesia dan sila-sila Pancasila",
+        "Metode pengamalan Pancasila"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ontologi adalah cabang filsafat yang membahas tentang hakikat 'ada' (keberadaan/eksistensi).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q7",
+      "question": "Landasan epistemologis Pancasila berkaitan dengan...",
+      "options": [
+        "Hakikat ada",
+        "Teori pengetahuan (sumber, metode, dan kebenaran pengetahuan Pancasila)",
+        "Nilai etika",
+        "Nilai estetika"
+      ],
+      "correctIndex": 1,
+      "explanation": "Epistemologi membahas tentang bagaimana pengetahuan diperoleh (sumber dan metode).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q8",
+      "question": "Landasan aksiologis Pancasila berkaitan dengan...",
+      "options": [
+        "Hakikat realitas",
+        "Teori pengetahuan",
+        "Teori nilai (manfaat, etika, dan kegunaan Pancasila)",
+        "Logika berpikir"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aksiologi adalah cabang filsafat yang membahas tentang nilai (value) dan kegunaan.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q9",
+      "question": "Filsafat Pancasila berfungsi sebagai 'Weltanschauung'. Artinya...",
+      "options": [
+        "Dasar negara",
+        "Pandangan hidup bangsa",
+        "Perjanjian luhur",
+        "Hukum positif"
+      ],
+      "correctIndex": 1,
+      "explanation": "Weltanschauung (bahasa Jerman) berarti pandangan dunia atau pandangan hidup.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q10",
+      "question": "Notonagoro menyatakan bahwa hakikat manusia dalam Pancasila adalah 'Monopluralis'. Unsur 'Susunan Kodrat' dalam konsep ini terdiri dari...",
+      "options": [
+        "Jiwa dan Raga",
+        "Makhluk Individu dan Sosial",
+        "Makhluk Pribadi dan Makhluk Tuhan",
+        "Akal dan Rasa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Susunan kodrat manusia terdiri dari raga (jasmani) dan jiwa (rohani).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q11",
+      "question": "Menurut Aristoteles, filsafat adalah ilmu yang meliputi kebenaran yang terkandung di dalamnya ilmu-ilmu...",
+      "options": [
+        "Metafisika, logika, retorika, etika, ekonomi, politik, dan estetika",
+        "Biologi, fisika, kimia",
+        "Sosiologi, antropologi, psikologi",
+        "Matematika, kalkulus, aljabar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Klasifikasi ilmu filsafat klasik menurut Aristoteles mencakup metafisika hingga politik.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q12",
+      "question": "Ciri berpikir filsafat 'Komprehensif' berarti...",
+      "options": [
+        "Mendalam",
+        "Menyeluruh/multidimensi",
+        "Runtut",
+        "Berdasarkan fakta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komprehensif artinya melihat objek tidak dari satu sisi saja, melainkan secara menyeluruh.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q13",
+      "question": "Aliran filsafat yang menekankan bahwa kebenaran diukur dari kegunaan praktisnya disebut...",
+      "options": ["Idealisme", "Materialisme", "Pragmatisme", "Rasionalisme"],
+      "correctIndex": 2,
+      "explanation": "Pragmatisme adalah aliran yang mengajarkan bahwa yang benar adalah apa yang membuktikan dirinya sebagai benar dengan perantaraan akibat-akibatnya yang bermanfaat secara praktis.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q14",
+      "question": "Hubungan antara filsafat dan agama dalam konteks Pancasila adalah...",
+      "options": [
+        "Saling bertentangan",
+        "Agama menggantikan filsafat",
+        "Saling melengkapi, agama memberikan kebenaran wahyu, filsafat memberikan kebenaran akal",
+        "Filsafat menolak agama"
+      ],
+      "correctIndex": 2,
+      "explanation": "Di Indonesia, filsafat dan agama berjalan beriringan. Filsafat menggunakan akal, agama menggunakan wahyu, keduanya mencari kebenaran.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q15",
+      "question": "Pengetahuan yang diperoleh melalui akal budi dan bersifat spekulatif-rasional adalah jenis pengetahuan...",
+      "options": [
+        "Biasa (Common Sense)",
+        "Ilmiah (Science)",
+        "Filsafat",
+        "Agama"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pengetahuan filsafat berciri spekulatif, rasional, radikal, dan komprehensif.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q16",
+      "question": "Inti sila kelima 'Keadilan Sosial' secara filosofis mengandung makna...",
+      "options": [
+        "Keadilan yang bersifat individual",
+        "Keadilan komutatif, distributif, dan legal dalam hidup bersama",
+        "Keadilan hukum semata",
+        "Keadilan bagi penguasa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Keadilan sosial dalam filsafat Pancasila mencakup keadilan membagi (distributif), keadilan tukar menukar (komutatif), dan keadilan taat hukum (legal/bela negara).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q17",
+      "question": "Ciri sistem filsafat Pancasila yang bersifat 'Organis' berarti...",
+      "options": [
+        "Berubah-ubah setiap saat",
+        "Seperti tubuh makhluk hidup, antar bagian saling bergantung dan tidak dapat dipisahkan",
+        "Berasal dari alam",
+        "Tumbuh liar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kesatuan organis berarti seperti organ tubuh; satu bagian rusak, sistem tidak berjalan. Sila-sila tidak bisa dipisah.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q18",
+      "question": "Filsafat Pancasila menolak paham Materialisme karena...",
+      "options": [
+        "Pancasila mengakui Tuhan dan aspek rohani",
+        "Materialisme membuat kaya",
+        "Pancasila hanya mementingkan materi",
+        "Materialisme berasal dari Barat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Materialisme mengingkari hal-hal non-materi (Tuhan, Roh), sedangkan Pancasila (Sila 1) mengakui Ketuhanan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q19",
+      "question": "Implementasi filsafat Pancasila dalam bidang pendidikan bertujuan untuk...",
+      "options": [
+        "Mencetak tukang",
+        "Membangun manusia seutuhnya (intelektual, moral, spiritual)",
+        "Mengejar nilai akademik semata",
+        "Meniru sistem pendidikan Barat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pendidikan berlandaskan filsafat Pancasila bertujuan membentuk karakter manusia Indonesia seutuhnya.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q20",
+      "question": "Siapakah tokoh yang menyebutkan bahwa Pancasila adalah 'Philosophische Grondslag'?",
+      "options": ["Moh. Hatta", "Soepomo", "Ir. Soekarno", "K.H. Agus Salim"],
+      "correctIndex": 2,
+      "explanation": "Istilah ini dipopulerkan oleh Soekarno dalam pidato 1 Juni 1945.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q21",
+      "question": "Dalam kajian aksiologi, nilai yang bersifat abstrak dan tetap (tidak berubah) disebut...",
+      "options": [
+        "Nilai Dasar",
+        "Nilai Instrumental",
+        "Nilai Praksis",
+        "Nilai Vital"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nilai dasar adalah esensi mutlak (Ketuhanan, Kemanusiaan, dst) yang tidak berubah.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q22",
+      "question": "Makna 'Saling Mengkualifikasi' antar sila Pancasila adalah...",
+      "options": [
+        "Sila satu meniadakan sila lain",
+        "Sila satu terpisah dari sila lain",
+        "Setiap sila mengandung kualitas dari sila-sila lainnya (contoh: Ketuhanan yang berkemanusiaan)",
+        "Sila kelima adalah yang paling utama"
+      ],
+      "correctIndex": 2,
+      "explanation": "Saling mengkualifikasi berarti setiap sila meliputi dan diliputi oleh sila lain (Sila 1 adalah Ketuhanan yang berkemanusiaan, berpersatuan, dst).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q23",
+      "question": "Perbedaan utama antara Pengetahuan (Knowledge) dan Ilmu (Science) dalam filsafat adalah...",
+      "options": [
+        "Ilmu tidak perlu metode",
+        "Pengetahuan lebih tinggi dari ilmu",
+        "Ilmu adalah pengetahuan yang tersusun sistematis dan bermetode",
+        "Tidak ada bedanya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Semua ilmu adalah pengetahuan, tapi tidak semua pengetahuan adalah ilmu. Ilmu mensyaratkan sistem dan metode.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q24",
+      "question": "Filsafat Positivisme yang dikemukakan Auguste Comte berpandangan bahwa...",
+      "options": [
+        "Kebenaran hanya bersumber dari wahyu",
+        "Kebenaran hanya diperoleh berdasarkan fakta empiris/indrawi",
+        "Kebenaran adalah ide abstrak",
+        "Kebenaran bersifat mistis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Positivisme menekankan pada fakta positif (nyata/empiris) dan menolak metafisika.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q25",
+      "question": "Salah satu manfaat mempelajari filsafat Pancasila bagi mahasiswa adalah...",
+      "options": [
+        "Agar terlihat pintar",
+        "Memiliki landasan berpikir kritis dan mendalam dalam menghadapi masalah bangsa",
+        "Bisa berdebat tanpa solusi",
+        "Menghafal teori filsuf Yunani"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tujuan filsafat adalah memberikan kerangka berpikir kritis, radikal, dan komprehensif sebagai solusi masalah.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q1",
+      "question": "Istilah 'Paradigma' pertama kali diperkenalkan oleh Thomas Kuhn dalam bukunya 'The Structure of Scientific Revolution'. Paradigma diartikan sebagai...",
+      "options": [
+        "Aturan hukum",
+        "Kerangka berpikir atau model dalam ilmu pengetahuan",
+        "Alat politik",
+        "Metode ekonomi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paradigma adalah kerangka berpikir, asumsi dasar, atau model yang menjadi acuan komunitas ilmiah.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q2",
+      "question": "Pancasila sebagai paradigma pembangunan nasional berarti...",
+      "options": [
+        "Pembangunan hanya fisik semata",
+        "Pancasila menjadi kerangka, acuan, tolok ukur, arah, dan tujuan pembangunan",
+        "Pembangunan harus meniru negara Barat",
+        "Pembangunan fokus pada ekonomi saja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebagai paradigma, Pancasila menjadi landasan nilai dan arah bagi seluruh proses pembangunan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q3",
+      "question": "Dalam pengembangan IPTEK, Sila Pertama (Ketuhanan) berperan untuk...",
+      "options": [
+        "Menghentikan pengembangan ilmu",
+        "Menjadikan ilmuwan sebagai pemuka agama",
+        "Mengimbangi dampak negatif IPTEK agar tidak bertentangan dengan moral agama",
+        "Mewajibkan semua ilmuwan beragama sama"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sila Ketuhanan memberikan landasan moral dan etika agar IPTEK tidak merusak nilai kemanusiaan dan ciptaan Tuhan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q4",
+      "question": "Paradigma pembangunan ekonomi berdasarkan Pancasila mengutamakan sistem...",
+      "options": [
+        "Kapitalisme",
+        "Ekonomi Kerakyatan (Kekeluargaan)",
+        "Etatisme (Negara menguasai semua)",
+        "Liberalisme murni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sila ke-5 dan Pasal 33 UUD 1945 mengamanatkan sistem ekonomi kekeluargaan/kerakyatan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q5",
+      "question": "Pancasila sebagai paradigma pembangunan hukum bertujuan untuk...",
+      "options": [
+        "Menciptakan hukum yang menindas",
+        "Membentuk negara kekuasaan (Machtstaat)",
+        "Mewujudkan keadilan dan perlindungan HAM bagi seluruh rakyat",
+        "Melindungi kepentingan penguasa saja"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hukum berparadigma Pancasila harus bermoral, adil, dan melindungi HAM sesuai Sila 2 dan 5.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q6",
+      "question": "Dalam paradigma politik, sila ke-4 mengajarkan sistem demokrasi yang...",
+      "options": [
+        "Berdasarkan voting (suara terbanyak) mutlak",
+        "Otoriter",
+        "Musyawarah mufakat",
+        "Anarkis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Demokrasi Pancasila mengutamakan musyawarah untuk mufakat, bukan sekadar menang-menangan suara.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q7",
+      "question": "Pembangunan sosial budaya berparadigma Pancasila bertujuan untuk...",
+      "options": [
+        "Menghilangkan budaya lokal",
+        "Mengadopsi budaya Barat sepenuhnya",
+        "Meningkatkan harkat dan martabat manusia serta memperkokoh persatuan bangsa",
+        "Menciptakan konflik antar suku"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pembangunan sosial budaya harus mengangkat nilai kemanusiaan dan mempererat persatuan (Sila 2 & 3).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q8",
+      "question": "Sila 'Kemanusiaan yang Adil dan Beradab' dalam pengembangan IPTEK menuntut agar...",
+      "options": [
+        "IPTEK digunakan untuk perang",
+        "IPTEK harus mensejahterakan dan memanusiakan manusia",
+        "IPTEK hanya untuk kelompok elit",
+        "IPTEK bebas nilai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sila ke-2 menuntut IPTEK bersifat humanis, tidak merendahkan martabat manusia.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q9",
+      "question": "Pancasila sebagai paradigma ketahanan nasional berarti...",
+      "options": [
+        "Mengandalkan kekuatan militer saja",
+        "Ketahanan nasional dibangun di atas landasan nilai-nilai Pancasila",
+        "Menutup diri dari hubungan internasional",
+        "Mewajibkan militerisme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ketahanan nasional mencakup aspek ideologi, politik, ekonomi, sosbud, hankam yang semuanya dilandasi Pancasila.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q10",
+      "question": "Pembangunan pertahanan dan keamanan (Hankam) harus sesuai dengan sila ketiga, artinya...",
+      "options": [
+        "Hankam untuk menindas rakyat",
+        "Hankam untuk kepentingan asing",
+        "Hankam untuk menjaga keutuhan dan persatuan bangsa",
+        "Hankam hanya tugas tentara"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sila Persatuan Indonesia mengarahkan Hankam untuk menjaga integritas NKRI.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q11",
+      "question": "Konsep 'Indigenisasi Ilmu' dalam paradigma Pancasila berarti...",
+      "options": [
+        "Menolak ilmu asing",
+        "Mempribumikan ilmu (menyesuaikan ilmu dengan akar budaya bangsa)",
+        "Membuat ilmu baru dari nol",
+        "Hanya menggunakan bahasa daerah dalam ilmu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Indigenisasi berarti ilmu pengetahuan tidak boleh mencabut bangsa dari akar budayanya, melainkan disesuaikan (kontekstualisasi).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m6_q12",
+      "question": "Dalam bidang ekonomi, Pancasila menolak sistem 'Free Fight Liberalism' karena...",
+      "options": [
+        "Menguntungkan yang kuat dan menindas yang lemah",
+        "Terlalu banyak aturan",
+        "Tidak efisien",
+        "Berasal dari Eropa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Liberalisme bebas menciptakan ketimpangan/eksploitasi, bertentangan dengan keadilan sosial.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q13",
+      "question": "Pancasila juga menolak sistem 'Etatisme' dalam ekonomi. Etatisme adalah...",
+      "options": [
+        "Negara tidak campur tangan",
+        "Negara beserta aparatur ekonomi negara bersifat dominan dan mematikan potensi swasta",
+        "Ekonomi dikuasai asing",
+        "Ekonomi pasar bebas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Etatisme adalah dominasi negara yang berlebihan yang mematikan inisiatif rakyat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q14",
+      "question": "Ilmu pengetahuan tidak boleh bebas nilai (value-free), melainkan harus terikat nilai (value-bound). Nilai yang mengikat IPTEK di Indonesia adalah...",
+      "options": [
+        "Nilai pasar",
+        "Nilai Pancasila",
+        "Nilai Barat",
+        "Nilai keuntungan semata"
+      ],
+      "correctIndex": 1,
+      "explanation": "Di Indonesia, IPTEK harus berlandaskan moral dan etika Pancasila.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q15",
+      "question": "Implementasi Pancasila sebagai paradigma reformasi hukum menuntut...",
+      "options": [
+        "Perubahan UUD 1945 secara total",
+        "Penegakan hukum yang tajam ke bawah tumpul ke atas",
+        "Pembaruan materi hukum agar sesuai dengan nilai keadilan Pancasila",
+        "Penghapusan hukum adat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reformasi hukum bertujuan menyesuaikan aturan hukum agar benar-benar mencerminkan keadilan Pancasila.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q16",
+      "question": "Salah satu syarat negara hukum Pancasila adalah adanya pengakuan terhadap...",
+      "options": [
+        "Kekuasaan raja",
+        "Hak Asasi Manusia (HAM)",
+        "Sistem kasta",
+        "Hukum rimba"
+      ],
+      "correctIndex": 1,
+      "explanation": "Negara hukum wajib melindungi HAM sebagai wujud sila Kemanusiaan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q17",
+      "question": "Peran masyarakat kampus (perguruan tinggi) dalam paradigma pembangunan adalah...",
+      "options": [
+        "Sebagai agen politik praktis",
+        "Sebagai masyarakat ilmiah yang mengembangkan budaya akademik berdasar Pancasila",
+        "Sebagai pendemo bayaran",
+        "Sebagai penonton pembangunan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kampus bertugas mengembangkan ilmu dan budaya akademik secara objektif dan bermoral Pancasila.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q18",
+      "question": "Gerakan reformasi di Indonesia yang berparadigma Pancasila bertujuan untuk...",
+      "options": [
+        "Mengganti dasar negara",
+        "Mengembalikan tatanan kenegaraan yang menyimpang agar sesuai kembali dengan nilai Pancasila",
+        "Menciptakan kekacauan",
+        "Meniru demokrasi liberal Barat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reformasi bukan mengganti Pancasila, tapi mengoreksi penyimpangan agar kembali sesuai Pancasila.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q19",
+      "question": "Sila kelima 'Keadilan Sosial' dalam pembangunan ekonomi menekankan pada...",
+      "options": [
+        "Pertumbuhan ekonomi setinggi-tingginya tanpa pemerataan",
+        "Pemerataan hasil pembangunan bagi seluruh rakyat",
+        "Bantuan asing",
+        "Ekspor bahan mentah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Keadilan sosial fokus pada distribusi/pemerataan kesejahteraan, bukan sekadar pertumbuhan angka makro.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q20",
+      "question": "Dalam paradigma Pancasila, pembangunan tidak boleh bersifat pragmatis. Artinya...",
+      "options": [
+        "Pembangunan tidak boleh hanya mementingkan hasil nyata sesaat dengan mengabaikan etika",
+        "Pembangunan tidak perlu hasil",
+        "Pembangunan harus lambat",
+        "Pembangunan harus mahal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pragmatisme hanya peduli kegunaan/hasil sesaat tanpa peduli moral. Pancasila menuntut proses yang bermoral.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m6_q21",
+      "question": "Karakteristik ekonomi Pancasila adalah mencegah terjadinya monopoli. Monopoli bertentangan dengan...",
+      "options": [
+        "Efisiensi",
+        "Keadilan sosial dan pemerataan",
+        "Keuntungan perusahaan",
+        "Investasi asing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Monopoli memusatkan kekayaan pada segelintir orang, melanggar prinsip keadilan sosial.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q22",
+      "question": "Pembangunan politik berparadigma Pancasila harus menghindarkan diri dari praktik...",
+      "options": [
+        "Musyawarah",
+        "Pemilu",
+        "Money politics (politik uang) dan kampanye hitam",
+        "Debat publik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Politik uang melanggar etika politik Pancasila yang luhur.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q23",
+      "question": "Sila Ketuhanan Yang Maha Esa dalam pengembangan ilmu melengkapi ilmu pengetahuan dengan...",
+      "options": [
+        "Data empiris",
+        "Dimensi moral dan spiritual",
+        "Rumus matematika",
+        "Eksperimen laboratorium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sila 1 memberikan landasan spiritual/transenden agar ilmu tidak kering nilai.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q24",
+      "question": "Penerapan paradigma Pancasila dalam kehidupan kampus dapat diwujudkan melalui...",
+      "options": [
+        "Kebebasan mimbar akademik yang bertanggung jawab",
+        "Pelarangan diskusi ilmiah",
+        "Politisasi kampus",
+        "Plagiarisme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kebebasan akademik adalah hak, namun harus bertanggung jawab moral sesuai Pancasila.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q25",
+      "question": "Pembangunan nasional adalah upaya untuk meningkatkan harkat dan martabat manusia. Ini sesuai dengan konsep Pancasila yaitu...",
+      "options": [
+        "Antropologis",
+        "Humanistik (Kemanusiaan)",
+        "Kapitalistik",
+        "Otoriter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pembangunan berpusat pada manusia (people-centered development) sesuai sila Kemanusiaan.",
+      "difficulty": "medium"
+    }
+  ]
+}
