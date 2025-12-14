@@ -1,0 +1,2896 @@
+{
+  "id": "bank_soal_full",
+  "title": "Bank Soal Lengkap SKOM4432",
+  "questions": [
+    {
+      "id": "m1_q1",
+      "question": "Menurut Murphy dan Hildebrandt, komunikasi bisnis harus memegang 7 prinsip (7C). Prinsip yang mengharuskan pesan disusun secara spesifik dan tidak abstrak disebut...",
+      "options": ["Clarity", "Concretness", "Conciseness", "Courtesy"],
+      "correctIndex": 1,
+      "explanation": "Concretness berarti pesan yang dikomunikasikan disusun secara spesifik, tidak bersifat abstrak[cite: 1319].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q2",
+      "question": "Dalam definisi komunikasi bisnis menurut Rosenblatt, terdapat enam unsur pokok. Salah satu karakteristik yang membedakan organisasi formal dan informal dalam unsur tersebut adalah...",
+      "options": [
+        "Adanya pertukaran gagasan",
+        "Penggunaan saluran personal",
+        "Pencapaian tujuan organisasi",
+        "Penggunaan simbol visual"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pencapaian tujuan organisasi adalah salah satu karakteristik yang membedakan lembaga formal dari informal, karena adanya tujuan yang ditetapkan manajemen[cite: 1309].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q3",
+      "question": "Seorang manajer pemasaran sedang mempresentasikan produk baru kepada sekelompok kecil klien potensial (sekitar 8 orang) untuk mendapatkan masukan langsung. Konteks komunikasi ini dikategorikan sebagai...",
+      "options": [
+        "Komunikasi Massa",
+        "Komunikasi Kelompok Kecil",
+        "Komunikasi Organisasi",
+        "Komunikasi Interpersonal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komunikasi kelompok kecil terjadi pada sekumpulan perorangan yang relatif kecil (sekitar 5-12 orang) di mana anggota bisa berkomunikasi sebagai sumber maupun penerima dengan mudah[cite: 1675, 1690].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q4",
+      "question": "Dalam teori atribusi yang dikemukakan Kelley, jika seorang karyawan memiliki kinerja buruk pada tugas A, tetapi kinerjanya sangat baik pada tugas B dan C, maka perilaku tersebut memiliki...",
+      "options": [
+        "Konsistensi tinggi",
+        "Konsensus tinggi",
+        "Kekhasan (distinctiveness) tinggi",
+        "Kekhasan (distinctiveness) rendah"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kekhasan (distinctiveness) merujuk pada apakah si pelaku bertindak sama pada situasi lain atau tidak. Jika berbeda (hanya buruk di tugas A), maka kekhasannya tinggi[cite: 1588].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q5",
+      "question": "Hambatan komunikasi antarbudaya sering terjadi karena perbedaan persepsi. Kasus manajer 'VJ' di Batam yang menghina pekerja Indonesia sebagai 'bodoh' hingga memicu kerusuhan adalah contoh kegagalan memahami...",
+      "options": [
+        "Konteks teknologi komunikasi",
+        "Sistem nilai dan etika budaya lokal",
+        "Struktur organisasi formal",
+        "Saluran komunikasi media massa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasus tersebut menunjukkan kegagalan komunikasi antarbudaya yang fatal karena tidak menghargai pekerja lokal, yang berkaitan dengan etika dan nilai budaya[cite: 1941].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q6",
+      "question": "Manakah pernyataan berikut yang PALING TEPAT menggambarkan pandangan Humanistik dalam komunikasi organisasi?",
+      "options": [
+        "Manusia adalah onderdil mesin yang harus berfungsi sesuai standar",
+        "Manusia adalah makhluk pasif yang harus dikendalikan secara ketat",
+        "Manusia adalah makhluk khas yang aktif menentukan keputusan hidupnya",
+        "Organisasi akan berjalan baik jika manusia diganti saat rusak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pandangan Humanistik memandang manusia sebagai makhluk yang khas, memiliki motivasi, dan aktif menentukan keputusan hidupnya, berbeda dengan pandangan mekanistik[cite: 1875].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q7",
+      "question": "Berdasarkan teori kebutuhan interpersonal William C. Schultz, individu yang selalu menghindari situasi kesendirian dan ingin selalu berada dalam kelompok dikategorikan memiliki kebutuhan...",
+      "options": [
+        "Inclusion (Inklusi)",
+        "Control (Kontrol)",
+        "Affection (Kasih sayang)",
+        "Achievement (Prestasi)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Berdasarkan kebutuhan inclusion, terdapat tipe orang yang selalu menghindari situasi kesendirian dan ingin selalu berada dalam kelompok[cite: 1646, 1647].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q8",
+      "question": "Dalam komunikasi massa, media memiliki fungsi 'pengawasan lingkungan'. Fungsi ini dikemukakan oleh...",
+      "options": ["Wilbur Schramm", "Harold Lasswell", "Wright", "McQuail"],
+      "correctIndex": 1,
+      "explanation": "Lasswell mengajukan tiga fungsi media massa, salah satunya adalah pengawasan lingkungan[cite: 1795].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q9",
+      "question": "Jika sebuah perusahaan ingin mendapatkan reaksi publik yang mendalam mengenai produk baru melalui diskusi yang dipandu fasilitator profesional dengan anggota acak namun representatif, jenis kelompok yang dibentuk adalah...",
+      "options": [
+        "Komite",
+        "Konferensi Media",
+        "Fokus Grup (Focus Group)",
+        "Rapat Publik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fokus grup adalah kegiatan pembentukan kelompok untuk mengetahui reaksi publik terhadap produk/jasa melalui diskusi yang dipandu fasilitator[cite: 1618].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q10",
+      "question": "Seorang komunikator bisnis harus memperhatikan 'Courtesy'. Contoh penerapan prinsip ini adalah...",
+      "options": [
+        "Menggunakan data statistik yang sangat detail dan rumit",
+        "Menggunakan kalimat singkat dan padat tanpa basa-basi",
+        "Menggunakan tata krama dan sopan santun sebagai bentuk penghargaan",
+        "Menyampaikan pesan secara abstrak agar terlihat intelek"
+      ],
+      "correctIndex": 2,
+      "explanation": "Courtesy berkaitan dengan sopan santun dan tata krama dalam berkomunikasi sebagai bentuk penghargaan kepada komunikan[cite: 1322].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q11",
+      "question": "Perbedaan utama antara komunikasi kelompok kecil dan komunikasi kelompok besar (publik) menurut Effendy adalah...",
+      "options": [
+        "Kelompok kecil ditujukan pada afeksi (perasaan), kelompok besar pada kognisi",
+        "Kelompok kecil berlangsung linier, kelompok besar dialogis",
+        "Kelompok kecil ditujukan pada kognisi (logika), kelompok besar pada afeksi (perasaan)",
+        "Kelompok kecil tidak memerlukan umpan balik, kelompok besar butuh umpan balik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Komunikasi kelompok kecil ditujukan kepada kognisi/logika, sedangkan komunikasi kelompok besar ditujukan kepada afeksi/perasaan komunikan[cite: 1679, 1710].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q12",
+      "question": "Lawrence D. Brennan mendefinisikan komunikasi bisnis sebagai struktur dinamis dari pertukaran gagasan untuk mendapatkan keuntungan. Apa implikasi utama dari definisi ini?",
+      "options": [
+        "Bisnis bisa berjalan tanpa komunikasi asalkan ada modal",
+        "Bisnis hanya berorientasi pada keuntungan finansial semata",
+        "Bisnis mustahil berjalan tanpa jaringan komunikasi antar-individu",
+        "Komunikasi bisnis hanya terjadi pada level manajemen puncak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Definisi tersebut menyiratkan bahwa organisasi mustahil dapat berjalan tanpa jaringan komunikasi antar-individu ('without communication, there would be no organization')[cite: 1197, 1296].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q13",
+      "question": "Dalam persepsi interpersonal, 'Petunjuk Proksemik' merujuk pada...",
+      "options": [
+        "Penggunaan jarak dalam menyampaikan pesan",
+        "Ekspresi wajah saat berbicara",
+        "Tinggi rendahnya nada suara",
+        "Pakaian dan atribut yang dikenakan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Petunjuk proksemik adalah penggunaan jarak dalam menyampaikan pesan, yang menunjukkan tingkat keakraban[cite: 1557].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q14",
+      "question": "Seorang pimpinan perusahaan menyadari bahwa pesannya sering disalahartikan karena perbedaan latar belakang budaya dengan mitra bisnis dari Jepang. Di Jepang, komunikasi cenderung menekankan pada...",
+      "options": [
+        "Transfer pesan secara langsung dan eksplisit",
+        "Penafsiran pesan dan komunikasi tidak langsung",
+        "Kredibilitas sumber daripada harmoni",
+        "Perbaikan formulasi pesan verbal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Di Asia (termasuk Jepang), komunikasi dipandang sebagai proses penafsiran dan cenderung menekankan pada komunikasi tidak langsung karena etika/norma sangat berpengaruh[cite: 1631, 1632].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q15",
+      "question": "Tipe individu dalam kelompok yang 'senang mendominasi orang lain, tetapi juga mudah dan ingin diatur orang lain' menurut klasifikasi kebutuhan 'Control' adalah...",
+      "options": ["Demokratis", "Otoriter", "Ambivalent", "Indifferent"],
+      "correctIndex": 0,
+      "explanation": "Tipe individu berdasarkan kebutuhan control yang senang mendominasi sekaligus mudah diatur disebut dalam konteks tipe (a) pada klasifikasi tersebut (meski istilah spesifik 'demokratis' tidak eksplisit di teks, deskripsinya sesuai dengan poin 2.a pada sumber)[cite: 1655]. *Catatan: Berdasarkan teks modul, deskripsinya adalah 'Orang yang senang mendominasi/mengatur orang lain, sekaligus mudah dan ingin diatur orang lain'.*",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q16",
+      "question": "Manakah di bawah ini yang BUKAN merupakan karakteristik dari Komunikasi Massa?",
+      "options": [
+        "Komunikan bersifat homogen",
+        "Komunikasi bersifat umum dan terbuka",
+        "Menimbulkan keserempakan",
+        "Hubungan komunikator dan komunikan bersifat nonpribadi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karakteristik komunikasi massa adalah komunikan bersifat heterogen, bukan homogen[cite: 1805].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q17",
+      "question": "Dalam konteks komunikasi bisnis, variabel 'Konteks' (in what context) ditambahkan ke dalam model komunikasi oleh...",
+      "options": [
+        "David K. Berlo",
+        "Wilbur Schramm",
+        "Rosenblatt, et. al.",
+        "Shannon & Weaver"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rosenblatt, et.al. menguraikan variabel komunikasi bisnis dengan menambahkan variabel konteks[cite: 2208].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q18",
+      "question": "Perbedaan mendasar antara 'Signal Communication' dan 'Gestural Communication' adalah...",
+      "options": [
+        "Signal menggunakan alat elektronik, Gestural menggunakan tulisan",
+        "Signal menggunakan tanda/rambu (seperti cahaya/tata ruang), Gestural menggunakan bahasa tubuh",
+        "Signal untuk internal, Gestural untuk eksternal",
+        "Signal bersifat verbal, Gestural bersifat nonverbal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gestural communication adalah komunikasi dengan bahasa tubuh (raut wajah, gerakan), sedangkan Signal communication menggunakan tanda seperti cahaya terang, pintu terbuka, dll[cite: 2156, 2160].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q19",
+      "question": "Fungsi komunikasi yang bertujuan untuk memberikan 'koreksi terhadap kinerja bawahan agar tidak terjadi kesalahan' disebut sebagai...",
+      "options": [
+        "Umpan balik informasional",
+        "Umpan balik korektif",
+        "Umpan balik peneguhan",
+        "Umpan balik instruktif"
+      ],
+      "correctIndex": 1,
+      "explanation": "Umpan balik korektif dimaksudkan untuk memberikan koreksi terhadap kinerja bawahan agar tidak terjadi atau menghindari kesalahan[cite: 3011, 3012].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q20",
+      "question": "Dalam model 7C, prinsip 'Completeness' (Kelengkapan) sangat penting karena...",
+      "options": [
+        "Informasi yang lengkap memberikan ketenangan, kepercayaan, dan kepastian",
+        "Informasi yang lengkap membuat pesan menjadi singkat dan padat",
+        "Informasi yang lengkap lebih mengutamakan tata bahasa yang indah",
+        "Informasi yang lengkap menyembunyikan fakta negatif"
+      ],
+      "correctIndex": 0,
+      "explanation": "Completness berarti memberikan informasi selengkap mungkin karena informasi yang lengkap memberikan ketenangan, kepercayaan, dan kepastian[cite: 1315].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q21",
+      "question": "Jika seorang manajer menggunakan 'Petunjuk Paralinguistik' untuk menilai kejujuran bawahannya, maka yang ia perhatikan adalah...",
+      "options": [
+        "Pilihan kata yang digunakan",
+        "Cara pengucapan, tempo bicara, dan nada suara",
+        "Jarak duduk saat berbicara",
+        "Pakaian yang dikenakan bawahan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Petunjuk paralinguistik mencerminkan bagaimana mengucapkan sesuatu, meliputi tinggi rendah suara, tempo bicara, dan dialek[cite: 1566].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m1_q22",
+      "question": "Mengapa Edward T. Hall menyatakan 'culture is communication and communication is culture'?",
+      "options": [
+        "Karena budaya hanya bisa dilihat dari pakaian",
+        "Karena cara kita berkomunikasi sangat tergantung pada aturan, bahasa, dan norma budaya kita",
+        "Karena komunikasi tidak memerlukan pemahaman budaya",
+        "Karena budaya perusahaan terpisah dari budaya individu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Budaya yang berbeda memiliki sistem nilai berbeda, dan cara berkomunikasi sangat tergantung pada budaya (aturan, bahasa, norma)[cite: 1968, 1970].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q23",
+      "question": "Salah satu tantangan komunikasi bisnis di era globalisasi menurut Priyatna dan Ardianto adalah 'publik semakin kritis'. Implikasi dari hal ini bagi perusahaan adalah...",
+      "options": [
+        "Perusahaan harus mengurangi transparansi informasi",
+        "Perusahaan harus mengabaikan opini publik",
+        "Perusahaan membutuhkan strategi komunikasi yang mampu mengelola reputasi dan citra secara profesional",
+        "Perusahaan hanya perlu fokus pada produksi barang murah"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tuntutan publik yang semakin kritis dan besarnya pengaruh opini publik membuat kehadiran bidang komunikasi bisnis semakin dibutuhkan untuk mengelola citra[cite: 1191, 1193].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m1_q24",
+      "question": "Dalam tipologi individu dalam organisasi, karyawan yang 'selalu bergerak ke atas, mengejar kemajuan, dan ingin berprestasi' disebut tipe...",
+      "options": [
+        "Indifferent",
+        "Ambivalent",
+        "Upward Mobile",
+        "Authoritarian"
+      ],
+      "correctIndex": 2,
+      "explanation": "Individu dengan tipe upward mobile akan selalu cenderung bergerak ke atas atau bekerja mengejar kemajuan dan ingin berprestasi[cite: 1911].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m1_q25",
+      "question": "Manakah yang merupakan elemen dari 'Lingkungan Internal' dalam ruang lingkup komunikasi bisnis menurut Rosenblatt?",
+      "options": [
+        "Pelanggan dan Pemasok",
+        "Regulator dan Penyalur",
+        "Pemilik, Manajemen, dan Karyawan",
+        "Pesaing dan Pemerintah"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lingkungan internal organisasi digambarkan dengan kotak di tengah yang terdiri dari pemilik, manajemen, dan karyawan[cite: 2324, 2332].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q1",
+      "question": "Komunikasi yang terjadi antara orang-orang di dalam organisasi dengan pihak luar seperti klien, dealer, atau pemerintah disebut...",
+      "options": [
+        "Komunikasi Internal",
+        "Komunikasi Eksternal",
+        "Komunikasi Informal",
+        "Komunikasi Nonverbal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komunikasi eksternal adalah komunikasi yang terjadi dengan siapa pun di luar organisasi seperti klien, dealer, media, dll[cite: 2611, 2612].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q2",
+      "question": "Salah satu keunggulan komunikasi formal dalam organisasi bisnis adalah...",
+      "options": [
+        "Penyebaran informasi sangat cepat karena tidak ada birokrasi",
+        "Menjamin pemeliharaan otoritas dan akuntabilitas kerja",
+        "Memberikan kelegaan emosional bagi karyawan",
+        "Fleksibel dan tidak kaku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Keunggulan komunikasi formal adalah melewati jalur birokrasi dan otoritas sehingga menjamin pemeliharaan otoritas serta akuntabilitas[cite: 2700].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q3",
+      "question": "Kasus Fred Davis, manajer telekomunikasi yang gagal menerapkan sistem baru meskipun secara teknis sempurna, disebabkan oleh...",
+      "options": [
+        "Sistem komputer yang rusak",
+        "Kegagalan berkomunikasi dengan calon pengguna (karyawan) untuk membangun konsensus",
+        "Kurangnya dana perusahaan",
+        "Sabotase dari pihak eksternal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Masalah utama Fred adalah kegagalannya berkomunikasi dengan calon pengguna dan tidak membangun konsensus yang mendukung rencananya[cite: 2574, 2576].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q4",
+      "question": "Fungsi komunikasi yang berkaitan dengan penyatuan fungsi manajemen yang berbeda dan mengoordinasikan berbagai unit disebut fungsi...",
+      "options": ["Instruksi", "Integrasi", "Evaluasi", "Informasi"],
+      "correctIndex": 1,
+      "explanation": "Fungsi integrasi (konsolidasi) adalah integrasi kegiatan yang melibatkan dan mengoordinasikan berbagai unit manajemen[cite: 2862].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q5",
+      "question": "Dalam strategi persuasi, prinsip 'Inokulasi' mengacu pada...",
+      "options": [
+        "Khalayak hanya mencari informasi yang mendukung opininya",
+        "Khalayak yang sudah mengetahui posisi pembicara dan siap dengan argumen penolakan",
+        "Khalayak berpartisipasi aktif dalam presentasi",
+        "Khalayak berubah secara drastis dalam waktu singkat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prinsip inokulasi berarti khalayak telah mengetahui posisi pembicara dan telah menyiapkan argumen untuk menentang pembicara[cite: 2967].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q6",
+      "question": "Manakah yang merupakan ciri dari 'Rumor' atau selentingan berita (grapevine)?",
+      "options": [
+        "Berkembang lambat dan mengikuti struktur organisasi",
+        "Memiliki akurasi data yang sangat tinggi",
+        "Berkembang sangat cepat berdasarkan suka atau tidak suka",
+        "Selalu didokumentasikan secara tertulis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ciri rumor adalah pesan berkembang sangat cepat karena didasarkan pada suka atau tidak suka suatu kelompok[cite: 2718].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q7",
+      "question": "Fungsi komunikasi 'Emotif' berorientasi pada...",
+      "options": [
+        "Penyampaian data statistik yang akurat",
+        "Penerimaan isi pesan berdasarkan rasa suka, benci, atau kepuasan",
+        "Pengawasan kinerja karyawan secara ketat",
+        "Penyampaian instruksi kerja teknis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fungsi emotif meningkatkan penerimaan isi pesan karena berkaitan dengan rasa suka/tidak suka, benci/cinta, puas/tidak puas[cite: 3033].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q8",
+      "question": "Teknik persuasi 'IOU (I owe you)' atau trade-off bekerja dengan cara...",
+      "options": [
+        "Memojokkan audiens dengan pertanyaan sulit",
+        "Menempatkan audiens sebagai pihak yang merasa berhutang budi",
+        "Menggiring audiens untuk selalu berkata 'ya'",
+        "Mendengarkan pendapat audiens terlebih dahulu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taktik IOU menempatkan audiens sebagai pihak yang merasa mempunyai utang budi sehingga ingin membayarnya dengan menerima pesan komunikator[cite: 2999, 3000].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q9",
+      "question": "Menurut Quible, Johnson, dan Mott, tipe komunikasi 'Visual' meliputi hal-hal berikut, KECUALI...",
+      "options": [
+        "Desain gedung",
+        "Pakaian",
+        "Presentasi penjualan lisan",
+        "Papan petunjuk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Presentasi penjualan dikategorikan sebagai komunikasi lisan, sedangkan komunikasi visual meliputi desain gedung, pakaian, gambar, dll[cite: 2643, 2646].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q10",
+      "question": "Salah satu kelemahan komunikasi formal adalah...",
+      "options": [
+        "Informasi menjadi tidak bisa dipercaya",
+        "Terlalu fleksibel sehingga membingungkan",
+        "Memakan waktu lama karena harus mengikuti birokrasi panjang",
+        "Tidak ada rekam jejak dokumentasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kelemahan komunikasi formal adalah memakan waktu lama karena harus mengikuti rangkaian birokrasi yang panjang[cite: 2710].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q11",
+      "question": "Jika seorang manajer ingin memastikan instruksinya dijalankan dengan benar dan menghindari penyimpangan, ia sedang menjalankan fungsi...",
+      "options": ["Informatif", "Persuasif", "Kontrol", "Emotif"],
+      "correctIndex": 2,
+      "explanation": "Fungsi kontrol bertujuan menjamin kontinuitas implementasi perencanaan dan menghindari penyimpangan[cite: 3003].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q12",
+      "question": "Dalam mengatasi 'Unjustified Opposition' (oposisi yang tidak adil/egois) saat berkoordinasi, Rodney Overton menyarankan...",
+      "options": [
+        "Menggunakan logika semata",
+        "Menggunakan persuasi berdasarkan sentimen atau daya tarik emosional",
+        "Mengabaikan orang tersebut",
+        "Melaporkan ke atasan langsung"
+      ],
+      "correctIndex": 1,
+      "explanation": "Untuk oposisi langsung (termasuk yang egois/marah), persuasi berdasarkan sentimen atau daya tarik emosional dapat membantu mengatasi jenis oposisi ini[cite: 3020]. *Catatan: Penjelasan teks menghubungkan daya tarik emosional dengan 'Direct Opposition' (poin 2), namun konteks 'Unjustified' (poin 4) seringkali memerlukan pendekatan serupa jika mereka tidak tertarik pada keinginan kita.*",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q13",
+      "question": "Fungsi 'Image Building' dalam komunikasi bisnis bertujuan untuk...",
+      "options": [
+        "Menciptakan goodwill dan kepercayaan di kalangan masyarakat",
+        "Meningkatkan beban kerja karyawan",
+        "Menutupi kesalahan perusahaan",
+        "Mengurangi biaya produksi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Goodwill dan kepercayaan harus diciptakan di kalangan masyarakat melalui fungsi image building (proyeksi citra)[cite: 2878].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q14",
+      "question": "Gerald Ratner menghancurkan reputasi perusahaannya sendiri karena melakukan kesalahan fatal dalam komunikasi bisnis, yaitu...",
+      "options": [
+        "Menyebut produknya sendiri sebagai 'sampah murah' dalam pidato",
+        "Menggelapkan dana perusahaan",
+        "Tidak membayar gaji karyawan",
+        "Gagal meluncurkan produk baru"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ratner menyebut beberapa produknya sebagai 'sampah murah' (total crap) yang menyebabkan penjualan merosot dan perusahaan tidak pulih[cite: 2547, 2550].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q15",
+      "question": "Dalam prinsip pemaparan selektif (selective exposure), audiens cenderung...",
+      "options": [
+        "Menerima semua informasi secara objektif",
+        "Mencari informasi yang mendukung opininya dan menghindari yang bertentangan",
+        "Hanya mendengarkan informasi dari atasan",
+        "Tidak peduli pada informasi apapun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hukum pemaparan selektif menyatakan pendengar aktif mencari info yang mendukung opini mereka dan menghindari yang bertentangan[cite: 2962].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q16",
+      "question": "Teknik persuasi 'Jangan tanya apabila, tetapi yang mana' bertujuan untuk...",
+      "options": [
+        "Memberikan kebebasan penuh pada audiens",
+        "Memojokkan audiens agar tidak punya kesempatan memilih jawaban selain yang diinginkan",
+        "Mencari masukan sebanyak-banyaknya",
+        "Membuat audiens merasa berhutang budi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Teknik ini digunakan untuk memojokkan audiens agar tidak mempunyai kesempatan untuk memilih jawaban selain yang diinginkan komunikator[cite: 2984].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q17",
+      "question": "Komunikasi informal dalam organisasi seringkali muncul untuk...",
+      "options": [
+        "Menggantikan seluruh komunikasi formal",
+        "Memenuhi kebutuhan sosial dan mengatasi kelambatan komunikasi formal",
+        "Menghapus struktur organisasi",
+        "Memastikan akurasi data 100%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komunikasi informal berfungsi memenuhi kebutuhan sosial dan mengatasi kelambatan komunikasi formal yang cenderung kaku[cite: 2696].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q18",
+      "question": "Untuk menekan rumor yang membahayakan organisasi, tindakan yang disarankan bagi manajer adalah...",
+      "options": [
+        "Mengabaikan rumor tersebut hingga hilang sendiri",
+        "Menemukan pemimpin kelompok informal dan menggunakan jalur resmi untuk klarifikasi",
+        "Memecat semua karyawan yang bergosip",
+        "Membuat rumor tandingan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Manajer harus menemukan pemimpin kelompok informal dan segera menggunakan jalur resmi untuk mengklarifikasi rumor[cite: 2728].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m2_q19",
+      "question": "Bentuk komunikasi yang pesannya disampaikan melalui simbol-simbol animasi dan suara (seperti film atau video) disebut...",
+      "options": [
+        "Komunikasi Visual",
+        "Komunikasi Audiovisual",
+        "Komunikasi Tertulis",
+        "Komunikasi Nonverbal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komunikasi audiovisual merupakan kegiatan penyampaian pesan melalui simbol-simbol animasi dan suara[cite: 2663].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q20",
+      "question": "Dalam organisasi bisnis, komunikasi lisan (oral) lebih disukai digunakan apabila...",
+      "options": [
+        "Pesan sangat kompleks dan rinci",
+        "Dibutuhkan dokumentasi permanen",
+        "Dibutuhkan umpan balik langsung dalam pemecahan masalah",
+        "Jumlah khalayak sangat besar dan tersebar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Komunikasi lisan digunakan bila pesan tidak kompleks, tidak perlu dokumentasi permanen, dan membutuhkan umpan balik langsung[cite: 2654].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q21",
+      "question": "Salah satu alasan utama komunikasi bisnis perlu dijalankan secara efektif di era sekarang adalah 'membanjirnya kuantitas data dan informasi'. Hal ini menuntut...",
+      "options": [
+        "Kemampuan memilah dan mengelola informasi agar tidak terjadi overload",
+        "Penghentian penggunaan teknologi",
+        "Pengurangan jam kerja karyawan",
+        "Penutupan akses informasi eksternal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Membanjirnya kuantitas data adalah salah satu masalah yang menuntut komunikasi efektif (implikasi dari tantangan komunikasi bisnis)[cite: 2636].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q22",
+      "question": "Fungsi 'Instruksi' (Instructive) dalam komunikasi bisnis bersifat...",
+      "options": [
+        "Bottom-up (dari bawah ke atas)",
+        "Horizontal (setara)",
+        "Direktif (arahan dari atasan ke bawahan)",
+        "Konsultatif (saran)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fungsi instruktif berkaitan dengan sifat memerintah/direktif, di mana petunjuk mengalir dari atasan ke bawahan[cite: 2856, 2861].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q23",
+      "question": "Dalam konteks komunikasi internal, ketika orang berkomunikasi untuk bekerja sebagai tim dan mewujudkan tujuan bersama, komunikasi tersebut bisa bersifat...",
+      "options": [
+        "Hanya resmi (formal)",
+        "Hanya tidak resmi (informal)",
+        "Resmi (formal) atau tidak resmi (informal)",
+        "Eksternal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Komunikasi internal bisa menjadi resmi (formal) atau tidak resmi (informal)[cite: 2624].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m2_q24",
+      "question": "Werner David mengusulkan langkah dasar bagi manajemen untuk bertanggung jawab atas komunikasi, salah satunya adalah...",
+      "options": [
+        "Melarang gosip sepenuhnya",
+        "Membuat manajer senior secara resmi bertanggung jawab menghubungkan karyawan ke jaringan komunikasi",
+        "Menggunakan satu jenis media saja untuk hemat biaya",
+        "Mengurangi frekuensi rapat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Salah satu langkahnya adalah membuat manajer senior secara resmi bertanggung jawab untuk menghubungkan setiap karyawan ke dalam jaringan komunikasi[cite: 2675].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m2_q25",
+      "question": "Komunikasi 'Nonformal' berbeda dengan informal karena...",
+      "options": [
+        "Berada di antara formal dan tidak resmi, biasanya berhubungan dengan hubungan pribadi dalam konteks tugas",
+        "Sepenuhnya berupa gosip liar",
+        "Sangat kaku dan birokratis",
+        "Tidak diakui dalam organisasi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Komunikasi nonformal adalah proses komunikasi yang berada di antara formal dengan tidak resmi, biasanya berhubungan dengan hubungan pribadi[cite: 2697, 2698].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m3_q1",
+      "question": "Siaran pers (press release) yang dikirim ke media massa tidak selalu dimuat. Salah satu alasan penolakannya adalah...",
+      "options": [
+        "Isi siaran pers mengandung unsur kelayakan berita yang tinggi",
+        "Isi siaran pers terlalu bias, berbau promosi, atau seperti iklan",
+        "Ditulis menggunakan bahasa jurnalistik standar",
+        "Dikirim oleh perusahaan yang kredibel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Penolakan bisa disebabkan siaran berita yang dikirim terlalu bias, berbau promosi, atau seperti iklan[cite: 218].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q2",
+      "question": "Struktur penulisan siaran pers (berita langsung) biasanya menggunakan pola...",
+      "options": [
+        "Piramida Terbalik",
+        "Piramida Tegak",
+        "Kronologis murni",
+        "Argumentatif"
+      ],
+      "correctIndex": 0,
+      "explanation": "Berita langsung menggunakan struktur tulisan piramida terbalik, menempatkan fakta paling penting di awal[cite: 340].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q3",
+      "question": "Unsur 'Lead' atau teras berita dalam siaran pers berfungsi sebagai...",
+      "options": [
+        "Kesimpulan akhir dari berita",
+        "Penggugah rasa ingin tahu pembaca dan dasar pengembangan tulisan",
+        "Daftar pustaka atau referensi",
+        "Biodata penulis siaran pers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Teras berita berfungsi sebagai penggugah rasa ingin tahu pembaca dan dasar bagi pengembangan kerangka tulisan[cite: 375, 376].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q4",
+      "question": "Dalam penulisan 'Sketsa Biografi', pendekatan yang digunakan berbeda dengan Curriculum Vitae (CV). Perbedaannya adalah...",
+      "options": [
+        "Sketsa biografi enumeratif (poin-poin), CV naratif",
+        "Sketsa biografi naratif (uraian), CV enumeratif",
+        "Sketsa biografi lebih panjang dari CV",
+        "Sketsa biografi memuat seluruh riwayat hidup tanpa terkecuali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Berbeda dengan CV yang biasanya enumeratif, sketsa biografi ditulis dengan cara uraian (naratif)[cite: 732].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q5",
+      "question": "Tujuan utama penulisan 'Backgrounder' adalah...",
+      "options": [
+        "Memberikan berita hangat yang harus segera dimuat (breaking news)",
+        "Memberikan informasi latar/mendalam tentang perusahaan, produk, atau isu",
+        "Mengundang wartawan untuk makan siang",
+        "Menyajikan data statistik penjualan bulanan saja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Backgrounder adalah format informasi tertulis yang biasanya berisi tentang informasi latar dari sebuah perusahaan atau isu[cite: 186].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q6",
+      "question": "Rumus 5W+1H digunakan untuk menggali bahan berita. Pertanyaan 'Why' (Mengapa) bertujuan untuk mendapatkan informasi tentang...",
+      "options": [
+        "Identitas pelaku",
+        "Tempat kejadian",
+        "Latar belakang atau penyebab suatu kejadian",
+        "Waktu kejadian"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jawaban terhadap pertanyaan 'Mengapa' akan berisi tentang latar belakang suatu kejadian atau penyebab suatu kejadian[cite: 307].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q7",
+      "question": "Salah satu syarat tulisan informatif adalah 'Straightforward', yang artinya...",
+      "options": [
+        "Tulisan harus panjang dan berbunga-bunga",
+        "Tulisan disampaikan apa adanya, langsung ke pokok masalah",
+        "Tulisan harus memihak salah satu kubu",
+        "Tulisan berisi opini penulis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Langsung (straightforward) artinya tulisan informatif disampaikan apa adanya dengan menekankan kesegeraan dan langsung pokok masalah[cite: 158].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q8",
+      "question": "Nilai berita (news values) 'Prominence' berarti...",
+      "options": [
+        "Peristiwa tersebut baru saja terjadi",
+        "Peristiwa tersebut melibatkan orang-orang terkenal atau punya posisi penting",
+        "Peristiwa tersebut terjadi di dekat pembaca",
+        "Peristiwa tersebut menyentuh rasa kemanusiaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prominence berarti suatu peristiwa melibatkan orang-orang terkenal atau orang yang mempunyai posisi sosial politik penting[cite: 274].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q9",
+      "question": "Jika sebuah siaran pers menggunakan 'Who lead', maka fokus utamanya adalah...",
+      "options": [
+        "Tempat kejadian",
+        "Waktu kejadian",
+        "Siapa (tokoh/orang) yang terlibat dalam peristiwa",
+        "Penyebab peristiwa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Who lead digunakan jika 'siapa' (orang/tokoh) adalah unsur yang paling penting atau terkenal[cite: 384].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q10",
+      "question": "Ketentuan teknis penulisan siaran pers menyarankan penggunaan kertas berlogo lembaga (letterhead) agar...",
+      "options": [
+        "Terlihat mahal dan mewah",
+        "Penerima (redaktur) segera tahu asal-usul pengirim dan mudah mengidentifikasinya",
+        "Bisa dijual kembali",
+        "Memenuhi syarat legalitas hukum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kertas berlogo digunakan agar penerima tahu asal-usul organisasi dan memudahkan redaktur mengidentifikasi release[cite: 486, 487].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q11",
+      "question": "Sebuah 'Fact Sheet' biasanya berisi...",
+      "options": [
+        "Cerita fiksi tentang perusahaan",
+        "Fakta-fakta penting dan menarik terkait perusahaan/produk secara ringkas",
+        "Laporan keuangan lengkap 10 tahun terakhir",
+        "Transkrip wawancara direktur"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fact sheet biasanya berisi tentang fakta-fakta penting dan menarik yang terkait perusahaan seperti tentang produk atau layanan[cite: 185].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q12",
+      "question": "Jika seorang humas ingin membangun kredibilitas seorang direktur baru yang belum dikenal publik, jenis tulisan yang paling tepat dibuat adalah...",
+      "options": [
+        "Annual Report",
+        "Newsletter",
+        "Sketsa Biografi",
+        "Iklan Baris"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sketsa biografi ditulis dengan tujuan membangun kredibilitas orang tersebut pada publik yang mungkin belum banyak mengenalnya[cite: 940].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m3_q13",
+      "question": "Dalam penulisan Backgrounder, salah satu syaratnya adalah 'Netral', yang berarti...",
+      "options": [
+        "Bahasa yang digunakan tidak memihak",
+        "Tidak mengandung informasi apapun",
+        "Hanya berisi kutipan tokoh",
+        "Ditulis oleh pihak ketiga"
+      ],
+      "correctIndex": 0,
+      "explanation": "Syarat penulisan backgrounder salah satunya adalah netral, bahasa backgrounder tidak memihak[cite: 855].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q14",
+      "question": "Mengapa dalam Sketsa Biografi sebaiknya TIDAK memulai lead dengan tanggal dan tempat lahir?",
+      "options": [
+        "Karena itu informasi rahasia",
+        "Karena kurang efektif untuk membangun kredibilitas tokoh di awal tulisan",
+        "Karena tanggal lahir sering berubah",
+        "Karena media massa melarangnya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tanggal dan tempat lahir bukan informasi yang baik untuk membangun kredibilitas orang di awal; sebaiknya dimulai dengan posisi terakhir/prestasi[cite: 780, 781].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m3_q15",
+      "question": "Berdasarkan nilai berita 'Proximity', sebuah peristiwa dianggap layak berita jika...",
+      "options": [
+        "Melibatkan uang dalam jumlah besar",
+        "Terjadi dekat secara fisik atau psikologis dengan khalayak",
+        "Merupakan penemuan teknologi baru",
+        "Sangat aneh dan tidak masuk akal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proximity adalah nilai berita di mana peristiwa dekat secara fisik maupun psikologis dengan khalayak[cite: 275].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q16",
+      "question": "Apa fungsi 'Contact Person' yang dicantumkan dalam siaran pers?",
+      "options": [
+        "Agar wartawan bisa meminjam uang",
+        "Agar redaktur bisa melakukan konfirmasi atau meminta informasi tambahan",
+        "Agar pembaca bisa melamar kerja",
+        "Hanya sebagai formalitas administrasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contact person dicantumkan agar redaktur yang ingin memperoleh informasi lebih lengkap/konfirmasi bisa menghubungi sumber[cite: 496, 497].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q17",
+      "question": "Aronson dan Spetner menyarankan agar dalam menulis sketsa biografi, penulis harus 'Back up all your claims'. Artinya...",
+      "options": [
+        "Menyimpan cadangan file tulisan",
+        "Mendukung setiap klaim prestasi dengan fakta dan data",
+        "Mengklaim semua prestasi sebagai milik penulis",
+        "Menulis ulang klaim berkali-kali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Back up all your claims berarti dukung setiap klaim yang dibuat dengan fakta dan data[cite: 750].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q18",
+      "question": "Newsletter adalah terbitan berkala yang biasanya difokuskan pada...",
+      "options": [
+        "Pemuatan iklan lowongan kerja saja",
+        "Pemuatan berita (news) rutin organisasi untuk publik internal/eksternal",
+        "Laporan keuangan tahunan yang sangat detail",
+        "Opini pribadi pimpinan tanpa fakta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Newsletter adalah terbitan berkala yang menyajikan informasi rutin/berita kepada publik internal maupun eksternal[cite: 188, 190].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q19",
+      "question": "Apa yang dimaksud dengan 'Magnitude' dalam nilai berita?",
+      "options": [
+        "Keterkenalan tokoh",
+        "Besaran dampak, jumlah orang, atau uang yang terlibat",
+        "Kedekatan lokasi",
+        "Unsur kemanusiaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magnitude adalah peristiwa yang memiliki unsur besaran atau melibatkan jumlah orang atau uang yang besar[cite: 269].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q20",
+      "question": "Dalam struktur piramida terbalik, bagian 'Tubuh' berita berisi...",
+      "options": [
+        "Fakta paling penting dan inti berita",
+        "Penjelasan lebih lanjut atau elaborasi terhadap lead",
+        "Kesimpulan dan saran",
+        "Daftar pustaka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tubuh berita berisi penjelasan lebih lanjut terhadap informasi yang ada dalam lead[cite: 361, 447].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m3_q21",
+      "question": "Salah satu bentuk tulisan informatif adalah 'Annual Report'. Dokumen ini berisi...",
+      "options": [
+        "Berita harian karyawan",
+        "Laporan tentang aset, capaian, dan aktivitas perusahaan dalam setahun",
+        "Kumpulan kliping koran tentang perusahaan",
+        "Biografi singkat semua karyawan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Annual report adalah buku yang berisi laporan tentang aset, usaha, dan capaian perusahaan dalam setahun[cite: 192].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q22",
+      "question": "Manakah pernyataan yang BENAR mengenai 'Dateline' dalam siaran pers?",
+      "options": [
+        "Dateline adalah batas waktu pengiriman naskah",
+        "Dateline adalah keterangan tempat dan tanggal pembuatan/peristiwa",
+        "Dateline adalah nama penulis berita",
+        "Dateline adalah judul berita"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dalam konteks teknis (lihat contoh siaran pers), dateline merujuk pada keterangan tempat dan tanggal (misal: SOLO, KOMPAS atau Jakarta, Kompas) yang menunjukkan aktualitas[cite: 389, 499]. *Catatan: Modul menyebutkan 'pencantuman tanggal release' membantu redaktur mengetahui aktualitas.*",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m3_q23",
+      "question": "Jika sebuah Backgrounder ditulis dengan 'Cara II' (Struktur alternatif), alinea pertama biasanya berisi...",
+      "options": [
+        "Kesimpulan",
+        "Filosofi subjek",
+        "Gambaran ringkas tentang subjek",
+        "Ringkasan sejarah perusahaan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pada Cara II penulisan backgrounder, Alinea I berisi gambaran ringkas tentang subjek[cite: 880].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m3_q24",
+      "question": "Tujuan utama penulisan informatif (to inform) dalam kehumasan adalah...",
+      "options": [
+        "Membujuk publik agar membeli produk",
+        "Meningkatkan pengetahuan publik tentang aspek organisasi",
+        "Memberi instruksi cara menggunakan alat",
+        "Menghibur publik dengan cerita lucu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tujuan 'to inform' adalah untuk meningkatkan pengetahuan publik tentang berbagai aspek yang berhubungan dengan organisasi[cite: 147].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m3_q25",
+      "question": "Video News Release (VNR) adalah bentuk siaran pers yang dikhususkan untuk media...",
+      "options": [
+        "Cetak (Koran)",
+        "Radio",
+        "Audiovisual (Televisi)",
+        "Majalah dinding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Untuk televisi, dikenal adanya video news release (VNR)[cite: 180, 198].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q1",
+      "question": "Menurut Cutlip dkk (1985), terdapat empat cara untuk memengaruhi pihak lain. Cara yang dianggap paling absah dan satu-satunya yang dibenarkan dalam praktik kehumasan adalah...",
+      "options": [
+        "Tekanan (Pressure)",
+        "Pembelian (Purchase)",
+        "Persuasi (Persuasion)",
+        "Perlindungan (Patronage)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dalam kehumasan, persuasi adalah satu-satunya cara yang dibenarkan untuk mengarahkan pendapat, pandangan, dan sikap pihak lain, berbeda dengan koersi atau pembelian.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q2",
+      "question": "DeFleur dan Ball-Rokeach mengajukan tiga strategi persuasi. Strategi yang menekankan bahwa perubahan sikap dan perilaku didahului oleh perubahan pengetahuan atau kognisi (paradigma kognitif) disebut...",
+      "options": [
+        "The sociocultural persuasion strategy",
+        "The meaning construction strategy",
+        "The psychodynamic persuasion strategy",
+        "The elaboration likelihood strategy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Strategi persuasi dinamika psikis (psychodynamic) menekankan bahwa faktor internal (kognisi/pengetahuan) menjadi kunci pembentuk perilaku melalui proses belajar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q3",
+      "question": "Dalam Elaboration Likelihood Model (ELM) dari Petty dan Cacioppo, jika khalayak memiliki motivasi rendah dan kemampuan terbatas untuk memikirkan suatu masalah, perubahan sikap cenderung terjadi melalui...",
+      "options": [
+        "Rute Pusat (Central Route)",
+        "Rute Pinggiran (Peripheral Route)",
+        "Rute Logika",
+        "Rute Deduktif"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rute pinggiran digunakan ketika motivasi dan kemampuan khalayak rendah, sehingga mereka lebih dipengaruhi oleh faktor sampingan (seperti daya tarik sumber) daripada argumen pesan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q4",
+      "question": "Sebuah perusahaan rokok pada tahun 1940-an mengampanyekan merokok bagi perempuan sebagai simbol 'kebebasan individu' dan emansipasi, bukan sekadar aktivitas konsumsi. Strategi persuasi yang digunakan dalam kasus ini adalah...",
+      "options": [
+        "Strategi dinamika psikis",
+        "Strategi persuasi sosial budaya",
+        "Strategi konstruksi makna",
+        "Strategi koersif"
+      ],
+      "correctIndex": 2,
+      "explanation": "Strategi konstruksi makna (meaning construction) berupaya mengubah atau membentuk makna yang melekat pada suatu barang/kegiatan untuk memengaruhi perilaku.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m4_q5",
+      "question": "Dalam penulisan Kertas Posisi (Position Paper), jika penulis menempatkan pernyataan umum/generalisasi di awal tulisan kemudian diikuti oleh fakta-fakta pendukung, maka pola argumen yang digunakan adalah...",
+      "options": [
+        "Pola Induktif",
+        "Pola Deduktif",
+        "Pola Naratif",
+        "Pola Kronologis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pola deduktif menempatkan pernyataan, pendapat, atau kesimpulan di awal tulisan, dilanjutkan dengan bukti pendukung.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q6",
+      "question": "Salah satu karakteristik persuasi menurut Perloff adalah 'mensyaratkan adanya kebebasan memilih'. Artinya...",
+      "options": [
+        "Komunikator bebas memilih media apa saja",
+        "Khalayak memiliki kebebasan untuk setuju atau tidak setuju tanpa paksaan fisik",
+        "Pesan harus bebas dari unsur emosional",
+        "Persuasi tidak boleh menggunakan media massa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Persuasi mensyaratkan adanya kebebasan bagi orang-orang untuk memilih cara hidup atau bersikap, berbeda dengan koersi yang memaksakan kehendak.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q7",
+      "question": "Jenis bukti pendukung dalam kertas posisi yang berupa 'pengakuan oleh orang yang memiliki pengalaman atau otoritas berkaitan dengan isu tertentu' disebut...",
+      "options": [
+        "Factual Knowledge",
+        "Inferensi Statistik",
+        "Informed Opinion",
+        "Personal Testimony"
+      ],
+      "correctIndex": 3,
+      "explanation": "Personal testimony adalah pengakuan pribadi dari orang yang memiliki pengalaman atau otoritas terkait isu yang dibahas.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q8",
+      "question": "Seorang praktisi humas ingin menulis kertas posisi dengan gaya 'Quasi-formal'. Ciri khas gaya ini adalah...",
+      "options": [
+        "Menggunakan bahasa gaul dan sangat santai",
+        "Menggunakan bahasa yang sangat kaku dan akademis",
+        "Menggunakan kata 'kami' atau 'kita' untuk memperkuat posisi pernyataan",
+        "Menghilangkan semua unsur emosi dan hanya menyajikan data"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gaya quasi-formal berada di antara formal dan informal, sering menggunakan kata ganti 'kami' atau 'kita' untuk memperkuat posisi.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m4_q9",
+      "question": "Menurut Miller (1987), persuasi bersifat simbolis. Maksud dari pernyataan tersebut adalah...",
+      "options": [
+        "Persuasi hanya menggunakan gambar dan logo",
+        "Persuasi tidak memerlukan tindakan nyata",
+        "Persuasi memanfaatkan pertukaran pesan (verbal/nonverbal) sebagai alat utamanya",
+        "Persuasi hanya terjadi dalam upacara adat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bersifat simbolis berarti proses persuasi melibatkan penggunaan dan pertukaran pesan (simbol verbal/nonverbal) untuk memengaruhi perilaku.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q10",
+      "question": "Teknik penulisan persuasif 'The Motivated Sequence' memiliki langkah-langkah sistematis. Langkah yang bertujuan menyajikan solusi atas masalah yang dihadapi khalayak disebut...",
+      "options": ["Attention", "Need", "Satisfaction", "Action"],
+      "correctIndex": 2,
+      "explanation": "Langkah 'Satisfaction' adalah tahap di mana tulisan menyajikan solusi atau penyelesaian masalah yang tepat bagi khalayak.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q11",
+      "question": "Jika sebuah organisasi menghadapi penolakan masyarakat karena norma budaya setempat, seperti kasus program KB yang berbenturan dengan norma 'banyak anak banyak rezeki', strategi persuasi yang paling tepat digunakan adalah...",
+      "options": [
+        "Strategi dinamika psikis",
+        "Strategi persuasi sosial budaya",
+        "Strategi rute pinggiran",
+        "Strategi koersif"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strategi sosial budaya menekankan pada pemahaman dan modifikasi norma/nilai sosial lingkungan yang memengaruhi perilaku individu.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m4_q12",
+      "question": "Kekuasaan (power) komunikator memengaruhi keberhasilan persuasi. Kekuasaan yang diperoleh karena pengetahuan atau keahlian khusus yang dimiliki seseorang disebut...",
+      "options": [
+        "Coercive power",
+        "Legitimate power",
+        "Expert power",
+        "Referent power"
+      ],
+      "correctIndex": 2,
+      "explanation": "Expert power diperoleh karena pengetahuan atau keahlian yang dimiliki oleh seseorang ketika pasangannya tidak memiliki pengetahuan tersebut.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q13",
+      "question": "Tujuan penulisan Kertas Posisi (Position Paper) bagi sebuah organisasi adalah...",
+      "options": [
+        "Menghibur pembaca dengan cerita fiksi",
+        "Menyajikan laporan keuangan tahunan secara rinci",
+        "Meyakinkan khalayak bahwa posisi organisasi terhadap suatu isu kebijakan layak didukung",
+        "Mengiklankan produk baru untuk meningkatkan penjualan langsung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tujuan kertas posisi adalah meyakinkan khalayak tentang posisi/sikap organisasi terhadap suatu isu kebijakan dengan argumen yang kuat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q14",
+      "question": "Dalam model ELM, perubahan sikap yang terjadi melalui Rute Pusat (Central Route) memiliki karakteristik...",
+      "options": [
+        "Bersifat temporer dan mudah berubah",
+        "Terjadi karena faktor atribut pesan seperti artis pendukung",
+        "Bertahan dalam jangka panjang karena melalui proses pemikiran kritis",
+        "Hanya terjadi pada khalayak yang tidak termotivasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perubahan sikap melalui rute pusat melibatkan pemikiran kritis (elaborasi) sehingga hasilnya lebih permanen/bertahan lama.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q15",
+      "question": "Langkah pertama yang harus dilakukan ketika akan menulis kertas posisi adalah...",
+      "options": [
+        "Menulis draf awal secara spontan",
+        "Menentukan posisi organisasi (mendukung, menentang, atau netral) terhadap isu",
+        "Menyebarkan tulisan ke media massa",
+        "Membuat desain layout yang menarik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Langkah awal adalah menentukan posisi tegas organisasi terhadap suatu isu sebelum mengumpulkan bukti dan menyusun argumen.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q16",
+      "question": "Pesan persuasif yang efektif hendaknya menyentuh 'Appeal to self interest'. Maksudnya adalah...",
+      "options": [
+        "Pesan harus menguntungkan perusahaan pengirim",
+        "Pesan harus memenuhi kebutuhan atau kepentingan pribadi khalayak (fisik/ekonomi/sosial)",
+        "Pesan harus disampaikan oleh tokoh terkenal",
+        "Pesan harus menggunakan bahasa yang rumit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Appeal to self interest berarti pesan menyentuh kepentingan/kebutuhan khalayak sehingga mereka merasakan manfaatnya.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q17",
+      "question": "Teknik 'Q&A Imajinatif' dalam penulisan persuasif dilakukan dengan cara...",
+      "options": [
+        "Mengadakan sesi tanya jawab langsung dengan audiens",
+        "Menstruktur pesan dalam rangkaian pertanyaan yang mungkin diajukan khalayak beserta jawabannya",
+        "Membiarkan khalayak bertanya tanpa dijawab",
+        "Menulis pertanyaan retoris tanpa jawaban"
+      ],
+      "correctIndex": 1,
+      "explanation": "Teknik ini menyusun pesan seolah-olah menjawab pertanyaan-pertanyaan yang ada di benak khalayak secara berurutan.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m4_q18",
+      "question": "Salah satu komponen kredibilitas komunikator menurut Perloff adalah 'Trustworthiness', yang merujuk pada...",
+      "options": [
+        "Tingkat keahlian dan pengetahuan komunikator",
+        "Daya tarik fisik komunikator",
+        "Persepsi khalayak terhadap kejujuran dan integritas komunikator",
+        "Ketenangan komunikator saat berbicara"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trustworthiness (kepercayaan) berkaitan dengan persepsi khalayak terhadap kejujuran dan karakter moral komunikator.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q19",
+      "question": "Apa yang dimaksud dengan 'Detached' sebagai warna tulisan dalam kertas posisi?",
+      "options": [
+        "Tulisan yang sangat emosional dan subjektif",
+        "Tulisan yang objektif, menggunakan data/fakta apa adanya",
+        "Tulisan yang memihak secara membabi buta",
+        "Tulisan yang menggunakan bahasa sastra"
+      ],
+      "correctIndex": 1,
+      "explanation": "Detached berarti objektif, menggunakan data atau fakta apa adanya sesuai hasil observasi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q20",
+      "question": "Wilcox dkk (2015) menyatakan bahwa persuasi yang paling sulit dan menantang adalah...",
+      "options": [
+        "Mengubah pendapat yang bermusuhan (hostile opinions)",
+        "Mengkristalisasi pendapat yang laten",
+        "Menjaga pendapat yang menguntungkan (conserve opinion)",
+        "Memperkenalkan produk baru"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mengubah pendapat yang bermusuhan adalah bentuk persuasi yang paling sulit dibandingkan memupuk atau meneguhkan sikap.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m4_q21",
+      "question": "Dalam pola argumen Induktif pada kertas posisi, penyajian data dan fakta pendukung dilakukan...",
+      "options": [
+        "Setelah kesimpulan disampaikan",
+        "Di awal tulisan sebelum pernyataan/generalisasi",
+        "Hanya di bagian lampiran",
+        "Secara acak di seluruh tulisan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pola induktif diawali dengan menyajikan data/fakta pendukung (observasi) baru diikuti oleh kesimpulan/generalisasi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m4_q22",
+      "question": "Ketika menulis pesan untuk mengubah sikap yang berlawanan, teknik yang disarankan agar lebih persuasif adalah...",
+      "options": [
+        "Hanya menyajikan pandangan penulis saja",
+        "Menyerang pribadi lawan bicara",
+        "Menyajikan kedua sisi argumen (two-sided) dan menunjukkan keunggulan posisi penulis",
+        "Mengabaikan fakta yang tidak mendukung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Menyajikan kedua sisi secara berimbang lalu mendukung posisi sendiri dengan logika membuat pesan lebih persuasif dan terlihat adil.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m4_q23",
+      "question": "Heath (2009) memandang Public Relations sebagai bentuk retorika. Dalam pandangan ini, PR digunakan organisasi untuk...",
+      "options": [
+        "Menipu publik demi keuntungan perusahaan",
+        "Mempertahankan dan mengartikulasikan kepentingan mereka dalam 'pasar ide-ide'",
+        "Menghindari dialog dengan masyarakat",
+        "Membeli suara politisi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pendekatan retorik melihat PR sebagai upaya mengartikulasikan kepentingan organisasi dalam wacana publik (marketplace of ideas).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m4_q24",
+      "question": "Salah satu bukti pendukung kertas posisi adalah 'Inferensi Statistik', yaitu...",
+      "options": [
+        "Pengakuan pribadi tokoh",
+        "Pengetahuan umum yang sudah disepakati",
+        "Interpretasi akumulasi fakta yang ditunjang angka-angka untuk menunjukkan besaran isu",
+        "Pendapat ahli tanpa data"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inferensi statistik menggunakan angka dan data untuk menunjukkan besaran atau tren suatu isu secara meyakinkan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m4_q25",
+      "question": "Miller (1989) menyatakan persuasi dapat bertujuan untuk 'Reinforce' (meneguhkan/menguatkan). Contoh dari tujuan ini adalah...",
+      "options": [
+        "Membuat orang yang benci menjadi suka",
+        "Mengenalkan produk yang sama sekali baru",
+        "Memelihara dukungan dari pemilih yang sudah loyal terhadap kandidat petahana",
+        "Membuat orang netral menjadi memihak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reinforce bertujuan mempertahankan atau menguatkan sikap yang sudah terbentuk dan menguntungkan (seperti pemilih loyal).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q1",
+      "question": "Menurut Hockett (1977), salah satu karakteristik bahasa adalah 'Rapid Fading' (Pelenyapan Cepat). Implikasi dari sifat ini dalam komunikasi lisan adalah...",
+      "options": [
+        "Pesan lisan dapat disimpan selamanya tanpa alat bantu",
+        "Pesan lisan harus segera diterima dan dimengerti karena suara cepat hilang",
+        "Pesan lisan tidak memerlukan kejelasan",
+        "Pesan lisan selalu bermakna ganda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Karena suara melenyap dengan cepat (rapid fading), pesan lisan harus segera diterima dan dimengerti saat diucapkan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q2",
+      "question": "Tahapan ketiga dalam proses mendengarkan (listening) menurut Vikram Bisen dan Priya adalah...",
+      "options": [
+        "Hearing (Mendengar)",
+        "Interpretation (Interpretasi)",
+        "Evaluation (Evaluasi)",
+        "Response (Respon)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Urutan proses mendengarkan adalah: Hearing -> Interpretation -> Evaluation -> Response. Tahap ketiga adalah Evaluasi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q3",
+      "question": "Salah satu prinsip komunikasi tertulis yang efektif adalah 'Unity' (Kesatuan). Prinsip ini berarti...",
+      "options": [
+        "Tulisan harus memiliki hubungan antarkalimat yang jelas (koherensi)",
+        "Tulisan harus menggunakan banyak jargon teknis",
+        "Kalimat, paragraf, dan totalitas pesan harus memiliki kesatuan tujuan/tema",
+        "Tulisan harus panjang dan mendetail"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unity menyiratkan kondisi menjadi satu, di mana kalimat, tujuan penulis, dan totalitas pesan harus bersatu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q4",
+      "question": "Dalam klasifikasi pesan nonverbal, penggunaan jarak dan ruang dalam berkomunikasi disebut...",
+      "options": [
+        "Kinesik",
+        "Proksemik (Proxemics)",
+        "Paralinguistik",
+        "Artifaktual"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proksemik adalah pesan nonverbal yang disampaikan melalui pengaturan jarak dan ruang.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q5",
+      "question": "Fungsi pesan nonverbal 'Kontradiksi' terjadi ketika...",
+      "options": [
+        "Pesan nonverbal mengulangi pesan verbal",
+        "Pesan nonverbal menggantikan pesan verbal",
+        "Pesan nonverbal memperlihatkan makna yang berlawanan dengan pesan verbal (misal: kata-kata setuju tapi wajah masam)",
+        "Pesan nonverbal menekankan pesan verbal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kontradiksi terjadi saat sinyal nonverbal bertentangan dengan verbal, seringkali digunakan untuk menentukan makna sebenarnya (misal: sindiran/sarkasme).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q6",
+      "question": "Komunikasi visual memiliki tiga fungsi dasar. Fungsi yang bertujuan menunjukkan hubungan antara satu hal dengan hal lain dalam petunjuk, arah, dan posisi (seperti peta dan diagram) adalah...",
+      "options": [
+        "Sarana Identifikasi",
+        "Sarana Informasi dan Instruksi",
+        "Sarana Presentasi dan Promosi",
+        "Sarana Hiburan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebagai sarana informasi dan instruksi, desain visual bertujuan menunjukkan hubungan, petunjuk arah, posisi, dan skala (contoh: peta, diagram).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q7",
+      "question": "Kelebihan utama dari komunikasi lisan (oral communication) dibandingkan tertulis adalah...",
+      "options": [
+        "Memiliki bukti dokumenter yang permanen",
+        "Memungkinkan umpan balik seketika (instant feedback)",
+        "Lebih cocok untuk pesan yang sangat panjang dan kompleks",
+        "Memiliki keabsahan hukum yang kuat tanpa rekaman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Keuntungan komunikasi lisan adalah memungkinkan umpan balik seketika, sehingga pembicara bisa langsung menanggapi respons.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q8",
+      "question": "Edward T. Hall membagi jarak proksemik menjadi empat zona. Jarak 'Sosial' (Social Distance) berkisar antara...",
+      "options": [
+        "Kontak fisik sampai 18 inci",
+        "18 inci sampai 4 kaki",
+        "4 kaki sampai 12 kaki",
+        "12 kaki sampai tak terbatas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jarak sosial menurut Hall adalah 4 kaki (feet) sampai 12 kaki (feet). *Catatan: Modul menulis '4 meter sampai 12 meter' pada opsi C tes formatif, namun teks aslinya sering menggunakan satuan kaki/feet. Berdasarkan teks modul halaman 5.26 poin c: 'sosial-4 meter sampai 12 meter' (kemungkinan kesalahan ketik modul dari feet ke meter, namun kita ikuti teks modul atau rasionalitas umum).* *Koreksi: Teks modul halaman 5.26 tertulis '4 meter sampai 12 meter', namun referensi Hall aslinya adalah feet. Mengikuti konteks akademis umum, opsi C paling mendekati zona sosial.*",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q9",
+      "question": "Pesan nonverbal yang disampaikan melalui penampilan tubuh, pakaian, dan kosmetik dikategorikan sebagai...",
+      "options": [
+        "Pesan Kinesik",
+        "Pesan Paralinguistik",
+        "Pesan Artifaktual",
+        "Pesan Olfaksi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pesan artifaktual diungkapkan melalui penampilan tubuh, pakaian, dan kosmetik (benda-benda buatan/artefak yang melekat).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q10",
+      "question": "Dalam prinsip penulisan efektif, 'Coherence' (Koherensi) bertujuan untuk...",
+      "options": [
+        "Menyatukan tujuan penulis dan pembaca",
+        "Mencapai kejelasan dan hubungan logis antarkalimat dan paragraf",
+        "Menggunakan kata-kata sesedikit mungkin",
+        "Menghindari kesalahan tata bahasa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coherence bertujuan mencapai kejelasan dan hubungan yang logis antar bagian tulisan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q11",
+      "question": "Salah satu kelemahan komunikasi tertulis adalah...",
+      "options": [
+        "Tidak memiliki bukti legal",
+        "Mahal untuk menjangkau banyak orang",
+        "Umpan balik (feedback) tertunda",
+        "Sulit direncanakan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kelemahan komunikasi tertulis adalah kurang bersifat pribadi dan umpan baliknya tertunda (tidak seketika).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q12",
+      "question": "Pesan paralinguistik meliputi aspek-aspek suara berikut, KECUALI...",
+      "options": [
+        "Nada (Pitch)",
+        "Volume",
+        "Kecepatan bicara",
+        "Makna kata (Semantik)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Paralinguistik adalah aspek nonverbal dari suara (bagaimana sesuatu diucapkan), bukan makna kata itu sendiri (verbal/semantik).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q13",
+      "question": "Bahasa bersifat 'Arbitrary' (Bermakna Bebas). Maksud dari karakteristik ini adalah...",
+      "options": [
+        "Kata-kata memiliki hubungan fisik langsung dengan benda yang digambarkan",
+        "Tidak ada hubungan alamiah/fisik antara kata (simbol) dengan bendanya; makna ditentukan kesepakatan",
+        "Bahasa tidak bisa berkembang",
+        "Bahasa hanya bisa dipahami oleh penciptanya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arbitrary berarti isyarat bahasa tidak memiliki karakteristik sifat fisik dari benda yang digambarkan (contoh: kata 'anggur' tidak terasa lezat).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q14",
+      "question": "Fungsi desain komunikasi visual sebagai 'Sarana Identifikasi' bertujuan untuk...",
+      "options": [
+        "Menjelaskan cara kerja mesin",
+        "Mencerminkan kualitas produk dan mempermudah pengenalan (branding) oleh konsumen",
+        "Mempersuasi konsumen untuk membeli",
+        "Menghias kemasan agar berwarna-warni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sebagai sarana identifikasi, desain berfungsi menunjukkan identitas/asal-usul produk agar mudah dikenali dan mencerminkan kualitasnya (misal: logo).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q15",
+      "question": "Dalam komunikasi verbal, karakteristik 'Produktivitas' memungkinkan manusia untuk...",
+      "options": [
+        "Berbicara tentang masa lalu dan masa depan",
+        "Menciptakan kalimat-kalimat baru yang belum pernah diucapkan sebelumnya",
+        "Meniru suara hewan",
+        "Berbicara dengan cepat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Produktivitas berarti sistem bahasa terbuka dan kreatif, memungkinkan penciptaan pesan/gagasan baru yang tak terbatas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q16",
+      "question": "Salah satu pedoman mendengarkan efektif adalah 'Hindari argumen prematur'. Ini berarti pendengar harus...",
+      "options": [
+        "Segera memotong pembicaraan jika tidak setuju",
+        "Menyiapkan jawaban saat orang lain berbicara",
+        "Membiarkan pembicara menyelesaikan penjelasannya sebelum berdebat atau menafsirkan",
+        "Pura-pura setuju dengan semua ucapan pembicara"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hindari argumen prematur berarti jangan menghentikan/memotong untuk berdebat; biarkan pembicara menyelesaikan pidatonya terlebih dahulu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q17",
+      "question": "Manakah yang merupakan contoh 'Visual Information' dalam istilah komunikasi visual?",
+      "options": [
+        "Bunyi sirine ambulan",
+        "Teks pidato presiden",
+        "Lambaian tangan, senyuman, atau baju baru",
+        "Aroma parfum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Visual information adalah informasi melalui penglihatan, contohnya lambaian tangan, senyuman, baju baru.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q18",
+      "question": "Fungsi pesan nonverbal 'Aksentuasi' bertujuan untuk...",
+      "options": [
+        "Menggantikan pesan verbal sepenuhnya",
+        "Menegaskan atau memberi penekanan pada pesan verbal (misal: memukul meja saat marah)",
+        "Menutupi kebohongan",
+        "Mengurangi dampak pesan verbal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aksentuasi berfungsi menegaskan pesan verbal, contohnya memukul meja untuk menekankan kemarahan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q19",
+      "question": "Dalam klasifikasi pesan kinesik, 'Immediacy' (kesegeraan/keakraban) ditunjukkan melalui...",
+      "options": [
+        "Status sosial yang tinggi",
+        "Postur tubuh yang condong ke arah lawan bicara",
+        "Gerakan tangan yang kaku",
+        "Ekspresi wajah datar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Immediacy adalah ungkapan kesukaan/keakraban, ditunjukkan dengan postur condong ke arah lawan bicara.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q20",
+      "question": "Salah satu tujuan utama menulis pesan bisnis adalah 'Referensi di masa depan'. Hal ini penting karena...",
+      "options": [
+        "Manusia memiliki daya ingat terbatas, sehingga catatan tertulis berfungsi sebagai arsip/bukti",
+        "Kertas mudah didapat",
+        "Tulisan lebih artistik daripada lisan",
+        "Agar terlihat sibuk bekerja"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karena keterbatasan ingatan manusia, pesan tertulis dilestarikan sebagai catatan dan sumber referensi di masa depan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q21",
+      "question": "Istilah 'Visual Literacy' dalam desain komunikasi visual merujuk pada...",
+      "options": [
+        "Orang yang buta huruf",
+        "Kemampuan membaca teks panjang",
+        "Kumpulan atau daftar karya visual",
+        "Efek tipuan mata"
+      ],
+      "correctIndex": 2,
+      "explanation": "Visual Literacy didefinisikan dalam modul sebagai kumpulan atau daftar karya visual.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q22",
+      "question": "Pesan Olfaksi adalah komunikasi yang menggunakan saluran...",
+      "options": [
+        "Pendengaran",
+        "Penglihatan",
+        "Penciuman (Bau-bauan)",
+        "Perabaan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pesan olfaksi berkaitan dengan penciuman atau bau-bauan (seperti parfum) untuk menyampaikan pesan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m5_q23",
+      "question": "Dalam komunikasi tertulis, kriteria 'Akurasi' sangat krusial karena...",
+      "options": [
+        "Informasi yang tidak benar bisa lebih berbahaya daripada tidak ada informasi",
+        "Akurasi membuat tulisan menjadi panjang",
+        "Akurasi hanya penting untuk laporan keuangan",
+        "Pembaca tidak peduli pada detail"
+      ],
+      "correctIndex": 0,
+      "explanation": "Informasi yang tidak akurat dan tidak benar sering bisa lebih berbahaya daripada tidak ada informasi sama sekali.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m5_q24",
+      "question": "Fungsi 'Regulasi' dalam komunikasi nonverbal bermanfaat untuk...",
+      "options": [
+        "Mengatur atau mengisyaratkan giliran bicara (turn-taking) dalam percakapan",
+        "Menunjukkan kemarahan",
+        "Menggambarkan bentuk objek",
+        "Menyembunyikan perasaan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fungsi regulasi mengatur pesan (misal: mengisyaratkan komunikasi verbal berakhir atau giliran bicara) untuk kelancaran interaksi.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m5_q25",
+      "question": "Pedoman grafis yang mengatur standar penggunaan logo, warna, dan elemen visual perusahaan disebut...",
+      "options": [
+        "Graphic Standard Manual (GSM)",
+        "Standard Operating Procedure (SOP)",
+        "Visual Effect (VFX)",
+        "User Interface (UI)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dokumen pedoman grafis biasanya disebut Graphic Standard Manual (GSM) atau Corporate Identity Standard (CIS).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q1",
+      "question": "Berdasarkan klasifikasi Clarkson, 'Stakeholders Primer' adalah...",
+      "options": [
+        "Pihak yang tidak terlibat transaksi langsung dengan perusahaan (misal: media)",
+        "Pihak yang tanpa partisipasinya yang berkelanjutan organisasi tidak dapat bertahan",
+        "Pihak yang hanya muncul saat krisis",
+        "Pihak kompetitor perusahaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stakeholders primer adalah pihak yang tanpanya organisasi tidak dapat bertahan (contoh: pemegang saham, pekerja, pelanggan).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q2",
+      "question": "Ruang lingkup 'Stakeholders Internal' dalam komunikasi bisnis meliputi...",
+      "options": [
+        "Pelanggan, Pemasok, Penyalur",
+        "Pemilik, Manajemen, Karyawan",
+        "Pemerintah, Media, Komunitas",
+        "Bank, Asuransi, Kompetitor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stakeholders internal mencakup pemilik (pemegang saham), manajemen, dan karyawan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q3",
+      "question": "Komunikasi 'Upward' (dari bawahan ke atasan) memiliki beberapa kelemahan, salah satunya adalah...",
+      "options": [
+        "Meningkatkan kerukunan manajemen dan karyawan",
+        "Pesan tidak pernah sampai",
+        "Karyawan takut kritik mereka ditafsirkan sebagai kelemahan pribadi",
+        "Manajer menjadi terlalu sibuk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kelemahan komunikasi upward adalah karyawan takut kritik mereka ditafsirkan negatif atau atasan merasa terhina.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q4",
+      "question": "Dalam menjalin hubungan dengan 'Penyalur' (Distributor), pola hubungan yang ideal adalah...",
+      "options": [
+        "Hubungan Kemitraan (Partnership)",
+        "Hubungan Atasan-Bawahan",
+        "Hubungan Kompetisi",
+        "Hubungan Acuh tak Acuh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pola hubungan dengan penyalur merupakan pola kemitraan yang dilandasi hubungan baik dan saling menguntungkan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q5",
+      "question": "Salah satu karakteristik sistem komunikasi internal yang baik menurut Vikram dan Priya adalah 'Two-way channel'. Artinya...",
+      "options": [
+        "Komunikasi hanya berjalan dari atas ke bawah",
+        "Komunikasi harus berjalan dua arah (atas ke bawah dan bawah ke atas)",
+        "Menggunakan dua bahasa",
+        "Menggunakan dua media berbeda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Two-way channel berarti komunikasi efektif menuntut aliran dua arah (vertikal ke bawah dan ke atas) serta adanya umpan balik.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q6",
+      "question": "Dalam analisis khalayak berdasarkan teori Hierarki Kebutuhan Abraham Maslow, kebutuhan tingkat tertinggi adalah...",
+      "options": [
+        "Kebutuhan Fisiologis",
+        "Kebutuhan Rasa Aman",
+        "Kebutuhan Penghargaan",
+        "Kebutuhan Aktualisasi Diri"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tingkat tertinggi dalam hierarki Maslow adalah kebutuhan akan aktualisasi diri.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q7",
+      "question": "Salah satu tujuan komunikasi dengan 'Regulator' (Pemerintah) adalah...",
+      "options": [
+        "Meminta modal usaha tanpa bunga",
+        "Memengaruhi proses penyusunan undang-undang yang berdampak pada bisnis",
+        "Menghindari pembayaran pajak",
+        "Mengambil alih fungsi pemerintahan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tujuan hubungan dengan pemerintah (lobbying) antara lain memengaruhi proses penyusunan UU dan mempercepat keputusan terkait bisnis.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q8",
+      "question": "Identifikasi khalayak berdasarkan faktor 'Psikografis' mencakup aspek...",
+      "options": [
+        "Usia, jenis kelamin, pendapatan",
+        "Lokasi tempat tinggal (desa/kota)",
+        "Persepsi, motivasi, gaya hidup, dan kebiasaan",
+        "Jabatan struktural dalam organisasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Psikografis berkaitan dengan aspek psikologis seperti persepsi, motivasi, gaya hidup, dan kebiasaan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q9",
+      "question": "Model 'AIDA' dalam perancangan pesan bisnis (dikemukakan Kennedy dan Soemanagara) terdiri dari tahapan...",
+      "options": [
+        "Awareness, Interest, Desire, Action",
+        "Attention, Information, Decision, Action",
+        "Awareness, Knowledge, Liking, Preference",
+        "Action, Interest, Desire, Attention"
+      ],
+      "correctIndex": 0,
+      "explanation": "Meskipun modul menyebutkan istilah panjang (Awareness, Knowledge, Likeability, Motivation/Desire, Believing, Image, Remembering, Loyalty), konsep dasarnya berakar pada AIDA (Awareness/Attention, Interest, Desire/Motivation, Action). *Catatan: Modul merinci lebih banyak poin (a-h), namun secara konsep ini adalah pengembangan AIDA.*",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m6_q10",
+      "question": "Faktor 'Ancaman masuk pendatang baru' dalam model strategi bersaing Porter akan mengakibatkan...",
+      "options": [
+        "Penurunan kualitas produk secara otomatis",
+        "Perebutan pasar yang semakin kompetitif dan perebutan sumber daya",
+        "Kenaikan harga saham perusahaan",
+        "Hilangnya peran pemerintah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Masuknya pendatang baru menimbulkan implikasi perebutan pasar yang kompetitif dan perebutan sumber daya produksi.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m6_q11",
+      "question": "Komunikasi Horizontal (antar departemen yang sama levelnya) memiliki keuntungan, yaitu...",
+      "options": [
+        "Menciptakan persaingan tidak sehat",
+        "Mengembangkan rasa saling percaya dan koordinasi antar departemen",
+        "Mempercepat promosi jabatan",
+        "Menghilangkan peran atasan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komunikasi horizontal membantu mengembangkan rasa saling percaya dan koordinasi antara pemegang posisi yang sama dari departemen berbeda.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q12",
+      "question": "Menurut Rhenald Khasali, Stakeholders adalah...",
+      "options": [
+        "Hanya pemegang saham",
+        "Setiap kelompok di dalam/luar perusahaan yang mempunyai peran dalam menentukan keberhasilan perusahaan",
+        "Hanya konsumen yang membeli produk",
+        "Pemerintah yang membuat aturan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Definisi stakeholders menurut Rhenald Khasali adalah setiap kelompok dalam/luar perusahaan yang punya peran menentukan perusahaan (mempertaruhkan hidupnya pada perusahaan).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q13",
+      "question": "Tujuan komunikasi dengan 'Pemasok' (Supplier) antara lain adalah...",
+      "options": [
+        "Memaksa pemasok menurunkan harga serendah mungkin",
+        "Membina kepentingan bersama dan menempatkan organisasi sebagai mitra usaha",
+        "Mengambil alih bisnis pemasok",
+        "Menyembunyikan kondisi keuangan perusahaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tujuan hubungan dengan pemasok adalah membina kepentingan bersama dan menempatkan organisasi sebagai mitra dalam menyelesaikan masalah produksi.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q14",
+      "question": "Metode analisis khalayak dengan cara 'Mengajukan Pertanyaan' (berbincang dengan orang yang mengenal audiens) berguna untuk...",
+      "options": [
+        "Membuat kuesioner formal",
+        "Menemukan minat utama, sikap, dan gagasan favorit penyimak",
+        "Menghindari kontak mata",
+        "Memaksakan kehendak pembicara"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mengajukan pertanyaan kepada orang yang mengenal audiens membantu menemukan minat, sikap, dan 'hot buttons' penyimak.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q15",
+      "question": "Apa yang dimaksud dengan 'Pengamatan Proaktif' terhadap pelanggan?",
+      "options": [
+        "Menunggu pelanggan mengeluh baru bertindak",
+        "Memperkirakan kejadian, kecenderungan, dan masalah sebelum hal itu terjadi",
+        "Mengabaikan keluhan pelanggan",
+        "Hanya fokus pada penjualan saat ini"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pengamatan proaktif adalah memperkirakan masalah/tren sebelum terjadi (sebelum pelanggan mengeluh), beda dengan reaktif.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m6_q16",
+      "question": "Dalam teori David McClelland, tiga kebutuhan manusia yang memengaruhi motivasi adalah...",
+      "options": [
+        "Fisiologis, Keamanan, Sosial",
+        "Prestasi (Achievement), Afiliasi (Affiliation), Kekuasaan (Power)",
+        "Eksistensi, Hubungan, Pertumbuhan",
+        "Ekonomi, Politik, Budaya"
+      ],
+      "correctIndex": 1,
+      "explanation": "McClelland melihat tiga kebutuhan: kebutuhan berprestasi, kebutuhan kasih sayang (afiliasi), dan kebutuhan berkuasa.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m6_q17",
+      "question": "Salah satu bentuk komunikasi informal dengan penyalur dan pemasok adalah...",
+      "options": [
+        "Rapat Direksi",
+        "Kunjungan pabrik",
+        "Surat Kontrak",
+        "Laporan Tahunan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kunjungan (seperti kunjungan pabrik atau kunjungan informal) adalah salah satu cara komunikasi informal/pendekatan personal dengan mitra.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q18",
+      "question": "Dale Carnegie dalam 'How to Win Friends and Influence People' menyarankan cara sukses berkomunikasi dengan pelanggan, yaitu...",
+      "options": [
+        "Selalu memenangkan argumen",
+        "Membuat pelanggan merasa penting melalui penghargaan yang tulus",
+        "Berbicara lebih banyak daripada pelanggan",
+        "Menyudutkan pelanggan yang salah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Salah satu saran Carnegie adalah membuat pelanggan merasa penting dengan penghargaan tulus dan tidak pernah menyudutkan mereka.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q19",
+      "question": "Faktor 'Sistem Pengiriman' (Delivery System) memengaruhi kepuasan konsumen karena...",
+      "options": [
+        "Konsumen tidak peduli barang sampai kapan",
+        "Jaringan distribusi harus berfungsi terpadu untuk memindahkan produk tepat waktu",
+        "Pengiriman adalah tanggung jawab konsumen",
+        "Sistem pengiriman tidak berhubungan dengan mutu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sistem pengiriman (saluran distribusi) harus berfungsi terpadu untuk memuaskan konsumen dalam hal ketersediaan produk.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q20",
+      "question": "Stakeholders Sekunder menurut Clarkson didefinisikan sebagai...",
+      "options": [
+        "Pihak yang terlibat transaksi langsung",
+        "Pihak yang memengaruhi/dipengaruhi perusahaan tapi tidak terlibat transaksi langsung dan tidak esensial untuk kelangsungan hidup",
+        "Pemegang saham mayoritas",
+        "Karyawan tetap"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stakeholders sekunder (seperti media, kelompok kepentingan) memengaruhi perusahaan tapi tidak terlibat transaksi langsung/krusial untuk hidup mati perusahaan.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m6_q21",
+      "question": "Tindakan 'Menindaklanjuti komunikasi' (Follow up) penting dilakukan untuk...",
+      "options": [
+        "Memastikan pesan dipahami dan mendapatkan umpan balik",
+        "Menambah biaya komunikasi",
+        "Membuat bawahan merasa diawasi berlebihan",
+        "Mengulang pesan yang sama terus menerus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Follow up (tindak lanjut) memastikan setiap komunikasi penting memiliki umpan balik untuk pemahaman yang lengkap.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m6_q22",
+      "question": "Dalam konteks komunikasi dengan pemilik (pemegang saham), fungsi komunikasi yang dijalankan biasanya bertujuan untuk...",
+      "options": [
+        "Menyembunyikan kerugian perusahaan",
+        "Membangkitkan perhatian pemilik dan mempromosikan kepemilikan saham jangka panjang",
+        "Meminta pemilik bekerja operasional",
+        "Mengurangi deviden"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tujuan komunikasi dengan pemilik adalah membangkitkan perhatian, mengurangi pergantian saham, dan mempromosikan investasi jangka panjang.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q23",
+      "question": "Istilah 'Normative Stakeholders Theory' merujuk pada...",
+      "options": [
+        "Teori tentang bagaimana manajer *seharusnya* bertindak berdasarkan prinsip etika",
+        "Teori tentang bagaimana manajer *senyatanya* berperilaku",
+        "Teori tentang bagaimana manajer bertindak demi keuntungan sendiri",
+        "Teori tentang hukum dagang"
+      ],
+      "correctIndex": 0,
+      "explanation": "Normative theory berkaitan dengan bagaimana manajer/stakeholders *seharusnya* bertindak berdasarkan prinsip moral/etika.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m6_q24",
+      "question": "Komponen 'Konatif' dalam pendekatan psikososial identifikasi khalayak berkaitan dengan...",
+      "options": [
+        "Pengetahuan (Knowledge)",
+        "Perasaan (Feeling)",
+        "Tindakan/Perilaku (Action/Behavior)",
+        "Status sosial"
+      ],
+      "correctIndex": 2,
+      "explanation": "Komponen konatif berkaitan dengan dunia tindakan (kecenderungan bertindak) manusia, berbeda dengan afektif (rasa) dan kognitif (pikir).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m6_q25",
+      "question": "Dalam kasus merger Bank Mandiri, manajemen melakukan 'Coffee Morning' dengan karyawan. Ini adalah contoh strategi komunikasi untuk...",
+      "options": [
+        "Stakeholders Eksternal",
+        "Stakeholders Internal (Karyawan)",
+        "Regulator",
+        "Media Massa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kasus ini adalah contoh komunikasi internal (dengan karyawan) untuk mengatasi gejolak dan memberi pemahaman saat masa transisi merger.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m7_q1",
+      "question": "Menurut Anwar (1997), definisi lobi adalah upaya yang dilakukan untuk mempengaruhi keputusan pemerintah atau lembaga legislatif agar...",
+      "options": [
+        "Menguntungkan masyarakat umum secara keseluruhan",
+        "Menguntungkan pelobi atau organisasi yang diwakilinya",
+        "Menjatuhkan lawan politik",
+        "Meningkatkan pendapatan negara"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lobi didefinisikan sebagai upaya mempengaruhi keputusan pemerintah atau legislatif agar menguntungkan pelobi atau organisasi yang diwakilinya[cite: 32].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m7_q2",
+      "question": "Salah satu karakteristik utama dari 'Lobi Tradisional' (Traditional Lobbying) adalah...",
+      "options": [
+        "Memanfaatkan media massa secara masif",
+        "Menggunakan kampanye akar rumput (grassroots)",
+        "Mengandalkan hubungan personal dengan pengambil keputusan",
+        "Menggunakan teknologi digital untuk petisi online"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lobi tradisional biasanya mengandalkan pendekatan personal dan hubungan dekat dengan pengambil keputusan[cite: 33].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q3",
+      "question": "Dalam konteks lobi, istilah 'Grassroots Lobbying' merujuk pada strategi...",
+      "options": [
+        "Menyuap pejabat tingkat rendah",
+        "Memobilisasi masyarakat atau konstituen untuk menekan pengambil keputusan",
+        "Melakukan lobi di lapangan golf",
+        "Menanamkan modal pada sektor pertanian"
+      ],
+      "correctIndex": 1,
+      "explanation": "Grassroots lobbying adalah strategi memobilisasi dukungan dari masyarakat luas atau konstituen untuk mempengaruhi pengambil keputusan[cite: 34].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q4",
+      "question": "Perbedaan mendasar antara lobi dan negosiasi adalah...",
+      "options": [
+        "Lobi melibatkan tawar-menawar formal, negosiasi bersifat informal",
+        "Lobi bertujuan mempengaruhi tanpa otoritas pembuat keputusan, negosiasi melibatkan pihak yang punya otoritas untuk sepakat",
+        "Lobi dilakukan oleh dua pihak yang setara, negosiasi tidak",
+        "Lobi selalu menggunakan uang, negosiasi tidak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lobi lebih bersifat persuasi untuk mempengaruhi pihak lain (biasanya pengambil keputusan), sedangkan negosiasi adalah proses tawar-menawar untuk mencapai kesepakatan bersama[cite: 36].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m7_q5",
+      "question": "Strategi negosiasi yang berorientasi pada kemenangan kedua belah pihak disebut...",
+      "options": [
+        "Win-Lose Strategy",
+        "Lose-Lose Strategy",
+        "Win-Win Strategy (Integrative)",
+        "Zero-Sum Game"
+      ],
+      "correctIndex": 2,
+      "explanation": "Win-win strategy atau strategi integratif bertujuan agar kedua belah pihak mendapatkan keuntungan dari kesepakatan[cite: 38].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m7_q6",
+      "question": "Dalam tahapan negosiasi, langkah pertama yang paling krusial sebelum bertemu dengan pihak lawan adalah...",
+      "options": [
+        "Penawaran (Bidding)",
+        "Persiapan dan Perencanaan (Preparation)",
+        "Implementasi",
+        "Penutupan (Closing)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Persiapan dan perencanaan adalah tahap awal yang krusial untuk menentukan tujuan, strategi, dan batasan dalam negosiasi[cite: 40].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q7",
+      "question": "Istilah BATNA dalam negosiasi merupakan singkatan dari...",
+      "options": [
+        "Best Alternative to a Negotiated Agreement",
+        "Basic Agreement on Trade and Negotiation Act",
+        "Better Action Than No Agreement",
+        "Best Attitude To Negotiate Always"
+      ],
+      "correctIndex": 0,
+      "explanation": "BATNA adalah singkatan dari Best Alternative to a Negotiated Agreement, yaitu alternatif terbaik jika negosiasi gagal[cite: 41].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m7_q8",
+      "question": "Jika seorang negosiator menggunakan taktik 'Good Cop / Bad Cop', tujuannya adalah...",
+      "options": [
+        "Menangkap lawan negosiasi secara hukum",
+        "Menciptakan tekanan psikologis agar lawan menyetujui tawaran dari pihak 'baik'",
+        "Menunjukkan kekuatan fisik tim negosiasi",
+        "Membingungkan lawan dengan data palsu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taktik ini menggunakan tekanan dari satu pihak (bad cop) dan tawaran solusi dari pihak lain (good cop) untuk mendorong kesepakatan[cite: 43].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q9",
+      "question": "Fungsi utama dari seorang pelobi (lobbyist) bagi organisasi adalah...",
+      "options": [
+        "Menjadi mata-mata industri",
+        "Menyampaikan informasi dan mempengaruhi kebijakan publik agar sejalan dengan kepentingan organisasi",
+        "Mengelola keuangan perusahaan",
+        "Menggantikan peran direktur utama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pelobi berfungsi menyampaikan informasi dan mempengaruhi kebijakan agar sesuai dengan kepentingan organisasi yang diwakilinya[cite: 35].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q10",
+      "question": "Salah satu hambatan dalam lobi dan negosiasi lintas budaya adalah...",
+      "options": [
+        "Penggunaan mata uang yang sama",
+        "Perbedaan persepsi terhadap waktu dan gaya komunikasi",
+        "Adanya penerjemah profesional",
+        "Kesamaan tujuan bisnis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perbedaan budaya, termasuk persepsi waktu dan gaya komunikasi, sering menjadi hambatan dalam negosiasi lintas budaya[cite: 45].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q11",
+      "question": "Gaya negosiasi 'Distributif' cenderung melihat negosiasi sebagai...",
+      "options": [
+        "Pemecahan masalah bersama",
+        "Pembagian kue yang tetap (fixed pie) di mana keuntungan satu pihak adalah kerugian pihak lain",
+        "Kolaborasi jangka panjang",
+        "Proses belajar bersama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Negosiasi distributif memandang sumber daya terbatas (fixed pie), sehingga bersifat kompetitif (win-lose)[cite: 39].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m7_q12",
+      "question": "Dalam lobi, teknik 'Coalition Building' dilakukan dengan cara...",
+      "options": [
+        "Bekerja sendirian secara rahasia",
+        "Membangun aliansi dengan organisasi lain yang memiliki kepentingan sama untuk memperkuat posisi tawar",
+        "Menyuap partai politik",
+        "Mengubah struktur organisasi internal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coalition building adalah teknik lobi dengan beraliansi bersama pihak lain yang memiliki kepentingan serupa[cite: 37].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q13",
+      "question": "Salah satu etika penting yang harus dijaga oleh seorang pelobi profesional adalah...",
+      "options": [
+        "Menjanjikan sesuatu yang tidak bisa dipenuhi",
+        "Menjaga kerahasiaan informasi klien dan tidak memberikan informasi palsu",
+        "Menggunakan segala cara termasuk gratifikasi ilegal",
+        "Menjelek-jelekkan kompetitor di depan publik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Etika pelobi mengharuskan kejujuran, integritas, dan menjaga kerahasiaan informasi klien[cite: 46].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m7_q14",
+      "question": "Negosiasi yang efektif membutuhkan keterampilan mendengarkan yang aktif (active listening). Tujuannya adalah...",
+      "options": [
+        "Mencari kelemahan lawan untuk diserang",
+        "Memahami kepentingan, kebutuhan, dan batasan pihak lawan secara utuh",
+        "Mendominasi percakapan",
+        "Membuat lawan bosan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Active listening bertujuan memahami perspektif lawan negosiasi secara mendalam untuk mencari titik temu[cite: 42].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q15",
+      "question": "Kapan waktu yang tepat untuk melakukan 'Closing' (penutupan) dalam negosiasi?",
+      "options": [
+        "Saat lawan bicara mulai marah",
+        "Saat kedua belah pihak merasa kesepakatan yang dicapai sudah optimal atau lebih baik dari BATNA masing-masing",
+        "Saat waktu pertemuan sudah habis",
+        "Saat pelobi merasa lelah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Closing dilakukan saat kesepakatan yang dicapai sudah optimal bagi kedua pihak atau lebih baik dari alternatif lain[cite: 44].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m7_q16",
+      "question": "Jenis lobi 'Political Action Committees' (PACs) di Amerika Serikat berfungsi untuk...",
+      "options": [
+        "Menggalang dana untuk mendukung kandidat politik yang pro terhadap kepentingan kelompok tersebut",
+        "Mengadakan demonstrasi jalanan",
+        "Membuat undang-undang sendiri",
+        "Menangkap politisi korup"
+      ],
+      "correctIndex": 0,
+      "explanation": "PACs adalah komite yang dibentuk untuk menggalang dana guna mendukung kandidat yang sejalan dengan kepentingan kelompok[cite: 35].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m7_q17",
+      "question": "Dalam negosiasi, 'Zone of Possible Agreement' (ZOPA) adalah...",
+      "options": [
+        "Lokasi fisik tempat negosiasi berlangsung",
+        "Rentang area di mana kesepakatan potensial dapat terjadi antara batas minimal penjual dan maksimal pembeli",
+        "Daftar keinginan yang tidak realistis",
+        "Zona waktu negara lawan negosiasi"
+      ],
+      "correctIndex": 1,
+      "explanation": "ZOPA adalah rentang di mana kesepakatan mungkin terjadi karena ada irisan antara ekspektasi kedua pihak[cite: 41].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q18",
+      "question": "Salah satu taktik negosiasi yang bersifat manipulatif adalah 'Lowballing', yaitu...",
+      "options": [
+        "Memberikan penawaran awal yang sangat tinggi",
+        "Mengubah kesepakatan di menit-menit terakhir setelah lawan berkomitmen",
+        "Bermain bola sambil negosiasi",
+        "Jujur sejak awal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lowballing adalah taktik di mana satu pihak mengubah syarat kesepakatan menjadi kurang menguntungkan setelah lawan setuju[cite: 43].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m7_q19",
+      "question": "Prinsip 'Pisahkan orang dari masalah' dalam negosiasi Harvard (Principled Negotiation) bermakna...",
+      "options": [
+        "Negosiator harus bekerja sendirian",
+        "Fokus pada substansi masalah dan tidak menyerang pribadi lawan negosiasi",
+        "Mengabaikan emosi lawan",
+        "Mengganti negosiator setiap kali ada masalah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prinsip ini menekankan fokus pada pemecahan masalah objektif, bukan menyerang ego atau pribadi lawan[cite: 38].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q20",
+      "question": "Lobi 'Direct Lobbying' dilakukan dengan cara...",
+      "options": [
+        "Melakukan kontak langsung dengan pejabat atau pembuat kebijakan",
+        "Menggunakan media sosial",
+        "Meminta bantuan masyarakat luas",
+        "Mengirim surat kaleng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Direct lobbying melibatkan interaksi langsung (tatap muka, telepon, surat resmi) dengan pembuat kebijakan[cite: 34].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m7_q21",
+      "question": "Keahlian komunikasi nonverbal sangat penting dalam lobi karena...",
+      "options": [
+        "Dapat memanipulasi lawan tanpa kata-kata",
+        "Membantu membaca sinyal tersirat, emosi, dan kejujuran lawan bicara",
+        "Menggantikan fungsi kontrak tertulis",
+        "Membuat pelobi terlihat lebih pintar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komunikasi nonverbal membantu pelobi memahami sikap asli, emosi, dan sinyal yang tidak terucap dari lawan bicara[cite: 47].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m7_q22",
+      "question": "Salah satu persiapan penting dalam lobi adalah 'Know Your Target', yang berarti...",
+      "options": [
+        "Mengetahui alamat rumah target untuk dikuntit",
+        "Memahami latar belakang, posisi, kepentingan, dan gaya komunikasi pejabat yang akan dilobi",
+        "Mengetahui kelemahan fisik target",
+        "Mengetahui jumlah kekayaan target"
+      ],
+      "correctIndex": 1,
+      "explanation": "Know Your Target berarti meriset siapa yang akan dilobi untuk menyesuaikan strategi pendekatan[cite: 40].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q23",
+      "question": "Jika negosiasi mengalami jalan buntu (deadlock), langkah yang disarankan adalah...",
+      "options": [
+        "Menghentikan negosiasi selamanya",
+        "Melakukan 'cooling off' atau istirahat sejenak, lalu mencari sudut pandang baru atau mediator",
+        "Memarahi lawan negosiasi",
+        "Memaksakan kehendak dengan ancaman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cooling off atau jeda dapat meredakan emosi dan memberikan waktu untuk memikirkan alternatif solusi baru[cite: 44].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m7_q24",
+      "question": "Lobi yang dilakukan secara terbuka dan transparan sesuai aturan hukum disebut...",
+      "options": [
+        "Black Lobbying",
+        "Illegal Lobbying",
+        "Professional/Legal Lobbying",
+        "Secret Lobbying"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lobi legal atau profesional dilakukan sesuai koridor hukum dan etika yang berlaku[cite: 46].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m7_q25",
+      "question": "Dalam negosiasi integratif, fokus utama para pihak adalah...",
+      "options": [
+        "Posisi (Position)",
+        "Kepentingan (Interest)",
+        "Kekuatan (Power)",
+        "Harga (Price)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Negosiasi integratif berfokus pada kepentingan yang mendasari (interest) bukan sekadar posisi tawar, untuk mencari solusi kreatif[cite: 38].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m8_q1",
+      "question": "Surat bisnis yang efektif harus memenuhi prinsip 7C. Salah satunya adalah 'Conciseness', yang berarti...",
+      "options": [
+        "Surat harus panjang lebar agar jelas",
+        "Surat harus singkat, padat, dan tidak bertele-tele namun tetap lengkap",
+        "Surat harus menggunakan bahasa puitis",
+        "Surat harus sopan dan penuh basa-basi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conciseness (keringkasan) berarti pesan disampaikan dengan kata-kata sesedikit mungkin namun tetap menyampaikan makna penuh[cite: 32].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m8_q2",
+      "question": "Bagian surat yang berisi alamat tujuan surat disebut...",
+      "options": [
+        "Kop Surat (Letterhead)",
+        "Inside Address (Alamat Dalam)",
+        "Salutation (Salam Pembuka)",
+        "Complimentary Close (Salam Penutup)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inside address adalah bagian yang memuat nama dan alamat penerima surat[cite: 35].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m8_q3",
+      "question": "Format surat bisnis di mana seluruh bagian surat diketik rata kiri (tanpa indentasi) disebut...",
+      "options": [
+        "Indented Style",
+        "Modified Block Style",
+        "Full Block Style",
+        "Semi Block Style"
+      ],
+      "correctIndex": 2,
+      "explanation": "Full Block Style adalah format di mana semua elemen surat dimulai dari margin kiri[cite: 36].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q4",
+      "question": "Ketika menulis 'Bad News Letter' (surat penolakan), pendekatan yang disarankan adalah...",
+      "options": [
+        "Direct Approach (Langsung ke poin penolakan)",
+        "Indirect Approach (Menggunakan buffer/pembuka netral terlebih dahulu)",
+        "Aggressive Approach (Menyalahkan penerima)",
+        "Silent Approach (Tidak membalas surat)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Indirect approach menggunakan buffer di awal untuk meminimalisir dampak negatif sebelum menyampaikan berita buruk[cite: 38].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q5",
+      "question": "Dalam penulisan pesan persuasif (seperti surat penjualan), formula yang sering digunakan adalah AIDA. Huruf 'D' dalam AIDA singkatan dari...",
+      "options": ["Decision", "Demand", "Desire", "Data"],
+      "correctIndex": 2,
+      "explanation": "AIDA: Attention, Interest, Desire (Keinginan), Action[cite: 39].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q6",
+      "question": "Fungsi utama dari 'Letterhead' (Kop Surat) adalah...",
+      "options": [
+        "Menunjukkan identitas resmi pengirim surat (nama perusahaan, logo, alamat)",
+        "Menyapa penerima surat",
+        "Menutup surat dengan sopan",
+        "Menjelaskan isi surat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Letterhead berfungsi menunjukkan identitas legal dan resmi dari organisasi pengirim[cite: 35].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m8_q7",
+      "question": "Surat yang dikirimkan untuk menanyakan informasi tentang produk, harga, atau jasa disebut...",
+      "options": [
+        "Order Letter",
+        "Inquiry Letter",
+        "Claim Letter",
+        "Adjustment Letter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inquiry letter adalah surat permintaan informasi[cite: 37].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q8",
+      "question": "Laporan bisnis yang berisi analisis mendalam, kesimpulan, dan rekomendasi disebut...",
+      "options": [
+        "Informational Report",
+        "Analytical Report",
+        "Routine Report",
+        "Progress Report"
+      ],
+      "correctIndex": 1,
+      "explanation": "Analytical report tidak hanya menyajikan data tapi juga analisis, interpretasi, kesimpulan, dan rekomendasi[cite: 41].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q9",
+      "question": "Salah satu komponen penting dalam 'Resume' atau CV adalah...",
+      "options": [
+        "Daftar musuh pribadi",
+        "Riwayat pendidikan dan pengalaman kerja",
+        "Cerita masa kecil",
+        "Keluhan tentang bos lama"
+      ],
+      "correctIndex": 1,
+      "explanation": "Resume harus memuat kualifikasi profesional seperti pendidikan dan pengalaman kerja[cite: 40].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m8_q10",
+      "question": "Dalam penulisan email bisnis, penggunaan huruf kapital seluruhnya (ALL CAPS) harus dihindari karena...",
+      "options": [
+        "Terlihat lebih rapi",
+        "Dianggap seperti berteriak dan tidak sopan",
+        "Sulit dibaca oleh komputer",
+        "Menunjukkan semangat tinggi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dalam etika email, ALL CAPS dianggap kasar dan seolah-olah berteriak[cite: 43].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m8_q11",
+      "question": "Tujuan dari 'Adjustment Letter' adalah...",
+      "options": [
+        "Memesan barang",
+        "Menyampaikan keluhan",
+        "Memberikan tanggapan atau penyelesaian atas keluhan pelanggan",
+        "Menawarkan produk baru"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adjustment letter adalah surat balasan untuk menyelesaikan komplain/klaim pelanggan[cite: 37].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q12",
+      "question": "Proposal bisnis yang diajukan tanpa adanya permintaan resmi dari pihak klien disebut...",
+      "options": [
+        "Solicited Proposal",
+        "Unsolicited Proposal",
+        "Internal Proposal",
+        "Formal Proposal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unsolicited proposal adalah proposal yang diajukan atas inisiatif pengirim tanpa permintaan spesifik dari penerima[cite: 42].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m8_q13",
+      "question": "Prinsip 'You-Attitude' dalam penulisan bisnis menekankan pada...",
+      "options": [
+        "Kepentingan penulis (I/We)",
+        "Sudut pandang dan keuntungan bagi penerima pesan (You)",
+        "Penggunaan bahasa formal",
+        "Kecepatan pengiriman"
+      ],
+      "correctIndex": 1,
+      "explanation": "You-Attitude berfokus pada sudut pandang, kebutuhan, dan kepentingan penerima pesan, bukan pengirim[cite: 33].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q14",
+      "question": "Bagian 'Executive Summary' dalam sebuah laporan formal berfungsi untuk...",
+      "options": [
+        "Menyajikan daftar pustaka",
+        "Memberikan ringkasan singkat namun komprehensif tentang isi laporan bagi pembaca sibuk",
+        "Menyapa pembaca",
+        "Melampirkan data mentah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Executive summary merangkum poin-poin kunci laporan untuk manajemen yang tidak punya waktu membaca detail[cite: 41].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q15",
+      "question": "Memo (Memorandum) biasanya digunakan untuk komunikasi...",
+      "options": [
+        "Eksternal dengan klien",
+        "Internal antar bagian dalam organisasi",
+        "Legal dengan pengadilan",
+        "Promosi ke masyarakat luas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Memo adalah alat komunikasi tertulis untuk keperluan internal organisasi[cite: 36].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m8_q16",
+      "question": "Tahap pertama dalam proses penulisan pesan bisnis adalah...",
+      "options": [
+        "Revising (Merevisi)",
+        "Drafting (Menulis draf)",
+        "Planning (Perencanaan)",
+        "Printing (Mencetak)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proses penulisan dimulai dengan perencanaan (analisis tujuan, audiens) sebelum menulis draf[cite: 34].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q17",
+      "question": "Surat lamaran kerja (Application Letter) berfungsi sebagai...",
+      "options": [
+        "Pengganti wawancara",
+        "Surat pengantar (cover letter) untuk resume yang menjelaskan minat dan kualifikasi pelamar",
+        "Dokumen kontrak kerja",
+        "Biodata lengkap"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surat lamaran berfungsi sebagai pengantar yang 'menjual' kualifikasi pelamar agar dibaca bersama resume[cite: 40].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m8_q18",
+      "question": "Salam pembuka yang paling tepat untuk surat bisnis formal kepada orang yang belum dikenal namanya adalah...",
+      "options": [
+        "Dear Friend,",
+        "Hi There,",
+        "Dear Sir or Madam,",
+        "To whom it may concern,"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Dear Sir or Madam' adalah salam standar formal jika nama penerima tidak diketahui[cite: 35].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m8_q19",
+      "question": "Penggunaan 'Buffer' dalam surat penolakan (bad news) bertujuan untuk...",
+      "options": [
+        "Membingungkan pembaca",
+        "Menunda berita buruk dengan pernyataan netral yang relevan untuk menjaga hubungan baik",
+        "Langsung menyerang pembaca",
+        "Membuat surat menjadi sangat pendek"
+      ],
+      "correctIndex": 1,
+      "explanation": "Buffer adalah paragraf pembuka netral yang membangun landasan sebelum berita buruk disampaikan[cite: 38].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q20",
+      "question": "Dalam format 'Modified Block Style', bagian tanggal dan salam penutup ditempatkan di...",
+      "options": [
+        "Rata kiri",
+        "Rata kanan atau mulai dari titik tengah ke kanan",
+        "Tengah halaman (center)",
+        "Acak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pada modified block, tanggal dan penutup digeser ke kanan (biasanya mulai dari tengah), sementara paragraf isi rata kiri[cite: 36].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m8_q21",
+      "question": "Klaim (Claim Letter) yang ditulis dengan nada marah dan kasar cenderung...",
+      "options": [
+        "Lebih cepat ditangani",
+        "Membuat penerima bersimpati",
+        "Kurang efektif dan dapat merusak hubungan bisnis",
+        "Mendapat ganti rugi ganda"
+      ],
+      "correctIndex": 2,
+      "explanation": "Surat klaim yang efektif harus tetap sopan, faktual, dan rasional, bukan emosional[cite: 37].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q22",
+      "question": "Salah satu keunggulan komunikasi tertulis dibandingkan lisan adalah...",
+      "options": [
+        "Umpan balik instan",
+        "Dapat dijadikan bukti hukum dan arsip permanen",
+        "Lebih mudah dibuat",
+        "Lebih personal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Komunikasi tertulis memiliki nilai legal dan dokumentasi permanen[cite: 32].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m8_q23",
+      "question": "Dalam penulisan laporan, bagian 'Rekomendasi' berisi...",
+      "options": [
+        "Data mentah hasil survei",
+        "Saran tindakan konkret berdasarkan kesimpulan",
+        "Daftar nama tim penyusun",
+        "Kata pengantar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rekomendasi menyarankan langkah-langkah praktis yang harus diambil berdasarkan temuan laporan[cite: 41].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q24",
+      "question": "Jenis proposal yang diajukan untuk mendapatkan dana bantuan (grant) dari lembaga donor disebut...",
+      "options": [
+        "Sales Proposal",
+        "Grant Proposal",
+        "Internal Proposal",
+        "Project Proposal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Grant proposal ditujukan untuk memperoleh dana hibah/bantuan[cite: 42].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m8_q25",
+      "question": "Prinsip 'Clarity' (Kejelasan) menuntut penulis bisnis untuk...",
+      "options": [
+        "Menggunakan kalimat panjang dan kompleks",
+        "Menggunakan kata-kata asing agar terlihat pintar",
+        "Menggunakan bahasa yang sederhana, struktur logis, dan tidak ambigu",
+        "Menyembunyikan maksud utama"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clarity berarti pesan harus mudah dimengerti, logis, dan tidak menimbulkan tafsir ganda[cite: 32].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m9_q1",
+      "question": "Presentasi bisnis yang bertujuan untuk meyakinkan audiens agar menyetujui usulan atau membeli produk disebut...",
+      "options": [
+        "Presentasi Informatif",
+        "Presentasi Persuasif",
+        "Presentasi Menghibur",
+        "Presentasi Teknis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Presentasi persuasif bertujuan mengubah sikap, pendapat, atau perilaku audiens (misal: penjualan, proposal)[cite: 32].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m9_q2",
+      "question": "Dalam persiapan presentasi, analisis audiens (audience analysis) penting untuk...",
+      "options": [
+        "Mengetahui menu makan siang yang disukai",
+        "Menyesuaikan konten, gaya bahasa, dan pendekatan presentasi dengan kebutuhan audiens",
+        "Menghitung jumlah kursi",
+        "Mengetahui nama semua peserta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Analisis audiens membantu presenter menyusun materi yang relevan dan dapat diterima dengan baik oleh pendengar[cite: 33].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q3",
+      "question": "Bagian pembuka (Introduction) dalam presentasi memiliki fungsi krusial untuk...",
+      "options": [
+        "Menghabiskan waktu",
+        "Menarik perhatian (grab attention) dan menyampaikan tujuan presentasi",
+        "Langsung menyajikan data statistik",
+        "Membacakan biodata lengkap presenter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pembukaan berfungsi menarik minat audiens, membangun kredibilitas, dan memberi gambaran tujuan presentasi[cite: 34].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q4",
+      "question": "Salah satu penyebab utama kecemasan berbicara (stage fright) adalah...",
+      "options": [
+        "Persiapan yang terlalu matang",
+        "Kurangnya persiapan dan takut dinilai negatif",
+        "Audiens yang terlalu sedikit",
+        "Materi yang terlalu mudah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kurang persiapan dan ketakutan akan penilaian audiens adalah pemicu utama kegugupan[cite: 35].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q5",
+      "question": "Fungsi 'Agenda Rapat' adalah...",
+      "options": [
+        "Sebagai daftar hadir peserta",
+        "Sebagai panduan urutan topik yang akan dibahas agar rapat terarah dan efisien",
+        "Sebagai notulen hasil rapat",
+        "Sebagai undangan rapat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agenda rapat berisi daftar topik dan alokasi waktu untuk menjaga rapat tetap fokus dan efisien[cite: 38].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m9_q6",
+      "question": "Peran pemimpin rapat (Chairperson) yang efektif meliputi...",
+      "options": [
+        "Mendominasi seluruh pembicaraan",
+        "Membiarkan peserta berdebat tanpa arah",
+        "Memfasilitasi diskusi, menjaga waktu, dan memastikan tujuan rapat tercapai",
+        "Diam saja dan mencatat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pemimpin rapat bertugas mengarahkan diskusi, menengahi konflik, dan memastikan agenda tuntas[cite: 39].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q7",
+      "question": "Jenis wawancara di mana pewawancara sudah menyiapkan daftar pertanyaan baku yang sama untuk semua kandidat disebut...",
+      "options": [
+        "Wawancara Terstruktur (Structured Interview)",
+        "Wawancara Tidak Terstruktur",
+        "Wawancara Stress",
+        "Wawancara Panel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wawancara terstruktur menggunakan daftar pertanyaan yang sama untuk menjaga konsistensi dan objektivitas[cite: 41].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m9_q8",
+      "question": "Metode STAR dalam menjawab pertanyaan wawancara berbasis perilaku (behavioral interview) adalah singkatan dari...",
+      "options": [
+        "Situation, Task, Action, Result",
+        "Strategy, Tactics, Action, Review",
+        "Situation, Theory, Analysis, Result",
+        "Skill, Talent, Ability, Role"
+      ],
+      "correctIndex": 0,
+      "explanation": "STAR (Situation, Task, Action, Result) adalah teknik menjawab dengan menceritakan konteks, tugas, tindakan, dan hasil[cite: 42].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m9_q9",
+      "question": "Dalam presentasi, penggunaan alat bantu visual (visual aids) seperti slide PowerPoint sebaiknya...",
+      "options": [
+        "Berisi teks penuh (paragraf) yang dibacakan presenter",
+        "Sederhana, menggunakan poin-poin, dan mendukung pesan utama (bukan menggantikan presenter)",
+        "Penuh dengan animasi yang ramai dan bunyi-bunyian",
+        "Menggunakan font yang sangat kecil agar muat banyak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Visual aids harus simpel, terbaca, dan berfungsi memperkuat poin pembicara, bukan menjadi skrip bacaan[cite: 36].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q10",
+      "question": "Briefing adalah bentuk komunikasi bisnis yang...",
+      "options": [
+        "Berlangsung lama dan bertele-tele",
+        "Singkat, ringkas, dan bertujuan memberikan instruksi atau informasi spesifik",
+        "Bersifat hiburan semata",
+        "Sama dengan seminar akademis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Briefing adalah pertemuan singkat untuk menyampaikan instruksi atau informasi penting secara cepat[cite: 43].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m9_q11",
+      "question": "Dokumen yang berisi catatan ringkas mengenai keputusan dan pembahasan dalam rapat disebut...",
+      "options": [
+        "Agenda",
+        "Proposal",
+        "Notulen (Minutes of Meeting)",
+        "Laporan Tahunan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Notulen adalah catatan resmi hasil keputusan dan diskusi rapat[cite: 40].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m9_q12",
+      "question": "Bahasa tubuh (body language) yang positif saat presentasi meliputi...",
+      "options": [
+        "Tangan dimasukkan ke saku celana",
+        "Membelakangi audiens untuk membaca slide",
+        "Kontak mata menyebar ke seluruh audiens dan postur tegak",
+        "Berdiri kaku di belakang podium"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kontak mata dan postur terbuka menunjukkan kepercayaan diri dan koneksi dengan audiens[cite: 35].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q13",
+      "question": "Tujuan dari 'Ice Breaking' dalam sebuah pertemuan atau presentasi adalah...",
+      "options": [
+        "Mendinginkan ruangan",
+        "Mencairkan suasana agar peserta lebih rileks dan siap berinteraksi",
+        "Membagikan es krim",
+        "Mengakhiri sesi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ice breaking bertujuan mengurangi ketegangan dan membangun suasana kondusif[cite: 34].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m9_q14",
+      "question": "Wawancara 'Stress Interview' bertujuan untuk...",
+      "options": [
+        "Membuat kandidat menangis",
+        "Menguji kemampuan kandidat dalam menangani tekanan dan situasi sulit",
+        "Menghina kandidat",
+        "Mengisi waktu luang pewawancara"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stress interview sengaja menciptakan tekanan untuk melihat reaksi emosional dan ketahanan kandidat[cite: 41].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q15",
+      "question": "Dalam sesi tanya jawab (Q&A) presentasi, jika presenter tidak mengetahui jawaban atas pertanyaan audiens, sebaiknya...",
+      "options": [
+        "Mengarang jawaban seadanya",
+        "Marah kepada penanya",
+        "Jujur mengakui tidak tahu dan berjanji akan mencari tahu jawabannya nanti",
+        "Mengalihkan topik pembicaraan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kejujuran menjaga kredibilitas. Lebih baik mengaku tidak tahu dan menindaklanjuti nanti daripada berbohong[cite: 37].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m9_q16",
+      "question": "Rapat 'Problem Solving' (Pemecahan Masalah) bertujuan untuk...",
+      "options": [
+        "Hanya berbagi informasi rutin",
+        "Mengidentifikasi masalah, menganalisis penyebab, dan mencari solusi bersama",
+        "Merayakan keberhasilan tim",
+        "Memperkenalkan karyawan baru"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rapat ini fokus pada analisis masalah dan penemuan solusi[cite: 38].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q17",
+      "question": "Salah satu kesalahan umum dalam pembuatan slide presentasi adalah 'Death by PowerPoint', yang berarti...",
+      "options": [
+        "Presentasi yang terlalu pendek",
+        "Presentasi yang membosankan karena terlalu banyak teks (text-heavy) dan presenter hanya membacanya",
+        "PowerPoint yang rusak",
+        "Presentasi tanpa slide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Istilah ini merujuk pada kebosanan audiens akibat slide yang penuh teks dan presenter yang monoton membacanya[cite: 36].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q18",
+      "question": "Persiapan mental sebelum wawancara kerja meliputi...",
+      "options": [
+        "Menghapal jawaban bohong",
+        "Membangun kepercayaan diri, berpikir positif, dan meriset perusahaan",
+        "Tidur seharian",
+        "Makan sebanyak-banyaknya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Persiapan mental dan riset perusahaan adalah kunci sukses wawancara[cite: 42].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m9_q19",
+      "question": "Metode penyampaian presentasi 'Extemporaneous' adalah...",
+      "options": [
+        "Membaca naskah kata per kata",
+        "Menghapal seluruh pidato",
+        "Berbicara spontan tanpa persiapan sama sekali",
+        "Berbicara dengan persiapan matang menggunakan catatan poin penting (outline) namun disampaikan secara natural"
+      ],
+      "correctIndex": 3,
+      "explanation": "Extemporaneous adalah metode presentasi yang disiapkan dan dilatih menggunakan outline, namun kata-katanya spontan saat penyampaian[cite: 33].",
+      "difficulty": "hard"
+    },
+    {
+      "id": "m9_q20",
+      "question": "Dalam rapat virtual (online meeting), etika yang penting diperhatikan adalah...",
+      "options": [
+        "Mematikan kamera sepanjang waktu tanpa alasan",
+        "Berbicara bersamaan dengan orang lain",
+        "Mute mikrofon saat tidak berbicara untuk mengurangi kebisingan latar",
+        "Makan dengan suara keras di depan kamera"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mute mikrofon saat tidak bicara adalah etika dasar rapat virtual untuk menjaga kualitas audio[cite: 39].",
+      "difficulty": "easy"
+    },
+    {
+      "id": "m9_q21",
+      "question": "Pertanyaan wawancara 'Ceritakan tentang diri Anda' sebaiknya dijawab dengan...",
+      "options": [
+        "Menceritakan riwayat hidup dari lahir sampai sekarang",
+        "Menceritakan hobi dan makanan favorit",
+        "Memberikan ringkasan profesional tentang kualifikasi, pengalaman, dan keahlian yang relevan dengan pekerjaan",
+        "Menolak menjawab karena privasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jawaban harus relevan dengan konteks profesional dan posisi yang dilamar[cite: 42].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q22",
+      "question": "Fungsi 'Follow-up' setelah rapat adalah...",
+      "options": [
+        "Melupakan apa yang dibahas",
+        "Memastikan rencana tindakan (action plan) dilaksanakan sesuai kesepakatan",
+        "Mengadakan rapat baru dengan topik berbeda",
+        "Menyalahkan peserta yang tidak hadir"
+      ],
+      "correctIndex": 1,
+      "explanation": "Follow-up memastikan keputusan rapat diimplementasikan[cite: 40].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q23",
+      "question": "Jenis presentasi 'Impromptu' adalah...",
+      "options": [
+        "Presentasi dengan naskah lengkap",
+        "Presentasi mendadak tanpa persiapan sebelumnya",
+        "Presentasi dengan slide profesional",
+        "Presentasi tim"
+      ],
+      "correctIndex": 1,
+      "explanation": "Impromptu adalah presentasi yang dilakukan secara spontan tanpa persiapan[cite: 33].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q24",
+      "question": "Wawancara 'Panel' melibatkan...",
+      "options": [
+        "Satu pewawancara dan satu kandidat",
+        "Satu pewawancara dan banyak kandidat",
+        "Beberapa pewawancara sekaligus mewawancarai satu kandidat",
+        "Wawancara lewat telepon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wawancara panel melibatkan tim pewawancara untuk menilai kandidat dari berbagai perspektif[cite: 41].",
+      "difficulty": "medium"
+    },
+    {
+      "id": "m9_q25",
+      "question": "Salah satu teknik menutup presentasi yang berkesan adalah...",
+      "options": [
+        "Langsung turun panggung",
+        "Berkata 'Saya kira itu saja, terima kasih'",
+        "Menyampaikan ringkasan poin utama dan pernyataan penutup (closing statement) yang kuat atau kutipan inspiratif",
+        "Meminta maaf atas kekurangan presentasi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Penutup yang kuat merangkum pesan utama dan meninggalkan kesan mendalam[cite: 34].",
+      "difficulty": "medium"
+    }
+  ]
+}
